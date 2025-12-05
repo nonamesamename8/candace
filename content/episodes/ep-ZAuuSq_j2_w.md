@@ -9,7 +9,7 @@ youtube_url: "https://www.youtube.com/watch?v=ZAuuSq_j2_w"
 
 **Published:** 2025-12-05 | [Watch on YouTube](https://www.youtube.com/watch?v=ZAuuSq_j2_w)
 
-**Stats:** 77 entities | 27 events | 37 claims
+**Stats:** 77 entities | 27 events | 0 claims
 
 ---
 
@@ -236,51 +236,6 @@ youtube_url: "https://www.youtube.com/watch?v=ZAuuSq_j2_w"
 | ⚠️ Mixed | Claim contains both accurate and inaccurate elements |
 | ❓ Unverifiable | Claim cannot be verified (no sources found, or inherently unverifiable) |
 | - | Not yet verified |
-
-</details>
-
-<details>
-<summary><strong>Claims</strong></summary>
-
-| Time | Type | Veracity | Claim |
-|------|------|----------|-------|
-| [00:00:20](/timestamps/ep-ZAuuSq_j2_w/t-00-00-00.md) | factual | - | Turning Point USA issued a midnight announcement setting a debate time and date ... |
-| [00:02:41](/timestamps/ep-ZAuuSq_j2_w/t-00-02-11.md) | factual | - | Does the DOD have any evidence at all of a French military plot to assassinate C... |
-| [00:03:30](/timestamps/ep-ZAuuSq_j2_w/t-00-03-07.md) | factual | - | Cam Higby is on the payroll of Turning Point USA beginning in August of this yea... |
-| [00:03:35](/timestamps/ep-ZAuuSq_j2_w/t-00-03-07.md) | factual | - | Turning Point USA is the organization whose leader was assassinated in broad day... |
-| [00:04:51](/timestamps/ep-ZAuuSq_j2_w/t-00-04-36.md) | factual | - | Blake Neff tweeted that a livestream response will be delivered on December 15th... |
-| [00:08:05](/timestamps/ep-ZAuuSq_j2_w/t-00-07-26.md) | factual | - | Blake Neff tweeted that because Candace would not be joining in person, Turning ... |
-| [00:10:47](/timestamps/ep-ZAuuSq_j2_w/t-00-10-11.md) | interpretive | - | I maintain that Turning Point USA is engaged in a cover up. |
-| [00:13:41](/timestamps/ep-ZAuuSq_j2_w/t-00-13-04.md) | factual | - | Two Egyptian military planes were involved around the Provo event: one with tail... |
-| [00:14:06](/timestamps/ep-ZAuuSq_j2_w/t-00-13-44.md) | factual | - | The 'yellow' Egyptian plane flew from Provo to Wilmington, Delaware on the morni... |
-| [00:14:42](/timestamps/ep-ZAuuSq_j2_w/t-00-14-25.md) | factual | - | One of the four individuals on the yellow plane traveled using the name 'Walid M... |
-| [00:15:12](/timestamps/ep-ZAuuSq_j2_w/t-00-15-09.md) | factual | - | Walid Mahmood had been in Provo on May 27th aboard another Egyptian military pla... |
-| [00:16:12](/timestamps/ep-ZAuuSq_j2_w/t-00-15-51.md) | factual | - | The SU-BTU flight departed on June 2nd and was not transponding (no FlightRadar ... |
-| [00:16:49](/timestamps/ep-ZAuuSq_j2_w/t-00-16-27.md) | factual | - | An Egyptian government/Project Constitution post confirms Egyptian President el-... |
-| [00:17:47](/timestamps/ep-ZAuuSq_j2_w/t-00-17-12.md) | factual | - | President el-Sisi was photographed in Egypt on September 10th and during the wee... |
-| [00:18:13](/timestamps/ep-ZAuuSq_j2_w/t-00-17-47.md) | interpretive | - | Walid Mahmood is not the president of Egypt but is almost certainly well-acquain... |
-| [00:18:39](/timestamps/ep-ZAuuSq_j2_w/t-00-18-21.md) | factual | - | This person (using the name Walid Mahmoud) is going to be well-acquainted with t... |
-| [00:19:12](/timestamps/ep-ZAuuSq_j2_w/t-00-19-06.md) | factual | - | Charlie Kirk was assassinated / murdered. |
-| [00:19:33](/timestamps/ep-ZAuuSq_j2_w/t-00-19-06.md) | interpretive | - | Officials (including the Pentagon) 'cannot answer a single question' about Charl... |
-| [00:22:24](/timestamps/ep-ZAuuSq_j2_w/t-00-21-55.md) | factual | - | Dose's clinical results showed lowering liver enzyme levels by 50% in most of th... |
-| [00:23:31](/timestamps/ep-ZAuuSq_j2_w/t-00-23-09.md) | interpretive | - | We do not believe the official narrative. |
-| [00:23:59](/timestamps/ep-ZAuuSq_j2_w/t-00-23-48.md) | interpretive | - | This was some sort of a PR maneuver — Turning Point USA sent out Cam Higby as pa... |
-| [00:24:15](/timestamps/ep-ZAuuSq_j2_w/t-00-23-48.md) | factual | - | The country of France tried to assassinate me. |
-| [00:24:47](/timestamps/ep-ZAuuSq_j2_w/t-00-24-28.md) | factual | - | Neither the White House, the Élysée Palace, nor the United States Pentagon has f... |
-| [00:28:05](/timestamps/ep-ZAuuSq_j2_w/t-00-27-46.md) | factual | - | The night before Charlie was murdered, Charlie told Frank Turek that 'Blake is m... |
-| [00:29:42](/timestamps/ep-ZAuuSq_j2_w/t-00-29-09.md) | factual | - | Charlie texted people that he thought they were going to kill him. |
-| [00:30:44](/timestamps/ep-ZAuuSq_j2_w/t-00-30-34.md) | factual | - | A very high percentage of murders are committed by somebody the victim knows — '... |
-| [00:32:38](/timestamps/ep-ZAuuSq_j2_w/t-00-32-04.md) | prediction | - | Because of Candace Owens' statements, 'we're gonna lose the midterms' and subseq... |
-| [00:34:33](/timestamps/ep-ZAuuSq_j2_w/t-00-34-25.md) | factual | - | Donald Trump, 'who's the president of the United States,' looked us in the face ... |
-| [00:37:00](/timestamps/ep-ZAuuSq_j2_w/t-00-36-37.md) | factual | - | "Most Americans are putting these expenses on credit cards and credit card rates... |
-| [00:37:19](/timestamps/ep-ZAuuSq_j2_w/t-00-36-37.md) | factual | - | "Their customers are saving an average of $800 a month" (referring to American F... |
-| [00:39:15](/timestamps/ep-ZAuuSq_j2_w/t-00-38-42.md) | factual | - | "They are working with the feds to kind of bury the Charlie Kirk story." |
-| [00:39:29](/timestamps/ep-ZAuuSq_j2_w/t-00-39-23.md) | interpretive | - | "He wanted to take over for the RNC with youth and a commitment to truth." (refe... |
-| [00:42:40](/timestamps/ep-ZAuuSq_j2_w/t-00-42-17.md) | prediction | - | "I have proof now that Tim Pool uses bots. Receipts dropping in the next few wee... |
-| [00:43:10](/timestamps/ep-ZAuuSq_j2_w/t-00-42-58.md) | factual | - | "Cam Higby giggling like a little girl, a school girl, on the payroll of Turning... |
-| [00:49:20](/timestamps/ep-ZAuuSq_j2_w/t-00-48-37.md) | factual | - | "French and Israel were colluding and killed CK." (reader comment quoted on the ... |
-| [00:51:03](/timestamps/ep-ZAuuSq_j2_w/t-00-50-48.md) | factual | - | "The left was on it with Big Pharma long before the right was in on it." |
-| [00:51:45](/timestamps/ep-ZAuuSq_j2_w/t-00-51-31.md) | factual | - | "We just somehow can't stop bombing innocents in their countries." (claiming U.S... |
 
 </details>
 

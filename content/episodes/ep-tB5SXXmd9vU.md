@@ -9,7 +9,7 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 
 **Published:** 2025-12-01 | [Watch on YouTube](https://www.youtube.com/watch?v=tB5SXXmd9vU)
 
-**Stats:** 147 entities | 40 events | 69 claims
+**Stats:** 147 entities | 40 events | 0 claims
 
 ---
 
@@ -229,83 +229,6 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 | ⚠️ Mixed | Claim contains both accurate and inaccurate elements |
 | ❓ Unverifiable | Claim cannot be verified (no sources found, or inherently unverifiable) |
 | - | Not yet verified |
-
-</details>
-
-<details>
-<summary><strong>Claims</strong></summary>
-
-| Time | Type | Veracity | Claim |
-|------|------|----------|-------|
-| [00:01:12](/timestamps/ep-tB5SXXmd9vU/t-00-00-57.md) | factual | - | France apparently paid for my assassination and the French Foreign Legion was ap... |
-| [00:03:02](/timestamps/ep-tB5SXXmd9vU/t-00-02-25.md) | factual | - | Two days ago, I was contacted by a high‑ranking employee of the French governmen... |
-| [00:03:17](/timestamps/ep-tB5SXXmd9vU/t-00-03-07.md) | factual | - | The Macrons have executed upon and paid for my assassination (they authorized an... |
-| [00:03:25](/timestamps/ep-tB5SXXmd9vU/t-00-03-07.md) | factual | - | The green light was given to a small team in the National Gendarmerie Interventi... |
-| [00:03:33](/timestamps/ep-tB5SXXmd9vU/t-00-03-07.md) | factual | - | There is one Israeli operative on the assassination squad. |
-| [00:03:55](/timestamps/ep-tB5SXXmd9vU/t-00-03-45.md) | factual | - | Charlie Kirk's assassin trained with the French Legion 13th Brigade with multi‑s... |
-| [00:03:58](/timestamps/ep-tB5SXXmd9vU/t-00-03-45.md) | factual | - | Journalist Xavier Poussard's life is also at risk. |
-| [00:04:32](/timestamps/ep-tB5SXXmd9vU/t-00-04-29.md) | factual | - | There is a paper trail that Macron allegedly paid $1.5 million. |
-| [00:04:51](/timestamps/ep-tB5SXXmd9vU/t-00-04-29.md) | factual | - | Two assassins were hired: one Israeli and one French‑Canadian woman (a man and a... |
-| [00:05:05](/timestamps/ep-tB5SXXmd9vU/t-00-04-29.md) | factual | - | The money ran through the elite gentlemen's club des Saints. |
-| [00:06:11](/timestamps/ep-tB5SXXmd9vU/t-00-05-51.md) | factual | - | The tweet had over 100,000 retweets and 45 million impressions on X alone. |
-| [00:06:34](/timestamps/ep-tB5SXXmd9vU/t-00-05-51.md) | factual | - | The French couple hired a private investigator to look into me and paid for an i... |
-| [00:08:37](/timestamps/ep-tB5SXXmd9vU/t-00-08-00.md) | factual | - | A week after my announcement, the Élysée Palace issued no official response. |
-| [00:09:11](/timestamps/ep-tB5SXXmd9vU/t-00-08-40.md) | factual | - | I reported the information to the White House, the FBI, and a counter‑terrorism ... |
-| [00:10:22](/timestamps/ep-tB5SXXmd9vU/t-00-10-07.md) | interpretive | - | Anyone who knows anything about the French government probably knows that they h... |
-| [00:11:47](/timestamps/ep-tB5SXXmd9vU/t-00-11-17.md) | factual | - | The Safari Club was a covert alliance of intelligence services formed in 1976 th... |
-| [00:14:17](/timestamps/ep-tB5SXXmd9vU/t-00-14-00.md) | factual | - | I did not at all hear back from the FBI (the FBI left me on read; Utah's FBI bra... |
-| [00:14:22](/timestamps/ep-tB5SXXmd9vU/t-00-14-00.md) | factual | - | The White House confirmed that the message had been delivered to Trump's desk (T... |
-| [00:15:59](/timestamps/ep-tB5SXXmd9vU/t-00-15-25.md) | factual | - | According to the French Foreign Legion website, between August 2 and August 25 t... |
-| [00:16:36](/timestamps/ep-tB5SXXmd9vU/t-00-16-09.md) | factual | - | After that training ended, a joint exercise with civilians (including military m... |
-| [00:17:47](/timestamps/ep-tB5SXXmd9vU/t-00-17-33.md) | factual | - | The French Minister of the Armed Forces issued a statement: 'Tyler Robinson was ... |
-| [00:18:27](/timestamps/ep-tB5SXXmd9vU/t-00-18-18.md) | factual | - | French Legionnaires might have been on the ground during Charlie Kirk's assassin... |
-| [00:20:07](/timestamps/ep-tB5SXXmd9vU/t-00-19-45.md) | factual | - | "The Ministry of the Armed Forces confirms that a training exercise by the 2nd F... |
-| [00:20:36](/timestamps/ep-tB5SXXmd9vU/t-00-20-29.md) | factual | - | "The Ministry of the Armed Forces formally denies that another Foreign Legion tr... |
-| [00:22:00](/timestamps/ep-tB5SXXmd9vU/t-00-21-46.md) | factual | - | A joint military operation known as Operation Bright Star ran from August 29th t... |
-| [00:22:43](/timestamps/ep-tB5SXXmd9vU/t-00-22-30.md) | factual | - | The French Foreign Legion "gutted and replaced about half of their leadership in... |
-| [00:23:42](/timestamps/ep-tB5SXXmd9vU/t-00-23-12.md) | factual | - | The Egyptian plane SU-BTT departed Provo the morning of Charlie Kirk's assassina... |
-| [00:24:24](/timestamps/ep-tB5SXXmd9vU/t-00-23-42.md) | factual | - | A foreign dignitary was escorted from that Wilmington hangar to 920 North King S... |
-| [00:24:46](/timestamps/ep-tB5SXXmd9vU/t-00-24-24.md) | factual | - | The attorneys filing my paperwork in the Brigitte lawsuit are in a firm across t... |
-| [00:31:20](/timestamps/ep-tB5SXXmd9vU/t-00-31-13.md) | factual | - | 500 North Delaware Avenue (a few blocks away) "is also somehow owned by France" ... |
-| [00:33:10](/timestamps/ep-tB5SXXmd9vU/t-00-32-32.md) | factual | - | The Bracebridge Complex at 1100 North King Street (over 1 million sq ft) is owne... |
-| [00:33:45](/timestamps/ep-tB5SXXmd9vU/t-00-33-10.md) | factual | - | Hervé Hoppenot was the longtime CEO of Incyte, is a French national, switched ro... |
-| [00:34:23](/timestamps/ep-tB5SXXmd9vU/t-00-33-53.md) | factual | - | Incyte is plugged into federal medical supply chains, including VA systems that ... |
-| [00:35:14](/timestamps/ep-tB5SXXmd9vU/t-00-34-38.md) | factual | - | She received a call from the federal government asking her to stop speaking abou... |
-| [00:36:20](/timestamps/ep-tB5SXXmd9vU/t-00-36-03.md) | interpretive | - | She believes she was "set up by the federal government" in terms of the lawsuit ... |
-| [00:37:32](/timestamps/ep-tB5SXXmd9vU/t-00-37-15.md) | interpretive | - | She is "pretty convinced that Brigitte Macron has been involved... in military f... |
-| [00:38:00](/timestamps/ep-tB5SXXmd9vU/t-00-37-15.md) | factual | - | The second-largest shareholder of Satis is an Israeli firm based in Tel Aviv cal... |
-| [00:39:34](/timestamps/ep-tB5SXXmd9vU/t-00-39-28.md) | factual | - | Brigitte Macron opened Paris Design Week on, I believe, September 4th. |
-| [00:39:58](/timestamps/ep-tB5SXXmd9vU/t-00-39-28.md) | factual | - | Brigitte Macron was photographed on 9/4 with Zelensky and later photographed wit... |
-| [00:40:24](/timestamps/ep-tB5SXXmd9vU/t-00-40-05.md) | factual | - | After that photograph, Brigitte Macron 'falls off a cliff'—she's gone for six da... |
-| [00:41:05](/timestamps/ep-tB5SXXmd9vU/t-00-40-44.md) | factual | - | Wilmington, Delaware is the hub for MKUltra. |
-| [00:41:10](/timestamps/ep-tB5SXXmd9vU/t-00-40-44.md) | interpretive | - | Wilmington, Delaware is the hub for transgenderism in America. |
-| [00:41:20](/timestamps/ep-tB5SXXmd9vU/t-00-40-44.md) | factual | - | Our first ever trans congressman is from Wilmington, Delaware's congressional di... |
-| [00:41:51](/timestamps/ep-tB5SXXmd9vU/t-00-41-23.md) | factual | - | Preborn's clinics 'rescue hundreds of babies' every day; when a mother sees her ... |
-| [00:42:35](/timestamps/ep-tB5SXXmd9vU/t-00-42-03.md) | factual | - | Fatty15/C15 is 'the first emerging essential fatty acid to be discovered in more... |
-| [00:44:02](/timestamps/ep-tB5SXXmd9vU/t-00-43-28.md) | factual | - | Multiple Wilmington institutions perform or promote transgender-related services... |
-| [00:45:22](/timestamps/ep-tB5SXXmd9vU/t-00-44-51.md) | factual | - | I started a poll asking whether the federal government worked behind the scenes ... |
-| [00:47:39](/timestamps/ep-tB5SXXmd9vU/t-00-46-56.md) | interpretive | - | Candace Owens 'has burned every bridge she's ever been associated with' — naming... |
-| [00:49:04](/timestamps/ep-tB5SXXmd9vU/t-00-48-53.md) | factual | - | Charlie Kirk just got shot in the neck. |
-| [00:51:10](/timestamps/ep-tB5SXXmd9vU/t-00-50-56.md) | factual | - | Eric Bolling sent me an email apologizing and saying it was Adam's fault; he apo... |
-| [00:54:23](/timestamps/ep-tB5SXXmd9vU/t-00-53-46.md) | factual | - | 24,856 people voted in the poll and 93% responded 'yes' to the question about th... |
-| [00:54:44](/timestamps/ep-tB5SXXmd9vU/t-00-54-28.md) | interpretive | - | The Delaware lawsuit is a consequence of my discussing a multinational state sec... |
-| [00:55:04](/timestamps/ep-tB5SXXmd9vU/t-00-54-28.md) | interpretive | - | I believe there's another identity for Brigitte in the 1980s before he emerges a... |
-| [00:55:34](/timestamps/ep-tB5SXXmd9vU/t-00-55-11.md) | factual | - | Andrew Colvett called me from the hospital and told me that 'you and Tucker shou... |
-| [00:56:02](/timestamps/ep-tB5SXXmd9vU/t-00-55-54.md) | interpretive | - | It feels 'almost like' Tucker Carlson and I were being threatened by the United ... |
-| [00:56:53](/timestamps/ep-tB5SXXmd9vU/t-00-56-36.md) | factual | - | You went onto a podcast, you lied about a relationship with Charlie (Charlie Kir... |
-| [00:57:23](/timestamps/ep-tB5SXXmd9vU/t-00-57-16.md) | interpretive | - | Alex on the PBD podcast's only mission is to defend Zionism and to attack people... |
-| [00:58:05](/timestamps/ep-tB5SXXmd9vU/t-00-57-59.md) | interpretive | - | They chose to publicly execute Charlie (Charlie Kirk) and then to dare us to que... |
-| [00:59:06](/timestamps/ep-tB5SXXmd9vU/t-00-58-43.md) | factual | - | UVU students didn't recognize anybody, which indicates we might be looking at mi... |
-| [00:59:13](/timestamps/ep-tB5SXXmd9vU/t-00-58-43.md) | factual | - | From the information that I am getting, I think there were some National Guard r... |
-| [00:59:44](/timestamps/ep-tB5SXXmd9vU/t-00-59-13.md) | interpretive | - | I think Brigitte overplayed his hand. |
-| [00:59:46](/timestamps/ep-tB5SXXmd9vU/t-00-59-13.md) | factual | - | The evidence is pointing to the fact that Jean-Michel Trogneux is from a very po... |
-| [00:59:55](/timestamps/ep-tB5SXXmd9vU/t-00-59-13.md) | factual | - | The Trogneux backstory (that they were continuous chocolatiers from the 1880s to... |
-| [01:00:12](/timestamps/ep-tB5SXXmd9vU/t-00-59-56.md) | interpretive | - | This seems to be an identity that was created and the true family is a very powe... |
-| [01:00:31](/timestamps/ep-tB5SXXmd9vU/t-00-59-56.md) | factual | - | The whole world knows this is a dude — they are pretending it's a woman and are ... |
-| [01:00:56](/timestamps/ep-tB5SXXmd9vU/t-01-00-34.md) | promise | - | If the federal government is going to bankrupt us for telling the truth, then I'... |
-| [01:01:05](/timestamps/ep-tB5SXXmd9vU/t-01-00-34.md) | interpretive | - | Even this lawsuit is exposing every layer of corruption that exists. |
-| [01:01:15](/timestamps/ep-tB5SXXmd9vU/t-01-00-34.md) | interpretive | - | When you don't commit any crimes, when you do the right thing and find someone t... |
-| [01:01:32](/timestamps/ep-tB5SXXmd9vU/t-01-01-15.md) | interpretive | - | I think the entire world is waking up to that right now. |
 
 </details>
 

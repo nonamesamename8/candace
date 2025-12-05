@@ -9,7 +9,7 @@ youtube_url: "https://www.youtube.com/watch?v=a-e7HC6SeK8"
 
 **Published:** 2025-12-02 | [Watch on YouTube](https://www.youtube.com/watch?v=a-e7HC6SeK8)
 
-**Stats:** 126 entities | 46 events | 75 claims
+**Stats:** 126 entities | 46 events | 0 claims
 
 ---
 
@@ -213,89 +213,6 @@ youtube_url: "https://www.youtube.com/watch?v=a-e7HC6SeK8"
 | ⚠️ Mixed | Claim contains both accurate and inaccurate elements |
 | ❓ Unverifiable | Claim cannot be verified (no sources found, or inherently unverifiable) |
 | - | Not yet verified |
-
-</details>
-
-<details>
-<summary><strong>Claims</strong></summary>
-
-| Time | Type | Veracity | Claim |
-|------|------|----------|-------|
-| [00:00:29](/timestamps/ep-a-e7HC6SeK8/t-00-00-00.md) | factual | - | "Our FBI was founded by the French" (later specified as founded by Charles Josep... |
-| [00:02:08](/timestamps/ep-a-e7HC6SeK8/t-00-01-30.md) | factual | - | Comment read: "The purpose of Macron's lawsuit was that it was supposed to go no... |
-| [00:04:29](/timestamps/ep-a-e7HC6SeK8/t-00-04-18.md) | factual | - | "Did you know that our FBI was founded by Charles Joseph Bonaparte? ... His gran... |
-| [00:06:06](/timestamps/ep-a-e7HC6SeK8/t-00-05-38.md) | factual | - | "Eric Dupond-Moretti ... was kind of known and had made a name for himself makin... |
-| [00:06:49](/timestamps/ep-a-e7HC6SeK8/t-00-06-21.md) | factual | - | "DuPont heir gets no prison time for raping three-year-old daughter" — Robert Ri... |
-| [00:09:01](/timestamps/ep-a-e7HC6SeK8/t-00-08-27.md) | factual | - | "The founding partner of the firm filing paperwork for me (Richards, Layton & Fi... |
-| [00:10:13](/timestamps/ep-a-e7HC6SeK8/t-00-09-45.md) | factual | - | "John DuPont shot Olympic wrestler David Schultz dead in the driveway of the fam... |
-| [00:10:20](/timestamps/ep-a-e7HC6SeK8/t-00-09-45.md) | factual | - | "Two years later, the decomposing body of a Las Vegas prostitute was found... Sh... |
-| [00:11:27](/timestamps/ep-a-e7HC6SeK8/t-00-11-12.md) | interpretive | - | "There was this plot to murder me." |
-| [00:11:48](/timestamps/ep-a-e7HC6SeK8/t-00-11-12.md) | factual | - | "We've got an FBI suite in this building that's actually owned by the Wilmington... |
-| [00:12:04](/timestamps/ep-a-e7HC6SeK8/t-00-11-53.md) | factual | - | "Brigitte's lawyers [are] at 919 North Market Street" (Wilmington). |
-| [00:12:08](/timestamps/ep-a-e7HC6SeK8/t-00-11-53.md) | factual | - | "Also in that building happens to be Stacey Sheridan's registered agent" (implic... |
-| [00:12:24](/timestamps/ep-a-e7HC6SeK8/t-00-11-53.md) | factual | - | "There's a red crane at 1100 North King Street, Bridge Complex, which is suppose... |
-| [00:13:12](/timestamps/ep-a-e7HC6SeK8/t-00-12-37.md) | factual | - | "Stacey Sheridan has a few LLCs which she was getting paid through; one is Clove... |
-| [00:13:33](/timestamps/ep-a-e7HC6SeK8/t-00-13-20.md) | factual | - | "Tyler Boyer ... was pardoned by Donald Trump a couple of weeks ago." |
-| [00:14:17](/timestamps/ep-a-e7HC6SeK8/t-00-14-05.md) | factual | - | "Stacey Sheridan is the one that was filming [Charlie Kirk's casket]... She's eu... |
-| [00:15:10](/timestamps/ep-a-e7HC6SeK8/t-00-14-43.md) | factual | - | "We tracked Egyptian yellow planes: the plane flew to Lincoln, Nebraska; two day... |
-| [00:16:27](/timestamps/ep-a-e7HC6SeK8/t-00-16-11.md) | factual | - | "On July 11 Tucker Carlson gave that speech at Turning Point USA's conference ca... |
-| [00:16:31](/timestamps/ep-a-e7HC6SeK8/t-00-16-11.md) | factual | - | "Tucker Carlson told me he had no plan to say those things — 'it just came out o... |
-| [00:18:06](/timestamps/ep-a-e7HC6SeK8/t-00-17-39.md) | factual | - | "There was some private off-record meeting [in Nebraska] with Secretary of State... |
-| [00:18:52](/timestamps/ep-a-e7HC6SeK8/t-00-18-23.md) | factual | - | "Around this same time Charlie vacated to Maine for a couple of weeks with his f... |
-| [00:19:12](/timestamps/ep-a-e7HC6SeK8/t-00-19-05.md) | factual | - | "On July 25th, Charlie speaks in Westchester, New York." |
-| [00:19:16](/timestamps/ep-a-e7HC6SeK8/t-00-19-05.md) | factual | - | "YieldiFi comes in as the number one sponsor of the Charlie Kirk fall tour (end ... |
-| [00:20:47](/timestamps/ep-a-e7HC6SeK8/t-00-20-28.md) | factual | - | "In very early August, Turning Point was scouting that location and specifically... |
-| [00:21:28](/timestamps/ep-a-e7HC6SeK8/t-00-21-13.md) | factual | - | "August 2nd is when we have our French Legionnaires arriving in America for a th... |
-| [00:21:40](/timestamps/ep-a-e7HC6SeK8/t-00-21-13.md) | factual | - | "A couple of days later, we have that Hamptons retreat, which Charlie Kirk himse... |
-| [00:21:56](/timestamps/ep-a-e7HC6SeK8/t-00-21-13.md) | factual | - | "Influencers who were there said that he was being pressed on his shifting viewp... |
-| [00:22:11](/timestamps/ep-a-e7HC6SeK8/t-00-21-56.md) | factual | - | "Benjamin Netanyahu calling Charlie (Charlie Kirk) and offering to take Turning ... |
-| [00:23:03](/timestamps/ep-a-e7HC6SeK8/t-00-22-38.md) | factual | - | "Charlie declined that offer." |
-| [00:23:23](/timestamps/ep-a-e7HC6SeK8/t-00-22-38.md) | factual | - | "Almost immediately, 10 days later, our planes come back out and they're flying ... |
-| [00:23:57](/timestamps/ep-a-e7HC6SeK8/t-00-23-23.md) | factual | - | "On August 24th–27th, Operation Valhalla takes place between civilians and milit... |
-| [00:24:16](/timestamps/ep-a-e7HC6SeK8/t-00-24-09.md) | factual | - | "August 27th... TPUSA, UVU, and a local BYU chapter share a graphic announcing t... |
-| [00:24:29](/timestamps/ep-a-e7HC6SeK8/t-00-24-09.md) | factual | - | "On the 29th, we have Operation Bright Star, which commences... being reported t... |
-| [00:24:50](/timestamps/ep-a-e7HC6SeK8/t-00-24-09.md) | factual | - | "On September 2nd, Charlie sends out the email asking for a DOJ audit of his com... |
-| [00:24:56](/timestamps/ep-a-e7HC6SeK8/t-00-24-50.md) | factual | - | "He announces that Justin Strife is going to be the new COO, taking over for Tyl... |
-| [00:25:24](/timestamps/ep-a-e7HC6SeK8/t-00-24-50.md) | factual | - | "Charlie is in Korea for a couple of days. He comes back on September 10th, and ... |
-| [00:25:47](/timestamps/ep-a-e7HC6SeK8/t-00-25-29.md) | interpretive | - | "I'm wondering if Charlie put together the DOJ account... something he maybe lea... |
-| [00:27:29](/timestamps/ep-a-e7HC6SeK8/t-00-26-49.md) | factual | - | "Allegedly, six people at Turning Point USA said Justin had placed an immediate ... |
-| [00:28:30](/timestamps/ep-a-e7HC6SeK8/t-00-28-13.md) | factual | - | "That donor actually had a pretty big piece of bait on the hook for Turning Poin... |
-| [00:28:59](/timestamps/ep-a-e7HC6SeK8/t-00-28-45.md) | factual | - | "Turning Point USA raised $90 million in the first couple of weeks following Cha... |
-| [00:30:22](/timestamps/ep-a-e7HC6SeK8/t-00-30-00.md) | factual | - | "My sources told me that this donor was French American and that this donor's na... |
-| [00:33:35](/timestamps/ep-a-e7HC6SeK8/t-00-33-24.md) | factual | - | "A very close family friend of Andrew Colvett messaged me that they felt Andrew ... |
-| [00:34:35](/timestamps/ep-a-e7HC6SeK8/t-00-34-06.md) | interpretive | - | "Obviously, it wouldn't be on this year's taxes... you're not going to find thos... |
-| [00:37:26](/timestamps/ep-a-e7HC6SeK8/t-00-36-55.md) | factual | - | "I received an interesting tip from a fed that Turning Point USA put in a person... |
-| [00:38:12](/timestamps/ep-a-e7HC6SeK8/t-00-37-38.md) | factual | - | "Charlie told me he was betrayed." |
-| [00:42:09](/timestamps/ep-a-e7HC6SeK8/t-00-41-44.md) | factual | - | "Charlie knew he was going to die young" (she says Charlie had foreseen his own ... |
-| [00:42:41](/timestamps/ep-a-e7HC6SeK8/t-00-42-29.md) | factual | - | "This won't result in anything... in our lifetime, we will experience real war b... |
-| [00:43:12](/timestamps/ep-a-e7HC6SeK8/t-00-42-29.md) | factual | - | "The United States and France were carrying out a series of military strikes... ... |
-| [00:43:53](/timestamps/ep-a-e7HC6SeK8/t-00-43-12.md) | interpretive | - | "If Assad was telling the truth... then the West and the United States were impl... |
-| [00:44:03](/timestamps/ep-a-e7HC6SeK8/t-00-43-56.md) | interpretive | - | "The West does a lot of false flag attacks... get the media going, we have to re... |
-| [00:45:09](/timestamps/ep-a-e7HC6SeK8/t-00-44-40.md) | interpretive | - | She has "a sense of dread" that "inexplicable events like the Malibu fires, sort... |
-| [00:45:25](/timestamps/ep-a-e7HC6SeK8/t-00-44-40.md) | interpretive | - | "I have a feeling... that the Fed is taking, taking from Americans right now" (c... |
-| [00:45:37](/timestamps/ep-a-e7HC6SeK8/t-00-45-25.md) | prediction | - | "We are headed toward war... they want war by any means necessary" (assertion th... |
-| [00:46:13](/timestamps/ep-a-e7HC6SeK8/t-00-46-06.md) | interpretive | - | "Christians are mass slaughtered every single time... [and] Christians in the Ea... |
-| [00:46:39](/timestamps/ep-a-e7HC6SeK8/t-00-46-06.md) | interpretive | - | "Wars are planned in boardrooms... they're gonna send you and your children and ... |
-| [00:47:13](/timestamps/ep-a-e7HC6SeK8/t-00-46-48.md) | factual | - | "Turning Point might potentially now be becoming a real estate empire" — TPUSA a... |
-| [00:48:43](/timestamps/ep-a-e7HC6SeK8/t-00-48-38.md) | interpretive | - | "A real estate empire could be on the brink for Turning Point USA" (claim that T... |
-| [00:49:56](/timestamps/ep-a-e7HC6SeK8/t-00-49-20.md) | factual | - | "The FBI has been warning homeowners about this type of real estate fraud that's... |
-| [00:50:05](/timestamps/ep-a-e7HC6SeK8/t-00-50-01.md) | factual | - | Title theft can happen "with just a one-page document that has a forged signatur... |
-| [00:50:44](/timestamps/ep-a-e7HC6SeK8/t-00-50-01.md) | promise | - | Home Title Lock's U.S.-based restoration team "will spend up to $1 million to fi... |
-| [00:51:03](/timestamps/ep-a-e7HC6SeK8/t-00-50-44.md) | interpretive | - | "When you wake up to the scam of everything... We're going to destroy you or we'... |
-| [00:52:00](/timestamps/ep-a-e7HC6SeK8/t-00-51-29.md) | factual | - | "My book, Make Him a Sandwich, is now available on Amazon" (she states the book ... |
-| [00:52:34](/timestamps/ep-a-e7HC6SeK8/t-00-52-13.md) | interpretive | - | She asserts "Bolsheviks are here in America... They have woven themselves quietl... |
-| [00:53:19](/timestamps/ep-a-e7HC6SeK8/t-00-52-57.md) | interpretive | - | "He knew he was going to die... he had to take that option so that people would ... |
-| [00:54:03](/timestamps/ep-a-e7HC6SeK8/t-00-53-36.md) | factual | - | "I am hopeful that Erica Kirk will issue a statement. I think in this new capaci... |
-| [00:55:15](/timestamps/ep-a-e7HC6SeK8/t-00-55-00.md) | factual | - | "In overplaying his hand, [they] publicly executing Charlie" (assertion that Cha... |
-| [00:55:50](/timestamps/ep-a-e7HC6SeK8/t-00-55-43.md) | factual | - | A huge donation was made by Laughing Cats Music World. |
-| [00:55:55](/timestamps/ep-a-e7HC6SeK8/t-00-55-43.md) | factual | - | The federal government is trying to bankrupt me a thousand different ways. |
-| [00:56:02](/timestamps/ep-a-e7HC6SeK8/t-00-55-43.md) | factual | - | Lawfare is one of the strategies — they (the government/others) keep you constan... |
-| [00:56:20](/timestamps/ep-a-e7HC6SeK8/t-00-55-43.md) | factual | - | A big part of my everyday was ripped from me when they killed Charlie. |
-| [00:56:37](/timestamps/ep-a-e7HC6SeK8/t-00-56-27.md) | factual | - | Turning Point (USA) hasn't given us any clear answers thus far and has produced ... |
-| [00:57:29](/timestamps/ep-a-e7HC6SeK8/t-00-57-13.md) | promise | - | I commit myself to truth and I am going to keep enduring these attacks and stand... |
-| [00:58:00](/timestamps/ep-a-e7HC6SeK8/t-00-57-57.md) | interpretive | - | That (older) generation was the last generation that had real values. |
-| [00:58:08](/timestamps/ep-a-e7HC6SeK8/t-00-57-57.md) | factual | - | Bibi said on camera that America would do anything for money. |
-| [00:58:33](/timestamps/ep-a-e7HC6SeK8/t-00-57-57.md) | factual | - | There are some good federal agents ('good feds') and an underground movement hap... |
 
 </details>
 
