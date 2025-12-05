@@ -215,7 +215,32 @@ youtube_url: "https://www.youtube.com/watch?v=ZAuuSq_j2_w"
 
 # Appendix: Knowledge Graph Data
 
-## Claims
+<details>
+<summary><strong>Legend</strong></summary>
+
+### Claim Types
+
+| Type | Description |
+|------|-------------|
+| factual | A claim about facts that can be verified through evidence. Note: 'factual' does not mean 'true'—it means the claim *asserts* something as fact. |
+| prediction | A claim about future events. Cannot be verified until the predicted time passes. |
+| promise | A commitment to do something. Verified by whether the action was taken. |
+| interpretive | An opinion or interpretation. These are subjective and not fact-checkable. |
+
+### Veracity Ratings
+
+| Rating | Meaning |
+|--------|---------|
+| ✅ True | Claim is supported by reliable evidence |
+| ❌ False | Claim is contradicted by reliable evidence |
+| ⚠️ Mixed | Claim contains both accurate and inaccurate elements |
+| ❓ Unverifiable | Claim cannot be verified (no sources found, or inherently unverifiable) |
+| - | Not yet verified |
+
+</details>
+
+<details>
+<summary><strong>Claims</strong></summary>
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
@@ -256,6 +281,8 @@ youtube_url: "https://www.youtube.com/watch?v=ZAuuSq_j2_w"
 | [00:49:20](/timestamps/ep-ZAuuSq_j2_w/t-00-48-37.md) | factual | - | "French and Israel were colluding and killed CK." (reader comment quoted on the ... |
 | [00:51:03](/timestamps/ep-ZAuuSq_j2_w/t-00-50-48.md) | factual | - | "The left was on it with Big Pharma long before the right was in on it." |
 | [00:51:45](/timestamps/ep-ZAuuSq_j2_w/t-00-51-31.md) | factual | - | "We just somehow can't stop bombing innocents in their countries." (claiming U.S... |
+
+</details>
 
 ## Timeline Events
 
@@ -302,24 +329,3 @@ youtube_url: "https://www.youtube.com/watch?v=ZAuuSq_j2_w"
 **People:** [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md), [Ace](/entities/person-ace.md), [Adam Sosnick](/entities/person-adam-sosnick.md), [Aesmar](/entities/person-aesmar.md), [Andrew Colvett](/entities/person-andrew-colvett.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Cam Higby](/entities/person-cam-higby.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Deb Skates](/entities/person-deb-skates.md), [Donald Trump](/entities/person-donald-trump.md), [Donna Barata](/entities/person-donna-barata.md), [Frank Turek](/entities/person-frank-turek.md), [George Floyd](/entities/person-george-floyd.md), [Greg Gutfeld](/entities/person-greg-gutfeld.md), [Jay-Z](/entities/person-jay-z.md), [Jerome](/entities/person-jerome.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Josh Hammer](/entities/person-josh-hammer.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Mohammed bin Salman](/entities/person-mohammed-bin-salman.md), [Noah](/entities/person-noah.md), [Sarah Zafrani](/entities/person-sarah-zafrani.md), [Skylar](/entities/person-skylar.md), [Tim Pool](/entities/person-tim-pool.md), [Tyler Boyer](/entities/person-tyler-boyer.md), [Walid Mahmood](/entities/person-walid-mahmood.md), [Yeshira Sanchez](/entities/person-yeshira-sanchez.md)
 
 **Work:** [A Shot in the Dark](/entities/work-a-shot-in-the-dark.md), [Make Him a Sandwich](/entities/work-make-him-a-sandwich.md), [The New Turning Point](/entities/work-the-new-turning-point.md)
-
-## Legend
-
-### Claim Types
-
-| Type | Description |
-|------|-------------|
-| factual | A claim about facts that can be verified through evidence. Note: 'factual' does not mean 'true'—it means the claim *asserts* something as fact. |
-| prediction | A claim about future events. Cannot be verified until the predicted time passes. |
-| promise | A commitment to do something. Verified by whether the action was taken. |
-| interpretive | An opinion or interpretation. These are subjective and not fact-checkable. |
-
-### Veracity Ratings
-
-| Rating | Meaning |
-|--------|---------|
-| ✅ True | Claim is supported by reliable evidence |
-| ❌ False | Claim is contradicted by reliable evidence |
-| ⚠️ Mixed | Claim contains both accurate and inaccurate elements |
-| ❓ Unverifiable | Claim cannot be verified (no sources found, or inherently unverifiable) |
-| - | Not yet verified |

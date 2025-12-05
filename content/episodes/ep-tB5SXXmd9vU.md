@@ -208,7 +208,32 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 
 # Appendix: Knowledge Graph Data
 
-## Claims
+<details>
+<summary><strong>Legend</strong></summary>
+
+### Claim Types
+
+| Type | Description |
+|------|-------------|
+| factual | A claim about facts that can be verified through evidence. Note: 'factual' does not mean 'true'—it means the claim *asserts* something as fact. |
+| prediction | A claim about future events. Cannot be verified until the predicted time passes. |
+| promise | A commitment to do something. Verified by whether the action was taken. |
+| interpretive | An opinion or interpretation. These are subjective and not fact-checkable. |
+
+### Veracity Ratings
+
+| Rating | Meaning |
+|--------|---------|
+| ✅ True | Claim is supported by reliable evidence |
+| ❌ False | Claim is contradicted by reliable evidence |
+| ⚠️ Mixed | Claim contains both accurate and inaccurate elements |
+| ❓ Unverifiable | Claim cannot be verified (no sources found, or inherently unverifiable) |
+| - | Not yet verified |
+
+</details>
+
+<details>
+<summary><strong>Claims</strong></summary>
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
@@ -282,6 +307,8 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 | [01:01:15](/timestamps/ep-tB5SXXmd9vU/t-01-00-34.md) | interpretive | - | When you don't commit any crimes, when you do the right thing and find someone t... |
 | [01:01:32](/timestamps/ep-tB5SXXmd9vU/t-01-01-15.md) | interpretive | - | I think the entire world is waking up to that right now. |
 
+</details>
+
 ## Timeline Events
 
 - **1940-05-20**: Reference to Nazi aerial bombardment and occupation of the city of Amiens during World War II.
@@ -340,24 +367,3 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 **People:** [6-7](/entities/person-6-7.md), [Adam Sosnick](/entities/person-adam-sosnick.md), [Alex](/entities/person-alex.md), [Andrew Colvett](/entities/person-andrew-colvett.md), [Andy Parish](/entities/person-andy-parish.md), [Blessed Butterfly Girl](/entities/person-blessed-butterfly-girl.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Eric Bolling](/entities/person-eric-bolling.md), [Fegliano](/entities/person-fegliano.md), [Freddie Ponton](/entities/person-freddie-ponton.md), [Genevieve](/entities/person-genevieve.md), [Hervé Hoppenot](/entities/person-herve-hoppenot.md), [Jean-Michel Trogneux](/entities/person-jean-michel-trogneux.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jesus](/entities/person-jesus.md), [Kanye West](/entities/person-kanye-west.md), [Mickey Shaw](/entities/person-mickey-shaw.md), [Miriam Deeds](/entities/person-miriam-deeds.md), [Nick](/entities/person-nick.md), [Patrick Bet-David](/entities/person-patrick-bet-david.md), [Pavel Durov](/entities/person-pavel-durov.md), [Pierre S. du Pont](/entities/person-pierre-s-du-pont.md), [Pierre Samuel du Pont de Nemours](/entities/person-pierre-samuel-du-pont-de-nemours.md), [Skylar](/entities/person-skylar.md), [Steven Crowder](/entities/person-steven-crowder.md), [T. Coleman du Pont](/entities/person-t-coleman-du-pont.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Volodymyr Zelensky](/entities/person-volodymyr-zelensky.md), [Xavier Poussard](/entities/person-xavier-poussard.md), [du Pont family](/entities/person-du-pont-family.md)
 
 **Work:** [2 Corinthians 3:17](/entities/work-2-corinthians-3-17.md), [All Falls Down](/entities/work-all-falls-down.md), [Becoming Brigitte](/entities/work-becoming-brigitte.md), [Jeremiah 17:8](/entities/work-jeremiah-17-8.md), [PBD podcast](/entities/work-pbd-podcast.md), [Past as Prologue: Safari Club Illuminates Candace Owens' Allegations](/entities/work-past-as-prologue-safari-club-illuminates-candace-owens-allegations.md), [Patrick Bet-David's podcast](/entities/work-patrick-bet-david-s-podcast.md)
-
-## Legend
-
-### Claim Types
-
-| Type | Description |
-|------|-------------|
-| factual | A claim about facts that can be verified through evidence. Note: 'factual' does not mean 'true'—it means the claim *asserts* something as fact. |
-| prediction | A claim about future events. Cannot be verified until the predicted time passes. |
-| promise | A commitment to do something. Verified by whether the action was taken. |
-| interpretive | An opinion or interpretation. These are subjective and not fact-checkable. |
-
-### Veracity Ratings
-
-| Rating | Meaning |
-|--------|---------|
-| ✅ True | Claim is supported by reliable evidence |
-| ❌ False | Claim is contradicted by reliable evidence |
-| ⚠️ Mixed | Claim contains both accurate and inaccurate elements |
-| ❓ Unverifiable | Claim cannot be verified (no sources found, or inherently unverifiable) |
-| - | Not yet verified |

@@ -192,7 +192,32 @@ youtube_url: "https://www.youtube.com/watch?v=a-e7HC6SeK8"
 
 # Appendix: Knowledge Graph Data
 
-## Claims
+<details>
+<summary><strong>Legend</strong></summary>
+
+### Claim Types
+
+| Type | Description |
+|------|-------------|
+| factual | A claim about facts that can be verified through evidence. Note: 'factual' does not mean 'true'—it means the claim *asserts* something as fact. |
+| prediction | A claim about future events. Cannot be verified until the predicted time passes. |
+| promise | A commitment to do something. Verified by whether the action was taken. |
+| interpretive | An opinion or interpretation. These are subjective and not fact-checkable. |
+
+### Veracity Ratings
+
+| Rating | Meaning |
+|--------|---------|
+| ✅ True | Claim is supported by reliable evidence |
+| ❌ False | Claim is contradicted by reliable evidence |
+| ⚠️ Mixed | Claim contains both accurate and inaccurate elements |
+| ❓ Unverifiable | Claim cannot be verified (no sources found, or inherently unverifiable) |
+| - | Not yet verified |
+
+</details>
+
+<details>
+<summary><strong>Claims</strong></summary>
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
@@ -272,6 +297,8 @@ youtube_url: "https://www.youtube.com/watch?v=a-e7HC6SeK8"
 | [00:58:08](/timestamps/ep-a-e7HC6SeK8/t-00-57-57.md) | factual | - | Bibi said on camera that America would do anything for money. |
 | [00:58:33](/timestamps/ep-a-e7HC6SeK8/t-00-57-57.md) | factual | - | There are some good federal agents ('good feds') and an underground movement hap... |
 
+</details>
+
 ## Timeline Events
 
 - **1775-04-19**: Reference to the American Revolution and the long French–American connection.
@@ -338,24 +365,3 @@ youtube_url: "https://www.youtube.com/watch?v=a-e7HC6SeK8"
 **People:** [Allie Stuckey](/entities/person-allie-stuckey.md), [Amir](/entities/person-amir.md), [Andrew Colvett](/entities/person-andrew-colvett.md), [Anton Daniels](/entities/person-anton-daniels.md), [Bashar al-Assad](/entities/person-bashar-al-assad.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Bob Evnen](/entities/person-bob-evnen.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charles Joseph Bonaparte](/entities/person-charles-joseph-bonaparte.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Christopher Mosley](/entities/person-christopher-mosley.md), [David Schultz](/entities/person-david-schultz.md), [Dominick Dunne](/entities/person-dominick-dunne.md), [Donald Trump](/entities/person-donald-trump.md), [Eliza](/entities/person-eliza.md), [Frank Turek](/entities/person-frank-turek.md), [George](/entities/person-george.md), [Irénée du Pont](/entities/person-irenee-du-pont.md), [Jan Jordan](/entities/person-jan-jordan.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [John DuPont](/entities/person-john-dupont.md), [Joy](/entities/person-joy.md), [Justin Strife](/entities/person-justin-strife.md), [Ken Burns](/entities/person-ken-burns.md), [Lila Rose](/entities/person-lila-rose.md), [Lisa Dean](/entities/person-lisa-dean.md), [Macy Crofts](/entities/person-macy-crofts.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Napoleon Bonaparte](/entities/person-napoleon-bonaparte.md), [Pierre du Pont](/entities/person-pierre-du-pont.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Robert H. Richards](/entities/person-robert-h-richards.md), [Robert Richards the Fourth](/entities/person-robert-richards-the-fourth.md), [Seven Sheets](/entities/person-seven-sheets.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Snowy](/entities/person-snowy.md), [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Boyer](/entities/person-tyler-boyer.md), [Yacra](/entities/person-yacra.md)
 
 **Work:** [Becoming Brigitte](/entities/work-becoming-brigitte.md), [Game of Thrones](/entities/work-game-of-thrones.md), [Make Him a Sandwich](/entities/work-make-him-a-sandwich.md), [The Matrix](/entities/work-the-matrix.md), [The Revolution](/entities/work-the-revolution.md)
-
-## Legend
-
-### Claim Types
-
-| Type | Description |
-|------|-------------|
-| factual | A claim about facts that can be verified through evidence. Note: 'factual' does not mean 'true'—it means the claim *asserts* something as fact. |
-| prediction | A claim about future events. Cannot be verified until the predicted time passes. |
-| promise | A commitment to do something. Verified by whether the action was taken. |
-| interpretive | An opinion or interpretation. These are subjective and not fact-checkable. |
-
-### Veracity Ratings
-
-| Rating | Meaning |
-|--------|---------|
-| ✅ True | Claim is supported by reliable evidence |
-| ❌ False | Claim is contradicted by reliable evidence |
-| ⚠️ Mixed | Claim contains both accurate and inaccurate elements |
-| ❓ Unverifiable | Claim cannot be verified (no sources found, or inherently unverifiable) |
-| - | Not yet verified |

@@ -412,7 +412,32 @@ youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
 
 # Appendix: Knowledge Graph Data
 
-## Claims
+<details>
+<summary><strong>Legend</strong></summary>
+
+### Claim Types
+
+| Type | Description |
+|------|-------------|
+| factual | A claim about facts that can be verified through evidence. Note: 'factual' does not mean 'true'—it means the claim *asserts* something as fact. |
+| prediction | A claim about future events. Cannot be verified until the predicted time passes. |
+| promise | A commitment to do something. Verified by whether the action was taken. |
+| interpretive | An opinion or interpretation. These are subjective and not fact-checkable. |
+
+### Veracity Ratings
+
+| Rating | Meaning |
+|--------|---------|
+| ✅ True | Claim is supported by reliable evidence |
+| ❌ False | Claim is contradicted by reliable evidence |
+| ⚠️ Mixed | Claim contains both accurate and inaccurate elements |
+| ❓ Unverifiable | Claim cannot be verified (no sources found, or inherently unverifiable) |
+| - | Not yet verified |
+
+</details>
+
+<details>
+<summary><strong>Claims</strong></summary>
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
@@ -476,6 +501,8 @@ youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
 | [01:01:30](/timestamps/ep-his-JBjlkh8/t-01-01-23.md) | factual | - | "I contributed greatly to Turning Point USA's success, and they would never deny... |
 | [01:05:03](/timestamps/ep-his-JBjlkh8/t-01-04-46.md) | promise | - | "I'll do this tomorrow. I don't have to be in person. We can live stream this...... |
 
+</details>
+
 ## Timeline Events
 
 - **1967-06-08**: Reference to the 1967 USS Liberty attack (Candace references an episode interviewing Phil Turney about it).
@@ -528,24 +555,3 @@ youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
 **People:** [Andrew Colvett](/entities/person-andrew-colvett.md), [Angie Lynn](/entities/person-angie-lynn.md), [Blake Lively](/entities/person-blake-lively.md), [Brian Harpole](/entities/person-brian-harpole.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Briley](/entities/person-briley.md), [Brittany Watson](/entities/person-brittany-watson.md), [Cam Higby](/entities/person-cam-higby.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Chuck Smith](/entities/person-chuck-smith.md), [Dave Smith](/entities/person-dave-smith.md), [David Hogg](/entities/person-david-hogg.md), [Donald Trump](/entities/person-donald-trump.md), [Eminem](/entities/person-eminem.md), [Erica Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [James Gray](/entities/person-james-gray.md), [James O'Keefe](/entities/person-james-o-keefe.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kamala Harris](/entities/person-kamala-harris.md), [Kanye West](/entities/person-kanye-west.md), [Kingsley Wilson](/entities/person-kingsley-wilson.md), [Laura Loomer](/entities/person-laura-loomer.md), [Mark](/entities/person-mark.md), [Matt Gaetz](/entities/person-matt-gaetz.md), [Meryl](/entities/person-meryl.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Phil Turney](/entities/person-phil-turney.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Russell Brand](/entities/person-russell-brand.md), [Ryan Reynolds](/entities/person-ryan-reynolds.md), [Sean Ryan](/entities/person-sean-ryan.md), [Skylar](/entities/person-skylar.md), [Tara](/entities/person-tara.md), [The Game](/entities/person-the-game.md), [Tyler Boyer](/entities/person-tyler-boyer.md)
 
 **Work:** [Inside the economics of Candace Owens' media empire and the Macron lawsuit threatening to unravel it.](/entities/work-inside-the-economics-of-candace-owens-media-empire-and-the-macron-lawsuit-threatening-to-unravel-it.md), [Make Him a Sandwich](/entities/work-make-him-a-sandwich.md), [The Assassination of Candace Owens](/entities/work-the-assassination-of-candace-owens.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md), [USS Liberty](/entities/work-uss-liberty.md)
-
-## Legend
-
-### Claim Types
-
-| Type | Description |
-|------|-------------|
-| factual | A claim about facts that can be verified through evidence. Note: 'factual' does not mean 'true'—it means the claim *asserts* something as fact. |
-| prediction | A claim about future events. Cannot be verified until the predicted time passes. |
-| promise | A commitment to do something. Verified by whether the action was taken. |
-| interpretive | An opinion or interpretation. These are subjective and not fact-checkable. |
-
-### Veracity Ratings
-
-| Rating | Meaning |
-|--------|---------|
-| ✅ True | Claim is supported by reliable evidence |
-| ❌ False | Claim is contradicted by reliable evidence |
-| ⚠️ Mixed | Claim contains both accurate and inaccurate elements |
-| ❓ Unverifiable | Claim cannot be verified (no sources found, or inherently unverifiable) |
-| - | Not yet verified |
