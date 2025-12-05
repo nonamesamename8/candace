@@ -5,8 +5,6 @@ published: "2025-09-16"
 youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
 ---
 
-# Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236
-
 **Published:** 2025-09-16 | [Watch on YouTube](https://www.youtube.com/watch?v=q7f8r-THr84)
 
 <div class="youtube-embed">

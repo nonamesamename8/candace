@@ -1,10 +1,9 @@
 ---
+title: "Charlie Kirk personally reviewed and signed off on every exp..."
 claim_id: "claim-his-JBjlkh8-878"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: Charlie Kirk personally reviewed and signed off on every exp...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

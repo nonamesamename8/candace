@@ -1,12 +1,10 @@
 ---
+title: "BYU"
 id: "org-byu"
-name: "BYU"
 type: "ORG"
 aliases:
   - "BYU"
 ---
-
-# BYU
 
 _Type: Organizations_
 

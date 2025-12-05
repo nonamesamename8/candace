@@ -1,10 +1,8 @@
 ---
+title: "George Floyd"
 id: "person-george-floyd"
-name: "George Floyd"
 type: "PERSON"
 ---
-
-# George Floyd
 
 _Type: People_
 

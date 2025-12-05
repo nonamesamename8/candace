@@ -1,10 +1,8 @@
 ---
+title: "Freemasons"
 id: "org-freemasons"
-name: "Freemasons"
 type: "ORG"
 ---
-
-# Freemasons
 
 _Type: Organizations_
 

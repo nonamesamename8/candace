@@ -1,10 +1,9 @@
 ---
+title: "The Saudi king was on this Egyptian plane at some point in 2..."
 claim_id: "claim-his-JBjlkh8-1061"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: The Saudi king was on this Egyptian plane at some point in 2...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

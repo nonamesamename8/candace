@@ -1,12 +1,10 @@
 ---
+title: "Iran"
 id: "gpe-iran"
-name: "Iran"
 type: "GPE"
 aliases:
   - "pre-revolutionary Iran"
 ---
-
-# Iran
 
 _Type: Places_
 

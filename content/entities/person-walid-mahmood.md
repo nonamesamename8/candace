@@ -1,12 +1,10 @@
 ---
+title: "Walid Mahmood"
 id: "person-walid-mahmood"
-name: "Walid Mahmood"
 type: "PERSON"
 aliases:
   - "Walid Mahmoud"
 ---
-
-# Walid Mahmood
 
 _Type: People_
 

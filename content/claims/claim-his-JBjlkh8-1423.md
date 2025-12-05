@@ -1,10 +1,9 @@
 ---
+title: "why the hell were these jets around Turning Point way before..."
 claim_id: "claim-his-JBjlkh8-1423"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: why the hell were these jets around Turning Point way before...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

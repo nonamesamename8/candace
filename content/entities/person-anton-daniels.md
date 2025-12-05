@@ -1,10 +1,8 @@
 ---
+title: "Anton Daniels"
 id: "person-anton-daniels"
-name: "Anton Daniels"
 type: "PERSON"
 ---
-
-# Anton Daniels
 
 _Type: People_
 

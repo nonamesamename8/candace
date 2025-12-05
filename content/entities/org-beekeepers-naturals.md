@@ -1,12 +1,10 @@
 ---
+title: "Beekeepers Naturals"
 id: "org-beekeepers-naturals"
-name: "Beekeepers Naturals"
 type: "ORG"
 aliases:
   - "beekeepersnaturals.com"
 ---
-
-# Beekeepers Naturals
 
 _Type: Organizations_
 

@@ -1,10 +1,8 @@
 ---
+title: "Trustpilot"
 id: "org-trustpilot"
-name: "Trustpilot"
 type: "ORG"
 ---
-
-# Trustpilot
 
 _Type: Organizations_
 

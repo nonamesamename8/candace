@@ -1,10 +1,9 @@
 ---
+title: "Charlie Kirk sent text messages the day before he died to pe..."
 claim_id: "claim-his-JBjlkh8-748"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: Charlie Kirk sent text messages the day before he died to pe...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

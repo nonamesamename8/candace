@@ -1,10 +1,8 @@
 ---
+title: "Turning Point Action"
 id: "org-turning-point-action"
-name: "Turning Point Action"
 type: "ORG"
 ---
-
-# Turning Point Action
 
 _Type: Organizations_
 

@@ -1,12 +1,10 @@
 ---
+title: "Dose"
 id: "org-dose"
-name: "Dose"
 type: "ORG"
 aliases:
   - "DoseDaily.co"
 ---
-
-# Dose
 
 _Type: Organizations_
 

@@ -1,10 +1,8 @@
 ---
+title: "FBI"
 id: "org-fbi"
-name: "FBI"
 type: "ORG"
 ---
-
-# FBI
 
 _Type: Organizations_
 

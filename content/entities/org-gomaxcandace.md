@@ -1,12 +1,10 @@
 ---
+title: "GoMaxCandace"
 id: "org-gomaxcandace"
-name: "GoMaxCandace"
 type: "ORG"
 aliases:
   - "GoMaxCandace (handle)"
 ---
-
-# GoMaxCandace
 
 _Type: Organizations_
 

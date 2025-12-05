@@ -1,12 +1,10 @@
 ---
+title: "Charlie Kirk assassination"
 id: "event-charlie-kirk-assassination"
-name: "Charlie Kirk assassination"
 type: "EVENT"
 aliases:
   - "Charlie assassination"
 ---
-
-# Charlie Kirk assassination
 
 _Type: Events_
 

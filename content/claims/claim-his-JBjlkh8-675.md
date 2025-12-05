@@ -1,10 +1,9 @@
 ---
+title: "Calvary Chapel, through its history with Chuck Smith, was a ..."
 claim_id: "claim-his-JBjlkh8-675"
 episode: "his-JBjlkh8"
 type: "interpretive"
 ---
-
-# Claim: Calvary Chapel, through its history with Chuck Smith, was a ...
 
 **Status:** ⏳ Not yet verified
 **Type:** Interpretive

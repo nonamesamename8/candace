@@ -1,12 +1,10 @@
 ---
+title: "Nemours"
 id: "gpe-nemours"
-name: "Nemours"
 type: "GPE"
 aliases:
   - "Nemours, France"
 ---
-
-# Nemours
 
 _Type: Places_
 

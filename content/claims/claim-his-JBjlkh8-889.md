@@ -1,10 +1,9 @@
 ---
+title: "Turning Point USA has never missed a 990 deadline."
 claim_id: "claim-his-JBjlkh8-889"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: Turning Point USA has never missed a 990 deadline.
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

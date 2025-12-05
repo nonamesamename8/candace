@@ -1,10 +1,8 @@
 ---
+title: "Donna Barata"
 id: "person-donna-barata"
-name: "Donna Barata"
 type: "PERSON"
 ---
-
-# Donna Barata
 
 _Type: People_
 

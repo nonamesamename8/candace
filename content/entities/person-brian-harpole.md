@@ -1,10 +1,8 @@
 ---
+title: "Brian Harpole"
 id: "person-brian-harpole"
-name: "Brian Harpole"
 type: "PERSON"
 ---
-
-# Brian Harpole
 
 _Type: People_
 

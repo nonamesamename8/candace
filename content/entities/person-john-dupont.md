@@ -1,12 +1,10 @@
 ---
+title: "John DuPont"
 id: "person-john-dupont"
-name: "John DuPont"
 type: "PERSON"
 aliases:
   - "John du Pont"
 ---
-
-# John DuPont
 
 _Type: People_
 

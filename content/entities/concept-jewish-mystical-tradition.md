@@ -1,10 +1,8 @@
 ---
+title: "Jewish mystical tradition"
 id: "concept-jewish-mystical-tradition"
-name: "Jewish mystical tradition"
 type: "CONCEPT"
 ---
-
-# Jewish mystical tradition
 
 _Type: Concepts_
 

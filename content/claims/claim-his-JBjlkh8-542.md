@@ -1,10 +1,9 @@
 ---
+title: "Brian Harpole said it was because of the severity of the inj..."
 claim_id: "claim-his-JBjlkh8-542"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: Brian Harpole said it was because of the severity of the inj...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

@@ -1,10 +1,8 @@
 ---
+title: "Amiens"
 id: "gpe-amiens"
-name: "Amiens"
 type: "GPE"
 ---
-
-# Amiens
 
 _Type: Places_
 

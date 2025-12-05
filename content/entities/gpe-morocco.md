@@ -1,10 +1,8 @@
 ---
+title: "Morocco"
 id: "gpe-morocco"
-name: "Morocco"
 type: "GPE"
 ---
-
-# Morocco
 
 _Type: Places_
 

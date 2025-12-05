@@ -1,12 +1,10 @@
 ---
+title: "Charles Joseph Bonaparte"
 id: "person-charles-joseph-bonaparte"
-name: "Charles Joseph Bonaparte"
 type: "PERSON"
 aliases:
   - "Charles Joseph Bonaparte"
 ---
-
-# Charles Joseph Bonaparte
 
 _Type: People_
 

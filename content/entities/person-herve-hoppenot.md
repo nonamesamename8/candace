@@ -1,10 +1,8 @@
 ---
+title: "Hervé Hoppenot"
 id: "person-herve-hoppenot"
-name: "Hervé Hoppenot"
 type: "PERSON"
 ---
-
-# Hervé Hoppenot
 
 _Type: People_
 

@@ -1,10 +1,8 @@
 ---
+title: "Greg Gutfeld"
 id: "person-greg-gutfeld"
-name: "Greg Gutfeld"
 type: "PERSON"
 ---
-
-# Greg Gutfeld
 
 _Type: People_
 

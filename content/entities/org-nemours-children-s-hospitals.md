@@ -1,12 +1,10 @@
 ---
+title: "Nemours Children's Hospitals"
 id: "org-nemours-children-s-hospitals"
-name: "Nemours Children's Hospitals"
 type: "ORG"
 aliases:
   - "Nemours Children Hospital"
 ---
-
-# Nemours Children's Hospitals
 
 _Type: Organizations_
 

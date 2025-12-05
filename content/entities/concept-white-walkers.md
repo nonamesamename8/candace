@@ -1,10 +1,8 @@
 ---
+title: "White Walkers"
 id: "concept-white-walkers"
-name: "White Walkers"
 type: "CONCEPT"
 ---
-
-# White Walkers
 
 _Type: Concepts_
 

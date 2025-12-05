@@ -1,10 +1,8 @@
 ---
+title: "Preborn"
 id: "org-preborn"
-name: "Preborn"
 type: "ORG"
 ---
-
-# Preborn
 
 _Type: Organizations_
 

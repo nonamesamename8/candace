@@ -1,10 +1,8 @@
 ---
+title: "Nazis"
 id: "org-nazis"
-name: "Nazis"
 type: "ORG"
 ---
-
-# Nazis
 
 _Type: Organizations_
 

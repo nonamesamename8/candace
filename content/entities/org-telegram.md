@@ -1,10 +1,8 @@
 ---
+title: "Telegram"
 id: "org-telegram"
-name: "Telegram"
 type: "ORG"
 ---
-
-# Telegram
 
 _Type: Organizations_
 

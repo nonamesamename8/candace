@@ -1,10 +1,8 @@
 ---
+title: "Air Force"
 id: "org-air-force"
-name: "Air Force"
 type: "ORG"
 ---
-
-# Air Force
 
 _Type: Organizations_
 

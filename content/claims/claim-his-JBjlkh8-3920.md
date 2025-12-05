@@ -1,10 +1,9 @@
 ---
+title: "we can have the money go to Turning Point USA, every dollar ..."
 claim_id: "claim-his-JBjlkh8-3920"
 episode: "his-JBjlkh8"
 type: "promise"
 ---
-
-# Claim: we can have the money go to Turning Point USA, every dollar ...
 
 **Status:** ⏳ Not yet verified
 **Type:** Promise

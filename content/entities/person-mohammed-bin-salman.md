@@ -1,12 +1,10 @@
 ---
+title: "Mohammed bin Salman"
 id: "person-mohammed-bin-salman"
-name: "Mohammed bin Salman"
 type: "PERSON"
 aliases:
   - "Saudi Crown Prince"
 ---
-
-# Mohammed bin Salman
 
 _Type: People_
 

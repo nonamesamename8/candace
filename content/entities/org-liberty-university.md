@@ -1,10 +1,8 @@
 ---
+title: "Liberty University"
 id: "org-liberty-university"
-name: "Liberty University"
 type: "ORG"
 ---
-
-# Liberty University
 
 _Type: Organizations_
 

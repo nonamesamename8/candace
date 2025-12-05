@@ -1,12 +1,10 @@
 ---
+title: "SUBND"
 id: "org-subnd"
-name: "SUBND"
 type: "ORG"
 aliases:
   - "blue plane"
 ---
-
-# SUBND
 
 _Type: Organizations_
 

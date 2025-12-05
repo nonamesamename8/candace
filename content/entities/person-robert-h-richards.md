@@ -1,12 +1,10 @@
 ---
+title: "Robert H. Richards"
 id: "person-robert-h-richards"
-name: "Robert H. Richards"
 type: "PERSON"
 aliases:
   - "Robert H. Richards"
 ---
-
-# Robert H. Richards
 
 _Type: People_
 

@@ -1,10 +1,8 @@
 ---
+title: "Deb Skates"
 id: "person-deb-skates"
-name: "Deb Skates"
 type: "PERSON"
 ---
-
-# Deb Skates
 
 _Type: People_
 

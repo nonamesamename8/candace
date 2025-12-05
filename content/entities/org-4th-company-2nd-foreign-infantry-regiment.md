@@ -1,10 +1,8 @@
 ---
+title: "4th Company, 2nd Foreign Infantry Regiment"
 id: "org-4th-company-2nd-foreign-infantry-regiment"
-name: "4th Company, 2nd Foreign Infantry Regiment"
 type: "ORG"
 ---
-
-# 4th Company, 2nd Foreign Infantry Regiment
 
 _Type: Organizations_
 

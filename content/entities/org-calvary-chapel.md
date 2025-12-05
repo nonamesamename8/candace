@@ -1,12 +1,10 @@
 ---
+title: "Calvary Chapel"
 id: "org-calvary-chapel"
-name: "Calvary Chapel"
 type: "ORG"
 aliases:
   - "Calvary Chapel Church"
 ---
-
-# Calvary Chapel
 
 _Type: Organizations_
 

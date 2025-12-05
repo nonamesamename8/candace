@@ -1,10 +1,9 @@
 ---
+title: "I say we do it tomorrow."
 claim_id: "claim-his-JBjlkh8-2056"
 episode: "his-JBjlkh8"
 type: "promise"
 ---
-
-# Claim: I say we do it tomorrow.
 
 **Status:** ⏳ Not yet verified
 **Type:** Promise

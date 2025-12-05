@@ -1,12 +1,10 @@
 ---
+title: "Wilmington Trust"
 id: "org-wilmington-trust"
-name: "Wilmington Trust"
 type: "ORG"
 aliases:
   - "Wilmington Trust at 1100 North Market"
 ---
-
-# Wilmington Trust
 
 _Type: Organizations_
 

@@ -1,13 +1,11 @@
 ---
+title: "DuPont family"
 id: "org-dupont-family"
-name: "DuPont family"
 type: "ORG"
 aliases:
   - "du Pont"
   - "DuPont"
 ---
-
-# DuPont family
 
 _Type: Organizations_
 

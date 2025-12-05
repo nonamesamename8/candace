@@ -1,12 +1,10 @@
 ---
+title: "FARA"
 id: "law-fara"
-name: "FARA"
 type: "LAW"
 aliases:
   - "Foreign Agents Registration Act"
 ---
-
-# FARA
 
 _Type: Law_
 

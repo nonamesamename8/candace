@@ -1,10 +1,8 @@
 ---
+title: "Andrew Colvett"
 id: "person-andrew-colvett"
-name: "Andrew Colvett"
 type: "PERSON"
 ---
-
-# Andrew Colvett
 
 _Type: People_
 

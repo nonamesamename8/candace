@@ -1,10 +1,8 @@
 ---
+title: "South Carolina"
 id: "gpe-south-carolina"
-name: "South Carolina"
 type: "GPE"
 ---
-
-# South Carolina
 
 _Type: Places_
 

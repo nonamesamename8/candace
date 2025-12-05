@@ -1,10 +1,9 @@
 ---
+title: "he said, 'I owe everything to Charlie'"
 claim_id: "claim-his-JBjlkh8-3662"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: he said, 'I owe everything to Charlie'
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

@@ -1,10 +1,8 @@
 ---
+title: "All Falls Down"
 id: "work-all-falls-down"
-name: "All Falls Down"
 type: "WORK"
 ---
-
-# All Falls Down
 
 _Type: Work_
 

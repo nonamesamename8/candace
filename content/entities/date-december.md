@@ -1,10 +1,8 @@
 ---
+title: "December"
 id: "date-december"
-name: "December"
 type: "DATE"
 ---
-
-# December
 
 _Type: Dates_
 

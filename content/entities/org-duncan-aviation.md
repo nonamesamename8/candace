@@ -1,10 +1,8 @@
 ---
+title: "Duncan Aviation"
 id: "org-duncan-aviation"
-name: "Duncan Aviation"
 type: "ORG"
 ---
-
-# Duncan Aviation
 
 _Type: Organizations_
 

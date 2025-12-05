@@ -1,12 +1,10 @@
 ---
+title: "Air Force Two"
 id: "org-air-force-two"
-name: "Air Force Two"
 type: "ORG"
 aliases:
   - "Air Force Two"
 ---
-
-# Air Force Two
 
 _Type: Organizations_
 

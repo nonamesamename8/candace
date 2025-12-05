@@ -1,12 +1,10 @@
 ---
+title: "Eliza"
 id: "person-eliza"
-name: "Eliza"
 type: "PERSON"
 aliases:
   - "Eliza"
 ---
-
-# Eliza
 
 _Type: People_
 

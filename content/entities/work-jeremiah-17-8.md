@@ -1,10 +1,8 @@
 ---
+title: "Jeremiah 17:8"
 id: "work-jeremiah-17-8"
-name: "Jeremiah 17:8"
 type: "WORK"
 ---
-
-# Jeremiah 17:8
 
 _Type: Work_
 

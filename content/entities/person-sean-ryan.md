@@ -1,10 +1,8 @@
 ---
+title: "Sean Ryan"
 id: "person-sean-ryan"
-name: "Sean Ryan"
 type: "PERSON"
 ---
-
-# Sean Ryan
 
 _Type: People_
 

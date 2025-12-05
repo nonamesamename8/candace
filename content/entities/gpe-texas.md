@@ -1,10 +1,8 @@
 ---
+title: "Texas"
 id: "gpe-texas"
-name: "Texas"
 type: "GPE"
 ---
-
-# Texas
 
 _Type: Places_
 

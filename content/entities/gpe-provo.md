@@ -1,10 +1,8 @@
 ---
+title: "Provo"
 id: "gpe-provo"
-name: "Provo"
 type: "GPE"
 ---
-
-# Provo
 
 _Type: Places_
 

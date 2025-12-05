@@ -1,10 +1,9 @@
 ---
+title: "the biggest political assassination that has taken place sin..."
 claim_id: "claim-his-JBjlkh8-2501"
 episode: "his-JBjlkh8"
 type: "interpretive"
 ---
-
-# Claim: the biggest political assassination that has taken place sin...
 
 **Status:** ⏳ Not yet verified
 **Type:** Interpretive

@@ -1,12 +1,10 @@
 ---
+title: "Bag Chasers"
 id: "org-bag-chasers"
-name: "Bag Chasers"
 type: "ORG"
 aliases:
   - "the Bag Chasers"
 ---
-
-# Bag Chasers
 
 _Type: Organizations_
 

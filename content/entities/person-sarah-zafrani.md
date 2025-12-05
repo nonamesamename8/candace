@@ -1,12 +1,10 @@
 ---
+title: "Sarah Zafrani"
 id: "person-sarah-zafrani"
-name: "Sarah Zafrani"
 type: "PERSON"
 aliases:
   - "Prime Minister of Tunisia"
 ---
-
-# Sarah Zafrani
 
 _Type: People_
 

@@ -1,10 +1,9 @@
 ---
+title: "Turning Point USA is evaporating millions of dollars into va..."
 claim_id: "claim-his-JBjlkh8-905"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: Turning Point USA is evaporating millions of dollars into va...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

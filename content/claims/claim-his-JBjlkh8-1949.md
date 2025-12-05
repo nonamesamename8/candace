@@ -1,10 +1,9 @@
 ---
+title: "Charlie texting you guys and saying that he thought he was g..."
 claim_id: "claim-his-JBjlkh8-1949"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: Charlie texting you guys and saying that he thought he was g...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

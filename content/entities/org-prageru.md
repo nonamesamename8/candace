@@ -1,10 +1,8 @@
 ---
+title: "PragerU"
 id: "org-prageru"
-name: "PragerU"
 type: "ORG"
 ---
-
-# PragerU
 
 _Type: Organizations_
 

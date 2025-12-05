@@ -1,12 +1,10 @@
 ---
+title: "Wilmington"
 id: "gpe-wilmington"
-name: "Wilmington"
 type: "GPE"
 aliases:
   - "Wilmington, Delaware"
 ---
-
-# Wilmington
 
 _Type: Places_
 

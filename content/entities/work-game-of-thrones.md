@@ -1,10 +1,8 @@
 ---
+title: "Game of Thrones"
 id: "work-game-of-thrones"
-name: "Game of Thrones"
 type: "WORK"
 ---
-
-# Game of Thrones
 
 _Type: Work_
 

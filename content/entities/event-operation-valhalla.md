@@ -1,10 +1,8 @@
 ---
+title: "Operation Valhalla"
 id: "event-operation-valhalla"
-name: "Operation Valhalla"
 type: "EVENT"
 ---
-
-# Operation Valhalla
 
 _Type: Events_
 

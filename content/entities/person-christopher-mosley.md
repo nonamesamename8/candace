@@ -1,13 +1,11 @@
 ---
+title: "Christopher Mosley"
 id: "person-christopher-mosley"
-name: "Christopher Mosley"
 type: "PERSON"
 aliases:
   - "Mosley"
   - "Christopher Mosley"
 ---
-
-# Christopher Mosley
 
 _Type: People_
 

@@ -1,10 +1,9 @@
 ---
+title: "the French Foreign Legion were apparently on the ground on t..."
 claim_id: "claim-his-JBjlkh8-2464"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: the French Foreign Legion were apparently on the ground on t...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

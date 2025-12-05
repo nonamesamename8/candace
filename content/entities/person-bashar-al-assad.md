@@ -1,12 +1,10 @@
 ---
+title: "Bashar al-Assad"
 id: "person-bashar-al-assad"
-name: "Bashar al-Assad"
 type: "PERSON"
 aliases:
   - "Assad"
 ---
-
-# Bashar al-Assad
 
 _Type: People_
 

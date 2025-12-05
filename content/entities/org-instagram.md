@@ -1,10 +1,8 @@
 ---
+title: "Instagram"
 id: "org-instagram"
-name: "Instagram"
 type: "ORG"
 ---
-
-# Instagram
 
 _Type: Organizations_
 

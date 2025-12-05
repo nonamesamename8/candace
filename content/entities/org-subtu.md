@@ -1,12 +1,10 @@
 ---
+title: "SUBTU"
 id: "org-subtu"
-name: "SUBTU"
 type: "ORG"
 aliases:
   - "SU-BTU"
 ---
-
-# SUBTU
 
 _Type: Organizations_
 

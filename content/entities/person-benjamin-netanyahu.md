@@ -1,14 +1,12 @@
 ---
+title: "Benjamin Netanyahu"
 id: "person-benjamin-netanyahu"
-name: "Benjamin Netanyahu"
 type: "PERSON"
 aliases:
   - "Bibi"
   - "BB"
   - "BBNet"
 ---
-
-# Benjamin Netanyahu
 
 _Type: People_
 

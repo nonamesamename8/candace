@@ -1,10 +1,8 @@
 ---
+title: "French Legionnaires"
 id: "org-french-legionnaires"
-name: "French Legionnaires"
 type: "ORG"
 ---
-
-# French Legionnaires
 
 _Type: Organizations_
 

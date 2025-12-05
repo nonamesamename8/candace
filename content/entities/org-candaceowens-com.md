@@ -1,13 +1,11 @@
 ---
+title: "CandaceOwens.com"
 id: "org-candaceowens-com"
-name: "CandaceOwens.com"
 type: "ORG"
 aliases:
   - "CandaceOwens.com"
   - "CandaceOwens.com"
 ---
-
-# CandaceOwens.com
 
 _Type: Organizations_
 

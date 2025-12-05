@@ -1,10 +1,8 @@
 ---
+title: "David Hogg"
 id: "person-david-hogg"
-name: "David Hogg"
 type: "PERSON"
 ---
-
-# David Hogg
 
 _Type: People_
 

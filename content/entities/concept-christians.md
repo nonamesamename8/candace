@@ -1,10 +1,8 @@
 ---
+title: "Christians"
 id: "concept-christians"
-name: "Christians"
 type: "CONCEPT"
 ---
-
-# Christians
 
 _Type: Concepts_
 

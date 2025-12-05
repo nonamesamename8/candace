@@ -1,10 +1,8 @@
 ---
+title: "The Queen"
 id: "org-the-queen"
-name: "The Queen"
 type: "ORG"
 ---
-
-# The Queen
 
 _Type: Organizations_
 

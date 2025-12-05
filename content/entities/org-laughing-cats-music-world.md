@@ -1,12 +1,10 @@
 ---
+title: "Laughing Cats Music World"
 id: "org-laughing-cats-music-world"
-name: "Laughing Cats Music World"
 type: "ORG"
 aliases:
   - "Laughing Cats"
 ---
-
-# Laughing Cats Music World
 
 _Type: Organizations_
 

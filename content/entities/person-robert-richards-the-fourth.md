@@ -1,13 +1,11 @@
 ---
+title: "Robert Richards the Fourth"
 id: "person-robert-richards-the-fourth"
-name: "Robert Richards the Fourth"
 type: "PERSON"
 aliases:
   - "Robert Richards IV"
   - "Robert Richards the Fourth"
 ---
-
-# Robert Richards the Fourth
 
 _Type: People_
 

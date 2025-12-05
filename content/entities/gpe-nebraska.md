@@ -1,12 +1,10 @@
 ---
+title: "Nebraska"
 id: "gpe-nebraska"
-name: "Nebraska"
 type: "GPE"
 aliases:
   - "Nebraska"
 ---
-
-# Nebraska
 
 _Type: Places_
 

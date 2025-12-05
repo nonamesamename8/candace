@@ -1,10 +1,8 @@
 ---
+title: "Fegliano"
 id: "person-fegliano"
-name: "Fegliano"
 type: "PERSON"
 ---
-
-# Fegliano
 
 _Type: People_
 

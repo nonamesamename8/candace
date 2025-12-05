@@ -1,10 +1,9 @@
 ---
+title: "Thus far in the Brigitte Macron lawsuit, we have paid over a..."
 claim_id: "claim-his-JBjlkh8-2904"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: Thus far in the Brigitte Macron lawsuit, we have paid over a...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

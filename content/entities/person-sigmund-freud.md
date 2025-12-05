@@ -1,10 +1,8 @@
 ---
+title: "Sigmund Freud"
 id: "person-sigmund-freud"
-name: "Sigmund Freud"
 type: "PERSON"
 ---
-
-# Sigmund Freud
 
 _Type: People_
 

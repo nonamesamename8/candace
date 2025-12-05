@@ -1,10 +1,8 @@
 ---
+title: "Project Veritas"
 id: "org-project-veritas"
-name: "Project Veritas"
 type: "ORG"
 ---
-
-# Project Veritas
 
 _Type: Organizations_
 

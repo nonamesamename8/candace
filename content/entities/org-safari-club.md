@@ -1,10 +1,8 @@
 ---
+title: "Safari Club"
 id: "org-safari-club"
-name: "Safari Club"
 type: "ORG"
 ---
-
-# Safari Club
 
 _Type: Organizations_
 

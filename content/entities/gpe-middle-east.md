@@ -1,10 +1,8 @@
 ---
+title: "Middle East"
 id: "gpe-middle-east"
-name: "Middle East"
 type: "GPE"
 ---
-
-# Middle East
 
 _Type: Places_
 

@@ -1,12 +1,10 @@
 ---
+title: "Central Intelligence Agency"
 id: "org-central-intelligence-agency"
-name: "Central Intelligence Agency"
 type: "ORG"
 aliases:
   - "CIA"
 ---
-
-# Central Intelligence Agency
 
 _Type: Organizations_
 

@@ -1,10 +1,8 @@
 ---
+title: "The Assassination of Candace Owens"
 id: "work-the-assassination-of-candace-owens"
-name: "The Assassination of Candace Owens"
 type: "WORK"
 ---
-
-# The Assassination of Candace Owens
 
 _Type: Work_
 

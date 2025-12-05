@@ -1,10 +1,8 @@
 ---
+title: "The Game"
 id: "person-the-game"
-name: "The Game"
 type: "PERSON"
 ---
-
-# The Game
 
 _Type: People_
 

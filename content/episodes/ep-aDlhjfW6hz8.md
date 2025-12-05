@@ -5,8 +5,6 @@ published: "2025-09-19"
 youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 ---
 
-# Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239
-
 **Published:** 2025-09-19 | [Watch on YouTube](https://www.youtube.com/watch?v=aDlhjfW6hz8)
 
 <div class="youtube-embed">

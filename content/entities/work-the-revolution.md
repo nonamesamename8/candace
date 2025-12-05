@@ -1,12 +1,10 @@
 ---
+title: "The Revolution"
 id: "work-the-revolution"
-name: "The Revolution"
 type: "WORK"
 aliases:
   - "Ken Burns' The Revolution"
 ---
-
-# The Revolution
 
 _Type: Work_
 

@@ -1,12 +1,10 @@
 ---
+title: "Stacey Sheridan"
 id: "person-stacey-sheridan"
-name: "Stacey Sheridan"
 type: "PERSON"
 aliases:
   - "Stacey"
 ---
-
-# Stacey Sheridan
 
 _Type: People_
 

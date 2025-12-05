@@ -1,10 +1,8 @@
 ---
+title: "Hamptons"
 id: "gpe-hamptons"
-name: "Hamptons"
 type: "GPE"
 ---
-
-# Hamptons
 
 _Type: Places_
 

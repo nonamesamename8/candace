@@ -1,10 +1,8 @@
 ---
+title: "Operation Bright Star"
 id: "event-operation-bright-star"
-name: "Operation Bright Star"
 type: "EVENT"
 ---
-
-# Operation Bright Star
 
 _Type: Events_
 

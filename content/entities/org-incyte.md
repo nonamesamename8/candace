@@ -1,10 +1,8 @@
 ---
+title: "Incyte"
 id: "org-incyte"
-name: "Incyte"
 type: "ORG"
 ---
-
-# Incyte
 
 _Type: Organizations_
 

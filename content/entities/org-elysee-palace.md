@@ -1,12 +1,10 @@
 ---
+title: "Élysée Palace"
 id: "org-elysee-palace"
-name: "Élysée Palace"
 type: "ORG"
 aliases:
   - "Elysee Palace"
 ---
-
-# Élysée Palace
 
 _Type: Organizations_
 

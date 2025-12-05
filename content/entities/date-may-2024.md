@@ -1,10 +1,8 @@
 ---
+title: "May 2024"
 id: "date-may-2024"
-name: "May 2024"
 type: "DATE"
 ---
-
-# May 2024
 
 _Type: Dates_
 

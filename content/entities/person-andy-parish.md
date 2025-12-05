@@ -1,10 +1,8 @@
 ---
+title: "Andy Parish"
 id: "person-andy-parish"
-name: "Andy Parish"
 type: "PERSON"
 ---
-
-# Andy Parish
 
 _Type: People_
 

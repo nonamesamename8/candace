@@ -1,10 +1,8 @@
 ---
+title: "National Guard"
 id: "org-national-guard"
-name: "National Guard"
 type: "ORG"
 ---
-
-# National Guard
 
 _Type: Organizations_
 

@@ -1,10 +1,8 @@
 ---
+title: "Parkland"
 id: "event-parkland"
-name: "Parkland"
 type: "EVENT"
 ---
-
-# Parkland
 
 _Type: Events_
 

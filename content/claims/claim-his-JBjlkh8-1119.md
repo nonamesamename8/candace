@@ -1,10 +1,9 @@
 ---
+title: "I'm very close to figuring out exactly which military unit t..."
 claim_id: "claim-his-JBjlkh8-1119"
 episode: "his-JBjlkh8"
 type: "promise"
 ---
-
-# Claim: I'm very close to figuring out exactly which military unit t...
 
 **Status:** ⏳ Not yet verified
 **Type:** Promise

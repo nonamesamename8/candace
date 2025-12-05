@@ -1,12 +1,10 @@
 ---
+title: "Adam Sosnick"
 id: "person-adam-sosnick"
-name: "Adam Sosnick"
 type: "PERSON"
 aliases:
   - "Adam"
 ---
-
-# Adam Sosnick
 
 _Type: People_
 

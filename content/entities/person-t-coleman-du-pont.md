@@ -1,10 +1,8 @@
 ---
+title: "T. Coleman du Pont"
 id: "person-t-coleman-du-pont"
-name: "T. Coleman du Pont"
 type: "PERSON"
 ---
-
-# T. Coleman du Pont
 
 _Type: People_
 

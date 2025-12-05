@@ -1,10 +1,8 @@
 ---
+title: "6th Light Armored Brigade"
 id: "org-6th-light-armored-brigade"
-name: "6th Light Armored Brigade"
 type: "ORG"
 ---
-
-# 6th Light Armored Brigade
 
 _Type: Organizations_
 

@@ -1,12 +1,10 @@
 ---
+title: "transgenderism"
 id: "concept-transgenderism"
-name: "transgenderism"
 type: "CONCEPT"
 aliases:
   - "trans surgeries"
 ---
-
-# transgenderism
 
 _Type: Concepts_
 

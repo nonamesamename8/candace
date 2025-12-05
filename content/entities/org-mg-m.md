@@ -1,10 +1,8 @@
 ---
+title: "MG+M"
 id: "org-mg-m"
-name: "MG+M"
 type: "ORG"
 ---
-
-# MG+M
 
 _Type: Organizations_
 

@@ -1,12 +1,10 @@
 ---
+title: "Volodymyr Zelensky"
 id: "person-volodymyr-zelensky"
-name: "Volodymyr Zelensky"
 type: "PERSON"
 aliases:
   - "Zelensky"
 ---
-
-# Volodymyr Zelensky
 
 _Type: People_
 

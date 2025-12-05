@@ -1,10 +1,8 @@
 ---
+title: "Doge"
 id: "concept-doge"
-name: "Doge"
 type: "CONCEPT"
 ---
-
-# Doge
 
 _Type: Concepts_
 

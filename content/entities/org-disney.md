@@ -1,10 +1,8 @@
 ---
+title: "Disney"
 id: "org-disney"
-name: "Disney"
 type: "ORG"
 ---
-
-# Disney
 
 _Type: Organizations_
 

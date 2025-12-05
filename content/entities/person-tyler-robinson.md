@@ -1,10 +1,8 @@
 ---
+title: "Tyler Robinson"
 id: "person-tyler-robinson"
-name: "Tyler Robinson"
 type: "PERSON"
 ---
-
-# Tyler Robinson
 
 _Type: People_
 

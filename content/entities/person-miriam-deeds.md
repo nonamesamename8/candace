@@ -1,10 +1,8 @@
 ---
+title: "Miriam Deeds"
 id: "person-miriam-deeds"
-name: "Miriam Deeds"
 type: "PERSON"
 ---
-
-# Miriam Deeds
 
 _Type: People_
 

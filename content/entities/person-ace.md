@@ -1,12 +1,10 @@
 ---
+title: "Ace"
 id: "person-ace"
-name: "Ace"
 type: "PERSON"
 aliases:
   - "Ace (comedian)"
 ---
-
-# Ace
 
 _Type: People_
 

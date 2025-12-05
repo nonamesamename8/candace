@@ -1,10 +1,9 @@
 ---
+title: "we interviewed Phil Tourney of the USS Liberty"
 claim_id: "claim-his-JBjlkh8-3840"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: we interviewed Phil Tourney of the USS Liberty
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

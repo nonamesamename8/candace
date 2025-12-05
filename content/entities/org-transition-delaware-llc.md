@@ -1,10 +1,8 @@
 ---
+title: "Transition Delaware LLC"
 id: "org-transition-delaware-llc"
-name: "Transition Delaware LLC"
 type: "ORG"
 ---
-
-# Transition Delaware LLC
 
 _Type: Organizations_
 

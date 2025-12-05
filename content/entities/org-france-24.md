@@ -1,10 +1,8 @@
 ---
+title: "France 24"
 id: "org-france-24"
-name: "France 24"
 type: "ORG"
 ---
-
-# France 24
 
 _Type: Organizations_
 

@@ -1,12 +1,10 @@
 ---
+title: "Jay-Z"
 id: "person-jay-z"
-name: "Jay-Z"
 type: "PERSON"
 aliases:
   - "Jay Z"
 ---
-
-# Jay-Z
 
 _Type: People_
 

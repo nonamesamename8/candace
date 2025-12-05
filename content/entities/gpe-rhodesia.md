@@ -1,10 +1,8 @@
 ---
+title: "Rhodesia"
 id: "gpe-rhodesia"
-name: "Rhodesia"
 type: "GPE"
 ---
-
-# Rhodesia
 
 _Type: Places_
 

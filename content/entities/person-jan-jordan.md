@@ -1,12 +1,10 @@
 ---
+title: "Jan Jordan"
 id: "person-jan-jordan"
-name: "Jan Jordan"
 type: "PERSON"
 aliases:
   - "Judge Jan Jordan"
 ---
-
-# Jan Jordan
 
 _Type: People_
 

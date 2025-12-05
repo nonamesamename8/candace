@@ -5,8 +5,6 @@ published: "2025-09-11"
 youtube_url: "https://www.youtube.com/watch?v=_dRaEO47-co"
 ---
 
-# To My Friend, Charlie Kirk.
-
 **Published:** 2025-09-11 | [Watch on YouTube](https://www.youtube.com/watch?v=_dRaEO47-co)
 
 <div class="youtube-embed">

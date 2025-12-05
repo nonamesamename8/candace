@@ -1,10 +1,8 @@
 ---
+title: "Delaware"
 id: "gpe-delaware"
-name: "Delaware"
 type: "GPE"
 ---
-
-# Delaware
 
 _Type: Places_
 

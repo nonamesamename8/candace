@@ -1,10 +1,9 @@
 ---
+title: "They are going to, I will guarantee you, represent a militar..."
 claim_id: "claim-his-JBjlkh8-1114"
 episode: "his-JBjlkh8"
 type: "prediction"
 ---
-
-# Claim: They are going to, I will guarantee you, represent a militar...
 
 **Status:** ⏳ Not yet verified
 **Type:** Prediction

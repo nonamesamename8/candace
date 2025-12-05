@@ -1,12 +1,10 @@
 ---
+title: "des Saints"
 id: "org-des-saints"
-name: "des Saints"
 type: "ORG"
 aliases:
   - "des Saints (elite gentlemen's club)"
 ---
-
-# des Saints
 
 _Type: Organizations_
 

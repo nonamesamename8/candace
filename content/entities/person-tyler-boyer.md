@@ -1,12 +1,10 @@
 ---
+title: "Tyler Boyer"
 id: "person-tyler-boyer"
-name: "Tyler Boyer"
 type: "PERSON"
 aliases:
   - "Tyler Boyer"
 ---
-
-# Tyler Boyer
 
 _Type: People_
 

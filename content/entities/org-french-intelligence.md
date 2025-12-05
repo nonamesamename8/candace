@@ -1,10 +1,8 @@
 ---
+title: "French intelligence"
 id: "org-french-intelligence"
-name: "French intelligence"
 type: "ORG"
 ---
-
-# French intelligence
 
 _Type: Organizations_
 

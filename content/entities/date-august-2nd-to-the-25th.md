@@ -1,10 +1,8 @@
 ---
+title: "August 2nd to the 25th"
 id: "date-august-2nd-to-the-25th"
-name: "August 2nd to the 25th"
 type: "DATE"
 ---
-
-# August 2nd to the 25th
 
 _Type: Dates_
 

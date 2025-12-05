@@ -1,12 +1,10 @@
 ---
+title: "Big Pharma"
 id: "concept-big-pharma"
-name: "Big Pharma"
 type: "CONCEPT"
 aliases:
   - "pharmaceutical complex"
 ---
-
-# Big Pharma
 
 _Type: Concepts_
 

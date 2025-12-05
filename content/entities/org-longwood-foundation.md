@@ -1,10 +1,8 @@
 ---
+title: "Longwood Foundation"
 id: "org-longwood-foundation"
-name: "Longwood Foundation"
 type: "ORG"
 ---
-
-# Longwood Foundation
 
 _Type: Organizations_
 

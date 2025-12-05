@@ -1,12 +1,10 @@
 ---
+title: "the federal government"
 id: "org-the-federal-government"
-name: "the federal government"
 type: "ORG"
 aliases:
   - "federal government"
 ---
-
-# the federal government
 
 _Type: Organizations_
 

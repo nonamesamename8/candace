@@ -1,10 +1,8 @@
 ---
+title: "News Journal"
 id: "org-news-journal"
-name: "News Journal"
 type: "ORG"
 ---
-
-# News Journal
 
 _Type: Organizations_
 

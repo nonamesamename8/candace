@@ -1,13 +1,11 @@
 ---
+title: "Blake Lively"
 id: "person-blake-lively"
-name: "Blake Lively"
 type: "PERSON"
 aliases:
   - "Blake"
   - "Blake Neff"
 ---
-
-# Blake Lively
 
 _Type: People_
 

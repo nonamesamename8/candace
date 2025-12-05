@@ -1,12 +1,10 @@
 ---
+title: "Tucker Carlson"
 id: "person-tucker-carlson"
-name: "Tucker Carlson"
 type: "PERSON"
 aliases:
   - "Tucker"
 ---
-
-# Tucker Carlson
 
 _Type: People_
 

@@ -1,12 +1,10 @@
 ---
+title: "PDS Debt"
 id: "org-pds-debt"
-name: "PDS Debt"
 type: "ORG"
 aliases:
   - "pdsdebt.com"
 ---
-
-# PDS Debt
 
 _Type: Organizations_
 

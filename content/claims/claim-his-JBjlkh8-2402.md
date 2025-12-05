@@ -1,10 +1,9 @@
 ---
+title: "Literally a couple of weeks before he died, she called Charl..."
 claim_id: "claim-his-JBjlkh8-2402"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: Literally a couple of weeks before he died, she called Charl...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

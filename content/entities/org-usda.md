@@ -1,12 +1,10 @@
 ---
+title: "USDA"
 id: "org-usda"
-name: "USDA"
 type: "ORG"
 aliases:
   - "United States Department of Agriculture"
 ---
-
-# USDA
 
 _Type: Organizations_
 

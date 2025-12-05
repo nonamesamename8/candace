@@ -1,10 +1,8 @@
 ---
+title: "God"
 id: "concept-god"
-name: "God"
 type: "CONCEPT"
 ---
-
-# God
 
 _Type: Concepts_
 

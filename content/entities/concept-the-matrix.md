@@ -1,12 +1,10 @@
 ---
+title: "The Matrix"
 id: "concept-the-matrix"
-name: "The Matrix"
 type: "CONCEPT"
 aliases:
   - "matrix"
 ---
-
-# The Matrix
 
 _Type: Concepts_
 

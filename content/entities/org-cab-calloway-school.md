@@ -1,10 +1,8 @@
 ---
+title: "Cab Calloway School"
 id: "org-cab-calloway-school"
-name: "Cab Calloway School"
 type: "ORG"
 ---
-
-# Cab Calloway School
 
 _Type: Organizations_
 

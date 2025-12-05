@@ -1,10 +1,8 @@
 ---
+title: "early November"
 id: "date-early-november"
-name: "early November"
 type: "DATE"
 ---
-
-# early November
 
 _Type: Dates_
 

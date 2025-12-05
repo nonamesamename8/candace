@@ -1,10 +1,9 @@
 ---
+title: "Josh Hammer said this never happened, Charlie never blinked ..."
 claim_id: "claim-his-JBjlkh8-791"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: Josh Hammer said this never happened, Charlie never blinked ...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

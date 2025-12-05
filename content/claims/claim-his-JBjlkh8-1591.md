@@ -1,10 +1,9 @@
 ---
+title: "They made their entire budget for the year in the first coup..."
 claim_id: "claim-his-JBjlkh8-1591"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: They made their entire budget for the year in the first coup...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

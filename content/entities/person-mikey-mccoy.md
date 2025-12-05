@@ -1,13 +1,11 @@
 ---
+title: "Mikey McCoy"
 id: "person-mikey-mccoy"
-name: "Mikey McCoy"
 type: "PERSON"
 aliases:
   - "Michael McCoy"
   - "Mikey McCoy"
 ---
-
-# Mikey McCoy
 
 _Type: People_
 

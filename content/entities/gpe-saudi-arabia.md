@@ -1,10 +1,8 @@
 ---
+title: "Saudi Arabia"
 id: "gpe-saudi-arabia"
-name: "Saudi Arabia"
 type: "GPE"
 ---
-
-# Saudi Arabia
 
 _Type: Places_
 

@@ -1,12 +1,10 @@
 ---
+title: "FlightRadar"
 id: "org-flightradar"
-name: "FlightRadar"
 type: "ORG"
 aliases:
   - "Flightradar24"
 ---
-
-# FlightRadar
 
 _Type: Organizations_
 

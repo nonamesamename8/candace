@@ -1,12 +1,10 @@
 ---
+title: "ACE Partners"
 id: "org-ace-partners"
-name: "ACE Partners"
 type: "ORG"
 aliases:
   - "ACE Partners"
 ---
-
-# ACE Partners
 
 _Type: Organizations_
 

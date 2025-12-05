@@ -1,10 +1,9 @@
 ---
+title: "we can't find the answer as to where Brigitte Macron was on ..."
 claim_id: "claim-his-JBjlkh8-2956"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: we can't find the answer as to where Brigitte Macron was on ...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

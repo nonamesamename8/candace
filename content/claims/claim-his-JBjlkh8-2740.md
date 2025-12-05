@@ -1,10 +1,9 @@
 ---
+title: "we just watched Trump get shot at and his ear clipped"
 claim_id: "claim-his-JBjlkh8-2740"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: we just watched Trump get shot at and his ear clipped
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

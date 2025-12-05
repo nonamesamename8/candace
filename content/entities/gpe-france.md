@@ -1,12 +1,10 @@
 ---
+title: "France"
 id: "gpe-france"
-name: "France"
 type: "GPE"
 aliases:
   - "French"
 ---
-
-# France
 
 _Type: Places_
 

@@ -1,12 +1,10 @@
 ---
+title: "Insight"
 id: "org-insight"
-name: "Insight"
 type: "ORG"
 aliases:
   - "Insight headquarters"
 ---
-
-# Insight
 
 _Type: Organizations_
 

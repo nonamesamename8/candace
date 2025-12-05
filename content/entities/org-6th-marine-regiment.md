@@ -1,10 +1,8 @@
 ---
+title: "6th Marine Regiment"
 id: "org-6th-marine-regiment"
-name: "6th Marine Regiment"
 type: "ORG"
 ---
-
-# 6th Marine Regiment
 
 _Type: Organizations_
 

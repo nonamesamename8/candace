@@ -1,10 +1,8 @@
 ---
+title: "James Gray"
 id: "person-james-gray"
-name: "James Gray"
 type: "PERSON"
 ---
-
-# James Gray
 
 _Type: People_
 

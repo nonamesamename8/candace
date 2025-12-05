@@ -1,10 +1,8 @@
 ---
+title: "Hotel du Pont"
 id: "org-hotel-du-pont"
-name: "Hotel du Pont"
 type: "ORG"
 ---
-
-# Hotel du Pont
 
 _Type: Organizations_
 

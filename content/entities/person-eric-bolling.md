@@ -1,12 +1,10 @@
 ---
+title: "Eric Bolling"
 id: "person-eric-bolling"
-name: "Eric Bolling"
 type: "PERSON"
 aliases:
   - "Bolling"
 ---
-
-# Eric Bolling
 
 _Type: People_
 

@@ -1,10 +1,8 @@
 ---
+title: "Greenville"
 id: "gpe-greenville"
-name: "Greenville"
 type: "GPE"
 ---
-
-# Greenville
 
 _Type: Places_
 

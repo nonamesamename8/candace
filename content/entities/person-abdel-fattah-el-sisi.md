@@ -1,13 +1,11 @@
 ---
+title: "Abdel Fattah el-Sisi"
 id: "person-abdel-fattah-el-sisi"
-name: "Abdel Fattah el-Sisi"
 type: "PERSON"
 aliases:
   - "President al-Sisi"
   - "al-Sisi"
 ---
-
-# Abdel Fattah el-Sisi
 
 _Type: People_
 

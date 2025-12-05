@@ -1,10 +1,8 @@
 ---
+title: "David Schultz"
 id: "person-david-schultz"
-name: "David Schultz"
 type: "PERSON"
 ---
-
-# David Schultz
 
 _Type: People_
 

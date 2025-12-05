@@ -1,12 +1,10 @@
 ---
+title: "Steven Crowder"
 id: "person-steven-crowder"
-name: "Steven Crowder"
 type: "PERSON"
 aliases:
   - "Crowder"
 ---
-
-# Steven Crowder
 
 _Type: People_
 

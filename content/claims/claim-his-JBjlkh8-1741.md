@@ -1,10 +1,9 @@
 ---
+title: "In the near future, there will be a live stream here in Phoe..."
 claim_id: "claim-his-JBjlkh8-1741"
 episode: "his-JBjlkh8"
 type: "promise"
 ---
-
-# Claim: In the near future, there will be a live stream here in Phoe...
 
 **Status:** ⏳ Not yet verified
 **Type:** Promise

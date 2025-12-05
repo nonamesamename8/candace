@@ -1,10 +1,9 @@
 ---
+title: "an hour and a half before Charlie Kirk was assassinated in U..."
 claim_id: "claim-his-JBjlkh8-2994"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: an hour and a half before Charlie Kirk was assassinated in U...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

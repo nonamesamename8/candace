@@ -1,12 +1,10 @@
 ---
+title: "Egypt"
 id: "gpe-egypt"
-name: "Egypt"
 type: "GPE"
 aliases:
   - "Egyptian"
 ---
-
-# Egypt
 
 _Type: Places_
 

@@ -1,12 +1,10 @@
 ---
+title: "Bridge Complex"
 id: "org-bridge-complex"
-name: "Bridge Complex"
 type: "ORG"
 aliases:
   - "Bridge Complex at 1100 North King Street"
 ---
-
-# Bridge Complex
 
 _Type: Organizations_
 

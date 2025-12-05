@@ -1,10 +1,8 @@
 ---
+title: "Yacra"
 id: "person-yacra"
-name: "Yacra"
 type: "PERSON"
 ---
-
-# Yacra
 
 _Type: People_
 

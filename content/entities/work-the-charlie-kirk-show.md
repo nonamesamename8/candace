@@ -1,12 +1,10 @@
 ---
+title: "The Charlie Kirk Show"
 id: "work-the-charlie-kirk-show"
-name: "The Charlie Kirk Show"
 type: "WORK"
 aliases:
   - "Charlie Kirk Show"
 ---
-
-# The Charlie Kirk Show
 
 _Type: Work_
 

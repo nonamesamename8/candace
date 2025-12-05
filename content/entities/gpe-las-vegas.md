@@ -1,12 +1,10 @@
 ---
+title: "Las Vegas"
 id: "gpe-las-vegas"
-name: "Las Vegas"
 type: "GPE"
 aliases:
   - "Vegas"
 ---
-
-# Las Vegas
 
 _Type: Places_
 

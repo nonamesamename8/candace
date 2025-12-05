@@ -1,10 +1,8 @@
 ---
+title: "Mossad"
 id: "org-mossad"
-name: "Mossad"
 type: "ORG"
 ---
-
-# Mossad
 
 _Type: Organizations_
 

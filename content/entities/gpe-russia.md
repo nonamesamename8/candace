@@ -1,10 +1,8 @@
 ---
+title: "Russia"
 id: "gpe-russia"
-name: "Russia"
 type: "GPE"
 ---
-
-# Russia
 
 _Type: Places_
 

@@ -1,12 +1,10 @@
 ---
+title: "Ben Shapiro"
 id: "person-ben-shapiro"
-name: "Ben Shapiro"
 type: "PERSON"
 aliases:
   - "Ben"
 ---
-
-# Ben Shapiro
 
 _Type: People_
 

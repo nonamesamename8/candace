@@ -1,12 +1,10 @@
 ---
+title: "Fatty15"
 id: "org-fatty15"
-name: "Fatty15"
 type: "ORG"
 aliases:
   - "C15"
 ---
-
-# Fatty15
 
 _Type: Organizations_
 

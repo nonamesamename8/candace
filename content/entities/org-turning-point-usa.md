@@ -1,13 +1,11 @@
 ---
+title: "Turning Point USA"
 id: "org-turning-point-usa"
-name: "Turning Point USA"
 type: "ORG"
 aliases:
   - "TPUSA"
   - "Turning Point"
 ---
-
-# Turning Point USA
 
 _Type: Organizations_
 

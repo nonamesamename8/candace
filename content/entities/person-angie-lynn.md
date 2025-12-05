@@ -1,10 +1,8 @@
 ---
+title: "Angie Lynn"
 id: "person-angie-lynn"
-name: "Angie Lynn"
 type: "PERSON"
 ---
-
-# Angie Lynn
 
 _Type: People_
 

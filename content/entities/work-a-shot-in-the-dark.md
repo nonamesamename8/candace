@@ -1,10 +1,8 @@
 ---
+title: "A Shot in the Dark"
 id: "work-a-shot-in-the-dark"
-name: "A Shot in the Dark"
 type: "WORK"
 ---
-
-# A Shot in the Dark
 
 _Type: Work_
 

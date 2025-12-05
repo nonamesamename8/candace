@@ -1,11 +1,10 @@
 ---
+title: "Rob McCoy spoke about Charlie's notebooks and how Mikey McCo..."
 claim_id: "claim-his-JBjlkh8-375"
 episode: "his-JBjlkh8"
 type: "factual"
 veracity: "unverifiable"
 ---
-
-# Claim: Rob McCoy spoke about Charlie's notebooks and how Mikey McCo...
 
 **Status:** ❓ Unverifiable
 **Type:** Factual

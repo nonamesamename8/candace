@@ -1,10 +1,8 @@
 ---
+title: "Canada"
 id: "gpe-canada"
-name: "Canada"
 type: "GPE"
 ---
-
-# Canada
 
 _Type: Places_
 

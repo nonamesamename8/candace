@@ -1,14 +1,12 @@
 ---
+title: "Erica Kirk"
 id: "person-erica-kirk"
-name: "Erica Kirk"
 type: "PERSON"
 aliases:
   - "Erika Kirk"
   - "Erica"
   - "Erika"
 ---
-
-# Erica Kirk
 
 _Type: People_
 

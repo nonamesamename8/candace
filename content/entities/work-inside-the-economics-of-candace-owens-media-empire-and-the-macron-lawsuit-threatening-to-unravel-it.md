@@ -1,12 +1,10 @@
 ---
+title: "Inside the economics of Candace Owens' media empire and the Macron lawsuit threatening to unravel it."
 id: "work-inside-the-economics-of-candace-owens-media-empire-and-the-macron-lawsuit-threatening-to-unravel-it"
-name: "Inside the economics of Candace Owens' media empire and the Macron lawsuit threatening to unravel it."
 type: "WORK"
 aliases:
   - "Fortune article"
 ---
-
-# Inside the economics of Candace Owens' media empire and the Macron lawsuit threatening to unravel it.
 
 _Type: Work_
 

@@ -1,11 +1,10 @@
 ---
+title: "Strange Egyptian jets were following Charlie Kirk and tracki..."
 claim_id: "claim-his-JBjlkh8-458"
 episode: "his-JBjlkh8"
 type: "factual"
 veracity: "unverifiable"
 ---
-
-# Claim: Strange Egyptian jets were following Charlie Kirk and tracki...
 
 **Status:** ❓ Unverifiable
 **Type:** Factual

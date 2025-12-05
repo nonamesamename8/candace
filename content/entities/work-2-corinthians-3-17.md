@@ -1,10 +1,8 @@
 ---
+title: "2 Corinthians 3:17"
 id: "work-2-corinthians-3-17"
-name: "2 Corinthians 3:17"
 type: "WORK"
 ---
-
-# 2 Corinthians 3:17
 
 _Type: Work_
 

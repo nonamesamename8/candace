@@ -1,10 +1,9 @@
 ---
+title: "that's why they want people to have less children, is becaus..."
 claim_id: "claim-his-JBjlkh8-3517"
 episode: "his-JBjlkh8"
 type: "interpretive"
 ---
-
-# Claim: that's why they want people to have less children, is becaus...
 
 **Status:** ⏳ Not yet verified
 **Type:** Interpretive

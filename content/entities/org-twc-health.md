@@ -1,12 +1,10 @@
 ---
+title: "TWC.health"
 id: "org-twc-health"
-name: "TWC.health"
 type: "ORG"
 aliases:
   - "TWC.health/candace"
 ---
-
-# TWC.health
 
 _Type: Organizations_
 

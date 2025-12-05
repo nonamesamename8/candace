@@ -1,10 +1,8 @@
 ---
+title: "Rehoboth Beach"
 id: "gpe-rehoboth-beach"
-name: "Rehoboth Beach"
 type: "GPE"
 ---
-
-# Rehoboth Beach
 
 _Type: Places_
 

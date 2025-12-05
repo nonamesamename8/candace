@@ -1,10 +1,9 @@
 ---
+title: "DOGE is a very new concept as of 2025, put into place by Don..."
 claim_id: "claim-his-JBjlkh8-992"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: DOGE is a very new concept as of 2025, put into place by Don...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

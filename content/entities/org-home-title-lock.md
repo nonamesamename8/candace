@@ -1,12 +1,10 @@
 ---
+title: "Home Title Lock"
 id: "org-home-title-lock"
-name: "Home Title Lock"
 type: "ORG"
 aliases:
   - "hometitlelock.com"
 ---
-
-# Home Title Lock
 
 _Type: Organizations_
 

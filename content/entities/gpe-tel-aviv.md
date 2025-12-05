@@ -1,10 +1,8 @@
 ---
+title: "Tel Aviv"
 id: "gpe-tel-aviv"
-name: "Tel Aviv"
 type: "GPE"
 ---
-
-# Tel Aviv
 
 _Type: Places_
 

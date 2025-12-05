@@ -1,10 +1,8 @@
 ---
+title: "Freddie Ponton"
 id: "person-freddie-ponton"
-name: "Freddie Ponton"
 type: "PERSON"
 ---
-
-# Freddie Ponton
 
 _Type: People_
 

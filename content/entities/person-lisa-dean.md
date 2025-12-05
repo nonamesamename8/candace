@@ -1,12 +1,10 @@
 ---
+title: "Lisa Dean"
 id: "person-lisa-dean"
-name: "Lisa Dean"
 type: "PERSON"
 aliases:
   - "Lisa Dean"
 ---
-
-# Lisa Dean
 
 _Type: People_
 

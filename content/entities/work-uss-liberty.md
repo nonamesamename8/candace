@@ -1,12 +1,10 @@
 ---
+title: "USS Liberty"
 id: "work-uss-liberty"
-name: "USS Liberty"
 type: "WORK"
 aliases:
   - "USS Liberty episode"
 ---
-
-# USS Liberty
 
 _Type: Work_
 

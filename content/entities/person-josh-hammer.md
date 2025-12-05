@@ -1,10 +1,8 @@
 ---
+title: "Josh Hammer"
 id: "person-josh-hammer"
-name: "Josh Hammer"
 type: "PERSON"
 ---
-
-# Josh Hammer
 
 _Type: People_
 

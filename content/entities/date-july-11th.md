@@ -1,12 +1,10 @@
 ---
+title: "July 11th"
 id: "date-july-11th"
-name: "July 11th"
 type: "DATE"
 aliases:
   - "July 11"
 ---
-
-# July 11th
 
 _Type: Dates_
 

@@ -1,12 +1,10 @@
 ---
+title: "Zionism"
 id: "concept-zionism"
-name: "Zionism"
 type: "CONCEPT"
 aliases:
   - "Zionists"
 ---
-
-# Zionism
 
 _Type: Concepts_
 

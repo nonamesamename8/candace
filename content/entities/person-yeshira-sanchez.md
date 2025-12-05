@@ -1,10 +1,8 @@
 ---
+title: "Yeshira Sanchez"
 id: "person-yeshira-sanchez"
-name: "Yeshira Sanchez"
 type: "PERSON"
 ---
-
-# Yeshira Sanchez
 
 _Type: People_
 

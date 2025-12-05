@@ -1,10 +1,8 @@
 ---
+title: "Navy"
 id: "org-navy"
-name: "Navy"
 type: "ORG"
 ---
-
-# Navy
 
 _Type: Organizations_
 

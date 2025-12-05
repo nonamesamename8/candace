@@ -1,10 +1,8 @@
 ---
+title: "Moon landing"
 id: "event-moon-landing"
-name: "Moon landing"
 type: "EVENT"
 ---
-
-# Moon landing
 
 _Type: Events_
 

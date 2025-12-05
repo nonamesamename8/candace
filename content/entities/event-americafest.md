@@ -1,10 +1,8 @@
 ---
+title: "AmericaFest"
 id: "event-americafest"
-name: "AmericaFest"
 type: "EVENT"
 ---
-
-# AmericaFest
 
 _Type: Events_
 

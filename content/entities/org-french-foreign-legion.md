@@ -1,13 +1,11 @@
 ---
+title: "French Foreign Legion"
 id: "org-french-foreign-legion"
-name: "French Foreign Legion"
 type: "ORG"
 aliases:
   - "French Legion"
   - "the French Legion"
 ---
-
-# French Foreign Legion
 
 _Type: Organizations_
 

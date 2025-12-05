@@ -1,6 +1,6 @@
 ---
+title: "United States"
 id: "gpe-united-states"
-name: "United States"
 type: "GPE"
 aliases:
   - "the U.S."
@@ -9,8 +9,6 @@ aliases:
   - "United States of America"
   - "America"
 ---
-
-# United States
 
 _Type: Places_
 

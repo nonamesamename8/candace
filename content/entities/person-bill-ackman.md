@@ -1,12 +1,10 @@
 ---
+title: "Bill Ackman"
 id: "person-bill-ackman"
-name: "Bill Ackman"
 type: "PERSON"
 aliases:
   - "Bill Ackman"
 ---
-
-# Bill Ackman
 
 _Type: People_
 

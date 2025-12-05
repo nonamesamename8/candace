@@ -1,12 +1,10 @@
 ---
+title: "Black Lives Matter"
 id: "org-black-lives-matter"
-name: "Black Lives Matter"
 type: "ORG"
 aliases:
   - "BLM"
 ---
-
-# Black Lives Matter
 
 _Type: Organizations_
 

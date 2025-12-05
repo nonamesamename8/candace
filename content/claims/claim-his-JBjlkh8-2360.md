@@ -1,10 +1,9 @@
 ---
+title: "she is apparently not allowed to own a gun because of variou..."
 claim_id: "claim-his-JBjlkh8-2360"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: she is apparently not allowed to own a gun because of variou...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

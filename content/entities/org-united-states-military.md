@@ -1,10 +1,8 @@
 ---
+title: "United States military"
 id: "org-united-states-military"
-name: "United States military"
 type: "ORG"
 ---
-
-# United States military
 
 _Type: Organizations_
 

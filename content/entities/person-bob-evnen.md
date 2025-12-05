@@ -1,12 +1,10 @@
 ---
+title: "Bob Evnen"
 id: "person-bob-evnen"
-name: "Bob Evnen"
 type: "PERSON"
 aliases:
   - "Bob Evnen"
 ---
-
-# Bob Evnen
 
 _Type: People_
 

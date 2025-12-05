@@ -1,10 +1,8 @@
 ---
+title: "Utah"
 id: "gpe-utah"
-name: "Utah"
 type: "GPE"
 ---
-
-# Utah
 
 _Type: Places_
 

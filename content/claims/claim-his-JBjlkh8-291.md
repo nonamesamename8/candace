@@ -1,10 +1,9 @@
 ---
+title: "Mikey McCoy's wife did not help plan the campus tour event w..."
 claim_id: "claim-his-JBjlkh8-291"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: Mikey McCoy's wife did not help plan the campus tour event w...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

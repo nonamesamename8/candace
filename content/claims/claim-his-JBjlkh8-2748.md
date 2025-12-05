@@ -1,10 +1,9 @@
 ---
+title: "we watched Charlie Kirk die publicly"
 claim_id: "claim-his-JBjlkh8-2748"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: we watched Charlie Kirk die publicly
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

@@ -1,12 +1,10 @@
 ---
+title: "Past as Prologue: Safari Club Illuminates Candace Owens' Allegations"
 id: "work-past-as-prologue-safari-club-illuminates-candace-owens-allegations"
-name: "Past as Prologue: Safari Club Illuminates Candace Owens' Allegations"
 type: "WORK"
 aliases:
   - "Past as Prologue: Safari Club Illuminates Candace Owens' Allegations (article)"
 ---
-
-# Past as Prologue: Safari Club Illuminates Candace Owens' Allegations
 
 _Type: Work_
 

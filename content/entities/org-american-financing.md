@@ -1,13 +1,11 @@
 ---
+title: "American Financing"
 id: "org-american-financing"
-name: "American Financing"
 type: "ORG"
 aliases:
   - "AmericanFinancing.net"
   - "American Financing"
 ---
-
-# American Financing
 
 _Type: Organizations_
 

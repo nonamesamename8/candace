@@ -1,12 +1,10 @@
 ---
+title: "Better Business Bureau"
 id: "org-better-business-bureau"
-name: "Better Business Bureau"
 type: "ORG"
 aliases:
   - "BBB"
 ---
-
-# Better Business Bureau
 
 _Type: Organizations_
 

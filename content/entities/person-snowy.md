@@ -1,10 +1,8 @@
 ---
+title: "Snowy"
 id: "person-snowy"
-name: "Snowy"
 type: "PERSON"
 ---
-
-# Snowy
 
 _Type: People_
 

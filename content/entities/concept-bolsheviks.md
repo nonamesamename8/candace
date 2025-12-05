@@ -1,10 +1,8 @@
 ---
+title: "Bolsheviks"
 id: "concept-bolsheviks"
-name: "Bolsheviks"
 type: "CONCEPT"
 ---
-
-# Bolsheviks
 
 _Type: Concepts_
 

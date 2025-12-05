@@ -1,13 +1,11 @@
 ---
+title: "Club Candace"
 id: "org-club-candace"
-name: "Club Candace"
 type: "ORG"
 aliases:
   - "book club"
   - "Club Candace"
 ---
-
-# Club Candace
 
 _Type: Organizations_
 

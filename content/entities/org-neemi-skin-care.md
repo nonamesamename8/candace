@@ -1,14 +1,12 @@
 ---
+title: "Neemi Skin Care"
 id: "org-neemi-skin-care"
-name: "Neemi Skin Care"
 type: "ORG"
 aliases:
   - "Neeme Skin Care"
   - "Neemi"
   - "neemiskincare.com"
 ---
-
-# Neemi Skin Care
 
 _Type: Organizations_
 

@@ -1,10 +1,8 @@
 ---
+title: "Malibu"
 id: "gpe-malibu"
-name: "Malibu"
 type: "GPE"
 ---
-
-# Malibu
 
 _Type: Places_
 

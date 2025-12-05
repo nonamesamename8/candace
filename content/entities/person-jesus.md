@@ -1,10 +1,8 @@
 ---
+title: "Jesus"
 id: "person-jesus"
-name: "Jesus"
 type: "PERSON"
 ---
-
-# Jesus
 
 _Type: People_
 

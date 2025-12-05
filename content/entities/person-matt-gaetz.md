@@ -1,10 +1,8 @@
 ---
+title: "Matt Gaetz"
 id: "person-matt-gaetz"
-name: "Matt Gaetz"
 type: "PERSON"
 ---
-
-# Matt Gaetz
 
 _Type: People_
 

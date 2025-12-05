@@ -1,10 +1,8 @@
 ---
+title: "Dave Smith"
 id: "person-dave-smith"
-name: "Dave Smith"
 type: "PERSON"
 ---
-
-# Dave Smith
 
 _Type: People_
 

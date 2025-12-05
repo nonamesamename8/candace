@@ -1,12 +1,10 @@
 ---
+title: "Cloverstone Ventures"
 id: "org-cloverstone-ventures"
-name: "Cloverstone Ventures"
 type: "ORG"
 aliases:
   - "Cloverstone Ventures"
 ---
-
-# Cloverstone Ventures
 
 _Type: Organizations_
 

@@ -1,10 +1,8 @@
 ---
+title: "Lawfare"
 id: "concept-lawfare"
-name: "Lawfare"
 type: "CONCEPT"
 ---
-
-# Lawfare
 
 _Type: Concepts_
 

@@ -1,12 +1,10 @@
 ---
+title: "Jeffrey Epstein"
 id: "person-jeffrey-epstein"
-name: "Jeffrey Epstein"
 type: "PERSON"
 aliases:
   - "Epstein"
 ---
-
-# Jeffrey Epstein
 
 _Type: People_
 

@@ -1,10 +1,9 @@
 ---
+title: "Charlie Kirk made an explicit request to put together a DOGE..."
 claim_id: "claim-his-JBjlkh8-943"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: Charlie Kirk made an explicit request to put together a DOGE...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

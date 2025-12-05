@@ -1,10 +1,8 @@
 ---
+title: "Mickey Shaw"
 id: "person-mickey-shaw"
-name: "Mickey Shaw"
 type: "PERSON"
 ---
-
-# Mickey Shaw
 
 _Type: People_
 

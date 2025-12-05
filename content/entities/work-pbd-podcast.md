@@ -1,12 +1,10 @@
 ---
+title: "PBD podcast"
 id: "work-pbd-podcast"
-name: "PBD podcast"
 type: "WORK"
 aliases:
   - "PBD"
 ---
-
-# PBD podcast
 
 _Type: Work_
 

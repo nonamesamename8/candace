@@ -1,12 +1,10 @@
 ---
+title: "Cam Higby"
 id: "person-cam-higby"
-name: "Cam Higby"
 type: "PERSON"
 aliases:
   - "Kam Higby"
 ---
-
-# Cam Higby
 
 _Type: People_
 

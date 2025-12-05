@@ -1,10 +1,8 @@
 ---
+title: "CandaceLikesGold.com"
 id: "org-candacelikesgold-com"
-name: "CandaceLikesGold.com"
 type: "ORG"
 ---
-
-# CandaceLikesGold.com
 
 _Type: Organizations_
 

@@ -1,12 +1,10 @@
 ---
+title: "The Pentagon"
 id: "org-the-pentagon"
-name: "The Pentagon"
 type: "ORG"
 aliases:
   - "Pentagon"
 ---
-
-# The Pentagon
 
 _Type: Organizations_
 

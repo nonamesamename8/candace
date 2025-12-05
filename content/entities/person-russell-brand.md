@@ -1,10 +1,8 @@
 ---
+title: "Russell Brand"
 id: "person-russell-brand"
-name: "Russell Brand"
 type: "PERSON"
 ---
-
-# Russell Brand
 
 _Type: People_
 

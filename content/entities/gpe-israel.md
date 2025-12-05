@@ -1,12 +1,10 @@
 ---
+title: "Israel"
 id: "gpe-israel"
-name: "Israel"
 type: "GPE"
 aliases:
   - "Israeli"
 ---
-
-# Israel
 
 _Type: Places_
 

@@ -1,12 +1,10 @@
 ---
+title: "TPUSA Faith"
 id: "org-tpusa-faith"
-name: "TPUSA Faith"
 type: "ORG"
 aliases:
   - "TPUSA Faith affiliated"
 ---
-
-# TPUSA Faith
 
 _Type: Organizations_
 

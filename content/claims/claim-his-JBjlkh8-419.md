@@ -1,11 +1,10 @@
 ---
+title: "The Utah Valley University event came together very quickly,..."
 claim_id: "claim-his-JBjlkh8-419"
 episode: "his-JBjlkh8"
 type: "factual"
 veracity: "unverifiable"
 ---
-
-# Claim: The Utah Valley University event came together very quickly,...
 
 **Status:** ❓ Unverifiable
 **Type:** Factual

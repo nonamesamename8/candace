@@ -5,8 +5,6 @@ published: "2025-09-15"
 youtube_url: "https://www.youtube.com/watch?v=czVBmqZP6Ss"
 ---
 
-# They Are Lying About Charlie Kirk. | Candace Ep 235
-
 **Published:** 2025-09-15 | [Watch on YouTube](https://www.youtube.com/watch?v=czVBmqZP6Ss)
 
 <div class="youtube-embed">

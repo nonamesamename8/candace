@@ -1,11 +1,10 @@
 ---
+title: "Rob McCoy tried to sanitize someone who spent time in prison..."
 claim_id: "claim-his-JBjlkh8-336"
 episode: "his-JBjlkh8"
 type: "factual"
 veracity: "unverifiable"
 ---
-
-# Claim: Rob McCoy tried to sanitize someone who spent time in prison...
 
 **Status:** ❓ Unverifiable
 **Type:** Factual

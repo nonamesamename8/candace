@@ -1,10 +1,8 @@
 ---
+title: "Ryan Reynolds"
 id: "person-ryan-reynolds"
-name: "Ryan Reynolds"
 type: "PERSON"
 ---
-
-# Ryan Reynolds
 
 _Type: People_
 

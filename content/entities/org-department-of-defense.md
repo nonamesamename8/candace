@@ -1,14 +1,12 @@
 ---
+title: "Department of Defense"
 id: "org-department-of-defense"
-name: "Department of Defense"
 type: "ORG"
 aliases:
   - "DOD"
   - "D.O.D."
   - "Department of Defense"
 ---
-
-# Department of Defense
 
 _Type: Organizations_
 

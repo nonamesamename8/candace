@@ -1,12 +1,10 @@
 ---
+title: "Hollywood"
 id: "gpe-hollywood"
-name: "Hollywood"
 type: "GPE"
 aliases:
   - "Hollywood"
 ---
-
-# Hollywood
 
 _Type: Places_
 

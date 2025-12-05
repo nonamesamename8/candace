@@ -1,10 +1,8 @@
 ---
+title: "Riyadh"
 id: "gpe-riyadh"
-name: "Riyadh"
 type: "GPE"
 ---
-
-# Riyadh
 
 _Type: Places_
 

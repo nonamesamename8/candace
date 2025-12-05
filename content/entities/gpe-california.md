@@ -1,10 +1,8 @@
 ---
+title: "California"
 id: "gpe-california"
-name: "California"
 type: "GPE"
 ---
-
-# California
 
 _Type: Places_
 

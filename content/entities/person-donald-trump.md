@@ -1,13 +1,11 @@
 ---
+title: "Donald Trump"
 id: "person-donald-trump"
-name: "Donald Trump"
 type: "PERSON"
 aliases:
   - "Trump"
   - "Donald"
 ---
-
-# Donald Trump
 
 _Type: People_
 

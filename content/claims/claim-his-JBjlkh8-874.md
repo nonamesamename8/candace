@@ -1,10 +1,9 @@
 ---
+title: "Charlie Kirk made sure the organization was audited by a thi..."
 claim_id: "claim-his-JBjlkh8-874"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: Charlie Kirk made sure the organization was audited by a thi...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

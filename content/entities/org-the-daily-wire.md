@@ -1,10 +1,8 @@
 ---
+title: "The Daily Wire"
 id: "org-the-daily-wire"
-name: "The Daily Wire"
 type: "ORG"
 ---
-
-# The Daily Wire
 
 _Type: Organizations_
 

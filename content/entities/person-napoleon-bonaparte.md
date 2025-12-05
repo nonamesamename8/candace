@@ -1,12 +1,10 @@
 ---
+title: "Napoleon Bonaparte"
 id: "person-napoleon-bonaparte"
-name: "Napoleon Bonaparte"
 type: "PERSON"
 aliases:
   - "Napoleon"
 ---
-
-# Napoleon Bonaparte
 
 _Type: People_
 

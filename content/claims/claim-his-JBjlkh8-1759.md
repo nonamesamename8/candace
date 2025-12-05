@@ -1,10 +1,9 @@
 ---
+title: "If Candace is available, we would sincerely welcome her part..."
 claim_id: "claim-his-JBjlkh8-1759"
 episode: "his-JBjlkh8"
 type: "promise"
 ---
-
-# Claim: If Candace is available, we would sincerely welcome her part...
 
 **Status:** ⏳ Not yet verified
 **Type:** Promise

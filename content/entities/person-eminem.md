@@ -1,10 +1,8 @@
 ---
+title: "Eminem"
 id: "person-eminem"
-name: "Eminem"
 type: "PERSON"
 ---
-
-# Eminem
 
 _Type: People_
 

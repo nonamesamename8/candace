@@ -1,12 +1,10 @@
 ---
+title: "Tucker Carlson speech"
 id: "event-tucker-carlson-speech"
-name: "Tucker Carlson speech"
 type: "EVENT"
 aliases:
   - "Tucker Carlson speech"
 ---
-
-# Tucker Carlson speech
 
 _Type: Events_
 

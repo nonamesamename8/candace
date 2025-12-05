@@ -1,10 +1,8 @@
 ---
+title: "Tim Pool"
 id: "person-tim-pool"
-name: "Tim Pool"
 type: "PERSON"
 ---
-
-# Tim Pool
 
 _Type: People_
 

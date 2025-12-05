@@ -1,10 +1,8 @@
 ---
+title: "Project Constitution"
 id: "org-project-constitution"
-name: "Project Constitution"
 type: "ORG"
 ---
-
-# Project Constitution
 
 _Type: Organizations_
 

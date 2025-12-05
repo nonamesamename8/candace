@@ -1,12 +1,10 @@
 ---
+title: "Washington, D.C."
 id: "gpe-washington-d-c"
-name: "Washington, D.C."
 type: "GPE"
 aliases:
   - "DC"
 ---
-
-# Washington, D.C.
 
 _Type: Places_
 

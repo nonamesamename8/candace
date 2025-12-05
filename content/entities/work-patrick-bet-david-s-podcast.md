@@ -1,10 +1,8 @@
 ---
+title: "Patrick Bet-David's podcast"
 id: "work-patrick-bet-david-s-podcast"
-name: "Patrick Bet-David's podcast"
 type: "WORK"
 ---
-
-# Patrick Bet-David's podcast
 
 _Type: Work_
 

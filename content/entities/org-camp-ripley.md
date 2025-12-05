@@ -1,12 +1,10 @@
 ---
+title: "Camp Ripley"
 id: "org-camp-ripley"
-name: "Camp Ripley"
 type: "ORG"
 aliases:
   - "Camp Riley"
 ---
-
-# Camp Ripley
 
 _Type: Organizations_
 

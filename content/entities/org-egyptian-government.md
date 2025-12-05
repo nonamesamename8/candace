@@ -1,13 +1,11 @@
 ---
+title: "Egyptian government"
 id: "org-egyptian-government"
-name: "Egyptian government"
 type: "ORG"
 aliases:
   - "Egyptian presidency"
   - "Egyptian presidency website"
 ---
-
-# Egyptian government
 
 _Type: Organizations_
 

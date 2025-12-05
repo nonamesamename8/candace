@@ -1,10 +1,9 @@
 ---
+title: "The Game, who is a hip hop rapper, is releasing an album, an..."
 claim_id: "claim-his-JBjlkh8-3071"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: The Game, who is a hip hop rapper, is releasing an album, an...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

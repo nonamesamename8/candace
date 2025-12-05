@@ -1,10 +1,8 @@
 ---
+title: "Kingsley Wilson"
 id: "person-kingsley-wilson"
-name: "Kingsley Wilson"
 type: "PERSON"
 ---
-
-# Kingsley Wilson
 
 _Type: People_
 

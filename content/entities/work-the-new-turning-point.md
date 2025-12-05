@@ -1,10 +1,8 @@
 ---
+title: "The New Turning Point"
 id: "work-the-new-turning-point"
-name: "The New Turning Point"
 type: "WORK"
 ---
-
-# The New Turning Point
 
 _Type: Work_
 

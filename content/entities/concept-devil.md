@@ -1,10 +1,8 @@
 ---
+title: "devil"
 id: "concept-devil"
-name: "devil"
 type: "CONCEPT"
 ---
-
-# devil
 
 _Type: Concepts_
 

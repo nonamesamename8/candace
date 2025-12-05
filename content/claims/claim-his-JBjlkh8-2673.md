@@ -1,10 +1,9 @@
 ---
+title: "the president of France allegedly paid $1.5 million for my a..."
 claim_id: "claim-his-JBjlkh8-2673"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: the president of France allegedly paid $1.5 million for my a...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

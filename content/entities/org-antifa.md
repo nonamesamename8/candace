@@ -1,10 +1,8 @@
 ---
+title: "Antifa"
 id: "org-antifa"
-name: "Antifa"
 type: "ORG"
 ---
-
-# Antifa
 
 _Type: Organizations_
 

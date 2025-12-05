@@ -1,14 +1,12 @@
 ---
+title: "Make Him a Sandwich"
 id: "work-make-him-a-sandwich"
-name: "Make Him a Sandwich"
 type: "WORK"
 aliases:
   - "MakeHimASandwich.com"
   - "Make Him a Sandwich website"
   - "Make Him a Sandwich"
 ---
-
-# Make Him a Sandwich
 
 _Type: Work_
 

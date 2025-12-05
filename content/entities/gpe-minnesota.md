@@ -1,10 +1,8 @@
 ---
+title: "Minnesota"
 id: "gpe-minnesota"
-name: "Minnesota"
 type: "GPE"
 ---
-
-# Minnesota
 
 _Type: Places_
 

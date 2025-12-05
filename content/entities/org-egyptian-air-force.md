@@ -1,10 +1,8 @@
 ---
+title: "Egyptian Air Force"
 id: "org-egyptian-air-force"
-name: "Egyptian Air Force"
 type: "ORG"
 ---
-
-# Egyptian Air Force
 
 _Type: Organizations_
 

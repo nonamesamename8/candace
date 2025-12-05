@@ -1,10 +1,8 @@
 ---
+title: "James O'Keefe"
 id: "person-james-o-keefe"
-name: "James O'Keefe"
 type: "PERSON"
 ---
-
-# James O'Keefe
 
 _Type: People_
 

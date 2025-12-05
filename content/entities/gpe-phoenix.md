@@ -1,10 +1,8 @@
 ---
+title: "Phoenix"
 id: "gpe-phoenix"
-name: "Phoenix"
 type: "GPE"
 ---
-
-# Phoenix
 
 _Type: Places_
 

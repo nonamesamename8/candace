@@ -1,10 +1,9 @@
 ---
+title: "I contributed greatly to Turning Point USA's success, and th..."
 claim_id: "claim-his-JBjlkh8-3702"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: I contributed greatly to Turning Point USA's success, and th...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

@@ -1,10 +1,8 @@
 ---
+title: "Camp Ripley"
 id: "gpe-camp-ripley"
-name: "Camp Ripley"
 type: "GPE"
 ---
-
-# Camp Ripley
 
 _Type: Places_
 

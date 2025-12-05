@@ -1,12 +1,10 @@
 ---
+title: "Macy Crofts"
 id: "person-macy-crofts"
-name: "Macy Crofts"
 type: "PERSON"
 aliases:
   - "Macy"
 ---
-
-# Macy Crofts
 
 _Type: People_
 

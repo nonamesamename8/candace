@@ -1,10 +1,8 @@
 ---
+title: "Army"
 id: "org-army"
-name: "Army"
 type: "ORG"
 ---
-
-# Army
 
 _Type: Organizations_
 

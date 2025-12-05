@@ -1,10 +1,8 @@
 ---
+title: "end of May"
 id: "date-end-of-may"
-name: "end of May"
 type: "DATE"
 ---
-
-# end of May
 
 _Type: Dates_
 

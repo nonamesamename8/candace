@@ -5,8 +5,6 @@ published: "2025-12-01"
 youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 ---
 
-# Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
-
 **Published:** 2025-12-01 | [Watch on YouTube](https://www.youtube.com/watch?v=tB5SXXmd9vU)
 
 <div class="youtube-embed">

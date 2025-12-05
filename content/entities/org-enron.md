@@ -1,10 +1,8 @@
 ---
+title: "Enron"
 id: "org-enron"
-name: "Enron"
 type: "ORG"
 ---
-
-# Enron
 
 _Type: Organizations_
 

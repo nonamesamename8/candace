@@ -1,10 +1,9 @@
 ---
+title: "there is definitely something military that happened when Ch..."
 claim_id: "claim-his-JBjlkh8-3606"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: there is definitely something military that happened when Ch...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

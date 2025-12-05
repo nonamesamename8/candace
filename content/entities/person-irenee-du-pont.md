@@ -1,12 +1,10 @@
 ---
+title: "Irénée du Pont"
 id: "person-irenee-du-pont"
-name: "Irénée du Pont"
 type: "PERSON"
 aliases:
   - "Irénée du Pont"
 ---
-
-# Irénée du Pont
 
 _Type: People_
 

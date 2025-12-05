@@ -1,12 +1,10 @@
 ---
+title: "Becoming Brigitte"
 id: "work-becoming-brigitte"
-name: "Becoming Brigitte"
 type: "WORK"
 aliases:
   - "Becoming Brigitte series"
 ---
-
-# Becoming Brigitte
 
 _Type: Work_
 

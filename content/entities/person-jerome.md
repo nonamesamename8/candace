@@ -1,10 +1,8 @@
 ---
+title: "Jerome"
 id: "person-jerome"
-name: "Jerome"
 type: "PERSON"
 ---
-
-# Jerome
 
 _Type: People_
 

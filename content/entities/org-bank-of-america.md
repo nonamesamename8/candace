@@ -1,10 +1,8 @@
 ---
+title: "Bank of America"
 id: "org-bank-of-america"
-name: "Bank of America"
 type: "ORG"
 ---
-
-# Bank of America
 
 _Type: Organizations_
 

@@ -1,10 +1,8 @@
 ---
+title: "Wyoming"
 id: "gpe-wyoming"
-name: "Wyoming"
 type: "GPE"
 ---
-
-# Wyoming
 
 _Type: Places_
 

@@ -1,10 +1,8 @@
 ---
+title: "Omaha"
 id: "gpe-omaha"
-name: "Omaha"
 type: "GPE"
 ---
-
-# Omaha
 
 _Type: Places_
 

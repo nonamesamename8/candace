@@ -1,11 +1,10 @@
 ---
+title: "Mikey McCoy jumped on Liberty University's stage for an even..."
 claim_id: "claim-his-JBjlkh8-384"
 episode: "his-JBjlkh8"
 type: "factual"
 veracity: "true"
 ---
-
-# Claim: Mikey McCoy jumped on Liberty University's stage for an even...
 
 **Status:** ✅ True
 **Type:** Factual

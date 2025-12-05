@@ -1,12 +1,10 @@
 ---
+title: "Charlie Kirk"
 id: "person-charlie-kirk"
-name: "Charlie Kirk"
 type: "PERSON"
 aliases:
   - "Charlie"
 ---
-
-# Charlie Kirk
 
 _Type: People_
 

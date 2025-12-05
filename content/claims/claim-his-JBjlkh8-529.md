@@ -1,10 +1,9 @@
 ---
+title: "Charlie's security team did not issue him first aid when he ..."
 claim_id: "claim-his-JBjlkh8-529"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: Charlie's security team did not issue him first aid when he ...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

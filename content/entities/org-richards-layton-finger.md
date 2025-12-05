@@ -1,12 +1,10 @@
 ---
+title: "Richards, Layton & Finger"
 id: "org-richards-layton-finger"
-name: "Richards, Layton & Finger"
 type: "ORG"
 aliases:
   - "Richards Layton & Finger"
 ---
-
-# Richards, Layton & Finger
 
 _Type: Organizations_
 

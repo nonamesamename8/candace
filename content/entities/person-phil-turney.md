@@ -1,10 +1,8 @@
 ---
+title: "Phil Turney"
 id: "person-phil-turney"
-name: "Phil Turney"
 type: "PERSON"
 ---
-
-# Phil Turney
 
 _Type: People_
 

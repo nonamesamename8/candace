@@ -1,12 +1,10 @@
 ---
+title: "Cairo"
 id: "gpe-cairo"
-name: "Cairo"
 type: "GPE"
 aliases:
   - "Cairo"
 ---
-
-# Cairo
 
 _Type: Places_
 

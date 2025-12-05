@@ -1,10 +1,8 @@
 ---
+title: "Syria"
 id: "gpe-syria"
-name: "Syria"
 type: "GPE"
 ---
-
-# Syria
 
 _Type: Places_
 

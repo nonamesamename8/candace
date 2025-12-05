@@ -1,12 +1,10 @@
 ---
+title: "Utah Valley University"
 id: "org-utah-valley-university"
-name: "Utah Valley University"
 type: "ORG"
 aliases:
   - "UVU"
 ---
-
-# Utah Valley University
 
 _Type: Organizations_
 

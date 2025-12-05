@@ -1,13 +1,11 @@
 ---
+title: "Candace Owens"
 id: "person-candace-owens"
-name: "Candace Owens"
 type: "PERSON"
 aliases:
   - "Candace"
   - "Candace"
 ---
-
-# Candace Owens
 
 _Type: People_
 

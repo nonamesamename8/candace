@@ -1,12 +1,10 @@
 ---
+title: "RNC"
 id: "org-rnc"
-name: "RNC"
 type: "ORG"
 aliases:
   - "Republican National Committee"
 ---
-
-# RNC
 
 _Type: Organizations_
 

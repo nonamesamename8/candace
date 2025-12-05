@@ -1,10 +1,8 @@
 ---
+title: "Wilmington University"
 id: "org-wilmington-university"
-name: "Wilmington University"
 type: "ORG"
 ---
-
-# Wilmington University
 
 _Type: Organizations_
 

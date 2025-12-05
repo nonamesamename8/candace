@@ -1,10 +1,9 @@
 ---
+title: "she once handcuffed herself to the Twitter headquarters beca..."
 claim_id: "claim-his-JBjlkh8-2348"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: she once handcuffed herself to the Twitter headquarters beca...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

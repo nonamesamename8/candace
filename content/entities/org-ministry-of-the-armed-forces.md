@@ -1,12 +1,10 @@
 ---
+title: "Ministry of the Armed Forces"
 id: "org-ministry-of-the-armed-forces"
-name: "Ministry of the Armed Forces"
 type: "ORG"
 aliases:
   - "French Ministry of the Armed Forces"
 ---
-
-# Ministry of the Armed Forces
 
 _Type: Organizations_
 

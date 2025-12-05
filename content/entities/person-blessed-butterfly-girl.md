@@ -1,10 +1,8 @@
 ---
+title: "Blessed Butterfly Girl"
 id: "person-blessed-butterfly-girl"
-name: "Blessed Butterfly Girl"
 type: "PERSON"
 ---
-
-# Blessed Butterfly Girl
 
 _Type: People_
 

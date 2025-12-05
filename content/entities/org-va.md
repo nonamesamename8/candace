@@ -1,12 +1,10 @@
 ---
+title: "VA"
 id: "org-va"
-name: "VA"
 type: "ORG"
 aliases:
   - "Department of Veterans Affairs"
 ---
-
-# VA
 
 _Type: Organizations_
 

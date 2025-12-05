@@ -1,12 +1,10 @@
 ---
+title: "the 60s"
 id: "date-the-60s"
-name: "the 60s"
 type: "DATE"
 aliases:
   - "1960s"
 ---
-
-# the 60s
 
 _Type: Dates_
 

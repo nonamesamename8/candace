@@ -1,10 +1,8 @@
 ---
+title: "YouTube"
 id: "org-youtube"
-name: "YouTube"
 type: "ORG"
 ---
-
-# YouTube
 
 _Type: Organizations_
 

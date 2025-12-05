@@ -1,12 +1,10 @@
 ---
+title: "Department of Justice"
 id: "org-department-of-justice"
-name: "Department of Justice"
 type: "ORG"
 aliases:
   - "DOJ"
 ---
-
-# Department of Justice
 
 _Type: Organizations_
 

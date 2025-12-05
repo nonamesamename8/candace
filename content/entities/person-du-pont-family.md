@@ -1,12 +1,10 @@
 ---
+title: "du Pont family"
 id: "person-du-pont-family"
-name: "du Pont family"
 type: "PERSON"
 aliases:
   - "du Ponts"
 ---
-
-# du Pont family
 
 _Type: People_
 

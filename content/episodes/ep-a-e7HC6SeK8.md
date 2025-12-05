@@ -5,8 +5,6 @@ published: "2025-12-02"
 youtube_url: "https://www.youtube.com/watch?v=a-e7HC6SeK8"
 ---
 
-# Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272
-
 **Published:** 2025-12-02 | [Watch on YouTube](https://www.youtube.com/watch?v=a-e7HC6SeK8)
 
 <div class="youtube-embed">

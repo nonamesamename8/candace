@@ -1,10 +1,8 @@
 ---
+title: "PureTalk"
 id: "org-puretalk"
-name: "PureTalk"
 type: "ORG"
 ---
-
-# PureTalk
 
 _Type: Organizations_
 

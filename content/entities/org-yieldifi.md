@@ -1,10 +1,8 @@
 ---
+title: "YieldiFi"
 id: "org-yieldifi"
-name: "YieldiFi"
 type: "ORG"
 ---
-
-# YieldiFi
 
 _Type: Organizations_
 

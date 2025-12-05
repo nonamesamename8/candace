@@ -1,10 +1,8 @@
 ---
+title: "Vanity Fair"
 id: "org-vanity-fair"
-name: "Vanity Fair"
 type: "ORG"
 ---
-
-# Vanity Fair
 
 _Type: Organizations_
 

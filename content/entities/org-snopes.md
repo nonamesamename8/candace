@@ -1,10 +1,8 @@
 ---
+title: "Snopes"
 id: "org-snopes"
-name: "Snopes"
 type: "ORG"
 ---
-
-# Snopes
 
 _Type: Organizations_
 

@@ -1,10 +1,8 @@
 ---
+title: "Paris Design Week"
 id: "event-paris-design-week"
-name: "Paris Design Week"
 type: "EVENT"
 ---
-
-# Paris Design Week
 
 _Type: Events_
 

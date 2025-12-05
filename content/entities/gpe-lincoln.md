@@ -1,12 +1,10 @@
 ---
+title: "Lincoln"
 id: "gpe-lincoln"
-name: "Lincoln"
 type: "GPE"
 aliases:
   - "Lincoln, Nebraska"
 ---
-
-# Lincoln
 
 _Type: Places_
 

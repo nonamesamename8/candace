@@ -1,10 +1,8 @@
 ---
+title: "Xavier Poussard"
 id: "person-xavier-poussard"
-name: "Xavier Poussard"
 type: "PERSON"
 ---
-
-# Xavier Poussard
 
 _Type: People_
 

@@ -1,10 +1,8 @@
 ---
+title: "Bracebridge Complex"
 id: "org-bracebridge-complex"
-name: "Bracebridge Complex"
 type: "ORG"
 ---
-
-# Bracebridge Complex
 
 _Type: Organizations_
 

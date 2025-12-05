@@ -1,10 +1,8 @@
 ---
+title: "South Africa"
 id: "gpe-south-africa"
-name: "South Africa"
 type: "GPE"
 ---
-
-# South Africa
 
 _Type: Places_
 

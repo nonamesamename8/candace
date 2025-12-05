@@ -1,10 +1,8 @@
 ---
+title: "Fortune"
 id: "org-fortune"
-name: "Fortune"
 type: "ORG"
 ---
-
-# Fortune
 
 _Type: Organizations_
 

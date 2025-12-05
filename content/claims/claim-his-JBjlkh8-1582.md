@@ -1,10 +1,9 @@
 ---
+title: "they were selling kit of what Charlie died in to the tune of..."
 claim_id: "claim-his-JBjlkh8-1582"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: they were selling kit of what Charlie died in to the tune of...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

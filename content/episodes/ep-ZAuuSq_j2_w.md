@@ -5,8 +5,6 @@ published: "2025-12-05"
 youtube_url: "https://www.youtube.com/watch?v=ZAuuSq_j2_w"
 ---
 
-# Shocking Revelation About The Egyptian Planes... | Candace Ep 274
-
 **Published:** 2025-12-05 | [Watch on YouTube](https://www.youtube.com/watch?v=ZAuuSq_j2_w)
 
 <div class="youtube-embed">

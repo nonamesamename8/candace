@@ -1,10 +1,8 @@
 ---
+title: "National Gendarmerie Intervention Group"
 id: "org-national-gendarmerie-intervention-group"
-name: "National Gendarmerie Intervention Group"
 type: "ORG"
 ---
-
-# National Gendarmerie Intervention Group
 
 _Type: Organizations_
 

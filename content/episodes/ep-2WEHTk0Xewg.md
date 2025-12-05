@@ -5,8 +5,6 @@ published: "2025-09-17"
 youtube_url: "https://www.youtube.com/watch?v=2WEHTk0Xewg"
 ---
 
-# Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
-
 **Published:** 2025-09-17 | [Watch on YouTube](https://www.youtube.com/watch?v=2WEHTk0Xewg)
 
 <div class="youtube-embed">

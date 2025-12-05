@@ -1,10 +1,9 @@
 ---
+title: "I spoke about it more at length with Russell Brand on his sh..."
 claim_id: "claim-his-JBjlkh8-3473"
 episode: "his-JBjlkh8"
 type: "prediction"
 ---
-
-# Claim: I spoke about it more at length with Russell Brand on his sh...
 
 **Status:** ⏳ Not yet verified
 **Type:** Prediction

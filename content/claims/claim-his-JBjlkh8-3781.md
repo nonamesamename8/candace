@@ -1,10 +1,9 @@
 ---
+title: "Kanye said 'if you're a fan of Kanye West, you're not a fan ..."
 claim_id: "claim-his-JBjlkh8-3781"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: Kanye said 'if you're a fan of Kanye West, you're not a fan ...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

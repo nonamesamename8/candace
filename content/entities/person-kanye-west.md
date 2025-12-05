@@ -1,13 +1,11 @@
 ---
+title: "Kanye West"
 id: "person-kanye-west"
-name: "Kanye West"
 type: "PERSON"
 aliases:
   - "Ye"
   - "Kanye"
 ---
-
-# Kanye West
 
 _Type: People_
 

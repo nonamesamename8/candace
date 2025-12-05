@@ -1,10 +1,8 @@
 ---
+title: "Justin Strife"
 id: "person-justin-strife"
-name: "Justin Strife"
 type: "PERSON"
 ---
-
-# Justin Strife
 
 _Type: People_
 

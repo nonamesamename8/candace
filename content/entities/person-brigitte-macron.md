@@ -1,6 +1,6 @@
 ---
+title: "Brigitte Macron"
 id: "person-brigitte-macron"
-name: "Brigitte Macron"
 type: "PERSON"
 aliases:
   - "Macrons"
@@ -9,8 +9,6 @@ aliases:
   - "Emmanuel Macron"
   - "Macron"
 ---
-
-# Brigitte Macron
 
 _Type: People_
 

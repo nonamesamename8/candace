@@ -1,10 +1,8 @@
 ---
+title: "global state military"
 id: "concept-global-state-military"
-name: "global state military"
 type: "CONCEPT"
 ---
-
-# global state military
 
 _Type: Concepts_
 

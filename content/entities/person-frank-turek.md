@@ -1,10 +1,8 @@
 ---
+title: "Frank Turek"
 id: "person-frank-turek"
-name: "Frank Turek"
 type: "PERSON"
 ---
-
-# Frank Turek
 
 _Type: People_
 

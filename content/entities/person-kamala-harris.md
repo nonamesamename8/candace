@@ -1,12 +1,10 @@
 ---
+title: "Kamala Harris"
 id: "person-kamala-harris"
-name: "Kamala Harris"
 type: "PERSON"
 aliases:
   - "Kamala"
 ---
-
-# Kamala Harris
 
 _Type: People_
 

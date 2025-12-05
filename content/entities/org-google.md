@@ -1,10 +1,8 @@
 ---
+title: "Google"
 id: "org-google"
-name: "Google"
 type: "ORG"
 ---
-
-# Google
 
 _Type: Organizations_
 

@@ -1,10 +1,8 @@
 ---
+title: "Minot Air Force Base"
 id: "org-minot-air-force-base"
-name: "Minot Air Force Base"
 type: "ORG"
 ---
-
-# Minot Air Force Base
 
 _Type: Organizations_
 

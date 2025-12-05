@@ -1,13 +1,11 @@
 ---
+title: "Federal Reserve"
 id: "org-federal-reserve"
-name: "Federal Reserve"
 type: "ORG"
 aliases:
   - "the Fed"
   - "Fed"
 ---
-
-# Federal Reserve
 
 _Type: Organizations_
 

@@ -1,10 +1,8 @@
 ---
+title: "Pavel Durov"
 id: "person-pavel-durov"
-name: "Pavel Durov"
 type: "PERSON"
 ---
-
-# Pavel Durov
 
 _Type: People_
 

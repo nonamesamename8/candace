@@ -1,12 +1,10 @@
 ---
+title: "United States Congress"
 id: "org-united-states-congress"
-name: "United States Congress"
 type: "ORG"
 aliases:
   - "Congress"
 ---
-
-# United States Congress
 
 _Type: Organizations_
 

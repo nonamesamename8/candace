@@ -1,12 +1,10 @@
 ---
+title: "MKUltra"
 id: "concept-mkultra"
-name: "MKUltra"
 type: "CONCEPT"
 aliases:
   - "MK-Ultra"
 ---
-
-# MKUltra
 
 _Type: Concepts_
 

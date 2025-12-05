@@ -1,13 +1,11 @@
 ---
+title: "Amazon"
 id: "org-amazon"
-name: "Amazon"
 type: "ORG"
 aliases:
   - "Amazon.com"
   - "Amazon"
 ---
-
-# Amazon
 
 _Type: Organizations_
 

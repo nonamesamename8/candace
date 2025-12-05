@@ -1,12 +1,10 @@
 ---
+title: "White House"
 id: "org-white-house"
-name: "White House"
 type: "ORG"
 aliases:
   - "the White House"
 ---
-
-# White House
 
 _Type: Organizations_
 

@@ -1,10 +1,8 @@
 ---
+title: "Mar-a-Lago"
 id: "org-mar-a-lago"
-name: "Mar-a-Lago"
 type: "ORG"
 ---
-
-# Mar-a-Lago
 
 _Type: Organizations_
 

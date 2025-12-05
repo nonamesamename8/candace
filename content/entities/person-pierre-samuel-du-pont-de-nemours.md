@@ -1,10 +1,8 @@
 ---
+title: "Pierre Samuel du Pont de Nemours"
 id: "person-pierre-samuel-du-pont-de-nemours"
-name: "Pierre Samuel du Pont de Nemours"
 type: "PERSON"
 ---
-
-# Pierre Samuel du Pont de Nemours
 
 _Type: People_
 

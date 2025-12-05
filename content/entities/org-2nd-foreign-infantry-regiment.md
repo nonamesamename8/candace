@@ -1,10 +1,8 @@
 ---
+title: "2nd Foreign Infantry Regiment"
 id: "org-2nd-foreign-infantry-regiment"
-name: "2nd Foreign Infantry Regiment"
 type: "ORG"
 ---
-
-# 2nd Foreign Infantry Regiment
 
 _Type: Organizations_
 

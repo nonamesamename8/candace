@@ -1,6 +1,6 @@
 ---
+title: "NIMESKINCARE.COM"
 id: "org-nimeskincare-com"
-name: "NIMESKINCARE.COM"
 type: "ORG"
 aliases:
   - "NimeeSkincare.com"
@@ -10,8 +10,6 @@ aliases:
   - "Buzzin' Tallow Balm"
   - "NIME SKINCARE"
 ---
-
-# NIMESKINCARE.COM
 
 _Type: Organizations_
 

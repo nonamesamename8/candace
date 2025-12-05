@@ -1,12 +1,10 @@
 ---
+title: "Dominick Dunne"
 id: "person-dominick-dunne"
-name: "Dominick Dunne"
 type: "PERSON"
 aliases:
   - "Dominick Dunne"
 ---
-
-# Dominick Dunne
 
 _Type: People_
 

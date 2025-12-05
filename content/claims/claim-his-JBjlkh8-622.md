@@ -1,10 +1,9 @@
 ---
+title: "Tyler Boyer hooked up with a younger intern and tried to hoo..."
 claim_id: "claim-his-JBjlkh8-622"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: Tyler Boyer hooked up with a younger intern and tried to hoo...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

@@ -1,10 +1,9 @@
 ---
+title: "There's definitively more of us. That's why they want to kil..."
 claim_id: "claim-his-JBjlkh8-3482"
 episode: "his-JBjlkh8"
 type: "interpretive"
 ---
-
-# Claim: There's definitively more of us. That's why they want to kil...
 
 **Status:** ⏳ Not yet verified
 **Type:** Interpretive

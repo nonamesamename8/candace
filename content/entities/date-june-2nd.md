@@ -1,10 +1,8 @@
 ---
+title: "June 2nd"
 id: "date-june-2nd"
-name: "June 2nd"
 type: "DATE"
 ---
-
-# June 2nd
 
 _Type: Dates_
 

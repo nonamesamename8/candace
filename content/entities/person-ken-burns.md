@@ -1,10 +1,8 @@
 ---
+title: "Ken Burns"
 id: "person-ken-burns"
-name: "Ken Burns"
 type: "PERSON"
 ---
-
-# Ken Burns
 
 _Type: People_
 

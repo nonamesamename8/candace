@@ -1,12 +1,10 @@
 ---
+title: "Staples Center"
 id: "org-staples-center"
-name: "Staples Center"
 type: "ORG"
 aliases:
   - "Staples"
 ---
-
-# Staples Center
 
 _Type: Organizations_
 

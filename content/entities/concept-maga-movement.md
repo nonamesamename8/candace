@@ -1,12 +1,10 @@
 ---
+title: "MAGA movement"
 id: "concept-maga-movement"
-name: "MAGA movement"
 type: "CONCEPT"
 aliases:
   - "MAGA"
 ---
-
-# MAGA movement
 
 _Type: Concepts_
 

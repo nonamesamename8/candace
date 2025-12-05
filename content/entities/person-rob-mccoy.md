@@ -1,12 +1,10 @@
 ---
+title: "Rob McCoy"
 id: "person-rob-mccoy"
-name: "Rob McCoy"
 type: "PERSON"
 aliases:
   - "Pastor Rob McCoy"
 ---
-
-# Rob McCoy
 
 _Type: People_
 

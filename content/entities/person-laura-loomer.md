@@ -1,10 +1,8 @@
 ---
+title: "Laura Loomer"
 id: "person-laura-loomer"
-name: "Laura Loomer"
 type: "PERSON"
 ---
-
-# Laura Loomer
 
 _Type: People_
 

@@ -1,10 +1,8 @@
 ---
+title: "Allie Stuckey"
 id: "person-allie-stuckey"
-name: "Allie Stuckey"
 type: "PERSON"
 ---
-
-# Allie Stuckey
 
 _Type: People_
 

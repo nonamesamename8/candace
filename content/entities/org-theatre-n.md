@@ -1,10 +1,8 @@
 ---
+title: "Theatre N"
 id: "org-theatre-n"
-name: "Theatre N"
 type: "ORG"
 ---
-
-# Theatre N
 
 _Type: Organizations_
 

@@ -1,10 +1,8 @@
 ---
+title: "First and Central Presbyterian Church"
 id: "org-first-and-central-presbyterian-church"
-name: "First and Central Presbyterian Church"
 type: "ORG"
 ---
-
-# First and Central Presbyterian Church
 
 _Type: Organizations_
 

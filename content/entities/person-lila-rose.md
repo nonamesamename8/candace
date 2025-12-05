@@ -1,10 +1,8 @@
 ---
+title: "Lila Rose"
 id: "person-lila-rose"
-name: "Lila Rose"
 type: "PERSON"
 ---
-
-# Lila Rose
 
 _Type: People_
 

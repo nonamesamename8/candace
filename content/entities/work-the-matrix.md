@@ -1,12 +1,10 @@
 ---
+title: "The Matrix"
 id: "work-the-matrix"
-name: "The Matrix"
 type: "WORK"
 aliases:
   - "Matrix"
 ---
-
-# The Matrix
 
 _Type: Work_
 

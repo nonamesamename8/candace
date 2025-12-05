@@ -1,10 +1,8 @@
 ---
+title: "Seven Sheets"
 id: "person-seven-sheets"
-name: "Seven Sheets"
 type: "PERSON"
 ---
-
-# Seven Sheets
 
 _Type: People_
 

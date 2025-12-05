@@ -1,10 +1,9 @@
 ---
+title: "Michael is Mikey McCoy's real name; I have seen his birth ce..."
 claim_id: "claim-his-JBjlkh8-286"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: Michael is Mikey McCoy's real name; I have seen his birth ce...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

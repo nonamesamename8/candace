@@ -1,10 +1,9 @@
 ---
+title: "We just watched another person try to assassinate Trump on t..."
 claim_id: "claim-his-JBjlkh8-2746"
 episode: "his-JBjlkh8"
 type: "factual"
 ---
-
-# Claim: We just watched another person try to assassinate Trump on t...
 
 **Status:** ⏳ Not yet verified
 **Type:** Factual

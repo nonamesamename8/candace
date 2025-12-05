@@ -1,14 +1,12 @@
 ---
+title: "Twitter"
 id: "org-twitter"
-name: "Twitter"
 type: "ORG"
 aliases:
   - "Twitter headquarters"
   - "X"
   - "Twitter"
 ---
-
-# Twitter
 
 _Type: Organizations_
 

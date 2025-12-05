@@ -1,12 +1,10 @@
 ---
+title: "Maine"
 id: "gpe-maine"
-name: "Maine"
 type: "GPE"
 aliases:
   - "Maine"
 ---
-
-# Maine
 
 _Type: Places_
 

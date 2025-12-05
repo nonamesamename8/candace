@@ -1,10 +1,8 @@
 ---
+title: "Brittany Watson"
 id: "person-brittany-watson"
-name: "Brittany Watson"
 type: "PERSON"
 ---
-
-# Brittany Watson
 
 _Type: People_
 

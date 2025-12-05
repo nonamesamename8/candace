@@ -1,12 +1,10 @@
 ---
+title: "Satis"
 id: "org-satis"
-name: "Satis"
 type: "ORG"
 aliases:
   - "Satis"
 ---
-
-# Satis
 
 _Type: Organizations_
 

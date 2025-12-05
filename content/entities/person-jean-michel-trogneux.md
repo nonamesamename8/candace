@@ -1,12 +1,10 @@
 ---
+title: "Jean-Michel Trogneux"
 id: "person-jean-michel-trogneux"
-name: "Jean-Michel Trogneux"
 type: "PERSON"
 aliases:
   - "Jean-Michel"
 ---
-
-# Jean-Michel Trogneux
 
 _Type: People_
 

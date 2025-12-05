@@ -5,8 +5,6 @@ published: "2025-12-03"
 youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
 ---
 
-# BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273
-
 **Published:** 2025-12-03 | [Watch on YouTube](https://www.youtube.com/watch?v=his-JBjlkh8)
 
 <div class="youtube-embed">

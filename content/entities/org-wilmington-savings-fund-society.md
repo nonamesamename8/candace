@@ -1,12 +1,10 @@
 ---
+title: "Wilmington Savings Fund Society"
 id: "org-wilmington-savings-fund-society"
-name: "Wilmington Savings Fund Society"
 type: "ORG"
 aliases:
   - "WSFS"
 ---
-
-# Wilmington Savings Fund Society
 
 _Type: Organizations_
 

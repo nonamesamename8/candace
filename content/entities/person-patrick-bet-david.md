@@ -1,12 +1,10 @@
 ---
+title: "Patrick Bet-David"
 id: "person-patrick-bet-david"
-name: "Patrick Bet-David"
 type: "PERSON"
 aliases:
   - "PBD"
 ---
-
-# Patrick Bet-David
 
 _Type: People_
 

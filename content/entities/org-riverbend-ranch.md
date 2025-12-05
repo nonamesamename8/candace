@@ -1,13 +1,11 @@
 ---
+title: "Riverbend Ranch"
 id: "org-riverbend-ranch"
-name: "Riverbend Ranch"
 type: "ORG"
 aliases:
   - "RiverbendRanch.com"
   - "RiverbendRanch"
 ---
-
-# Riverbend Ranch
 
 _Type: Organizations_
 

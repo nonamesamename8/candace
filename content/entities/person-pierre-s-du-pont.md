@@ -1,10 +1,8 @@
 ---
+title: "Pierre S. du Pont"
 id: "person-pierre-s-du-pont"
-name: "Pierre S. du Pont"
 type: "PERSON"
 ---
-
-# Pierre S. du Pont
 
 _Type: People_
 

@@ -5,8 +5,6 @@ published: "2025-09-18"
 youtube_url: "https://www.youtube.com/watch?v=sreYYcID-QY"
 ---
 
-# EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238
-
 **Published:** 2025-09-18 | [Watch on YouTube](https://www.youtube.com/watch?v=sreYYcID-QY)
 
 <div class="youtube-embed">

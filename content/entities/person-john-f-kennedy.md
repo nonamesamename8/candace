@@ -1,12 +1,10 @@
 ---
+title: "John F. Kennedy"
 id: "person-john-f-kennedy"
-name: "John F. Kennedy"
 type: "PERSON"
 aliases:
   - "JFK"
 ---
-
-# John F. Kennedy
 
 _Type: People_
 

@@ -1,10 +1,9 @@
 ---
+title: "I'll do this tomorrow. We can live stream this"
 claim_id: "claim-his-JBjlkh8-3903"
 episode: "his-JBjlkh8"
 type: "promise"
 ---
-
-# Claim: I'll do this tomorrow. We can live stream this
 
 **Status:** ⏳ Not yet verified
 **Type:** Promise
