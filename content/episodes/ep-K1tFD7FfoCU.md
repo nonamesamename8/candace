@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=K1tFD7FfoCU"
 
 **Published:** 2025-11-03 | [Watch on YouTube](https://www.youtube.com/watch?v=K1tFD7FfoCU)
 
-**Stats:** 29 entities | 7 events | 14 claims
+**Stats:** 28 entities | 7 events | 14 claims
 
 ---
 
@@ -281,6 +281,6 @@ youtube_url: "https://www.youtube.com/watch?v=K1tFD7FfoCU"
 
 **Places:** [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
 
-**Organizations:** [AIPAC](/entities/org-aipac.md), [Daily Wire](/entities/org-daily-wire.md), [Jerusalem Post](/entities/org-jerusalem-post.md), [Republican Jewish Coalition](/entities/org-republican-jewish-coalition.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md)
+**Organizations:** [AIPAC](/entities/org-aipac.md), [Jerusalem Post](/entities/org-jerusalem-post.md), [Republican Jewish Coalition](/entities/org-republican-jewish-coalition.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md)
 
-**People:** [Andrew Colvett](/entities/person-andrew-colvett.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erica Kirk](/entities/person-erica-kirk.md), [Jesse Watters](/entities/person-jesse-watters.md), [Jussie Smollett](/entities/person-jussie-smollett.md), [Kash Patel](/entities/person-kash-patel.md), [Lindsey Graham](/entities/person-lindsey-graham.md), [Matt Walsh](/entities/person-matt-walsh.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael Starr](/entities/person-michael-starr.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Randy Fine](/entities/person-randy-fine.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erica Kirk](/entities/person-erica-kirk.md), [Jesse Watters](/entities/person-jesse-watters.md), [Jussie Smollett](/entities/person-jussie-smollett.md), [Kash Patel](/entities/person-kash-patel.md), [Lindsey Graham](/entities/person-lindsey-graham.md), [Matt Walsh](/entities/person-matt-walsh.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael Starr](/entities/person-michael-starr.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Randy Fine](/entities/person-randy-fine.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md)

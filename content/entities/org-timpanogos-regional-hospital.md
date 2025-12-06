@@ -2,9 +2,13 @@
 title: "Timpanogos Regional Hospital"
 id: "org-timpanogos-regional-hospital"
 type: "ORG"
+aliases:
+  - "Timpanogos Hospital"
 ---
 
 _Type: Organizations_
+
+**Also known as:** Timpanogos Hospital
 
 ## Mentions
 
@@ -12,6 +16,11 @@ _Type: Organizations_
 
 - [00:30:44](/episodes/ep-YA1FxrDWNIo.md#^t-00-30-08)
   > "... the trauma that he suffered—that he was taken to Timpanogos Regional Hospital. And also something new is that that hospital had just announced that they had a brand-new CEO and ..."
+
+### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
+
+- [00:02:01](/episodes/ep-YaZfwLQ7vrI.md#^t-00-01-21)
+  > "...s that the feds immediately seized the footage at Timpanogos Hospital. Okay, Timpanogos Hospital. Remember, this is the hospital that it was quite strange that they move..."
 
 ## Relationships
 

@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=2WEHTk0Xewg"
 
 **Published:** 2025-09-17 | [Watch on YouTube](https://www.youtube.com/watch?v=2WEHTk0Xewg)
 
-**Stats:** 23 entities | 13 events | 11 claims
+**Stats:** 21 entities | 13 events | 11 claims
 
 ---
 
@@ -333,8 +333,8 @@ youtube_url: "https://www.youtube.com/watch?v=2WEHTk0Xewg"
 
 **Events:** [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-**Places:** [Orem](/entities/gpe-orem.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Warner Valley](/entities/gpe-warner-valley.md)
+**Places:** [Orem](/entities/gpe-orem.md), [Salt Lake City](/entities/gpe-salt-lake-city.md)
 
 **Organizations:** [New York Post](/entities/org-new-york-post.md), [TMZ](/entities/org-tmz.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erica Kirk](/entities/person-erica-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Governor Cox](/entities/person-governor-cox.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Skylar](/entities/person-skylar.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erica Kirk](/entities/person-erica-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Governor Cox](/entities/person-governor-cox.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)

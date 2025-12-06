@@ -29,5 +29,5 @@ _Type: Places_
 
 ### Referenced By
 
-- [Camp Ripley](/entities/org-camp-ripley.md) **based in** this
+- [Camp Ripley Training Center](/entities/org-camp-ripley-training-center.md) **based in** this
   - [ep-tB5SXXmd9vU @ 00:16:44](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09)

@@ -1,10 +1,14 @@
 ---
-title: "Ben Franklin"
+title: "Benjamin Franklin"
 id: "person-ben-franklin"
 type: "PERSON"
+aliases:
+  - "Ben Franklin"
 ---
 
 _Type: People_
+
+**Also known as:** Ben Franklin
 
 ## Mentions
 

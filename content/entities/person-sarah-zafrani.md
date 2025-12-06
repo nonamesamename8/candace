@@ -1,14 +1,15 @@
 ---
-title: "Sarah Zafrani"
+title: "Sara Zaafarani Zenzari"
 id: "person-sarah-zafrani"
 type: "PERSON"
 aliases:
   - "Prime Minister of Tunisia"
+  - "Sarah Zafrani"
 ---
 
 _Type: People_
 
-**Also known as:** Prime Minister of Tunisia
+**Also known as:** Prime Minister of Tunisia, Sarah Zafrani
 
 ## Mentions
 

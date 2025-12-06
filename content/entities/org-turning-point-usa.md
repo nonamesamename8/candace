@@ -305,7 +305,7 @@ _Type: Organizations_
   - [ep-t1YtLS1n8Vs @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#^t-00-01-24)
 - [Candace Owens](/entities/person-candace-owens.md) **criticized** this
   - [ep-ZGxnf5cj4Uw @ 00:22:14](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-21-28)
-- [Blake Neff](/entities/person-blake-lively.md) **employed by** this
+- [Blake Lively](/entities/person-blake-neff.md) **employed by** this
   - [ep-581dILVcEE4 @ 00:31:31](/episodes/ep-581dILVcEE4.md#^t-00-31-27)
 - [Candace Owens](/entities/person-candace-owens.md) **employed by** this
   - [ep-vwG1juDCQZQ @ 00:32:29](/episodes/ep-vwG1juDCQZQ.md#^t-00-31-56)
@@ -356,7 +356,7 @@ _Type: Organizations_
 - [Charlie Kirk](/entities/person-charlie-kirk.md) **works at** this
   - [ep-czVBmqZP6Ss @ 00:11:38](/episodes/ep-czVBmqZP6Ss.md#^t-00-11-22)
   - [ep-czVBmqZP6Ss @ 00:11:38](/episodes/ep-czVBmqZP6Ss.md#^t-00-11-22)
-- [Justin Strife](/entities/person-justin-strife.md) **works at** this
+- [Justin Streiff](/entities/person-justin-strief.md) **works at** this
   - [ep-a-e7HC6SeK8 @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-50)
   - [ep-a-e7HC6SeK8 @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-50)
 - [Alex Clark](/entities/person-alex-clark.md) **works at** this

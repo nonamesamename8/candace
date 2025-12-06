@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=Qt0VHV-POCg"
 
 **Published:** 2025-10-29 | [Watch on YouTube](https://www.youtube.com/watch?v=Qt0VHV-POCg)
 
-**Stats:** 34 entities | 4 events | 9 claims
+**Stats:** 33 entities | 4 events | 9 claims
 
 ---
 
@@ -257,7 +257,7 @@ youtube_url: "https://www.youtube.com/watch?v=Qt0VHV-POCg"
 
 ## Timeline Events
 
-- **2021-01-01**: Charlie Kirk founded Turning Point USA Faith.
+- **2021-04-01**: Charlie Kirk founded Turning Point USA Faith.
 - **2025-09-11 22:34**: Turning Point USA Wikipedia page updated to list Rob McCoy as co-founder of TPUSA Faith.
 - **2025-10-14**: President Trump establishes October 14 as National Day of Remembrance for Charlie Kirk.
 - **2025-10-28**: New York Times reports Kash Patel alarmed by Joe Kent office inquiry into Charlie Kirk case.
@@ -274,4 +274,4 @@ youtube_url: "https://www.youtube.com/watch?v=Qt0VHV-POCg"
 
 **Organizations:** [Liberty University](/entities/org-liberty-university.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
 
-**People:** [Andrew Colvett](/entities/person-andrew-colvett.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Erica Kirk](/entities/person-erica-kirk.md), [JD Vance](/entities/person-jd-vance.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Joe Kent](/entities/person-joe-kent.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Martin Luther King Jr.](/entities/person-martin-luther-king-jr.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Norman Finkelstein](/entities/person-norman-finkelstein.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Skylar](/entities/person-skylar.md), [Susie Wiles](/entities/person-susie-wiles.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tulsi Gabbard](/entities/person-tulsi-gabbard.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Erica Kirk](/entities/person-erica-kirk.md), [JD Vance](/entities/person-jd-vance.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Joe Kent](/entities/person-joe-kent.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Martin Luther King Jr.](/entities/person-martin-luther-king-jr.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Norman Finkelstein](/entities/person-norman-finkelstein.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Susie Wiles](/entities/person-susie-wiles.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tulsi Gabbard](/entities/person-tulsi-gabbard.md), [Tyler Robinson](/entities/person-tyler-robinson.md)

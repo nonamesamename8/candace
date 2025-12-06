@@ -3,7 +3,6 @@ title: "Federal Reserve"
 id: "org-federal-reserve"
 type: "ORG"
 aliases:
-  - "FBI"
   - "Fed"
   - "fed"
   - "Feds"
@@ -13,7 +12,7 @@ aliases:
 
 _Type: Organizations_
 
-**Also known as:** FBI, Fed, fed, Feds, the Fed, feds
+**Also known as:** Fed, fed, Feds, the Fed, feds
 
 ## Mentions
 

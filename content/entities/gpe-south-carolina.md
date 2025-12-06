@@ -2,13 +2,9 @@
 title: "South Carolina"
 id: "gpe-south-carolina"
 type: "GPE"
-aliases:
-  - "North Carolina"
 ---
 
 _Type: Places_
-
-**Also known as:** North Carolina
 
 ## Mentions
 

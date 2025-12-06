@@ -20,8 +20,3 @@ _Type: People_
 - [Longwood Foundation](/entities/org-longwood-foundation.md)
   - [ep-tB5SXXmd9vU @ 00:29:28](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-13): "legislation was passed which would provide financial support to the Longwood Foundation, a philanthropic nonprofit that was founded by Pierre S. du Pont"
   - [ep-tB5SXXmd9vU @ 00:29:28](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-13): ""Longwood Foundation, a philanthropic nonprofit that was founded by Pierre S. du Pont...""
-
-### Member Of
-
-- [du Pont family](/entities/person-du-pont-family.md)
-  - [ep-tB5SXXmd9vU @ 00:29:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-13): ""Pierre S. du Pont was a member of the French-American family du Pont...""

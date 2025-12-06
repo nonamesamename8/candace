@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=iHav0PPzUz8"
 
 **Published:** 2025-10-30 | [Watch on YouTube](https://www.youtube.com/watch?v=iHav0PPzUz8)
 
-**Stats:** 39 entities | 8 events | 13 claims
+**Stats:** 39 entities | 7 events | 13 claims
 
 ---
 
@@ -364,7 +364,6 @@ youtube_url: "https://www.youtube.com/watch?v=iHav0PPzUz8"
 
 - **2025-08-05**: Hamptons Summit pressures Charlie Kirk on Israel views
 - **2025-09-04**: Egyptian Air Force plane SUBTT arrives in Provo, Utah
-- **2025-09-10**: Charlie Kirk assassinated in Provo, Utah
 - **2025-09-10 07:14**: Egyptian Air Force plane SUBTT departs Provo, Utah
 - **2025-09-10 09:16**: Military-contracted plane dips low over Provo airport 26 minutes after Kirk assassination
 - **2025-09-10 13:20**: Private plane N888KG departs Provo airport for Page, Arizona

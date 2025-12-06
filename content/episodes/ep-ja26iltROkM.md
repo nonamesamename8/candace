@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
 
 **Published:** 2025-09-22 | [Watch on YouTube](https://www.youtube.com/watch?v=ja26iltROkM)
 
-**Stats:** 29 entities | 10 events | 14 claims
+**Stats:** 29 entities | 9 events | 14 claims
 
 ---
 
@@ -282,7 +282,6 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
 
 ## Timeline Events
 
-- **2023-01-01**: Candace Owens tweets no government has right to commit genocide.
 - **2025-07-01**: Charlie Kirk hosts town hall discussing anti-Semitism with Gen Z students.
 - **2025-09-10**: Charlie Kirk assassinated during campus debate event at UVU.
 - **2025-09-12**: Assassination site area repaved within 48 hours of shooting.
@@ -305,6 +304,6 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
 
 **Organizations:** [AIPAC](/entities/org-aipac.md), [Amazon](/entities/org-amazon.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [TMZ](/entities/org-tmz.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Alex Jones](/entities/person-alex-jones.md), [Andrew Colvett](/entities/person-andrew-colvett.md), [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Eric Bolling](/entities/person-eric-bolling.md), [Erica Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [George Zinn](/entities/person-george-zinn.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Laura Loomer](/entities/person-laura-loomer.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Alex Jones](/entities/person-alex-jones.md), [Andrew Kolvet](/entities/person-andrew-colvett.md), [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Eric Bolling](/entities/person-eric-bolling.md), [Erica Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [George Zinn](/entities/person-george-zinn.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Laura Loomer](/entities/person-laura-loomer.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 **Work:** [Becoming Brigitte](/entities/work-becoming-brigitte.md)

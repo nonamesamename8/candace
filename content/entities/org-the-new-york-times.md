@@ -2,11 +2,20 @@
 title: "The New York Times"
 id: "org-the-new-york-times"
 type: "ORG"
+aliases:
+  - "New York Times"
 ---
 
 _Type: Organizations_
 
+**Also known as:** New York Times
+
 ## Mentions
+
+### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
+
+- [00:20:40](/episodes/ep-adJ4LNGp84I.md#^t-00-20-14)
+  > "...eas. And it turns out that there have been... The New York Times has reported on Russian-Ukrainian spies that are building new lives for themselves with new IDs in ..."
 
 ### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 

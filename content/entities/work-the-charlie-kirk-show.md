@@ -26,7 +26,7 @@ _Type: Work_
 
 ### Referenced By
 
-- [Blake Neff](/entities/person-blake-lively.md) **works at** this
+- [Blake Lively](/entities/person-blake-neff.md) **works at** this
   - [ep-his-JBjlkh8 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#^t-00-02-14)
   - [ep-his-JBjlkh8 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#^t-00-02-14)
 - [Blake Neff](/entities/person-blake-neff.md) **works at** this

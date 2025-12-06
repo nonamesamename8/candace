@@ -180,8 +180,6 @@ _Type: People_
   - [ep-a-e7HC6SeK8 @ 00:54:34](/episodes/ep-a-e7HC6SeK8.md#^t-00-54-16): "[00:54:34] You can also now gift someone with a membership to Club Candace to join our book club."
 - [Turning Point USA](/entities/org-turning-point-usa.md)
   - [ep-his-JBjlkh8 @ 00:07:26](/episodes/ep-his-JBjlkh8.md#^t-00-07-24): "[01:01:23] Look, I came from Turning Point USA, so you guys know that me doing this, there's an element of heartache."
-- [Home Title Lock](/entities/org-home-title-lock.md)
-  - [ep-a-e7HC6SeK8 @ 00:49:52](/episodes/ep-a-e7HC6SeK8.md#^t-00-49-20): "[00:49:52] That's why I've partnered with Home Title Lock, so that you can protect your equity and find out today if you're already a victim."
 - [MakeHimASandwich.com](/entities/work-make-him-a-sandwich.md)
   - [ep-a-e7HC6SeK8 @ 00:51:44](/episodes/ep-a-e7HC6SeK8.md#^t-00-51-29): "[00:51:44] My book, Make Him a Sandwich, is not just available on the Make Him a Sandwich website, which is MakeHimASandwich.com, but now it is available on Amazon."
 - [Preborn](/entities/org-preborn.md)
@@ -217,19 +215,12 @@ _Type: People_
 
 - [Riverbend Ranch](/entities/org-riverbend-ranch.md)
   - [ep-his-JBjlkh8 @ 00:34:52](/episodes/ep-his-JBjlkh8.md#^t-00-34-23): ""this holiday season, you can express your love with a very special gift of premium steaks from Riverbend Ranch.""
-- [American Financing](/entities/org-american-financing.md)
-  - [ep-his-JBjlkh8 @ 00:00:14](/episodes/ep-his-JBjlkh8.md#^t-00-00-00): "[00:54:11] American Financing can help show you how to use your home's equity to pay off that debt with rates in the low fives."
-  - [ep-tB5SXXmd9vU @ 00:53:01](/episodes/ep-tB5SXXmd9vU.md#^t-00-52-25): "[00:53:01] I'll also remind you guys about American Financing, because what if you could delay your next two mortgage payments?"
 - [Nimee Skincare](/entities/org-nimeskincare-com.md)
   - [ep-his-JBjlkh8 @ 00:00:44](/episodes/ep-his-JBjlkh8.md#^t-00-00-00): "[00:54:41] Also, you guys know I have to tell you about Nimee Skincare. I love them."
-- [Fatty15](/entities/org-fatty15.md)
-  - [ep-tB5SXXmd9vU @ 00:42:31](/episodes/ep-tB5SXXmd9vU.md#^t-00-42-03): "[00:42:31] Also, I'm excited to share with you guys C15 from the company Fatty15. That is the first emerging essential fatty acid to be discovered in more than 90 years."
-- [PureTalk](/entities/org-puretalk.md)
-  - [ep-tB5SXXmd9vU @ 00:52:11](/episodes/ep-tB5SXXmd9vU.md#^t-00-51-40): "[00:52:11] All right, you guys, I want to remind you about PureTalk. In all the time that I have been endorsing my wireless company, PureTalk, I've never seen an offer like this."
 
 ### Fired
 
-- [Daily Wire](/entities/org-daily-wire.md)
+- [The Daily Wire](/entities/org-the-daily-wire.md)
   - [ep-aDlhjfW6hz8 @ 00:29:16](/episodes/ep-aDlhjfW6hz8.md#^t-00-29-03): "three months earlier I had gotten fired from the Daily Wire"
 - [The Daily Wire](/entities/org-the-daily-wire.md)
   - [ep-sreYYcID-QY @ 00:41:20](/episodes/ep-sreYYcID-QY.md#^t-00-40-44): "I get fired from The Daily Wire."
@@ -290,7 +281,7 @@ _Type: People_
   - [ep-sreYYcID-QY @ 00:00:33](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
 - [Frank Turek](/entities/person-frank-turek.md) **criticized** this
   - [ep-yAIb-NuUh_U @ 00:01:57](/episodes/ep-yAIb-NuUh_U.md#^t-00-01-32)
-- [Allie Stuckey](/entities/person-allie-stuckey.md) **criticized** this
+- [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md) **criticized** this
   - [ep-yAIb-NuUh_U @ 00:04:24](/episodes/ep-yAIb-NuUh_U.md#^t-00-03-41)
 - [Laura Loomer](/entities/person-laura-loomer.md) **criticized** this
   - [ep-ja26iltROkM @ 00:27:34](/episodes/ep-ja26iltROkM.md#^t-00-26-58)
@@ -308,7 +299,7 @@ _Type: People_
   - [ep-sreYYcID-QY @ 00:41:20](/episodes/ep-sreYYcID-QY.md#^t-00-40-44)
 - [The Daily Wire](/entities/org-the-daily-wire.md) **fired** this
   - [ep-sreYYcID-QY @ 00:41:09](/episodes/ep-sreYYcID-QY.md#^t-00-40-44)
-- [Daily Wire](/entities/org-daily-wire.md) **fired** this
+- [The Daily Wire](/entities/org-the-daily-wire.md) **fired** this
   - [ep-sImMM04XdWY @ 00:07:51](/episodes/ep-sImMM04XdWY.md#^t-00-07-38)
   - [ep-vwG1juDCQZQ @ 00:01:48](/episodes/ep-vwG1juDCQZQ.md#^t-00-01-30)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) **hired** this

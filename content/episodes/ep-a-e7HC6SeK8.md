@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=a-e7HC6SeK8"
 
 **Published:** 2025-12-02 | [Watch on YouTube](https://www.youtube.com/watch?v=a-e7HC6SeK8)
 
-**Stats:** 28 entities | 5 events | 12 claims
+**Stats:** 28 entities | 4 events | 12 claims
 
 ---
 
@@ -237,9 +237,8 @@ youtube_url: "https://www.youtube.com/watch?v=a-e7HC6SeK8"
 ## Timeline Events
 
 - **1908-07-26**: Charles Joseph Bonaparte founds the FBI as Attorney General.
-- **1996-01-01**: John DuPont shoots Olympic wrestler David Schultz dead at family mansion.
-- **1998-01-01**: Las Vegas prostitute murdered by DuPont family-linked hired hands, body found in motel.
-- **2009-01-01**: DuPont heir Robert Richards IV convicted of raping his three-year-old daughter.
+- **1998-08-02**: Las Vegas prostitute murdered by DuPont family-linked hired hands, body found in motel.
+- **2009-03-30**: DuPont heir Robert Richards IV convicted of raping his three-year-old daughter.
 - **2018-04-14**: US and France conduct missile strikes on Syrian government sites after chemical attack.
 
 ## Entities Mentioned
@@ -252,6 +251,6 @@ youtube_url: "https://www.youtube.com/watch?v=a-e7HC6SeK8"
 
 **Organizations:** [Club Candace](/entities/org-club-candace.md), [DuPont family](/entities/org-dupont-family.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
 
-**People:** [Andrew Colvett](/entities/person-andrew-colvett.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erica Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erica Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 **Work:** [Becoming Brigitte](/entities/work-becoming-brigitte.md)

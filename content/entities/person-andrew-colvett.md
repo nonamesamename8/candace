@@ -1,5 +1,5 @@
 ---
-title: "Andrew Colvett"
+title: "Andrew Kolvet"
 id: "person-andrew-colvett"
 type: "PERSON"
 aliases:

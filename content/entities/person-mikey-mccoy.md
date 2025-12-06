@@ -124,8 +124,6 @@ _Type: People_
 
 - [Elizabeth McCoy](/entities/elizabeth-mccoy.md)
   - [ep-LATnak75Si0 @ 00:42:32](/episodes/ep-LATnak75Si0.md#^t-00-42-01): "he also called Elizabeth McCoy, his wife"
-- [Eliza](/entities/person-eliza.md)
-  - [ep-a-e7HC6SeK8 @ 00:18:57](/episodes/ep-a-e7HC6SeK8.md#^t-00-18-23): "...We've got Mikey McCoy and his wife, Eliza, that join them for the first time."
 
 ### Works At
 

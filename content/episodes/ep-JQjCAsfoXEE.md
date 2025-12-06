@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=JQjCAsfoXEE"
 
 **Published:** 2025-11-17 | [Watch on YouTube](https://www.youtube.com/watch?v=JQjCAsfoXEE)
 
-**Stats:** 22 entities | 11 events | 16 claims
+**Stats:** 22 entities | 10 events | 16 claims
 
 ---
 
@@ -264,8 +264,7 @@ youtube_url: "https://www.youtube.com/watch?v=JQjCAsfoXEE"
 
 ## Timeline Events
 
-- **1963-01-01**: CIA establishes Operation Mockingbird to control media narratives
-- **1963-11-22**: Assassination and public execution of President JFK in Dallas
+- **1950-01-01**: CIA establishes Operation Mockingbird to control media narratives
 - **1967-06-08**: Israel attacks USS Liberty, falsely blamed on Egypt
 - **2025-09-10**: Assassination of Charlie Kirk in broad daylight at Provo event
 - **2025-09-10 09:05**: Egyptian plane SU-BND transponds at Provo FBO until 10:34
@@ -286,4 +285,4 @@ youtube_url: "https://www.youtube.com/watch?v=JQjCAsfoXEE"
 
 **Organizations:** [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Andrew Colvett](/entities/person-andrew-colvett.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erica Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Josh Hammer](/entities/person-josh-hammer.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Steven Crowder](/entities/person-steven-crowder.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erica Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Josh Hammer](/entities/person-josh-hammer.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Steven Crowder](/entities/person-steven-crowder.md), [Tucker Carlson](/entities/person-tucker-carlson.md)

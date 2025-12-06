@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=LATnak75Si0"
 
 **Published:** 2025-11-05 | [Watch on YouTube](https://www.youtube.com/watch?v=LATnak75Si0)
 
-**Stats:** 38 entities | 8 events | 14 claims
+**Stats:** 37 entities | 8 events | 14 claims
 
 ---
 
@@ -375,7 +375,7 @@ youtube_url: "https://www.youtube.com/watch?v=LATnak75Si0"
 ## Timeline Events
 
 - **2023-10-01**: Turning Point USA emails plan campus events for spring 2024.
-- **2024-04-01**: Candace Owens and Charlie Kirk conduct joint campus tour across US.
+- **2024-02-01**: Candace Owens and Charlie Kirk conduct joint campus tour across US.
 - **2025-07-01**: CNN panel calls Candace Owens disgusting and anti-Semitic.
 - **2025-07-15**: UVU requests Charlie Kirk for campus event, approved quickly.
 - **2025-09-10**: Charlie Kirk shot and killed at Utah Valley University campus event.
@@ -395,6 +395,6 @@ youtube_url: "https://www.youtube.com/watch?v=LATnak75Si0"
 
 **Organizations:** [The Daily Wire](/entities/org-the-daily-wire.md), [The Pentagon](/entities/org-the-pentagon.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Andrew Cuomo](/entities/person-andrew-cuomo.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Blake Lively](/entities/person-blake-lively.md), [Brett Cooper](/entities/person-brett-cooper.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erica Kirk](/entities/person-erica-kirk.md), [Jesse Watters](/entities/person-jesse-watters.md), [Joe Gebbia](/entities/person-joe-gebbia.md), [Josh Hammer](/entities/person-josh-hammer.md), [Laura Loomer](/entities/person-laura-loomer.md), [Mamdani](/entities/person-mamdani.md), [Michael Bloomberg](/entities/person-michael-bloomberg.md), [Michael Knowles](/entities/person-michael-knowles.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Randy Fine](/entities/person-randy-fine.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Ted Cruz](/entities/person-ted-cruz.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Vivek Ramaswamy](/entities/person-vivek-ramaswamy.md)
+**People:** [Andrew Cuomo](/entities/person-andrew-cuomo.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brett Cooper](/entities/person-brett-cooper.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erica Kirk](/entities/person-erica-kirk.md), [Jesse Watters](/entities/person-jesse-watters.md), [Joe Gebbia](/entities/person-joe-gebbia.md), [Josh Hammer](/entities/person-josh-hammer.md), [Laura Loomer](/entities/person-laura-loomer.md), [Mamdani](/entities/person-mamdani.md), [Michael Bloomberg](/entities/person-michael-bloomberg.md), [Michael Knowles](/entities/person-michael-knowles.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Randy Fine](/entities/person-randy-fine.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Ted Cruz](/entities/person-ted-cruz.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Vivek Ramaswamy](/entities/person-vivek-ramaswamy.md)
 
 **Work:** [Lady Ballers](/entities/work-lady-ballers.md)

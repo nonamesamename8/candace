@@ -30,4 +30,7 @@ _Type: People_
 
 ## Relationships
 
-_No relationships extracted yet._
+### Criticized
+
+- [Candace Owens](/entities/person-candace-owens.md)
+  - [ep-yAIb-NuUh_U @ 00:04:24](/episodes/ep-yAIb-NuUh_U.md#^t-00-03-41): "Allie Stuckey just did this—shot a video and was like, "I don't have these dreams.""

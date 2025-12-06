@@ -1,10 +1,14 @@
 ---
-title: "Jason Chavitz"
+title: "Jason Chaffetz"
 id: "person-jason-chavitz"
 type: "PERSON"
+aliases:
+  - "Jason Chavitz"
 ---
 
 _Type: People_
+
+**Also known as:** Jason Chavitz
 
 ## Mentions
 

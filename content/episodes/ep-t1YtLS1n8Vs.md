@@ -261,10 +261,10 @@ youtube_url: "https://www.youtube.com/watch?v=t1YtLS1n8Vs"
 
 ## Timeline Events
 
-- **1913-01-01**: Leo Frank convicted of murdering and raping Mary Phagan in Atlanta
-- **2023-01-01**: Catholic investigator reveals ADL shares office with FBI in Connecticut
-- **2024-01-01**: Phil Lyman runs for Utah governor
-- **2024-01-01**: Scott Robbins runs for Utah governor
+- **1913-04-26**: Leo Frank convicted of murdering and raping Mary Phagan in Atlanta
+- **2023-08-10**: Catholic investigator reveals ADL shares office with FBI in Connecticut
+- **2023-10-31**: Phil Lyman runs for Utah governor
+- **2024-04-27**: Scott Robbins runs for Utah governor
 - **2025-09-30**: Marjorie Taylor Greene tweets she is not suicidal
 - **2025-10-01**: Charlie Kirk assassinated at TPUSA event at Utah Valley University in Orem
 - **2025-10-01**: FBI Director Kash Patel announces end of partnership with ADL via tweet

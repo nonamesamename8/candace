@@ -19,5 +19,5 @@ _Type: People_
 
 - [Mary Phagan](/entities/person-mary-phagan.md) **employed by** this
   - [ep-t1YtLS1n8Vs @ 00:03:44](/episodes/ep-t1YtLS1n8Vs.md#^t-00-03-31)
-- [Mary Fagan](/entities/person-mary-fagan.md) **employed by** this
+- [Mary Phagan](/entities/person-mary-phagan.md) **employed by** this
   - [ep-t1YtLS1n8Vs @ 00:03:44](/episodes/ep-t1YtLS1n8Vs.md#^t-00-03-31)

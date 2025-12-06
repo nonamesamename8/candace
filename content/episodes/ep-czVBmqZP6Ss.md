@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=czVBmqZP6Ss"
 
 **Published:** 2025-09-15 | [Watch on YouTube](https://www.youtube.com/watch?v=czVBmqZP6Ss)
 
-**Stats:** 31 entities | 9 events | 13 claims
+**Stats:** 30 entities | 8 events | 13 claims
 
 ---
 
@@ -343,7 +343,6 @@ youtube_url: "https://www.youtube.com/watch?v=czVBmqZP6Ss"
 - **2025-08-15**: Charlie Kirk interviewed by Megyn Kelly on Israel pressure
 - **2025-08-27**: Benjamin Netanyahu calls Charlie Kirk inviting him to Israel
 - **2025-08-27**: Bill Ackman stages intervention on Charlie Kirk in Hamptons
-- **2025-09-10 12:23**: Charlie Kirk shot and killed at UVU campus
 - **2025-09-11**: Benjamin Netanyahu discusses Charlie Kirk on Fox News
 - **2025-09-12**: Tribute event held for Charlie Kirk
 - **2025-09-13**: Erica Kirk addresses nation after husband's death
@@ -359,6 +358,6 @@ youtube_url: "https://www.youtube.com/watch?v=czVBmqZP6Ss"
 
 **Organizations:** [Discord](/entities/org-discord.md), [Fox News](/entities/org-fox-news.md), [TMZ](/entities/org-tmz.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Donald Trump](/entities/person-donald-trump.md), [Erica Kirk](/entities/person-erica-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Governor Cox](/entities/person-governor-cox.md), [Greta Van Susteren](/entities/person-greta-van-susteren.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kanye West](/entities/person-kanye-west.md), [Max Blumenthal](/entities/person-max-blumenthal.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael Savage](/entities/person-michael-savage.md), [Seth Dillon](/entities/person-seth-dillon.md), [Skylar](/entities/person-skylar.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Donald Trump](/entities/person-donald-trump.md), [Erica Kirk](/entities/person-erica-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Governor Cox](/entities/person-governor-cox.md), [Greta Van Susteren](/entities/person-greta-van-susteren.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kanye West](/entities/person-kanye-west.md), [Max Blumenthal](/entities/person-max-blumenthal.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael Savage](/entities/person-michael-savage.md), [Seth Dillon](/entities/person-seth-dillon.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 **Work:** [Chaos](/entities/work-chaos.md)

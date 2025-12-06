@@ -373,10 +373,10 @@ youtube_url: "https://www.youtube.com/watch?v=UBkFkg4UNY8"
 
 **Places:** [Israel](/entities/gpe-israel.md), [Utah](/entities/gpe-utah.md)
 
-**Law:** [FARA](/entities/law-fara.md)
+**Law:** [Foreign Agents Registration Act](/entities/law-fara.md)
 
 **Organizations:** [Caldera Engineering](/entities/org-caldera-engineering.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Alex Clark](/entities/person-alex-clark.md), [Andrew Colvett](/entities/person-andrew-colvett.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erica Kirk](/entities/person-erica-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Glenn Beck](/entities/person-glenn-beck.md), [Kash Patel](/entities/person-kash-patel.md), [Michael Knowles](/entities/person-michael-knowles.md), [Phil Lyman](/entities/person-phil-lyman.md), [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Alex Clark](/entities/person-alex-clark.md), [Andrew Kolvet](/entities/person-andrew-colvett.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erica Kirk](/entities/person-erica-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Glenn Beck](/entities/person-glenn-beck.md), [Kash Patel](/entities/person-kash-patel.md), [Michael Knowles](/entities/person-michael-knowles.md), [Phil Lyman](/entities/person-phil-lyman.md), [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 **Work:** [Good Morning America](/entities/work-good-morning-america.md)

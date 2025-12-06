@@ -12,6 +12,11 @@ _Type: Concepts_
 
 ## Mentions
 
+### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
+
+- [00:26:49](/episodes/ep-QZWSsq8ZWzw.md#^t-00-26-44)
+  > "...eality of what happened throughout the 1960s when MKUltra, when that program was running. And I have no reason to believe that that program was ever disconti..."
+
 ### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:22:49](/episodes/ep-sImMM04XdWY.md#^t-00-22-25)

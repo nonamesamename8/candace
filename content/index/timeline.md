@@ -1,39 +1,19 @@
 # Timeline
 
-_Total events: 553_
+_Total events: 484_
 
-## 1775
-
-### April
-
-<a id="event-1775-04-19-reference-to-the-american-revolution-and-the-long"></a>
-
-#### 1775-04-19: Reference to the American Revolution and the long French–American connection.
-
-**Mentioned in:**
-- [ep-a-e7HC6SeK8 @ 00:58:51](/episodes/ep-a-e7HC6SeK8.md#^t-00-58-42)
-
-## 1848
+## 1856
 
 ### January
 
 <a id="event-1848-01-01-margarethe-schurz-family-establishes-kindergarten"></a>
 
-#### 1848-01-01: Margarethe Schurz family establishes kindergarten in US post-German revolution.
+#### 1856-01-01: Margarethe Schurz family establishes kindergarten in US post-German revolution.
 
 **Mentioned in:**
 - [ep-QZWSsq8ZWzw @ 00:18:49](/episodes/ep-QZWSsq8ZWzw.md#^t-00-18-36)
 
 ## 1908
-
-### January
-
-<a id="event-1908-01-01-fbi-founded-by-charles-joseph-bonaparte-relative-o"></a>
-
-#### 1908-01-01: FBI founded by Charles Joseph Bonaparte, relative of Napoleon Bonaparte
-
-**Mentioned in:**
-- [ep-a-e7HC6SeK8 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18)
 
 ### July
 
@@ -43,30 +23,18 @@ _Total events: 553_
 
 **Mentioned in:**
 - [ep-a-e7HC6SeK8 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18)
-
-<a id="event-1908-07-26-founding-of-the-bureau-of-investigation-predecesso"></a>
-
-#### 1908-07-26: Founding of the Bureau of Investigation (predecessor to the FBI) by Charles J. Bonaparte.
-
-**Mentioned in:**
 - [ep-a-e7HC6SeK8 @ 00:01:08](/episodes/ep-a-e7HC6SeK8.md#^t-00-00-46)
 
 ## 1913
 
-### January
+### April
 
 <a id="event-1913-01-01-leo-frank-convicted-of-murdering-and-raping-mary-p"></a>
 
-#### 1913-01-01: Leo Frank convicted of murdering and raping Mary Phagan in Atlanta
+#### 1913-04-26: Leo Frank convicted of murdering and raping Mary Phagan in Atlanta
 
 **Mentioned in:**
 - [ep-t1YtLS1n8Vs @ 00:03:28](/episodes/ep-t1YtLS1n8Vs.md#^t-00-02-47)
-
-<a id="event-1913-01-01-leo-frank-murders-13-year-old-mary-phagan-at-atlan"></a>
-
-#### 1913-01-01: Leo Frank murders 13-year-old Mary Phagan at Atlanta pencil factory.
-
-**Mentioned in:**
 - [ep-t1YtLS1n8Vs @ 00:03:37](/episodes/ep-t1YtLS1n8Vs.md#^t-00-03-31)
 
 ## 1918
@@ -91,16 +59,18 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-tB5SXXmd9vU @ 01:00:12](/episodes/ep-tB5SXXmd9vU.md#^t-00-59-56)
 
-## 1963
+## 1950
 
 ### January
 
 <a id="event-1963-01-01-cia-establishes-operation-mockingbird-to-control-m"></a>
 
-#### 1963-01-01: CIA establishes Operation Mockingbird to control media narratives
+#### 1950-01-01: CIA establishes Operation Mockingbird to control media narratives
 
 **Mentioned in:**
 - [ep-JQjCAsfoXEE @ 00:00:03](/episodes/ep-JQjCAsfoXEE.md#^t-00-00-00)
+
+## 1963
 
 ### November
 
@@ -110,19 +80,7 @@ _Total events: 553_
 
 **Mentioned in:**
 - [ep-c5BcKF91iec @ 00:05:41](/episodes/ep-c5BcKF91iec.md#^t-00-05-11)
-
-<a id="event-1963-11-22-jfk-assassination-referenced-in-context-of-governm"></a>
-
-#### 1963-11-22: JFK assassination referenced in context of government cover-ups
-
-**Mentioned in:**
 - [ep-pc3pxRyNFZk @ 00:19:41](/episodes/ep-pc3pxRyNFZk.md#^t-00-19-31)
-
-<a id="event-1963-11-22-assassination-and-public-execution-of-president-jf"></a>
-
-#### 1963-11-22: Assassination and public execution of President JFK in Dallas
-
-**Mentioned in:**
 - [ep-JQjCAsfoXEE @ 00:00:03](/episodes/ep-JQjCAsfoXEE.md#^t-00-00-00)
 
 ## 1967
@@ -142,19 +100,7 @@ _Total events: 553_
 
 **Mentioned in:**
 - [ep-JQjCAsfoXEE @ 00:32:15](/episodes/ep-JQjCAsfoXEE.md#^t-00-31-45)
-
-<a id="event-1967-06-08-israel-bombs-uss-liberty-during-six-day-war"></a>
-
-#### 1967-06-08: Israel bombs USS Liberty during Six-Day War.
-
-**Mentioned in:**
 - [ep-r1PS67aRmcA @ 00:40:03](/episodes/ep-r1PS67aRmcA.md#^t-00-39-41)
-
-<a id="event-1967-06-08-reference-to-the-1967-uss-liberty-attack-candace-r"></a>
-
-#### 1967-06-08: Reference to the 1967 USS Liberty attack (Candace references an episode interviewing Phil Turney about it).
-
-**Mentioned in:**
 - [ep-his-JBjlkh8 @ 01:03:57](/episodes/ep-his-JBjlkh8.md#^t-01-03-25)
 
 ## 1969
@@ -170,86 +116,30 @@ _Total events: 553_
 
 ## 1976
 
-### January
+### September
 
 <a id="event-1976-01-01-safari-club-covert-intelligence-alliance-formed-by"></a>
 
-#### 1976-01-01: Safari Club covert intelligence alliance formed by France, Egypt, Saudi Arabia, others.
-
-**Mentioned in:**
-- [ep-tB5SXXmd9vU @ 00:13:15](/episodes/ep-tB5SXXmd9vU.md#^t-00-12-42)
-
-<a id="event-1976-01-01-formation-of-the-safari-club-a-covert-alliance-of"></a>
-
-#### 1976-01-01: Formation of the Safari Club, a covert alliance of intelligence services operating around Africa (historical).
+#### 1976-09-01: Safari Club covert intelligence alliance formed by France, Egypt, Saudi Arabia, others.
 
 **Mentioned in:**
 - [ep-tB5SXXmd9vU @ 00:13:15](/episodes/ep-tB5SXXmd9vU.md#^t-00-12-42)
 
 ## 1979
 
-### January
+### March
 
 <a id="event-1979-01-01-egypt-israel-peace-treaty-facilitated-by-safari-cl"></a>
 
-#### 1979-01-01: Egypt-Israel peace treaty facilitated by Safari Club operations.
+#### 1979-03-26: Egypt-Israel peace treaty facilitated by Safari Club operations.
 
 **Mentioned in:**
 - [ep-tB5SXXmd9vU @ 00:13:50](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15)
-
-<a id="event-1979-01-01-reference-to-the-1979-egyptisrael-peace-treaty-as"></a>
-
-#### 1979-01-01: Reference to the 1979 Egypt–Israel peace treaty as a historical outcome linked to prior covert operations.
-
-**Mentioned in:**
 - [ep-tB5SXXmd9vU @ 00:13:59](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15)
-
-## 1990
-
-### January
-
-<a id="event-1990-01-01-thomas-michael-camino-placed-on-probation-for-lewd"></a>
-
-#### 1990-01-01: Thomas Michael Camino placed on probation for lewd conduct with children
-
-**Mentioned in:**
-- [ep-yAIb-NuUh_U @ 00:08:46](/episodes/ep-yAIb-NuUh_U.md#^t-00-08-29)
-
-<a id="event-1990-01-01-nearly-all-lowerdelaware-branches-of-wsfs-were-sol"></a>
-
-#### 1990-01-01: Nearly all lower‑Delaware branches of WSFS were sold to Wilmington Trust (transaction referenced, 1990).
-
-**Mentioned in:**
-- [ep-tB5SXXmd9vU @ 00:31:39](/episodes/ep-tB5SXXmd9vU.md#^t-00-31-13)
-
-## 1995
-
-### May
-
-<a id="event-1995-05-01-thomas-michael-camino-sentenced-to-8-years-for-chi"></a>
-
-#### 1995-05-01: Thomas Michael Camino sentenced to 8 years for child molestation and luring
-
-**Mentioned in:**
-- [ep-yAIb-NuUh_U @ 00:09:14](/episodes/ep-yAIb-NuUh_U.md#^t-00-08-29)
 
 ## 1996
 
 ### January
-
-<a id="event-1996-01-01-john-dupont-shoots-olympic-wrestler-david-schultz"></a>
-
-#### 1996-01-01: John DuPont shoots Olympic wrestler David Schultz dead at family mansion.
-
-**Mentioned in:**
-- [ep-a-e7HC6SeK8 @ 00:10:13](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-45)
-
-<a id="event-1996-01-01-john-du-pont-shoots-and-kills-olympic-wrestler-dav"></a>
-
-#### 1996-01-01: John du Pont shoots and kills Olympic wrestler David Schultz
-
-**Mentioned in:**
-- [ep-a-e7HC6SeK8 @ 00:10:13](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-45)
 
 <a id="event-1996-01-26-john-du-pont-shot-and-killed-olympic-wrestler-davi"></a>
 
@@ -258,68 +148,16 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-a-e7HC6SeK8 @ 00:10:13](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-45)
 
-## 1997
-
-### January
-
-<a id="event-1997-01-01-caldera-engineering-company-established"></a>
-
-#### 1997-01-01: Caldera Engineering company established
-
-**Mentioned in:**
-- [ep-pc3pxRyNFZk @ 00:32:01](/episodes/ep-pc3pxRyNFZk.md#^t-00-31-34)
-
-### June
-
-<a id="event-1997-06-01-doj-directory-lists-wilmington-resident-office-at"></a>
-
-#### 1997-06-01: DOJ directory lists Wilmington Resident Office at 920 North King Street
-
-**Mentioned in:**
-- [ep-SKGUzGHymcI @ 00:10:15](/episodes/ep-SKGUzGHymcI.md#^t-00-09-44)
-
 ## 1998
 
-### January
+### August
 
 <a id="event-1998-01-01-las-vegas-prostitute-murdered-by-dupont-family-lin"></a>
 
-#### 1998-01-01: Las Vegas prostitute murdered by DuPont family-linked hired hands, body found in motel.
+#### 1998-08-02: Las Vegas prostitute murdered by DuPont family-linked hired hands, body found in motel.
 
 **Mentioned in:**
 - [ep-a-e7HC6SeK8 @ 00:10:20](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-45)
-
-<a id="event-1998-01-01-las-vegas-prostitute-murdered-by-hired-hands-money"></a>
-
-#### 1998-01-01: Las Vegas prostitute murdered by hired hands, money traced to DuPont family
-
-**Mentioned in:**
-- [ep-a-e7HC6SeK8 @ 00:10:20](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-45)
-
-<a id="event-1998-01-01-alleged-murder-of-a-las-vegas-sex-worker-tied-to-d"></a>
-
-#### 1998-01-01: Alleged murder of a Las Vegas sex worker tied to DuPont-related money, per Vanity Fair reporting.
-
-**Mentioned in:**
-- [ep-a-e7HC6SeK8 @ 00:10:20](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-45)
-
-## 1999
-
-### November
-
-<a id="event-1999-11-01-article-covers-detective-mike-mitchell-posing-onli"></a>
-
-#### 1999-11-01: Article covers Detective Mike Mitchell posing online to catch pedophiles.
-
-**Mentioned in:**
-- [ep-YA1FxrDWNIo @ 00:22:15](/episodes/ep-YA1FxrDWNIo.md#^t-00-21-49)
-
-<a id="event-1999-11-01-detective-mike-mitchell-poses-online-as-child-to-e"></a>
-
-#### 1999-11-01: Detective Mike Mitchell poses online as child to entrap pedophiles in sting operation.
-
-**Mentioned in:**
-- [ep-YA1FxrDWNIo @ 00:22:15](/episodes/ep-YA1FxrDWNIo.md#^t-00-21-49)
 
 ## 2001
 
@@ -328,13 +166,6 @@ _Total events: 553_
 <a id="event-2001-09-11-9-11-attacks-with-federal-control-of-pentagon-foot"></a>
 
 #### 2001-09-11: 9/11 attacks with federal control of Pentagon footage narrative.
-
-**Mentioned in:**
-- [ep-sreYYcID-QY @ 00:04:30](/episodes/ep-sreYYcID-QY.md#^t-00-04-09)
-
-<a id="event-2001-09-11-9-11-attacks-feds-collected-nearby-surveillance-fo"></a>
-
-#### 2001-09-11: 9/11 attacks; feds collected nearby surveillance footage.
 
 **Mentioned in:**
 - [ep-sreYYcID-QY @ 00:04:30](/episodes/ep-sreYYcID-QY.md#^t-00-04-09)
@@ -350,32 +181,23 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-7RLtGgkTh9o @ 00:05:56](/episodes/ep-7RLtGgkTh9o.md#^t-00-05-39)
 
-### November
+## 2009
+
+### March
 
 <a id="event-2008-11-01-britney-spears-circus-tour-managed-by-tristar-gros"></a>
 
-#### 2008-11-01: Britney Spears Circus tour managed by Tristar, grosses $130 million under conservatorship
+#### 2009-03-03: Britney Spears Circus tour managed by Tristar, grosses $130 million under conservatorship
 
 **Mentioned in:**
 - [ep-7RLtGgkTh9o @ 00:08:06](/episodes/ep-7RLtGgkTh9o.md#^t-00-07-26)
 
-## 2009
-
-### January
-
 <a id="event-2009-01-01-dupont-heir-robert-richards-iv-convicted-of-raping"></a>
 
-#### 2009-01-01: DuPont heir Robert Richards IV convicted of raping his three-year-old daughter.
+#### 2009-03-30: DuPont heir Robert Richards IV convicted of raping his three-year-old daughter.
 
 **Mentioned in:**
 - [ep-a-e7HC6SeK8 @ 00:07:02](/episodes/ep-a-e7HC6SeK8.md#^t-00-06-21)
-- [ep-a-e7HC6SeK8 @ 00:06:49](/episodes/ep-a-e7HC6SeK8.md#^t-00-06-21)
-
-<a id="event-2009-01-01-robert-richards-iv-convicted-of-raping-his-young-d"></a>
-
-#### 2009-01-01: Robert Richards IV convicted of raping his young daughter; judge ordered treatment instead of prison.
-
-**Mentioned in:**
 - [ep-a-e7HC6SeK8 @ 00:06:49](/episodes/ep-a-e7HC6SeK8.md#^t-00-06-21)
 
 ## 2010
@@ -402,21 +224,14 @@ _Total events: 553_
 
 ## 2017
 
-### January
+### May
 
-<a id="event-2017-01-01-candace-owens-meets-charlie-kirk-at-florida-confer"></a>
+<a id="event-2018-01-01-emmanuel-macron-s-coming-to-power-referenced-trans"></a>
 
-#### 2017-01-01: Candace Owens meets Charlie Kirk at Florida conference and hired for Turning Point USA
-
-**Mentioned in:**
-- [ep-_dRaEO47-co @ 00:01:20](/episodes/ep-_dRaEO47-co.md#^t-00-00-37)
-
-<a id="event-2017-01-01-candace-owens-meets-charlie-kirk-and-hired-on-spot"></a>
-
-#### 2017-01-01: Candace Owens meets Charlie Kirk and hired on spot for Turning Point USA at Florida conference.
+#### 2017-05-14: Emmanuel Macron's coming to power referenced (transcript cites 2018 as his year of taking power).
 
 **Mentioned in:**
-- [ep-_dRaEO47-co @ 00:01:20](/episodes/ep-_dRaEO47-co.md#^t-00-00-37)
+- [ep-tB5SXXmd9vU @ 00:29:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-28-30)
 
 ### October
 
@@ -426,6 +241,15 @@ _Total events: 553_
 
 **Mentioned in:**
 - [ep-YaZfwLQ7vrI @ 00:21:23](/episodes/ep-YaZfwLQ7vrI.md#^t-00-20-48)
+
+### November
+
+<a id="event-2017-01-01-candace-owens-meets-charlie-kirk-at-florida-confer"></a>
+
+#### 2017-11-21: Candace Owens meets Charlie Kirk at Florida conference and hired for Turning Point USA
+
+**Mentioned in:**
+- [ep-_dRaEO47-co @ 00:01:20](/episodes/ep-_dRaEO47-co.md#^t-00-00-37)
 
 ## 2018
 
@@ -438,13 +262,6 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-tB5SXXmd9vU @ 00:29:03](/episodes/ep-tB5SXXmd9vU.md#^t-00-28-30)
 
-<a id="event-2018-01-01-emmanuel-macron-s-coming-to-power-referenced-trans"></a>
-
-#### 2018-01-01: Emmanuel Macron's coming to power referenced (transcript cites 2018 as his year of taking power).
-
-**Mentioned in:**
-- [ep-tB5SXXmd9vU @ 00:29:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-28-30)
-
 ### February
 
 <a id="event-2018-02-14-parkland-school-shooting-tragedy-involving-david-h"></a>
@@ -453,33 +270,13 @@ _Total events: 553_
 
 **Mentioned in:**
 - [ep-ozWJz2spBcI @ 00:00:00](/episodes/ep-ozWJz2spBcI.md#^t-00-00-00)
-
-<a id="event-2018-02-14-reference-to-the-parkland-school-shooting-invoked"></a>
-
-#### 2018-02-14: Reference to the Parkland school shooting (invoked via David Hogg analogy).
-
-**Mentioned in:**
 - [ep-his-JBjlkh8 @ 00:33:25](/episodes/ep-his-JBjlkh8.md#^t-00-32-55)
 
 ### April
 
-<a id="event-2018-04-13-text-message-from-charlie-predicting-future-total"></a>
-
-#### 2018-04-13: Text message from Charlie predicting future total war and widespread destruction.
-
-**Mentioned in:**
-- [ep-a-e7HC6SeK8 @ 00:42:37](/episodes/ep-a-e7HC6SeK8.md#^t-00-42-29)
-
 <a id="event-2018-04-14-us-and-france-conduct-missile-strikes-on-syrian-go"></a>
 
 #### 2018-04-14: US and France conduct missile strikes on Syrian government sites after chemical attack.
-
-**Mentioned in:**
-- [ep-a-e7HC6SeK8 @ 00:43:12](/episodes/ep-a-e7HC6SeK8.md#^t-00-42-29)
-
-<a id="event-2018-04-14-united-states-and-france-carried-out-military-stri"></a>
-
-#### 2018-04-14: United States and France carried out military strikes against Syrian government sites.
 
 **Mentioned in:**
 - [ep-a-e7HC6SeK8 @ 00:43:12](/episodes/ep-a-e7HC6SeK8.md#^t-00-42-29)
@@ -499,31 +296,11 @@ _Total events: 553_
 
 **Mentioned in:**
 - [ep-YaZfwLQ7vrI @ 00:22:07](/episodes/ep-YaZfwLQ7vrI.md#^t-00-21-31)
-
-<a id="event-2018-11-07-marine-veteran-mass-shooting-at-borderline-bar-and"></a>
-
-#### 2018-11-07: Marine veteran mass shooting at Borderline Bar and Grill in Thousand Oaks, killing 12
-
-**Mentioned in:**
 - [ep-YFmRH8p5lt0 @ 00:16:17](/episodes/ep-YFmRH8p5lt0.md#^t-00-15-41)
 
 ## 2019
 
 ### January
-
-<a id="event-2019-01-01-calvary-chapel-fort-lauderdale-employee-arrested-f"></a>
-
-#### 2019-01-01: Calvary Chapel Fort Lauderdale employee arrested for child pornography
-
-**Mentioned in:**
-- [ep-yAIb-NuUh_U @ 00:21:34](/episodes/ep-yAIb-NuUh_U.md#^t-00-21-05)
-
-<a id="event-2019-01-01-potter-s-fields-ministries-shuts-down-amid-financi"></a>
-
-#### 2019-01-01: Potter's Fields Ministries shuts down amid financial and psychological abuse scandal
-
-**Mentioned in:**
-- [ep-yAIb-NuUh_U @ 00:24:25](/episodes/ep-yAIb-NuUh_U.md#^t-00-23-51)
 
 <a id="event-2019-01-01-charlie-kirk-visits-israel-lunches-with-netanyahu"></a>
 
@@ -531,6 +308,22 @@ _Total events: 553_
 
 **Mentioned in:**
 - [ep-czVBmqZP6Ss @ 00:07:19](/episodes/ep-czVBmqZP6Ss.md#^t-00-07-17)
+
+<a id="event-2019-01-01-calvary-chapel-fort-lauderdale-employee-arrested-f"></a>
+
+#### 2019-01-17: Calvary Chapel Fort Lauderdale employee arrested for child pornography
+
+**Mentioned in:**
+- [ep-yAIb-NuUh_U @ 00:21:34](/episodes/ep-yAIb-NuUh_U.md#^t-00-21-05)
+
+### July
+
+<a id="event-2019-01-01-potter-s-fields-ministries-shuts-down-amid-financi"></a>
+
+#### 2019-07-01: Potter's Fields Ministries shuts down amid financial and psychological abuse scandal
+
+**Mentioned in:**
+- [ep-yAIb-NuUh_U @ 00:24:25](/episodes/ep-yAIb-NuUh_U.md#^t-00-23-51)
 
 ## 2020
 
@@ -547,20 +340,6 @@ _Total events: 553_
 
 ### January
 
-<a id="event-2021-01-01-wilmington-dassault-falcon-authorized-center-shuts"></a>
-
-#### 2021-01-01: Wilmington Dassault Falcon authorized center shuts down
-
-**Mentioned in:**
-- [ep-SKGUzGHymcI @ 00:12:40](/episodes/ep-SKGUzGHymcI.md#^t-00-12-23)
-
-<a id="event-2021-01-01-charlie-kirk-founded-turning-point-usa-faith"></a>
-
-#### 2021-01-01: Charlie Kirk founded Turning Point USA Faith.
-
-**Mentioned in:**
-- [ep-Qt0VHV-POCg @ 00:06:48](/episodes/ep-Qt0VHV-POCg.md#^t-00-06-26)
-
 <a id="event-2021-01-05-pipe-bombs-placed-at-dnc-and-rnc-headquarters-nigh"></a>
 
 #### 2021-01-05: Pipe bombs placed at DNC and RNC headquarters night before January 6
@@ -575,27 +354,40 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-YaZfwLQ7vrI @ 00:06:12](/episodes/ep-YaZfwLQ7vrI.md#^t-00-06-06)
 
+### April
+
+<a id="event-2021-01-01-charlie-kirk-founded-turning-point-usa-faith"></a>
+
+#### 2021-04-01: Charlie Kirk founded Turning Point USA Faith.
+
+**Mentioned in:**
+- [ep-Qt0VHV-POCg @ 00:06:48](/episodes/ep-Qt0VHV-POCg.md#^t-00-06-26)
+
+### December
+
+<a id="event-2021-01-01-wilmington-dassault-falcon-authorized-center-shuts"></a>
+
+#### 2021-12-09: Wilmington Dassault Falcon authorized center shuts down
+
+**Mentioned in:**
+- [ep-SKGUzGHymcI @ 00:12:40](/episodes/ep-SKGUzGHymcI.md#^t-00-12-23)
+
 ## 2022
 
-### January
+### June
 
 <a id="event-2022-01-01-mothers-protest-thomas-camino-s-involvement-in-cal"></a>
 
-#### 2022-01-01: Mothers protest Thomas Camino's involvement in Calvary Chapel youth program
+#### 2022-06-01: Mothers protest Thomas Camino's involvement in Calvary Chapel youth program
 
 **Mentioned in:**
 - [ep-yAIb-NuUh_U @ 00:11:58](/episodes/ep-yAIb-NuUh_U.md#^t-00-11-21)
 
+### August
+
 <a id="event-2022-01-01-tyler-robinson-involved-in-car-accident-captured-o"></a>
 
-#### 2022-01-01: Tyler Robinson involved in car accident captured on police bodycam
-
-**Mentioned in:**
-- [ep-ZGxnf5cj4Uw @ 00:04:05](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-03-43)
-
-<a id="event-2022-01-01-tyler-robinson-car-accident-recorded-on-police-bod"></a>
-
-#### 2022-01-01: Tyler Robinson car accident recorded on police bodycam footage
+#### 2022-08-01: Tyler Robinson involved in car accident captured on police bodycam
 
 **Mentioned in:**
 - [ep-ZGxnf5cj4Uw @ 00:04:05](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-03-43)
@@ -617,43 +409,6 @@ _Total events: 553_
 - [ep-SKGUzGHymcI @ 00:19:43](/episodes/ep-SKGUzGHymcI.md#^t-00-19-26)
 
 ## 2023
-
-### January
-
-<a id="event-2023-01-01-candace-owens-tweets-no-government-has-right-to-co"></a>
-
-#### 2023-01-01: Candace Owens tweets no government has right to commit genocide.
-
-**Mentioned in:**
-- [ep-ja26iltROkM @ 00:31:53](/episodes/ep-ja26iltROkM.md#^t-00-31-14)
-
-<a id="event-2023-01-01-catholic-investigator-reveals-adl-shares-office-wi"></a>
-
-#### 2023-01-01: Catholic investigator reveals ADL shares office with FBI in Connecticut
-
-**Mentioned in:**
-- [ep-t1YtLS1n8Vs @ 00:12:03](/episodes/ep-t1YtLS1n8Vs.md#^t-00-11-19)
-
-<a id="event-2023-01-01-candace-owens-tweets-that-no-government-has-right"></a>
-
-#### 2023-01-01: Candace Owens tweets that no government has right to commit genocide.
-
-**Mentioned in:**
-- [ep-ja26iltROkM @ 00:31:54](/episodes/ep-ja26iltROkM.md#^t-00-31-14)
-
-<a id="event-2023-01-01-kyle-undercover-reveals-adl-shares-office-space-wi"></a>
-
-#### 2023-01-01: Kyle Undercover reveals ADL shares office space with FBI in Connecticut.
-
-**Mentioned in:**
-- [ep-t1YtLS1n8Vs @ 00:11:57](/episodes/ep-t1YtLS1n8Vs.md#^t-00-11-19)
-
-<a id="event-2023-01-01-reports-that-the-saudi-king-was-on-the-referenced"></a>
-
-#### 2023-01-01: Reports that the Saudi king was on the referenced plane at some point in 2023.
-
-**Mentioned in:**
-- [ep-his-JBjlkh8 @ 00:17:41](/episodes/ep-his-JBjlkh8.md#^t-00-17-22)
 
 ### February
 
@@ -681,13 +436,17 @@ _Total events: 553_
 
 **Mentioned in:**
 - [ep-ZAuuSq_j2_w @ 00:16:42](/episodes/ep-ZAuuSq_j2_w.md#^t-00-16-27)
+- [ep-ZAuuSq_j2_w @ 00:16:49](/episodes/ep-ZAuuSq_j2_w.md#^t-00-16-27)
 
-<a id="event-2023-04-03-egyptian-president-el-sisi-reportedly-flew-on-su-b"></a>
+### August
 
-#### 2023-04-03: Egyptian President el-Sisi reportedly flew on SU-BTU to Riyadh to meet Saudi Crown Prince Mohammed bin Salman.
+<a id="event-2023-01-01-catholic-investigator-reveals-adl-shares-office-wi"></a>
+
+#### 2023-08-10: Catholic investigator reveals ADL shares office with FBI in Connecticut
 
 **Mentioned in:**
-- [ep-ZAuuSq_j2_w @ 00:16:49](/episodes/ep-ZAuuSq_j2_w.md#^t-00-16-27)
+- [ep-t1YtLS1n8Vs @ 00:12:03](/episodes/ep-t1YtLS1n8Vs.md#^t-00-11-19)
+- [ep-t1YtLS1n8Vs @ 00:11:57](/episodes/ep-t1YtLS1n8Vs.md#^t-00-11-19)
 
 ### October
 
@@ -704,20 +463,24 @@ _Total events: 553_
 
 **Mentioned in:**
 - [ep-pc3pxRyNFZk @ 00:47:07](/episodes/ep-pc3pxRyNFZk.md#^t-00-46-58)
-
-<a id="event-2023-10-07-hamas-launches-attack-on-israel-referenced-in-cont"></a>
-
-#### 2023-10-07: Hamas launches attack on Israel, referenced in context of Gaza conflict.
-
-**Mentioned in:**
 - [ep-r1PS67aRmcA @ 00:05:23](/episodes/ep-r1PS67aRmcA.md#^t-00-05-14)
+- [ep-ZAuuSq_j2_w @ 00:48:37](/episodes/ep-ZAuuSq_j2_w.md#^t-00-47-54)
 
-<a id="event-2023-10-07-october-7th-referenced-the-october-7-attack-that-p"></a>
+<a id="event-2024-01-01-phil-lyman-runs-for-utah-governor"></a>
 
-#### 2023-10-07: October 7th referenced (the October 7 attack that prompted questions and reactions about Israel).
+#### 2023-10-31: Phil Lyman runs for Utah governor
 
 **Mentioned in:**
-- [ep-ZAuuSq_j2_w @ 00:48:37](/episodes/ep-ZAuuSq_j2_w.md#^t-00-47-54)
+- [ep-t1YtLS1n8Vs @ 00:21:17](/episodes/ep-t1YtLS1n8Vs.md#^t-00-21-03)
+
+### December
+
+<a id="event-2025-01-01-rob-mccoy-announces-stepping-down-as-senior-pastor"></a>
+
+#### 2023-12-03: Rob McCoy announces stepping down as senior pastor of Godspeak Calvary Chapel
+
+**Mentioned in:**
+- [ep-Qfwr08Ebczo @ 00:14:25](/episodes/ep-Qfwr08Ebczo.md#^t-00-14-10)
 
 ## 2024
 
@@ -725,69 +488,19 @@ _Total events: 553_
 
 <a id="event-2024-01-01-drba-resolution-acquires-rights-to-dassault-paint"></a>
 
-#### 2024-01-01: DRBA resolution acquires rights to Dassault paint hangar for Satys lease
+#### 2024-01-30: DRBA resolution acquires rights to Dassault paint hangar for Satys lease
 
 **Mentioned in:**
 - [ep-SKGUzGHymcI @ 00:13:37](/episodes/ep-SKGUzGHymcI.md#^t-00-13-08)
 
-<a id="event-2024-01-01-candace-owens-departs-from-the-daily-wire-after-be"></a>
-
-#### 2024-01-01: Candace Owens departs from the Daily Wire after being fired.
-
-**Mentioned in:**
-- [ep-vwG1juDCQZQ @ 00:01:57](/episodes/ep-vwG1juDCQZQ.md#^t-00-01-30)
-
-<a id="event-2024-01-01-calvary-chapel-woodlands-lead-pastor-arrested-in-c"></a>
-
-#### 2024-01-01: Calvary Chapel Woodlands lead pastor arrested in child sex abuse sting
-
-**Mentioned in:**
-- [ep-yAIb-NuUh_U @ 00:19:36](/episodes/ep-yAIb-NuUh_U.md#^t-00-18-59)
-
-<a id="event-2024-01-01-phil-lyman-runs-for-utah-governor"></a>
-
-#### 2024-01-01: Phil Lyman runs for Utah governor
-
-**Mentioned in:**
-- [ep-t1YtLS1n8Vs @ 00:21:17](/episodes/ep-t1YtLS1n8Vs.md#^t-00-21-03)
-
-<a id="event-2024-01-01-scott-robbins-runs-for-utah-governor"></a>
-
-#### 2024-01-01: Scott Robbins runs for Utah governor
-
-**Mentioned in:**
-- [ep-t1YtLS1n8Vs @ 00:24:13](/episodes/ep-t1YtLS1n8Vs.md#^t-00-24-03)
-- [ep-t1YtLS1n8Vs @ 00:24:15](/episodes/ep-t1YtLS1n8Vs.md#^t-00-24-03)
-
-<a id="event-2024-01-01-utah-modernizes-its-state-flag-featuring-beehive-s"></a>
-
-#### 2024-01-01: Utah modernizes its state flag featuring beehive symbol.
-
-**Mentioned in:**
-- [ep-QZWSsq8ZWzw @ 00:17:01](/episodes/ep-QZWSsq8ZWzw.md#^t-00-16-34)
-
-<a id="event-2024-01-01-phil-lyman-campaigns-for-utah-governor"></a>
-
-#### 2024-01-01: Phil Lyman campaigns for Utah governor.
-
-**Mentioned in:**
-- [ep-t1YtLS1n8Vs @ 00:21:17](/episodes/ep-t1YtLS1n8Vs.md#^t-00-21-03)
-
-<a id="event-2024-01-01-utah-modernizes-state-flag-featuring-beehive-symbo"></a>
-
-#### 2024-01-01: Utah modernizes state flag featuring beehive symbol
-
-**Mentioned in:**
-- [ep-QZWSsq8ZWzw @ 00:17:01](/episodes/ep-QZWSsq8ZWzw.md#^t-00-16-34)
-
-<a id="event-2024-01-01-legislation-passed-in-2024-to-provide-financial-su"></a>
-
-#### 2024-01-01: Legislation passed in 2024 to provide financial support to the Longwood Foundation (Pierre S. du Pont).
-
-**Mentioned in:**
-- [ep-tB5SXXmd9vU @ 00:29:28](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-13)
-
 ### February
+
+<a id="event-2024-04-01-candace-owens-and-charlie-kirk-conduct-joint-campu"></a>
+
+#### 2024-02-01: Candace Owens and Charlie Kirk conduct joint campus tour across US.
+
+**Mentioned in:**
+- [ep-LATnak75Si0 @ 00:03:27](/episodes/ep-LATnak75Si0.md#^t-00-02-55)
 
 <a id="event-2024-02-15-jared-kushner-speaks-at-harvard-about-gaza-future"></a>
 
@@ -798,6 +511,13 @@ _Total events: 553_
 
 ### March
 
+<a id="event-2024-01-01-utah-modernizes-its-state-flag-featuring-beehive-s"></a>
+
+#### 2024-03-09: Utah modernizes its state flag featuring beehive symbol.
+
+**Mentioned in:**
+- [ep-QZWSsq8ZWzw @ 00:17:01](/episodes/ep-QZWSsq8ZWzw.md#^t-00-16-34)
+
 <a id="event-2024-03-13-candace-owens-releases-first-podcast-episode-on-br"></a>
 
 #### 2024-03-13: Candace Owens releases first podcast episode on Brigitte Macron.
@@ -805,11 +525,12 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-sImMM04XdWY @ 00:07:05](/episodes/ep-sImMM04XdWY.md#^t-00-06-59)
 
-<a id="event-2024-03-19-candace-owens-fired-from-the-daily-wire"></a>
+<a id="event-2024-01-01-candace-owens-departs-from-the-daily-wire-after-be"></a>
 
-#### 2024-03-19: Candace Owens fired from The Daily Wire.
+#### 2024-03-22: Candace Owens departs from the Daily Wire after being fired.
 
 **Mentioned in:**
+- [ep-vwG1juDCQZQ @ 00:01:57](/episodes/ep-vwG1juDCQZQ.md#^t-00-01-30)
 - [ep-sImMM04XdWY @ 00:07:51](/episodes/ep-sImMM04XdWY.md#^t-00-07-38)
 
 <a id="event-2024-03-25-daily-wire-ceo-jeremy-boreing-praises-nick-fuentes"></a>
@@ -821,21 +542,15 @@ _Total events: 553_
 
 ### April
 
-<a id="event-2024-04-01-candace-owens-and-charlie-kirk-conduct-joint-campu"></a>
+<a id="event-2024-01-01-scott-robbins-runs-for-utah-governor"></a>
 
-#### 2024-04-01: Candace Owens and Charlie Kirk conduct joint campus tour across US.
+#### 2024-04-27: Scott Robbins runs for Utah governor
 
 **Mentioned in:**
-- [ep-LATnak75Si0 @ 00:03:27](/episodes/ep-LATnak75Si0.md#^t-00-02-55)
+- [ep-t1YtLS1n8Vs @ 00:24:13](/episodes/ep-t1YtLS1n8Vs.md#^t-00-24-03)
+- [ep-t1YtLS1n8Vs @ 00:24:15](/episodes/ep-t1YtLS1n8Vs.md#^t-00-24-03)
 
 ### May
-
-<a id="event-2024-05-01-dr-deidre-weiss-amaro-appointed-utah-state-medical"></a>
-
-#### 2024-05-01: Dr. Deidre Weiss Amaro appointed Utah state medical examiner
-
-**Mentioned in:**
-- [ep-pc3pxRyNFZk @ 00:19:06](/episodes/ep-pc3pxRyNFZk.md#^t-00-18-51)
 
 <a id="event-2024-05-01-gernot-omer-relocates-to-utah-as-jpmorgan-chase-so"></a>
 
@@ -844,12 +559,19 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-YA1FxrDWNIo @ 00:11:37](/episodes/ep-YA1FxrDWNIo.md#^t-00-11-29)
 
-<a id="event-2024-05-01-construction-at-the-bracebridge-complex-was-report"></a>
+<a id="event-2024-01-01-calvary-chapel-woodlands-lead-pastor-arrested-in-c"></a>
 
-#### 2024-05-01: Construction at the Bracebridge complex was reported (May 2024) and expected to take about a year.
+#### 2024-05-08: Calvary Chapel Woodlands lead pastor arrested in child sex abuse sting
 
 **Mentioned in:**
-- [ep-tB5SXXmd9vU @ 00:33:22](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-10)
+- [ep-yAIb-NuUh_U @ 00:19:36](/episodes/ep-yAIb-NuUh_U.md#^t-00-18-59)
+
+<a id="event-2024-05-01-dr-deidre-weiss-amaro-appointed-utah-state-medical"></a>
+
+#### 2024-05-15: Dr. Deidre Weiss Amaro appointed Utah state medical examiner
+
+**Mentioned in:**
+- [ep-pc3pxRyNFZk @ 00:19:06](/episodes/ep-pc3pxRyNFZk.md#^t-00-18-51)
 
 ### June
 
@@ -883,13 +605,6 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-QZWSsq8ZWzw @ 00:20:29](/episodes/ep-QZWSsq8ZWzw.md#^t-00-19-59)
 
-<a id="event-2024-07-13-thomas-matthew-crooks-attempts-to-assassinate-dona"></a>
-
-#### 2024-07-13: Thomas Matthew Crooks attempts to assassinate Donald Trump, killing Corey Comparatore
-
-**Mentioned in:**
-- [ep-QZWSsq8ZWzw @ 00:20:29](/episodes/ep-QZWSsq8ZWzw.md#^t-00-19-59)
-
 ### August
 
 <a id="event-2024-08-24-891st-missile-security-forces-squadron-conducted-o"></a>
@@ -912,19 +627,12 @@ _Total events: 553_
 
 <a id="event-2024-11-01-my-chemical-romance-drummer-bob-bryar-dies-with-un"></a>
 
-#### 2024-11-01: My Chemical Romance drummer Bob Bryar dies with undetermined cause, nitrous oxide found
+#### 2024-11-24: My Chemical Romance drummer Bob Bryar dies with undetermined cause, nitrous oxide found
 
 **Mentioned in:**
 - [ep-7RLtGgkTh9o @ 00:26:16](/episodes/ep-7RLtGgkTh9o.md#^t-00-25-55)
 
 ### December
-
-<a id="event-2024-12-01-satys-announces-takeover-of-shuttered-wilmington-a"></a>
-
-#### 2024-12-01: Satys announces takeover of shuttered Wilmington airport hangar
-
-**Mentioned in:**
-- [ep-SKGUzGHymcI @ 00:12:48](/episodes/ep-SKGUzGHymcI.md#^t-00-12-23)
 
 <a id="event-2024-12-03-brigitte-macron-lawyers-send-cease-and-desist-lett"></a>
 
@@ -940,11 +648,12 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-SKGUzGHymcI @ 00:17:03](/episodes/ep-SKGUzGHymcI.md#^t-00-16-51)
 
-<a id="event-2024-12-10-french-company-satis-announces-hangar-lease-in-wil"></a>
+<a id="event-2024-12-01-satys-announces-takeover-of-shuttered-wilmington-a"></a>
 
-#### 2024-12-10: French company Satis announces hangar lease in Wilmington Delaware.
+#### 2024-12-10: Satys announces takeover of shuttered Wilmington airport hangar
 
 **Mentioned in:**
+- [ep-SKGUzGHymcI @ 00:12:48](/episodes/ep-SKGUzGHymcI.md#^t-00-12-23)
 - [ep-sImMM04XdWY @ 00:09:08](/episodes/ep-sImMM04XdWY.md#^t-00-09-03)
 
 <a id="event-2024-12-21-candace-owens-interviews-xavier-poussard-in-london"></a>
@@ -957,20 +666,6 @@ _Total events: 553_
 ## 2025
 
 ### January
-
-<a id="event-2025-01-01-rob-mccoy-announces-stepping-down-as-senior-pastor"></a>
-
-#### 2025-01-01: Rob McCoy announces stepping down as senior pastor of Godspeak Calvary Chapel
-
-**Mentioned in:**
-- [ep-Qfwr08Ebczo @ 00:14:25](/episodes/ep-Qfwr08Ebczo.md#^t-00-14-10)
-
-<a id="event-2025-01-01-detective-mike-mitchell-retires-after-24-years-wit"></a>
-
-#### 2025-01-01: Detective Mike Mitchell retires after 24 years with Washington County Sheriff's Office
-
-**Mentioned in:**
-- [ep-ZGxnf5cj4Uw @ 00:19:54](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-19-22)
 
 <a id="event-2025-01-15-detective-mike-mitchell-retires-after-24-years-wit"></a>
 
@@ -1126,13 +821,6 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-ZAuuSq_j2_w @ 00:16:04](/episodes/ep-ZAuuSq_j2_w.md#^t-00-15-51)
 
-<a id="event-2025-06-02-egyptian-military-plane-subtu-departs-provo-withou"></a>
-
-#### 2025-06-02: Egyptian military plane SUBTU departs Provo without transponder data
-
-**Mentioned in:**
-- [ep-ZAuuSq_j2_w @ 00:16:04](/episodes/ep-ZAuuSq_j2_w.md#^t-00-15-51)
-
 <a id="event-2025-06-02-the-egyptian-military-plane-su-btu-departed-and-wa"></a>
 
 #### 2025-06-02: The Egyptian military plane SU-BTU departed and was reported not transponding on departure.
@@ -1281,13 +969,6 @@ _Total events: 553_
 
 **Mentioned in:**
 - [ep-a-e7HC6SeK8 @ 00:19:12](/episodes/ep-a-e7HC6SeK8.md#^t-00-19-05)
-
-<a id="event-2025-07-31-yieldifi-became-the-primary-sponsor-of-charlie-kir"></a>
-
-#### 2025-07-31: YieldiFi became the primary sponsor of Charlie Kirk's fall tour (end of July/early August).
-
-**Mentioned in:**
-- [ep-a-e7HC6SeK8 @ 00:19:16](/episodes/ep-a-e7HC6SeK8.md#^t-00-19-05)
 
 ### August
 
@@ -1791,13 +1472,6 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-K5GjF53bfN4 @ 00:00:01](/episodes/ep-K5GjF53bfN4.md#^t-00-00-01)
 
-<a id="event-2025-09-09-benjamin-netanyahu-tweets-charlie-kirk-s-death-bef"></a>
-
-#### 2025-09-09: Benjamin Netanyahu tweets Charlie Kirk's death before US President
-
-**Mentioned in:**
-- [ep-K5GjF53bfN4 @ 00:01:53](/episodes/ep-K5GjF53bfN4.md#^t-00-01-27)
-
 <a id="event-2025-09-09-charlie-and-erica-kirk-consult-priest-to-pray-agai"></a>
 
 #### 2025-09-09: Charlie and Erica Kirk consult priest to pray against curse night before assassination
@@ -1861,24 +1535,6 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-sreYYcID-QY @ 00:19:47](/episodes/ep-sreYYcID-QY.md#^t-00-19-38)
 
-<a id="event-2025-09-10-charlie-kirk-assassinated-at-utah-valley-universit"></a>
-
-#### 2025-09-10: Charlie Kirk assassinated at Utah Valley University event.
-
-**Mentioned in:**
-- [ep-sImMM04XdWY @ 00:01:35](/episodes/ep-sImMM04XdWY.md#^t-00-01-32)
-- [ep-Qfwr08Ebczo @ 00:01:59](/episodes/ep-Qfwr08Ebczo.md#^t-00-01-25)
-- [ep-tB5SXXmd9vU @ 00:01:12](/episodes/ep-tB5SXXmd9vU.md#^t-00-00-57)
-- [ep-his-JBjlkh8 @ 00:00:48](/episodes/ep-his-JBjlkh8.md#^t-00-00-44)
-- [ep-adJ4LNGp84I @ 00:02:54](/episodes/ep-adJ4LNGp84I.md#^t-00-02-10)
-
-<a id="event-2025-09-10-charlie-kirk-assassinated-in-provo-utah"></a>
-
-#### 2025-09-10: Charlie Kirk assassinated in Provo, Utah
-
-**Mentioned in:**
-- [ep-iHav0PPzUz8 @ 00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
-
 <a id="event-2025-09-10-charlie-kirk-assassinated-by-gunshot-during-event"></a>
 
 #### 2025-09-10: Charlie Kirk assassinated by gunshot during event
@@ -1927,6 +1583,7 @@ _Total events: 553_
 
 **Mentioned in:**
 - [ep-ZAuuSq_j2_w @ 00:00:40](/episodes/ep-ZAuuSq_j2_w.md#^t-00-00-00)
+- [ep-ZAuuSq_j2_w @ 00:00:43](/episodes/ep-ZAuuSq_j2_w.md#^t-00-00-00)
 
 <a id="event-2025-09-10-yellow-egyptian-plane-departs-provo-to-wilmington"></a>
 
@@ -1992,13 +1649,6 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-ozWJz2spBcI @ 00:03:21](/episodes/ep-ozWJz2spBcI.md#^t-00-02-46)
 
-<a id="event-2025-09-10-egyptian-military-planes-circle-skies-over-provo-d"></a>
-
-#### 2025-09-10: Egyptian military planes circle skies over Provo during Kirk assassination
-
-**Mentioned in:**
-- [ep-ZAuuSq_j2_w @ 00:00:43](/episodes/ep-ZAuuSq_j2_w.md#^t-00-00-00)
-
 <a id="event-2025-09-10-egyptian-plane-subnd-transponds-on-ground-at-dunca"></a>
 
 #### 2025-09-10: Egyptian plane SUBND transponds on ground at Duncan Aviation in Provo
@@ -2027,33 +1677,12 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-2WEHTk0Xewg @ 00:07:35](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
 
-<a id="event-2025-09-10-charlie-kirk-assassinated-during-campus-event-at-u"></a>
-
-#### 2025-09-10: Charlie Kirk assassinated during campus event at UVU.
-
-**Mentioned in:**
-- [ep-ja26iltROkM @ 00:01:14](/episodes/ep-ja26iltROkM.md#^t-00-00-44)
-
-<a id="event-2025-09-10-charlie-kirk-shot-by-sniper-from-rooftop-at-uvu-ca"></a>
-
-#### 2025-09-10: Charlie Kirk shot by sniper from rooftop at UVU campus event
-
-**Mentioned in:**
-- [ep-ZGxnf5cj4Uw @ 00:06:42](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-06-10)
-
 <a id="event-2025-09-10-tyler-robinson-voluntarily-surrenders-to-washingto"></a>
 
 #### 2025-09-10: Tyler Robinson voluntarily surrenders to Washington County Sheriff's office
 
 **Mentioned in:**
 - [ep-ZGxnf5cj4Uw @ 00:01:24](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-00-55)
-
-<a id="event-2025-09-10-george-zinn-arrested-near-charlie-kirk-evacuation"></a>
-
-#### 2025-09-10: George Zinn arrested near Charlie Kirk evacuation SUV area post-shooting
-
-**Mentioned in:**
-- [ep-UBkFkg4UNY8 @ 00:09:46](/episodes/ep-UBkFkg4UNY8.md#^t-00-09-16)
 
 <a id="event-2025-09-10-erwin-steele-interviewed-by-local-news-on-providin"></a>
 
@@ -2320,6 +1949,7 @@ _Total events: 553_
 
 **Mentioned in:**
 - [ep-SKGUzGHymcI @ 00:03:55](/episodes/ep-SKGUzGHymcI.md#^t-00-03-23)
+- [ep-iHav0PPzUz8 @ 00:00:13](/episodes/ep-iHav0PPzUz8.md#^t-00-00-00)
 
 <a id="event-2025-09-10-charlie-kirk-assassinated-by-sniper-at-utah-valley"></a>
 
@@ -2334,6 +1964,12 @@ _Total events: 553_
 
 **Mentioned in:**
 - [ep-2WEHTk0Xewg @ 00:00:18](/episodes/ep-2WEHTk0Xewg.md#^t-00-00-01)
+- [ep-sImMM04XdWY @ 00:01:35](/episodes/ep-sImMM04XdWY.md#^t-00-01-32)
+- [ep-Qfwr08Ebczo @ 00:01:59](/episodes/ep-Qfwr08Ebczo.md#^t-00-01-25)
+- [ep-tB5SXXmd9vU @ 00:01:12](/episodes/ep-tB5SXXmd9vU.md#^t-00-00-57)
+- [ep-his-JBjlkh8 @ 00:00:48](/episodes/ep-his-JBjlkh8.md#^t-00-00-44)
+- [ep-adJ4LNGp84I @ 00:02:54](/episodes/ep-adJ4LNGp84I.md#^t-00-02-10)
+- [ep-2WEHTk0Xewg @ 00:07:26](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
 
 <a id="event-2025-09-10-charlie-kirk-shot-and-killed-at-uvu-college-campus"></a>
 
@@ -2341,6 +1977,7 @@ _Total events: 553_
 
 **Mentioned in:**
 - [ep-c5BcKF91iec @ 00:03:45](/episodes/ep-c5BcKF91iec.md#^t-00-03-03)
+- [ep-czVBmqZP6Ss @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#^t-00-00-00)
 
 <a id="event-2025-09-10-charlie-kirk-shot-by-sniper-from-rooftop-at-uvu-ev"></a>
 
@@ -2348,13 +1985,7 @@ _Total events: 553_
 
 **Mentioned in:**
 - [ep-q7f8r-THr84 @ 00:00:32](/episodes/ep-q7f8r-THr84.md#^t-00-00-01)
-
-<a id="event-2025-09-10-charlie-kirk-shot-and-killed-at-uvu-campus"></a>
-
-#### 2025-09-10 12:23: Charlie Kirk shot and killed at UVU campus
-
-**Mentioned in:**
-- [ep-czVBmqZP6Ss @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#^t-00-00-00)
+- [ep-ZGxnf5cj4Uw @ 00:06:42](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-06-10)
 
 <a id="event-2025-09-10-charlie-kirk-shot-in-neck-during-speech-at-uvu-amp"></a>
 
@@ -2363,33 +1994,12 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-UBkFkg4UNY8 @ 00:00:22](/episodes/ep-UBkFkg4UNY8.md#^t-00-00-00)
 
-<a id="event-2025-09-10-charlie-kirk-shot-and-killed-at-uvu-campus-event"></a>
-
-#### 2025-09-10 12:23: Charlie Kirk shot and killed at UVU campus event.
-
-**Mentioned in:**
-- [ep-czVBmqZP6Ss @ 00:00:21](/episodes/ep-czVBmqZP6Ss.md#^t-00-00-00)
-
-<a id="event-2025-09-10-charlie-kirk-shot-at-utah-valley-university"></a>
-
-#### 2025-09-10 12:23: Charlie Kirk shot at Utah Valley University
-
-**Mentioned in:**
-- [ep-2WEHTk0Xewg @ 00:07:26](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
-
 <a id="event-2025-09-10-charlie-kirk-shot-by-sniper-at-uvu-campus-event"></a>
 
 #### 2025-09-10 12:23: Charlie Kirk shot by sniper at UVU campus event
 
 **Mentioned in:**
 - [ep-q7f8r-THr84 @ 00:00:32](/episodes/ep-q7f8r-THr84.md#^t-00-00-01)
-
-<a id="event-2025-09-10-charlie-kirk-shot-in-neck-and-killed-at-uvu-amphit"></a>
-
-#### 2025-09-10 12:23: Charlie Kirk shot in neck and killed at UVU amphitheater event
-
-**Mentioned in:**
-- [ep-UBkFkg4UNY8 @ 00:00:22](/episodes/ep-UBkFkg4UNY8.md#^t-00-00-00)
 
 <a id="event-2025-09-10-charlie-kirk-shot-in-neck-and-publicly-executed-at"></a>
 
@@ -2418,6 +2028,7 @@ _Total events: 553_
 
 **Mentioned in:**
 - [ep-UBkFkg4UNY8 @ 00:09:26](/episodes/ep-UBkFkg4UNY8.md#^t-00-09-16)
+- [ep-UBkFkg4UNY8 @ 00:09:46](/episodes/ep-UBkFkg4UNY8.md#^t-00-09-16)
 
 <a id="event-2025-09-10-egyptian-plane-su-bnd-transponds-again-post-kirk-s"></a>
 
@@ -2511,20 +2122,6 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-2WEHTk0Xewg @ 00:17:34](/episodes/ep-2WEHTk0Xewg.md#^t-00-16-59)
 
-<a id="event-2025-09-11-tyler-robinson-surrenders-to-police-after-kirk-sho"></a>
-
-#### 2025-09-11: Tyler Robinson surrenders to police after Kirk shooting
-
-**Mentioned in:**
-- [ep-q7f8r-THr84 @ 00:07:05](/episodes/ep-q7f8r-THr84.md#^t-00-06-59)
-
-<a id="event-2025-09-11-charlie-kirk-violently-loses-his-life-in-incident"></a>
-
-#### 2025-09-11: Charlie Kirk violently loses his life in incident with circulating footage.
-
-**Mentioned in:**
-- [ep-_dRaEO47-co @ 00:00:28](/episodes/ep-_dRaEO47-co.md#^t-00-00-01)
-
 <a id="event-2025-09-11-benjamin-netanyahu-mourns-charlie-kirk-on-fox-news"></a>
 
 #### 2025-09-11: Benjamin Netanyahu mourns Charlie Kirk on Fox News interview.
@@ -2554,23 +2151,9 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-2WEHTk0Xewg @ 00:19:06](/episodes/ep-2WEHTk0Xewg.md#^t-00-18-53)
 
-<a id="event-2025-09-11-new-york-post-publishes-exclusive-photo-of-rifle-w"></a>
-
-#### 2025-09-11 09:21: New York Post publishes exclusive photo of rifle with engravings
-
-**Mentioned in:**
-- [ep-2WEHTk0Xewg @ 00:19:06](/episodes/ep-2WEHTk0Xewg.md#^t-00-18-53)
-
 <a id="event-2025-09-11-fbi-releases-static-images-of-alleged-shooter-asce"></a>
 
 #### 2025-09-11 10:00: FBI releases static images of alleged shooter ascending stairs
-
-**Mentioned in:**
-- [ep-2WEHTk0Xewg @ 00:19:25](/episodes/ep-2WEHTk0Xewg.md#^t-00-18-53)
-
-<a id="event-2025-09-11-fbi-releases-static-images-of-alleged-shooter-walk"></a>
-
-#### 2025-09-11 10:00: FBI releases static images of alleged shooter walking up stairs
 
 **Mentioned in:**
 - [ep-2WEHTk0Xewg @ 00:19:25](/episodes/ep-2WEHTk0Xewg.md#^t-00-18-53)
@@ -2885,13 +2468,6 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-ozWJz2spBcI @ 00:36:30](/episodes/ep-ozWJz2spBcI.md#^t-00-36-00)
 
-<a id="event-2025-09-18-benjamin-netanyahu-denies-israel-involvement-in-ch"></a>
-
-#### 2025-09-18: Benjamin Netanyahu denies Israel involvement in Charlie Kirk murder on TV.
-
-**Mentioned in:**
-- [ep-sreYYcID-QY @ 00:00:06](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
-
 <a id="event-2025-09-18-bill-ackman-releases-text-messages-amid-candace-ow"></a>
 
 #### 2025-09-18: Bill Ackman releases text messages amid Candace Owens controversy.
@@ -2992,13 +2568,6 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-ja26iltROkM @ 00:00:06](/episodes/ep-ja26iltROkM.md#^t-00-00-00)
 
-<a id="event-2025-09-21-tucker-carlson-speaks-at-turning-point-usa-convent"></a>
-
-#### 2025-09-21: Tucker Carlson speaks at Turning Point USA convention honoring Charlie Kirk.
-
-**Mentioned in:**
-- [ep-ja26iltROkM @ 00:02:14](/episodes/ep-ja26iltROkM.md#^t-00-02-10)
-
 <a id="event-2025-09-21-andrew-colvett-issues-statement-on-charlie-kirk-s"></a>
 
 #### 2025-09-21: Andrew Colvett issues statement on Charlie Kirk's bullet wound and miracle.
@@ -3019,13 +2588,6 @@ _Total events: 553_
 
 **Mentioned in:**
 - [ep-ja26iltROkM @ 00:12:12](/episodes/ep-ja26iltROkM.md#^t-00-11-35)
-
-<a id="event-2025-09-22-kash-patel-issues-fbi-statement-on-charlie-kirk-as"></a>
-
-#### 2025-09-22: Kash Patel issues FBI statement on Charlie Kirk assassination investigation.
-
-**Mentioned in:**
-- [ep-ja26iltROkM @ 00:01:05](/episodes/ep-ja26iltROkM.md#^t-00-00-44)
 
 <a id="event-2025-09-23-trump-advocates-separating-mmr-vaccines-and-removi"></a>
 
@@ -3650,13 +3212,6 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-a-e7HC6SeK8 @ 00:37:26](/episodes/ep-a-e7HC6SeK8.md#^t-00-36-55)
 
-<a id="event-2025-12-02-beekeepers-naturals-recently-launched-a-kid-friend"></a>
-
-#### 2025-12-02: Beekeepers Naturals recently launched a kid-friendly nasal spray version, mentioned during the sponsor segment.
-
-**Mentioned in:**
-- [ep-a-e7HC6SeK8 @ 00:36:42](/episodes/ep-a-e7HC6SeK8.md#^t-00-36-18)
-
 <a id="event-2025-12-02-reference-to-the-assassination-of-charlie-discusse"></a>
 
 #### 2025-12-02: Reference to the assassination of 'Charlie' (discussed as a recent/high-profile killing).
@@ -3698,13 +3253,6 @@ _Total events: 553_
 
 **Mentioned in:**
 - [ep-a-e7HC6SeK8 @ 00:49:56](/episodes/ep-a-e7HC6SeK8.md#^t-00-49-20)
-
-<a id="event-2025-12-02-candace-owens-announces-a-partnership-with-home-ti"></a>
-
-#### 2025-12-02: Candace Owens announces a partnership with Home Title Lock (promotion of their service).
-
-**Mentioned in:**
-- [ep-a-e7HC6SeK8 @ 00:50:30](/episodes/ep-a-e7HC6SeK8.md#^t-00-50-01)
 
 <a id="event-2025-12-02-candace-owens-s-book-make-him-a-sandwich-listed-as"></a>
 
@@ -3895,20 +3443,6 @@ _Total events: 553_
 **Mentioned in:**
 - [ep-his-JBjlkh8 @ 00:55:51](/episodes/ep-his-JBjlkh8.md#^t-00-55-36)
 
-<a id="event-2025-12-03-nimee-skincare-holiday-promotion-viewers-can-use-c"></a>
-
-#### 2025-12-03: Nimee Skincare holiday promotion: viewers can use code KANDICE10 for 10% off.
-
-**Mentioned in:**
-- [ep-his-JBjlkh8 @ 00:55:36](/episodes/ep-his-JBjlkh8.md#^t-00-54-55)
-
-<a id="event-2025-12-03-american-financing-advertises-home-equity-refinanc"></a>
-
-#### 2025-12-03: American Financing advertises home-equity refinancing to pay off credit card debt at low-five percent rates.
-
-**Mentioned in:**
-- [ep-his-JBjlkh8 @ 00:54:11](/episodes/ep-his-JBjlkh8.md#^t-00-53-29)
-
 <a id="event-2025-12-03-pentagon-briefing-question-from-kam-cam-higby-aski"></a>
 
 #### 2025-12-03 00:42: Pentagon briefing question from Kam (Cam) Higby asking if DOD has evidence of French plot to assassinate Candace Owens.
@@ -4062,13 +3596,6 @@ _Total events: 553_
 
 **Mentioned in:**
 - [ep-ZAuuSq_j2_w @ 00:50:41](/episodes/ep-ZAuuSq_j2_w.md#^t-00-50-05)
-
-<a id="event-2025-12-07-puretalk-promotional-offer-advertised-on-the-show"></a>
-
-#### 2025-12-07: PureTalk promotional offer advertised on the show expires (limited-time corporate promotional deadline).
-
-**Mentioned in:**
-- [ep-tB5SXXmd9vU @ 00:52:27](/episodes/ep-tB5SXXmd9vU.md#^t-00-52-25)
 
 <a id="event-2025-12-15-turning-point-usa-scheduled-a-live-streamed-formal"></a>
 

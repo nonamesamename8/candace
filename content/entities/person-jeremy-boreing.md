@@ -17,5 +17,5 @@ _Type: People_
 
 ### Ceo Of
 
-- [Daily Wire](/entities/org-daily-wire.md)
+- [The Daily Wire](/entities/org-the-daily-wire.md)
   - [ep-r1PS67aRmcA @ 00:12:39](/episodes/ep-r1PS67aRmcA.md#^t-00-12-19): "the CEO of the Daily Wire, at the time it was Jeremy Boreing"

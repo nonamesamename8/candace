@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=YaZfwLQ7vrI"
 
 **Published:** 2025-11-10 | [Watch on YouTube](https://www.youtube.com/watch?v=YaZfwLQ7vrI)
 
-**Stats:** 33 entities | 10 events | 14 claims
+**Stats:** 31 entities | 10 events | 14 claims
 
 ---
 
@@ -305,6 +305,6 @@ youtube_url: "https://www.youtube.com/watch?v=YaZfwLQ7vrI"
 
 **Places:** [Egypt](/entities/gpe-egypt.md), [Israel](/entities/gpe-israel.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
-**Organizations:** [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Timpanogos Hospital](/entities/org-timpanogos-hospital.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
+**Organizations:** [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
 
-**People:** [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Carrie Smith](/entities/person-carrie-smith.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Frank Turek](/entities/person-frank-turek.md), [Glenn Beck](/entities/person-glenn-beck.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kash Patel](/entities/person-kash-patel.md), [Lance Wallnau](/entities/person-lance-wallnau.md), [Mark Levin](/entities/person-mark-levin.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Sean Feucht](/entities/person-sean-feucht.md), [Shawna Rae Kirkhoff](/entities/person-shawna-rae-kirkhoff.md), [Skylar](/entities/person-skylar.md), [Steve Baker](/entities/person-steve-baker.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+**People:** [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Carrie Smith](/entities/person-carrie-smith.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Frank Turek](/entities/person-frank-turek.md), [Glenn Beck](/entities/person-glenn-beck.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kash Patel](/entities/person-kash-patel.md), [Lance Wallnau](/entities/person-lance-wallnau.md), [Mark Levin](/entities/person-mark-levin.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Sean Feucht](/entities/person-sean-feucht.md), [Shawna Rae Kirkhoff](/entities/person-shawna-rae-kirkhoff.md), [Steve Baker](/entities/person-steve-baker.md), [Tucker Carlson](/entities/person-tucker-carlson.md)

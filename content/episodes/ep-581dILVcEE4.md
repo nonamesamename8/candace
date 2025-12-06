@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=581dILVcEE4"
 
 **Published:** 2025-11-18 | [Watch on YouTube](https://www.youtube.com/watch?v=581dILVcEE4)
 
-**Stats:** 21 entities | 8 events | 10 claims
+**Stats:** 20 entities | 8 events | 10 claims
 
 ---
 
@@ -282,4 +282,4 @@ youtube_url: "https://www.youtube.com/watch?v=581dILVcEE4"
 
 **Organizations:** [TMZ](/entities/org-tmz.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
 
-**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Blake Lively](/entities/person-blake-lively.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erica Kirk](/entities/person-erica-kirk.md), [Kash Patel](/entities/person-kash-patel.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erica Kirk](/entities/person-erica-kirk.md), [Kash Patel](/entities/person-kash-patel.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md)

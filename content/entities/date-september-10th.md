@@ -10,11 +10,13 @@ aliases:
   - "September 10th"
   - "September 12th"
   - "September 18th"
+  - "September 21st, 2025"
+  - "September 10, 2025"
 ---
 
 _Type: Dates_
 
-**Also known as:** 9/10, September 15th, September 10th (9/10), 9-10, September 10th, September 12th, September 18th
+**Also known as:** 9/10, September 15th, September 10th (9/10), 9-10, September 10th, September 12th, September 18th, September 21st, 2025, September 10, 2025
 
 ## Mentions
 
@@ -131,6 +133,8 @@ _Type: Dates_
 
 - [00:04:54](/episodes/ep-ja26iltROkM.md#^t-00-04-41)
   > "...residence in the hours and the days leading up to September 10, 2025. Some details are known today, while others are still being pursued to ensure every possibility..."
+- [00:15:54](/episodes/ep-ja26iltROkM.md#^t-00-15-13)
+  > "...residence in the hours and the days leading up to September 10, 2025. Some details are known today, while others are still being pursued to ensure every possibility is ..."
 
 ### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
@@ -145,6 +149,8 @@ _Type: Dates_
   > "...wn way. This is the article that was published on September 18th. So we can assume that they at least photographed her one day—and interviewed her one day—earlier, ..."
 - [00:00:00](/episodes/ep-ozWJz2spBcI.md#^t-00-00-00)
   > "...wn way. This is the article that was published on September 18th. So we can assume that they at least photographed her one day—and interviewed her one day—earlier, ..."
+- [00:44:22](/episodes/ep-ozWJz2spBcI.md#^t-00-44-05)
+  > "...wn way. This is the article that was published on September 18th. So we can assume that they at least photographed her one day—and interviewed her one day—earlier, righ..."
 
 ### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
 

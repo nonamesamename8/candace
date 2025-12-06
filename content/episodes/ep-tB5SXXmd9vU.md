@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 
 **Published:** 2025-12-01 | [Watch on YouTube](https://www.youtube.com/watch?v=tB5SXXmd9vU)
 
-**Stats:** 39 entities | 10 events | 80 claims
+**Stats:** 39 entities | 9 events | 80 claims
 
 ---
 
@@ -320,15 +320,14 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 
 ## Timeline Events
 
-- **1976-01-01**: Safari Club covert intelligence alliance formed by France, Egypt, Saudi Arabia, others.
-- **1979-01-01**: Egypt-Israel peace treaty facilitated by Safari Club operations.
+- **1976-09-01**: Safari Club covert intelligence alliance formed by France, Egypt, Saudi Arabia, others.
+- **1979-03-26**: Egypt-Israel peace treaty facilitated by Safari Club operations.
 - **2025-08-02**: French Foreign Legion trains with US Marines in California until Aug 25.
 - **2025-08-20**: French Foreign Legion replaces leadership in six regiments.
 - **2025-08-27**: Operation Valhalla joint military-civilian exercise ends at Camp Ripley, Minnesota.
 - **2025-08-29**: Operation Bright Star US-Egypt joint military exercise begins in Cairo until Sep 10.
 - **2025-09-04**: Brigitte Macron opens Paris Design Week.
 - **2025-09-04**: Brigitte Macron photographed with Zelenskyy during interstate meeting.
-- **2025-09-10**: Charlie Kirk assassinated at Utah Valley University event.
 - **2025-11-25**: Candace Owens tweets warning of Macron-funded assassination plot.
 
 ## Entities Mentioned
@@ -341,6 +340,6 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 
 **Organizations:** [DuPont family](/entities/org-dupont-family.md), [French Foreign Legion](/entities/org-french-foreign-legion.md), [Safari Club](/entities/org-safari-club.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
 
-**People:** [Andrew Colvett](/entities/person-andrew-colvett.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Eric Bolling](/entities/person-eric-bolling.md), [Freddie Ponton](/entities/person-freddie-ponton.md), [Jean-Michel Trogneux](/entities/person-jean-michel-trogneux.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kanye West](/entities/person-kanye-west.md), [Pavel Durov](/entities/person-pavel-durov.md), [Steven Crowder](/entities/person-steven-crowder.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Xavier Poussard](/entities/person-xavier-poussard.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Eric Bolling](/entities/person-eric-bolling.md), [Freddie Ponton](/entities/person-freddie-ponton.md), [Jean-Michel Trogneux](/entities/person-jean-michel-trogneux.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kanye West](/entities/person-kanye-west.md), [Pavel Durov](/entities/person-pavel-durov.md), [Steven Crowder](/entities/person-steven-crowder.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Xavier Poussard](/entities/person-xavier-poussard.md)
 
 **Work:** [Becoming Brigitte](/entities/work-becoming-brigitte.md)

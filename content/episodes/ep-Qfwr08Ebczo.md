@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=Qfwr08Ebczo"
 
 **Published:** 2025-11-04 | [Watch on YouTube](https://www.youtube.com/watch?v=Qfwr08Ebczo)
 
-**Stats:** 23 entities | 8 events | 11 claims
+**Stats:** 23 entities | 7 events | 11 claims
 
 ---
 
@@ -272,13 +272,12 @@ youtube_url: "https://www.youtube.com/watch?v=Qfwr08Ebczo"
 
 ## Timeline Events
 
-- **2025-01-01**: Rob McCoy announces stepping down as senior pastor of Godspeak Calvary Chapel
+- **2023-12-03**: Rob McCoy announces stepping down as senior pastor of Godspeak Calvary Chapel
 - **2025-07-11**: Tucker Carlson speech calls out Bill Ackman on Israel and citizenship
 - **2025-07-15**: Rob McCoy transitions to pastor emeritus role at Godspeak Calvary Chapel
 - **2025-07-18**: UVU Turning Point chapter submits application for Charlie Kirk rally
 - **2025-08-24**: Rob McCoy lists secondary home in Coronado for sale
 - **2025-09-06**: Charlie Kirk's final overseas trip to Korea four days before death
-- **2025-09-10**: Charlie Kirk assassinated at Utah Valley University event.
 - **2025-09-10**: 12 Israeli cell phones detected at UVU during Charlie Kirk rally
 
 ## Entities Mentioned

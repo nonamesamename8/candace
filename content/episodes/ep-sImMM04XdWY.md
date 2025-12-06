@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
 
 **Published:** 2025-11-20 | [Watch on YouTube](https://www.youtube.com/watch?v=sImMM04XdWY)
 
-**Stats:** 42 entities | 18 events | 16 claims
+**Stats:** 42 entities | 15 events | 16 claims
 
 ---
 
@@ -255,9 +255,7 @@ youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
 ## Timeline Events
 
 - **2024-03-13**: Candace Owens releases first podcast episode on Brigitte Macron.
-- **2024-03-19**: Candace Owens fired from The Daily Wire.
 - **2024-12-03**: Brigitte Macron lawyers send cease-and-desist letter to Candace Owens.
-- **2024-12-10**: French company Satis announces hangar lease in Wilmington Delaware.
 - **2024-12-21**: Candace Owens interviews Xavier Poussard in London.
 - **2025-01-31**: Candace Owens releases first episode of Becoming Brigitte series.
 - **2025-02-17**: Candace Owens premieres sit-down interview with Xavier Poussard.
@@ -270,7 +268,6 @@ youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
 - **2025-08-05**: Turning Point USA holds Hamptons retreat described as intervention.
 - **2025-09-03**: 35 state leaders meet in Paris to discuss Ukraine security.
 - **2025-09-03**: Brigitte Macron greets President Zelensky in Paris.
-- **2025-09-10**: Charlie Kirk assassinated at Utah Valley University event.
 - **2025-09-17**: Sheriff holds press conference on Tyler Robinson custody.
 
 ## Entities Mentioned
@@ -285,6 +282,6 @@ youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
 
 **Organizations:** [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Club Candace](/entities/org-club-candace.md), [Financial Times](/entities/org-financial-times.md), [Satis](/entities/org-satis.md), [Stanford University](/entities/org-stanford-university.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
 
-**People:** [Andrew Colvett](/entities/person-andrew-colvett.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brian Harpole](/entities/person-brian-harpole.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [George Zinn](/entities/person-george-zinn.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kanye West](/entities/person-kanye-west.md), [Kash Patel](/entities/person-kash-patel.md), [Sean Ryan](/entities/person-sean-ryan.md), [Sergio Gor](/entities/person-sergio-gor.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Volodymyr Zelensky](/entities/person-volodymyr-zelensky.md), [Xavier Poussard](/entities/person-xavier-poussard.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brian Harpole](/entities/person-brian-harpole.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [George Zinn](/entities/person-george-zinn.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kanye West](/entities/person-kanye-west.md), [Kash Patel](/entities/person-kash-patel.md), [Sean Ryan](/entities/person-sean-ryan.md), [Sergio Gor](/entities/person-sergio-gor.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Volodymyr Zelensky](/entities/person-volodymyr-zelensky.md), [Xavier Poussard](/entities/person-xavier-poussard.md)
 
 **Work:** [Becoming Brigitte](/entities/work-becoming-brigitte.md)

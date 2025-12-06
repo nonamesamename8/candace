@@ -2,9 +2,13 @@
 title: "Mary Phagan"
 id: "person-mary-phagan"
 type: "PERSON"
+aliases:
+  - "Mary Fagan"
 ---
 
 _Type: People_
+
+**Also known as:** Mary Fagan
 
 ## Mentions
 
@@ -19,3 +23,5 @@ _Type: People_
 
 - [Leo Frank](/entities/person-leo-frank.md)
   - [ep-t1YtLS1n8Vs @ 00:03:44](/episodes/ep-t1YtLS1n8Vs.md#^t-00-03-31): "Mary Phagan was a 13-year-old girl who worked at his pencil factory."
+- [Leo Frank](/entities/person-leo-frank.md)
+  - [ep-t1YtLS1n8Vs @ 00:03:44](/episodes/ep-t1YtLS1n8Vs.md#^t-00-03-31): "Mary Fagan was a 13-year-old girl who worked at his pencil factory."

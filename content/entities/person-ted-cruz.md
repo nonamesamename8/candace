@@ -22,7 +22,7 @@ _Type: People_
 
 ### Affiliated With
 
-- [Daily Wire](/entities/org-daily-wire.md)
+- [The Daily Wire](/entities/org-the-daily-wire.md)
   - [ep-LATnak75Si0 @ 00:22:21](/episodes/ep-LATnak75Si0.md#^t-00-22-10): "You have done various things with the Daily Wire, including... "Lady Ballers.""
 
 ### Referenced By

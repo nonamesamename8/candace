@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=yAIb-NuUh_U"
 
 **Published:** 2025-11-13 | [Watch on YouTube](https://www.youtube.com/watch?v=yAIb-NuUh_U)
 
-**Stats:** 28 entities | 11 events | 8 claims
+**Stats:** 28 entities | 9 events | 8 claims
 
 ---
 
@@ -312,12 +312,10 @@ youtube_url: "https://www.youtube.com/watch?v=yAIb-NuUh_U"
 
 ## Timeline Events
 
-- **1990-01-01**: Thomas Michael Camino placed on probation for lewd conduct with children
-- **1995-05-01**: Thomas Michael Camino sentenced to 8 years for child molestation and luring
-- **2019-01-01**: Calvary Chapel Fort Lauderdale employee arrested for child pornography
-- **2019-01-01**: Potter's Fields Ministries shuts down amid financial and psychological abuse scandal
-- **2022-01-01**: Mothers protest Thomas Camino's involvement in Calvary Chapel youth program
-- **2024-01-01**: Calvary Chapel Woodlands lead pastor arrested in child sex abuse sting
+- **2019-01-17**: Calvary Chapel Fort Lauderdale employee arrested for child pornography
+- **2019-07-01**: Potter's Fields Ministries shuts down amid financial and psychological abuse scandal
+- **2022-06-01**: Mothers protest Thomas Camino's involvement in Calvary Chapel youth program
+- **2024-05-08**: Calvary Chapel Woodlands lead pastor arrested in child sex abuse sting
 - **2025-09-10**: Charlie Kirk assassinated, allegedly by lone gunman Tyler Robinson
 - **2025-09-30**: Article accuses Sean Foyt of mismanaging Turning Point USA funds
 - **2025-11-12**: Tucker Carlson defends Candace Owens against calls to denounce her

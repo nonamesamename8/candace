@@ -105,7 +105,7 @@ _Type: People_
 
 ### Employed By
 
-- [Daily Wire](/entities/org-daily-wire.md)
+- [The Daily Wire](/entities/org-the-daily-wire.md)
   - [ep-2Riv3I7D0Yk @ 00:15:43](/episodes/ep-2Riv3I7D0Yk.md#^t-00-15-07): "He was at one point the editor-at-large of the Daily Wire"
 
 ### Works At

@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=YA1FxrDWNIo"
 
 **Published:** 2025-09-30 | [Watch on YouTube](https://www.youtube.com/watch?v=YA1FxrDWNIo)
 
-**Stats:** 39 entities | 6 events | 10 claims
+**Stats:** 39 entities | 5 events | 10 claims
 
 ---
 
@@ -230,7 +230,6 @@ youtube_url: "https://www.youtube.com/watch?v=YA1FxrDWNIo"
 
 ## Timeline Events
 
-- **1999-11-01**: Article covers Detective Mike Mitchell posing online to catch pedophiles.
 - **2024-05-01**: Gernot Omer relocates to Utah as JPMorgan Chase software engineer.
 - **2025-05-01**: Charlie Kirk writes and sends pro-Israel love letter to Benjamin Netanyahu.
 - **2025-08-01**: Kash Patel fires Utah FBI chief, appoints Robert Bowles as replacement.

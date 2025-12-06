@@ -3,14 +3,13 @@ title: "Tyler Robinson"
 id: "person-tyler-robinson"
 type: "PERSON"
 aliases:
-  - "Tyler Boyer"
   - "Tyler"
   - "Robinson"
 ---
 
 _Type: People_
 
-**Also known as:** Tyler Boyer, Tyler, Robinson
+**Also known as:** Tyler, Robinson
 
 ## Mentions
 
