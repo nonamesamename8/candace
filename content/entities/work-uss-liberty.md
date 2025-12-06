@@ -22,4 +22,4 @@ _Type: Work_
 ### Referenced By
 
 - [Phil Turney](/entities/person-phil-turney.md) **affiliated with** this
-  - [ep-his-JBjlkh8 @ 00:10:09](/episodes/ep-his-JBjlkh8.md#^t-00-09-43)
+  - [ep-his-JBjlkh8 @ 00:10:09](/episodes/ep-his-JBjlkh8.md#^t-00-09-34)

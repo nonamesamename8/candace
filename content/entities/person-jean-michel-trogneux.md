@@ -3,12 +3,13 @@ title: "Jean-Michel Trogneux"
 id: "person-jean-michel-trogneux"
 type: "PERSON"
 aliases:
+  - "Jean-Michel Trogneux"
   - "Jean-Michel"
 ---
 
 _Type: People_
 
-**Also known as:** Jean-Michel
+**Also known as:** Jean-Michel Trogneux, Jean-Michel
 
 ## Mentions
 

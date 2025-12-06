@@ -2,11 +2,20 @@
 title: "August 2nd"
 id: "date-august-2nd"
 type: "DATE"
+aliases:
+  - "August 22nd"
 ---
 
 _Type: Dates_
 
+**Also known as:** August 22nd
+
 ## Mentions
+
+### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
+
+- [00:08:41](/episodes/ep-2Riv3I7D0Yk.md#^t-00-08-16)
+  > "... is factually untrue, okay? Irina was murdered on August 22nd. Her perpetrator was arrested that same day, and the footage was released and trended on X on Sept..."
 
 ### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 

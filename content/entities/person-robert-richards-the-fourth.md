@@ -24,3 +24,4 @@ _Type: People_
 
 - [Robert H. Richards](/entities/person-robert-h-richards.md) **parent of** this
   - [ep-a-e7HC6SeK8 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#^t-00-07-45)
+  - [ep-a-e7HC6SeK8 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#^t-00-07-45)

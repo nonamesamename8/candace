@@ -18,4 +18,4 @@ _Type: People_
 ### Referenced By
 
 - [Candace Owens](/entities/person-candace-owens.md) **interviewed** this
-  - [ep-his-JBjlkh8 @ 00:03:56](/episodes/ep-his-JBjlkh8.md#^t-00-03-53)
+  - [ep-his-JBjlkh8 @ 00:03:56](/episodes/ep-his-JBjlkh8.md#^t-00-03-40)

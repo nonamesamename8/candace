@@ -18,9 +18,9 @@ _Type: People_
 ### Affiliated With
 
 - [USS Liberty](/entities/work-uss-liberty.md)
-  - [ep-his-JBjlkh8 @ 00:10:09](/episodes/ep-his-JBjlkh8.md#^t-00-09-43): "[01:04:06] ...when we interviewed Phil Turney of the USS Liberty."
+  - [ep-his-JBjlkh8 @ 00:10:09](/episodes/ep-his-JBjlkh8.md#^t-00-09-34): "[01:04:06] ...when we interviewed Phil Turney of the USS Liberty."
 
 ### Referenced By
 
 - [Candace Owens](/entities/person-candace-owens.md) **interviewed** this
-  - [ep-his-JBjlkh8 @ 00:10:09](/episodes/ep-his-JBjlkh8.md#^t-00-09-43)
+  - [ep-his-JBjlkh8 @ 00:10:09](/episodes/ep-his-JBjlkh8.md#^t-00-09-34)

@@ -1,0 +1,23 @@
+---
+title: "Tyler absolutely did not author those text messages"
+claim_id: "claim-bd1d3eace0a9"
+episode: "ZGxnf5cj4Uw"
+type: "factual"
+---
+
+**Status:** ⏳ Not yet verified
+**Type:** Factual
+
+## Claim
+
+> Tyler absolutely did not author those text messages
+
+## Source
+
+**Episode:** [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
+**Timestamp:** [00:03:31](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-03-03) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(211);return false;">▶️ Play</a>
+
+## Verification
+
+_This claim has not yet been verified._

@@ -30,4 +30,5 @@ _Type: Organizations_
 - [Hervé Hoppenot](/entities/person-herve-hoppenot.md) **advisor to** this
   - [ep-tB5SXXmd9vU @ 00:33:53](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-10)
 - [Hervé Hoppenot](/entities/person-herve-hoppenot.md) **ceo of** this
+  - [ep-tB5SXXmd9vU @ 00:33:39](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-10)
   - [ep-tB5SXXmd9vU @ 00:33:45](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-10)

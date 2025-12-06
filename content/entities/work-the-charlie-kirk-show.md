@@ -19,7 +19,15 @@ _Type: Work_
 
 ## Relationships
 
+### Interviewed
+
+- [Tyler Boyer](/entities/person-tyler-boyer.md)
+  - [ep-his-JBjlkh8 @ 00:09:26](/episodes/ep-his-JBjlkh8.md#^t-00-08-43): "She has spread absurd claims that Tyler Boyer, who we just had on the show,"
+
 ### Referenced By
 
+- [Blake Neff](/entities/person-blake-lively.md) **works at** this
+  - [ep-his-JBjlkh8 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#^t-00-02-14)
+  - [ep-his-JBjlkh8 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#^t-00-02-14)
 - [Blake Neff](/entities/person-blake-neff.md) **works at** this
   - [ep-his-JBjlkh8 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#^t-00-02-14)

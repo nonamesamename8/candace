@@ -8,6 +8,11 @@ _Type: Organizations_
 
 ## Mentions
 
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+
+- [00:07:43](/episodes/ep-mKXdKV-OBog.md#^t-00-07-13)
+  > "...t they were training for, okay? So this is on the Minot Air Force Base website. It says Operation Valhalla Strike was a week-long training where the 891st Squadron from M..."
+
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:16:44](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09)

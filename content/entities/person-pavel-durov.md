@@ -18,4 +18,5 @@ _Type: People_
 ### Founded
 
 - [Telegram](/entities/org-telegram.md)
+  - [ep-tB5SXXmd9vU @ 00:10:50](/episodes/ep-tB5SXXmd9vU.md#^t-00-10-07): "Pavel Durov, the founder of Telegram, for being one of the first people"
   - [ep-tB5SXXmd9vU @ 00:10:50](/episodes/ep-tB5SXXmd9vU.md#^t-00-10-07): "...I'd like to thank Pavel Durov, the founder of Telegram..."

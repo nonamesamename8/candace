@@ -18,4 +18,6 @@ _Type: People_
 ### Works At
 
 - [Turning Point USA](/entities/org-turning-point-usa.md)
+  - [ep-a-e7HC6SeK8 @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-50): "Justin Strife is going to be the new COO"
+  - [ep-a-e7HC6SeK8 @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-50): "Justin Strife is going to be the new COO"
   - [ep-a-e7HC6SeK8 @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-50): "[00:24:56] And he announces that Justin Strife is going to be the new COO, taking over for Tyler Boyer, who was the COO."

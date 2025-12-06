@@ -15,4 +15,7 @@ _Type: People_
 
 ## Relationships
 
-_No relationships extracted yet._
+### Founded
+
+- [Calvary Chapel](/entities/org-calvary-chapel.md)
+  - [ep-yAIb-NuUh_U @ 00:29:32](/episodes/ep-yAIb-NuUh_U.md#^t-00-29-27): "Chuck Smith is his name—CIA character that was close to him... who exactly started the Calvary Chapel"

@@ -8,6 +8,11 @@ _Type: Places_
 
 ## Mentions
 
+### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
+
+- [00:11:50](/episodes/ep-2Riv3I7D0Yk.md#^t-00-11-41)
+  > "...Qatar or something. 11:33 a.m., he tweets against Saudi Arabia because they came out and made a statement against what Israel had done. So he tweets against Saudi..."
+
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:13:29](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15)

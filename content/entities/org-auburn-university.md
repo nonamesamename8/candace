@@ -1,0 +1,18 @@
+---
+title: "Auburn University"
+id: "org-auburn-university"
+type: "ORG"
+---
+
+_Type: Organizations_
+
+## Mentions
+
+### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
+
+- [00:39:11](/episodes/ep-r1PS67aRmcA.md#^t-00-39-03)
+  > "...c and Lara Trump spoke at a recent TPUSA event at Auburn University. And it's a different era, okay? The post-Charlie (Charlie Kirk) era at Turning Point USA. My guess..."
+
+## Relationships
+
+_No relationships extracted yet._

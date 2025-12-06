@@ -1,0 +1,18 @@
+---
+title: "Karoline Leavitt"
+id: "person-karoline-leavitt"
+type: "PERSON"
+---
+
+_Type: People_
+
+## Mentions
+
+### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+
+- [00:27:43](/episodes/ep-mKXdKV-OBog.md#^t-00-27-32)
+  > "...shamelessness that I don't know. What was it that Karoline Leavitt said? They asked Karoline Leavitt about this at the White House, and she said—and I quote—"The Whit..."
+
+## Relationships
+
+_No relationships extracted yet._

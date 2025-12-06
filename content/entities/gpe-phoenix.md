@@ -10,6 +10,8 @@ _Type: Places_
 
 ### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
+- [00:05:36](/episodes/ep-ZAuuSq_j2_w.md#^t-00-05-21)
+  > "... going to be a live-streamed event from Charlie's Phoenix Studio. Our offer from yesterday holds. If Candace wishes to join us in person in Phoenix, she is w..."
 - [00:05:30](/episodes/ep-ZAuuSq_j2_w.md#^t-00-05-21)
   > "... going to be a live streamed event from Charlie's Phoenix Studio. Our offer from yesterday holds. If Candace wishes to join us in person in Phoenix, she is w..."
 
@@ -23,4 +25,7 @@ _Type: Places_
 ### Referenced By
 
 - [Turning Point USA](/entities/org-turning-point-usa.md) **based in** this
+  - [ep-his-JBjlkh8 @ 00:29:01](/episodes/ep-his-JBjlkh8.md#^t-00-28-45)
+- [Turning Point USA](/entities/org-turning-point-usa.md) **headquartered in** this
+  - [ep-ZAuuSq_j2_w @ 00:05:30](/episodes/ep-ZAuuSq_j2_w.md#^t-00-05-21)
   - [ep-his-JBjlkh8 @ 00:29:01](/episodes/ep-his-JBjlkh8.md#^t-00-28-45)

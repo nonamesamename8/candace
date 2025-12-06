@@ -12,6 +12,11 @@ _Type: Concepts_
 
 ## Mentions
 
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+
+- [00:22:49](/episodes/ep-sImMM04XdWY.md#^t-00-22-25)
+  > "...suing was running. And that was us discussing the MKUltra program and Brigitte Macron strangely and Emmanuel mentioning MKUltra in the lawsuit to us 18 times..."
+
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:37:32](/episodes/ep-tB5SXXmd9vU.md#^t-00-37-15)

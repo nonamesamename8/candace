@@ -14,8 +14,13 @@ _Type: People_
 
 ### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
-- [00:40:12](/episodes/ep-ZAuuSq_j2_w.md#^t-00-40-08)
+- [00:40:12](/episodes/ep-ZAuuSq_j2_w.md#^t-00-39-56)
   > "... need some help with legal fees. Yeah, yeah. Also Tyler Boyer, fun little update, sends a text or something. They're all just so insincere. I don't know, sent an..."
+
+### [ep-ZGxnf5cj4Uw](/episodes/ep-ZGxnf5cj4Uw.md)
+
+- [00:41:28](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-40-46)
+  > "...nd then he mentioned Governor Cox and he mentions Tyler Boyer of Turning Point USA and says that, again, this is according to Nick, that Tyler Boyer and the Lyma..."
 
 ### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
@@ -28,7 +33,7 @@ _Type: People_
 
 ### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
-- [00:09:26](/episodes/ep-his-JBjlkh8.md#^t-00-09-04)
+- [00:09:26](/episodes/ep-his-JBjlkh8.md#^t-00-08-43)
   > "...ut of a camera. She has spread absurd claims that Tyler Boyer, who we just had on the show, sexually abuses male interns. Okay, so yes, the SD card thing is unbe..."
 
 ## Relationships
@@ -41,14 +46,20 @@ _Type: People_
 ### Hired
 
 - [Stacey Sheridan](/entities/person-stacey-sheridan.md)
+  - [ep-a-e7HC6SeK8 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#^t-00-13-20): "She was brought in specifically by Tyler Boyer to raise money"
   - [ep-a-e7HC6SeK8 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#^t-00-13-20): "...she was brought in specifically by Tyler Boyer to raise money and to take Turning Point to the next level."
 
 ### Works At
 
 - [Turning Point USA](/entities/org-turning-point-usa.md)
+  - [ep-a-e7HC6SeK8 @ 00:25:04](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-50): "taking over for Tyler Boyer, who was the COO"
+  - [ep-ZGxnf5cj4Uw @ 00:41:28](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-40-46): "Tyler Boyer of Turning Point USA"
   - [ep-a-e7HC6SeK8 @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-50): "[00:24:56] And he announces that Justin Strife is going to be the new COO, taking over for Tyler Boyer, who was the COO."
 
 ### Referenced By
 
+- [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md) **interviewed** this
+  - [ep-his-JBjlkh8 @ 00:09:26](/episodes/ep-his-JBjlkh8.md#^t-00-08-43)
 - [Donald Trump](/entities/person-donald-trump.md) **pardoned** this
+  - [ep-a-e7HC6SeK8 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#^t-00-13-20)
   - [ep-a-e7HC6SeK8 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#^t-00-13-20)

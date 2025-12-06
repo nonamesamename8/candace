@@ -19,4 +19,7 @@ _Type: Organizations_
 
 ## Relationships
 
-_No relationships extracted yet._
+### Based In
+
+- [Wilmington, Delaware](/entities/gpe-wilmington.md)
+  - [ep-SKGUzGHymcI @ 00:10:15](/episodes/ep-SKGUzGHymcI.md#^t-00-09-44): "the Department of Justice's own directory lists, quote, Wilmington Residence Office, 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware, 19801."

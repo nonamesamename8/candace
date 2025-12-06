@@ -19,4 +19,7 @@ _Type: People_
 
 ## Relationships
 
-_No relationships extracted yet._
+### Interviewed
+
+- [Eric Bolling](/entities/person-eric-bolling.md)
+  - [ep-aDlhjfW6hz8 @ 00:20:25](/episodes/ep-aDlhjfW6hz8.md#^t-00-19-43): "PBD (Patrick Bet-David)... platformed, without any pushback, Eric Bolling"

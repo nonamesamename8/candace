@@ -12,6 +12,11 @@ _Type: People_
 
 ## Mentions
 
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+
+- [00:20:57](/episodes/ep-sImMM04XdWY.md#^t-00-20-22)
+  > "...mention before we get to September 4th. President Zelensky is in town also, though. Brigitte Macron welcomes President Zelensky into Paris on September 3rd because ther..."
+
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:39:58](/episodes/ep-tB5SXXmd9vU.md#^t-00-39-28)

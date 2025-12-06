@@ -19,3 +19,4 @@ _Type: Organizations_
 
 - [Pavel Durov](/entities/person-pavel-durov.md) **founded** this
   - [ep-tB5SXXmd9vU @ 00:10:50](/episodes/ep-tB5SXXmd9vU.md#^t-00-10-07)
+  - [ep-tB5SXXmd9vU @ 00:10:50](/episodes/ep-tB5SXXmd9vU.md#^t-00-10-07)

@@ -23,4 +23,5 @@ _Type: People_
 ### Ceo Of
 
 - [Incyte](/entities/org-incyte.md)
+  - [ep-tB5SXXmd9vU @ 00:33:39](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-10): "the longtime CEO of that biopharmaceutical company Incyte was? Hervé Hoppenot."
   - [ep-tB5SXXmd9vU @ 00:33:45](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-10): ""...the longtime CEO of that biopharmaceutical company Incyte was? Hervé Hoppenot.""

@@ -20,6 +20,8 @@ _Type: Organizations_
 
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
+- [00:05:08](/episodes/ep-tB5SXXmd9vU.md#^t-00-04-29)
+  > "...apparently paid for my assassination and that the French Foreign Legion was apparently involved and on the ground at UVU on the day of Charlie (Charlie Kirk)'s assassinati..."
 - [00:01:12](/episodes/ep-tB5SXXmd9vU.md#^t-00-00-57)
   > "...apparently paid for my assassination and that the French Foreign Legion was apparently involved and on the ground at UVU on the day of Charlie Kirk's (Charlie Kirk) assass..."
 - [00:20:07](/episodes/ep-tB5SXXmd9vU.md#^t-00-19-45)

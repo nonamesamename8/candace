@@ -32,4 +32,5 @@ _Type: Organizations_
 ### Invested In
 
 - [Satis](/entities/org-satis.md)
+  - [ep-tB5SXXmd9vU @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#^t-00-38-00): "the second-largest shareholder for Satis is Israel. Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners. They are the second-largest shareholder to Satis."
   - [ep-tB5SXXmd9vU @ 00:38:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-38-43): ""They are the second-largest shareholder to Satis.""

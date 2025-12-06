@@ -11,7 +11,7 @@ _Type: Organizations_
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:11:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-11-17)
-  > "...urther reaching global implications involving the Safari Club in Egypt. Now, if you haven't heard of that, this was the article that he wrote: "Past as Prologue:..."
+  > "...was the article that he wrote: "Past as Prologue: Safari Club Illuminates Candace Owens' Allegations." I had never heard of this. I really hadn't, okay? Because ..."
 
 ## Relationships
 

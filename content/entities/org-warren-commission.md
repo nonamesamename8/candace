@@ -1,0 +1,18 @@
+---
+title: "Warren Commission"
+id: "org-warren-commission"
+type: "ORG"
+---
+
+_Type: Organizations_
+
+## Mentions
+
+### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
+
+- [00:28:16](/episodes/ep-t1YtLS1n8Vs.md#^t-00-27-37)
+  > "...that then you have to kind of put together like a Warren Commission, right? JFK, the Warren Commission, a complete and utter farce to pretend like the government's tak..."
+
+## Relationships
+
+_No relationships extracted yet._

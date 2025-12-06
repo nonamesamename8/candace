@@ -22,4 +22,6 @@ _Type: People_
 ### Founded
 
 - [FBI](/entities/org-fbi.md)
+  - [ep-a-e7HC6SeK8 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18): "our FBI was founded by Charles Joseph Bonaparte"
+  - [ep-a-e7HC6SeK8 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18): "did you know that our FBI was founded by Charles Joseph Bonaparte?"
   - [ep-a-e7HC6SeK8 @ 00:04:29](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18): "...did you know that our FBI was founded by Charles Joseph Bonaparte..."

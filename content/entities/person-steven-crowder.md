@@ -12,8 +12,15 @@ _Type: People_
 
 ## Mentions
 
+### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
+
+- [00:04:51](/episodes/ep-JQjCAsfoXEE.md#^t-00-04-16)
+  > "...no. Same thing, by the way, I should mention with Steven Crowder. I have never been a fan. He just always gave me the energy of a pathological liar. I trust my gut...."
+
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
+- [00:48:04](/episodes/ep-tB5SXXmd9vU.md#^t-00-47-39)
+  > "...ther that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder. I don't know what's going on even in this room, but it's not like we're loving what she's doing th..."
 - [00:47:57](/episodes/ep-tB5SXXmd9vU.md#^t-00-47-39)
   > "...ther that's PragerU, Charlie Kirk (Charlie Kirk), Steven Crowder. I don't know what's going on even in this room, but it's not like we're loving what she's doing th..."
 
