@@ -4,49 +4,7 @@ _Total relationships: 291_
 
 This page shows all extracted relationships between entities.
 
-## Summary by Type
-
-| Relationship | Count |
-|--------------|-------|
-| works at | 33 |
-| affiliated with | 32 |
-| interviewed | 31 |
-| employed by | 29 |
-| criticized | 25 |
-| member of | 19 |
-| based in | 15 |
-| founded | 14 |
-| married to | 10 |
-| headquartered in | 10 |
-| lives in | 8 |
-| invested in | 6 |
-| parent of | 5 |
-| endorsed | 5 |
-| hired | 5 |
-| ceo of | 5 |
-| sibling of | 4 |
-| dating | 3 |
-| board member of | 3 |
-| appointed | 3 |
-| owns | 3 |
-| fired | 2 |
-| sued | 2 |
-| advisor to | 2 |
-| debated | 2 |
-| worked with | 2 |
-| interviewed by | 2 |
-| located in | 2 |
-| child of | 1 |
-| pardoned | 1 |
-| born in | 1 |
-| acquired | 1 |
-| political ally of | 1 |
-| close associate of | 1 |
-| contributor to | 1 |
-| COO of | 1 |
-| former contributor to | 1 |
-
-<details open>
+<details>
 <summary>Works At (33)</summary>
 
 - [Alex Clark](/entities/person-alex-clark.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -85,7 +43,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Affiliated With (32)</summary>
 
 - [4th Company, 2nd Foreign Infantry Regiment](/entities/org-4th-company-2nd-foreign-infantry-regiment.md) → [6th Marine Regiment](/entities/org-6th-marine-regiment.md)
@@ -123,7 +81,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Interviewed (31)</summary>
 
 - [Alex Clark](/entities/person-alex-clark.md) → [Andrew Colvett](/entities/person-andrew-kolvet.md)
@@ -160,7 +118,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Employed By (29)</summary>
 
 - [Andrew Colvett](/entities/person-andrew-kolvet.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -195,7 +153,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Criticized (25)</summary>
 
 - [Adam Sosnick](/entities/person-adam-sosnick.md) → [Candace Owens](/entities/person-candace-owens.md)
@@ -226,7 +184,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Member Of (19)</summary>
 
 - [2nd Foreign Infantry Regiment](/entities/org-2nd-foreign-infantry-regiment.md) → [French Foreign Legion](/entities/org-french-foreign-legion.md)
@@ -251,7 +209,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Based In (15)</summary>
 
 - [ACE Partners](/entities/org-ace-partners.md) → [Tel Aviv](/entities/gpe-tel-aviv.md)
@@ -272,7 +230,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Founded (14)</summary>
 
 - [B'nai B'rith](/entities/org-b-nai-b-rith.md) → [Anti-Defamation League](/entities/org-anti-defamation-league.md)
@@ -292,7 +250,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Married To (10)</summary>
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) → [Erica Kirk](/entities/person-erica-kirk.md)
@@ -308,7 +266,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Headquartered In (10)</summary>
 
 - [Bracebridge Complex](/entities/org-bracebridge-complex.md) → [1100 North King Street](/entities/gpe-1100-north-king-street.md)
@@ -324,7 +282,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Lives In (8)</summary>
 
 - [Britney Spears](/entities/person-britney-spears.md) → [Thousand Oaks, California](/entities/gpe-thousand-oaks-california.md)
@@ -338,7 +296,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Invested In (6)</summary>
 
 - [ACE Partners](/entities/org-ace-partners.md) → [Satis](/entities/org-satis.md)
@@ -350,7 +308,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Parent Of (5)</summary>
 
 - [Carl Wallnau](/entities/person-carl-wallnau.md) → [Lance Wallnau](/entities/person-lance-wallnau.md)
@@ -361,7 +319,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Endorsed (5)</summary>
 
 - [Candace Owens](/entities/person-candace-owens.md) → [Riverbend Ranch](/entities/org-riverbend-ranch.md)
@@ -372,7 +330,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Hired (5)</summary>
 
 - [Candace Owens](/entities/person-candace-owens.md) → [Richards, Layton & Finger](/entities/org-richards-layton-finger.md)
@@ -383,7 +341,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Ceo Of (5)</summary>
 
 - [Andrew Zenger](/entities/person-andrew-zenger.md) → [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
@@ -394,7 +352,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Sibling Of (4)</summary>
 
 - [Burton Hibbs](/entities/person-burton-hibbs.md) → [Jack Hibbs](/entities/person-jack-hibbs.md)
@@ -404,7 +362,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Dating (3)</summary>
 
 - [Kash Patel](/entities/person-kash-patel.md) → [Alexis Wilkins](/entities/person-alexis-wilkins.md)
@@ -413,7 +371,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Board Member Of (3)</summary>
 
 - [Andrew Kolvet](/entities/person-andrew-kolvet.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -422,7 +380,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Appointed (3)</summary>
 
 - [Governor Cox](/entities/person-governor-cox.md) → [Judge Tony F. Graff Jr.](/entities/person-judge-tony-f-graff-jr.md)
@@ -431,7 +389,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Owns (3)</summary>
 
 - [Bari Weiss](/entities/person-bari-weiss.md) → [The Free Press](/entities/org-the-free-press.md)
@@ -440,7 +398,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Fired (2)</summary>
 
 - [Candace Owens](/entities/person-candace-owens.md) → [The Daily Wire](/entities/org-the-daily-wire.md)
@@ -448,7 +406,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Sued (2)</summary>
 
 - [Alexis Wilkins](/entities/person-alexis-wilkins.md) → [Elijah Schaffer](/entities/person-elijah-schaffer.md)
@@ -456,7 +414,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Advisor To (2)</summary>
 
 - [Hervé Hoppenot](/entities/person-herve-hoppenot.md) → [Incyte](/entities/org-incyte.md)
@@ -464,7 +422,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Debated (2)</summary>
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) → [Michael Knowles](/entities/person-michael-knowles.md)
@@ -472,7 +430,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Worked With (2)</summary>
 
 - [Andrew Kolvet](/entities/person-andrew-kolvet.md) → [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -480,7 +438,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Interviewed By (2)</summary>
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) → [Tucker Carlson](/entities/person-tucker-carlson.md)
@@ -488,7 +446,7 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Located In (2)</summary>
 
 - [Camp Ripley](/entities/gpe-camp-ripley.md) → [Minnesota](/entities/gpe-minnesota.md)
@@ -496,63 +454,63 @@ This page shows all extracted relationships between entities.
 
 </details>
 
-<details open>
+<details>
 <summary>Child Of (1)</summary>
 
 - [Mikey McCoy](/entities/person-mikey-mccoy.md) → [Rob McCoy](/entities/person-rob-mccoy.md)
 
 </details>
 
-<details open>
+<details>
 <summary>Pardoned (1)</summary>
 
 - [Donald Trump](/entities/person-donald-trump.md) → [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </details>
 
-<details open>
+<details>
 <summary>Born In (1)</summary>
 
 - [Sean Feucht](/entities/person-sean-feucht.md) → [Montana](/entities/gpe-montana.md)
 
 </details>
 
-<details open>
+<details>
 <summary>Acquired (1)</summary>
 
 - [Bank of America](/entities/org-bank-of-america.md) → [Bracebridge Complex](/entities/org-bracebridge-complex.md)
 
 </details>
 
-<details open>
+<details>
 <summary>Political Ally Of (1)</summary>
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) → [Donald Trump](/entities/person-donald-trump.md)
 
 </details>
 
-<details open>
+<details>
 <summary>Close Associate Of (1)</summary>
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) → [Rob McCoy](/entities/person-rob-mccoy.md)
 
 </details>
 
-<details open>
+<details>
 <summary>Contributor To (1)</summary>
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) → [PragerU](/entities/org-prageru.md)
 
 </details>
 
-<details open>
+<details>
 <summary>Coo Of (1)</summary>
 
 - [Tyler Bowyer](/entities/person-tyler-bowyer.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 
-<details open>
+<details>
 <summary>Former Contributor To (1)</summary>
 
 - [Steven Crowder](/entities/person-steven-crowder.md) → [PragerU](/entities/org-prageru.md)

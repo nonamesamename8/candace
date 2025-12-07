@@ -50,7 +50,8 @@ Claims are factual assertions extracted from episode transcripts. Each claim is 
 
 ## By Follow-up Status
 
-### Open Claims
+<details>
+<summary>Open Claims (1141)</summary>
 
 ### [ep-2Riv3I7D0Yk @ 00:00:16](/episodes/ep-2Riv3I7D0Yk.md#^t-00-00-00)
 
@@ -6899,14 +6900,25 @@ Claims are factual assertions extracted from episode transcripts. Each claim is 
 **Type:** Factual
 
 
-### Addressed Claims
+</details>
+
+<details>
+<summary>Addressed Claims (0)</summary>
 
 _No addressed claims._
 
-### Refuted Claims
+</details>
+
+<details>
+<summary>Refuted Claims (0)</summary>
 
 _No refuted claims._
 
-### Unclear Claims
+</details>
+
+<details>
+<summary>Unclear Claims (0)</summary>
 
 _No unclear claims._
+
+</details>
