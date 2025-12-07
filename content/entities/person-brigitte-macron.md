@@ -3,17 +3,15 @@ title: "Brigitte Macron"
 id: "person-brigitte-macron"
 type: "PERSON"
 aliases:
-  - "Brigitte"
-  - "Macrons"
-  - "Emmanuel"
   - "Brigitte Macron"
-  - "Emmanuel Macron"
   - "Macron"
+  - "Macrons"
+  - "Brigitte"
 ---
 
 _Type: People_
 
-**Also known as:** Brigitte, Macrons, Emmanuel, Brigitte Macron, Emmanuel Macron, Macron
+**Also known as:** Brigitte Macron, Macron, Macrons, Brigitte
 
 ## Mentions
 

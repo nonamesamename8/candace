@@ -178,5 +178,7 @@ _Type: Organizations_
 
 - [UVU students](/entities/org-uvu-students.md) **member of** this
   - [ep-tB5SXXmd9vU @ 00:59:06](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43)
+- [Lozier Center](/entities/org-lozier-center.md) **part of** this
+- [Sorensen Center](/entities/org-sorensen-center.md) **part of** this
 - [Jeff Long](/entities/person-jeff-long.md) **works at** this
   - [ep-581dILVcEE4 @ 00:24:59](/episodes/ep-581dILVcEE4.md#^t-00-24-53)

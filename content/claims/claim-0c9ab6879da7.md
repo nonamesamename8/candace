@@ -3,9 +3,10 @@ title: "four out of the six protest permits that were issued on Janu..."
 claim_id: "claim-0c9ab6879da7"
 episode: "YaZfwLQ7vrI"
 type: "factual"
+veracity: "true"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ✅ True
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,12 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+**Confidence:** High
+**Source:** [The New Apostolic Reformation drove the January 6 riots, so why was it overlooked by the House Select Committee? – Baptist News Global](https://baptistnews.com/article/the-new-apostolic-reformation-drove-the-january-6-riots-so-why-was-it-overlooked-by-the-house-select-committee/)
+
+### Analysis
+
+Multiple reliable sources, including Baptist News Global, The Washington Post, and archived reports, confirm that four out of six protest permits issued on January 6, 2021, were granted to independent charismatic Christian groups, many affiliated with the New Apostolic Reformation (NAR), which had been involved in efforts to overturn the 2020 election results. No contradicting evidence was found in established news outlets or government records.
 
 ## Follow-up
 

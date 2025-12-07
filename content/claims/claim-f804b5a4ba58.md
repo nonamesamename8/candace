@@ -3,9 +3,10 @@ title: "in December of 2024, a French aircraft finishing company cal..."
 claim_id: "claim-f804b5a4ba58"
 episode: "SKGUzGHymcI"
 type: "factual"
+veracity: "true"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ✅ True
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,12 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+**Confidence:** High
+**Source:** [Satys Aerospace signs two-year lease for Wilmington Airport hangar](https://delawarebusinesstimes.com/news/satys-lease-wilmington-hangar/)
+
+### Analysis
+
+Multiple reliable news sources, including Delaware Business Times, Delaware Online, and Choose Delaware, confirm that Satys Aerospace, a French aircraft finishing company, announced and signed a lease in December 2024 to take over the hangar at Wilmington Airport previously vacated by Dassault. Articles published between December 10 and December 30, 2024, detail the two-year lease with options to renew, investment plans, and the site's use for aircraft painting and finishing.
 
 ## Follow-up
 

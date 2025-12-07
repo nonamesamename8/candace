@@ -93,7 +93,7 @@ _Type: Events_
 ### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
 
 - [00:00:22](/episodes/ep-UBkFkg4UNY8.md#^t-00-00-00)
-  > "...uss Andrew Colvett, the PR agent, close friend of Charlie (Charlie Kirk), who sat down with Alex Clark to answer questions pertaining to whether or not Charlie (Charlie Kirk) w..."
+  > "...uss Andrew Kolvet, the PR agent, close friend of Charlie (Charlie Kirk), who sat down with Alex Clark to answer questions pertaining to whether or not Charlie (Charlie Kirk) w..."
 
 ### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
 

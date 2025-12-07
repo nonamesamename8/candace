@@ -1,6 +1,6 @@
 # Relationships Index
 
-_Total relationships: 291_
+_Total relationships: 301_
 
 This page shows all extracted relationships between entities.
 
@@ -84,7 +84,7 @@ This page shows all extracted relationships between entities.
 <details>
 <summary>Interviewed (31)</summary>
 
-- [Alex Clark](/entities/person-alex-clark.md) → [Andrew Colvett](/entities/person-andrew-kolvet.md)
+- [Alex Clark](/entities/person-alex-clark.md) → [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 - [Andrew K. Smith](/entities/person-andrew-k-smith.md) → [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [Ben Shapiro](/entities/person-ben-shapiro.md) → [Candace Owens](/entities/person-candace-owens.md)
 - [Ben Shapiro](/entities/person-ben-shapiro.md) → [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
@@ -114,14 +114,14 @@ This page shows all extracted relationships between entities.
 - [Tucker Carlson](/entities/person-tucker-carlson.md) → [Candace Owens](/entities/person-candace-owens.md)
 - [Tucker Carlson](/entities/person-tucker-carlson.md) → [Nick Fuentes](/entities/person-nick-fuentes.md)
 - [Tucker Carlson](/entities/person-tucker-carlson.md) → [Conrad Flynn](/entities/person-conrad-flynn.md)
-- [Tucker Carlson](/entities/person-tucker-carlson.md) → [Andrew Colvett](/entities/person-andrew-kolvet.md)
+- [Tucker Carlson](/entities/person-tucker-carlson.md) → [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </details>
 
 <details>
 <summary>Employed By (29)</summary>
 
-- [Andrew Colvett](/entities/person-andrew-kolvet.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
+- [Andrew Kolvet](/entities/person-andrew-kolvet.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
 - [Bari Weiss](/entities/person-bari-weiss.md) → [The New York Times](/entities/org-the-new-york-times.md)
 - [Blake Lively](/entities/person-blake-neff.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
 - [Brian Harpole](/entities/person-brian-harpole.md) → [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -210,12 +210,13 @@ This page shows all extracted relationships between entities.
 </details>
 
 <details>
-<summary>Based In (15)</summary>
+<summary>Based In (17)</summary>
 
 - [ACE Partners](/entities/org-ace-partners.md) → [Tel Aviv](/entities/gpe-tel-aviv.md)
 - [Caldera Engineering](/entities/org-caldera-engineering.md) → [Provo](/entities/gpe-provo.md)
 - [Camp Ripley Training Center](/entities/org-camp-ripley-training-center.md) → [Minnesota](/entities/gpe-minnesota.md)
 - [DEA](/entities/org-dea.md) → [Wilmington, Delaware](/entities/gpe-wilmington.md)
+- [DEA](/entities/org-dea.md) → [920 North King Street](/entities/gpe-920-north-king-street.md)
 - [Department of Justice](/entities/org-department-of-justice.md) → [Wilmington, Delaware](/entities/gpe-wilmington.md)
 - [FBI](/entities/org-federal-reserve.md) → [Wilmington, Delaware](/entities/gpe-wilmington.md)
 - [Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md) → [Thousand Oaks, California](/entities/gpe-thousand-oaks-california.md)
@@ -226,6 +227,7 @@ This page shows all extracted relationships between entities.
 - [Turning Point USA](/entities/org-turning-point-usa.md) → [Arizona](/entities/gpe-arizona.md)
 - [Turning Point USA](/entities/org-turning-point-usa.md) → [Phoenix](/entities/gpe-phoenix.md)
 - [United States Secret Service](/entities/org-united-states-secret-service.md) → [Wilmington, Delaware](/entities/gpe-wilmington.md)
+- [United States Secret Service](/entities/org-united-states-secret-service.md) → [920 North King Street](/entities/gpe-920-north-king-street.md)
 - [UVU](/entities/org-utah-valley-university.md) → [Orem](/entities/gpe-orem.md)
 
 </details>
@@ -253,7 +255,7 @@ This page shows all extracted relationships between entities.
 <details>
 <summary>Married To (10)</summary>
 
-- [Charlie Kirk](/entities/person-charlie-kirk.md) → [Erica Kirk](/entities/person-erica-kirk.md)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) → [Erika Kirk](/entities/person-erica-kirk.md)
 - [Courtney Love](/entities/person-courtney-love.md) → [Kurt Cobain](/entities/person-kurt-cobain.md)
 - [Derek Maxfield](/entities/person-derek-maxfield.md) → [Shalane Maxfield](/entities/person-shalane-maxfield.md)
 - [Emmanuel Macron](/entities/person-emmanuel-macron.md) → [Brigitte Macron](/entities/person-brigitte-macron.md)
@@ -337,7 +339,7 @@ This page shows all extracted relationships between entities.
 - [Charlie Kirk](/entities/person-charlie-kirk.md) → [Candace Owens](/entities/person-candace-owens.md)
 - [Kash Patel](/entities/person-kash-patel.md) → [Robert Bowles](/entities/person-robert-bowles.md)
 - [Tyler Bowyer](/entities/person-tyler-bowyer.md) → [Stacey Sheridan](/entities/person-stacey-sheridan.md)
-- [Tyler Bowyer](/entities/person-tyler-bowyer.md) → [Andrew Colvett](/entities/person-andrew-kolvet.md)
+- [Tyler Bowyer](/entities/person-tyler-bowyer.md) → [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </details>
 
@@ -363,6 +365,16 @@ This page shows all extracted relationships between entities.
 </details>
 
 <details>
+<summary>Located In (4)</summary>
+
+- [33 Thomas Street](/entities/gpe-33-thomas-street.md) → [New York City](/entities/gpe-new-york-city.md)
+- [920 North King Street](/entities/gpe-920-north-king-street.md) → [Wilmington](/entities/gpe-wilmington.md)
+- [Camp Ripley](/entities/gpe-camp-ripley.md) → [Minnesota](/entities/gpe-minnesota.md)
+- [Wilmington](/entities/gpe-wilmington.md) → [Delaware](/entities/gpe-delaware.md)
+
+</details>
+
+<details>
 <summary>Dating (3)</summary>
 
 - [Kash Patel](/entities/person-kash-patel.md) → [Alexis Wilkins](/entities/person-alexis-wilkins.md)
@@ -383,8 +395,8 @@ This page shows all extracted relationships between entities.
 <details>
 <summary>Appointed (3)</summary>
 
-- [Governor Cox](/entities/person-governor-cox.md) → [Judge Tony F. Graff Jr.](/entities/person-judge-tony-f-graff-jr.md)
-- [Governor Cox](/entities/person-governor-cox.md) → [Tony F. Graff Jr.](/entities/person-tony-f-graff-jr.md)
+- [Governor Cox](/entities/person-governor-cox.md) → [Judge Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)
+- [Governor Cox](/entities/person-governor-cox.md) → [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)
 - [Kash Patel](/entities/person-kash-patel.md) → [Robert Bowles](/entities/person-robert-bowles.md)
 
 </details>
@@ -447,10 +459,18 @@ This page shows all extracted relationships between entities.
 </details>
 
 <details>
-<summary>Located In (2)</summary>
+<summary>Part Of (2)</summary>
 
-- [Camp Ripley](/entities/gpe-camp-ripley.md) → [Minnesota](/entities/gpe-minnesota.md)
-- [Wilmington](/entities/gpe-wilmington.md) → [Delaware](/entities/gpe-delaware.md)
+- [Lozier Center](/entities/org-lozier-center.md) → [Utah Valley University](/entities/org-utah-valley-university.md)
+- [Sorensen Center](/entities/org-sorensen-center.md) → [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
+
+<details>
+<summary>Operated By (2)</summary>
+
+- [SU-BND](/entities/work-su-bnd.md) → [Egypt](/entities/gpe-egypt.md)
+- [SU-BTT](/entities/work-su-btt.md) → [Egypt](/entities/gpe-egypt.md)
 
 </details>
 
@@ -514,5 +534,19 @@ This page shows all extracted relationships between entities.
 <summary>Former Contributor To (1)</summary>
 
 - [Steven Crowder](/entities/person-steven-crowder.md) → [PragerU](/entities/org-prageru.md)
+
+</details>
+
+<details>
+<summary>Owned By (1)</summary>
+
+- [N560TW](/entities/work-n560tw.md) → [T.W. Lewis Foundation](/entities/org-tw-lewis-foundation.md)
+
+</details>
+
+<details>
+<summary>Funded (1)</summary>
+
+- [Joyce Chernick](/entities/person-joyce-chernick.md) → [David Horowitz Freedom Center](/entities/org-david-horowitz-freedom-center.md)
 
 </details>

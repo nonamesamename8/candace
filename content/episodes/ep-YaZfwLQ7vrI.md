@@ -265,13 +265,13 @@ youtube_url: "https://www.youtube.com/watch?v=YaZfwLQ7vrI"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:02:01](/timestamps/ep-YaZfwLQ7vrI/t-00-01-21.md) | factual | [-](/claims/claim-951a8d00ee0e.md) | the feds immediately seized the footage at Timpanogos Hospital |
-| [00:02:11](/timestamps/ep-YaZfwLQ7vrI/t-00-02-01.md) | factual | [-](/claims/claim-f5184a69e457.md) | Timpanogos Hospital... was further and also less equipped than UV Hospital... UV... |
-| [00:08:21](/timestamps/ep-YaZfwLQ7vrI/t-00-08-05.md) | factual | [-](/claims/claim-9ca437b1838b.md) | the person responsible for dropping off those pipe bombs was... a 31-year-old wo... |
-| [00:10:34](/timestamps/ep-YaZfwLQ7vrI/t-00-10-09.md) | factual | [-](/claims/claim-60566acd88cc.md) | A CIA spokeswoman, Liz Lyon, stated that Shawna Rae Kirkhoff... worked in Capito... |
-| [00:12:07](/timestamps/ep-YaZfwLQ7vrI/t-00-11-32.md) | factual | [-](/claims/claim-e8d0adb9c73d.md) | on November 6th—he publishes this onto his Facebook page... 'We're going to expo... |
-| [00:12:35](/timestamps/ep-YaZfwLQ7vrI/t-00-12-17.md) | factual | [-](/claims/claim-0c9ab6879da7.md) | four out of the six protest permits that were issued on January 6th were issued ... |
-| [00:12:45](/timestamps/ep-YaZfwLQ7vrI/t-00-12-17.md) | factual | [-](/claims/claim-b942b87713ab.md) | Fifteen of these pastors and leaders surrounded Trump at the White House leading... |
+| [00:02:01](/timestamps/ep-YaZfwLQ7vrI/t-00-01-21.md) | factual | [❓ Unverifiable](/claims/claim-951a8d00ee0e.md) | the feds immediately seized the footage at Timpanogos Hospital |
+| [00:02:11](/timestamps/ep-YaZfwLQ7vrI/t-00-02-01.md) | factual | [⚠️ Mixed](/claims/claim-f5184a69e457.md) | Timpanogos Hospital... was further and also less equipped than UV Hospital... UV... |
+| [00:08:21](/timestamps/ep-YaZfwLQ7vrI/t-00-08-05.md) | factual | [❌ False](/claims/claim-9ca437b1838b.md) | the person responsible for dropping off those pipe bombs was... a 31-year-old wo... |
+| [00:10:34](/timestamps/ep-YaZfwLQ7vrI/t-00-10-09.md) | factual | [❌ False](/claims/claim-60566acd88cc.md) | A CIA spokeswoman, Liz Lyon, stated that Shawna Rae Kirkhoff... worked in Capito... |
+| [00:12:07](/timestamps/ep-YaZfwLQ7vrI/t-00-11-32.md) | factual | [❓ Unverifiable](/claims/claim-e8d0adb9c73d.md) | on November 6th—he publishes this onto his Facebook page... 'We're going to expo... |
+| [00:12:35](/timestamps/ep-YaZfwLQ7vrI/t-00-12-17.md) | factual | [✅ True](/claims/claim-0c9ab6879da7.md) | four out of the six protest permits that were issued on January 6th were issued ... |
+| [00:12:45](/timestamps/ep-YaZfwLQ7vrI/t-00-12-17.md) | factual | [❓ Unverifiable](/claims/claim-b942b87713ab.md) | Fifteen of these pastors and leaders surrounded Trump at the White House leading... |
 | [00:17:14](/timestamps/ep-YaZfwLQ7vrI/t-00-16-39.md) | factual | [-](/claims/claim-1cc6ce306763.md) | Lance Wallnau... graduated from a military academy. His father, Carl Wallnau, wa... |
 | [00:20:07](/timestamps/ep-YaZfwLQ7vrI/t-00-19-33.md) | factual | [-](/claims/claim-79885e44a951.md) | Sources within Turning Point's faith department tell me that Lance Wallnau was r... |
 | [00:22:16](/timestamps/ep-YaZfwLQ7vrI/t-00-22-07.md) | factual | [-](/claims/claim-3edd1eac954a.md) | a Marine whose family knows Rob McCoy—well, Rob McCoy is friends with that Marin... |

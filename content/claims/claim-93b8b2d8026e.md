@@ -21,10 +21,12 @@ veracity: "unverifiable"
 
 ## Verification
 
+**Confidence:** High
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
 
 ### Analysis
 
-No corroborating sources found
+Multiple reliable sources, including Wikipedia, PBS, NPR, ABC News, NBC News, FBI updates, CBS News, AP News, and The New York Times, confirm the assassination occurred on September 10, 2025, at Utah Valley University in Orem, Utah, with Kirk shot in the neck during an event. However, none specify the exact time as 12:23 (presumably local Mountain Time). X posts mention details like the shooter arriving on campus at 11:52, but no precise shooting time is given. This claim cannot be verified without access to official documents such as police reports, FBI investigative timelines, or autopsy records, which could be obtained via FOIA requests or detailed news archives not present in available results.
 
 ## Follow-up
 

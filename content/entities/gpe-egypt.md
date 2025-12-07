@@ -106,3 +106,5 @@ _Type: Places_
 - [Operation Bright Star](/entities/event-operation-bright-star.md) **affiliated with** this
   - [ep-a-e7HC6SeK8 @ 00:24:34](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-09)
   - [ep-tB5SXXmd9vU @ 00:22:08](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-46)
+- [SU-BTT](/entities/work-su-btt.md) **operated by** this
+- [SU-BND](/entities/work-su-bnd.md) **operated by** this

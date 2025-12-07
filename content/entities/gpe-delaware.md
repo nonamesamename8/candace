@@ -36,7 +36,7 @@ _Type: Places_
 - [00:11:41](/episodes/ep-a-e7HC6SeK8.md#^t-00-11-12)
   > "...our tip yesterday from that person in Wilmington, Delaware, was asserting that the FBI had these offices, these kind of hidden offices, maybe kind of in build..."
 - [00:33:21](/episodes/ep-a-e7HC6SeK8.md#^t-00-32-45)
-  > "...t too French. We just can't all be hanging out in Delaware. And there's one more thing that came in regarding Andrew Colvett. A very close family friend of An..."
+  > "...t too French. We just can't all be hanging out in Delaware. And there's one more thing that came in regarding Andrew Kolvet. A very close family friend of An..."
 
 ### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 

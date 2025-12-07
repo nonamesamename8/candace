@@ -85,9 +85,9 @@ _Type: People_
 ### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
 
 - [00:00:48](/episodes/ep-UBkFkg4UNY8.md#^t-00-00-32)
-  > "...w Colvett, the PR agent, close friend of Charlie (Charlie Kirk), who sat down with Alex Clark to answer questions pertaining to whether or not Charlie (Charlie Ki..."
+  > "...w Kolvet, the PR agent, close friend of Charlie (Charlie Kirk), who sat down with Alex Clark to answer questions pertaining to whether or not Charlie (Charlie Ki..."
 - [00:01:40](/episodes/ep-UBkFkg4UNY8.md#^t-00-01-13)
-  > "...uss Andrew Colvett, the PR agent, close friend of Charlie Kirk, who sat down with Alex Clark to answer questions pertaining to whether or not Charlie Kirk was con..."
+  > "...uss Andrew Kolvet, the PR agent, close friend of Charlie Kirk, who sat down with Alex Clark to answer questions pertaining to whether or not Charlie Kirk was con..."
 
 ### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
 
@@ -321,9 +321,9 @@ _Type: People_
 
 ### Married To
 
-- [Erica Kirk](/entities/person-erica-kirk.md)
-  - [ep-SKGUzGHymcI @ 00:00:09](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00): "tracking Erica (Erica Kirk) and Charlie (Charlie Kirk)"
-  - [ep-2WEHTk0Xewg @ 01:07:30](/episodes/ep-2WEHTk0Xewg.md#^t-01-06-45): "Erica Kirk has been—you could see the energy. She's gonna fight."
+- [Erika Kirk](/entities/person-erica-kirk.md)
+  - [ep-SKGUzGHymcI @ 00:00:09](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00): "tracking Erika (Erika Kirk) and Charlie (Charlie Kirk)"
+  - [ep-2WEHTk0Xewg @ 01:07:30](/episodes/ep-2WEHTk0Xewg.md#^t-01-06-45): "Erika Kirk has been—you could see the energy. She's gonna fight."
   - [ep-sreYYcID-QY @ 00:43:45](/episodes/ep-sreYYcID-QY.md#^t-00-43-40): "When's the last time you spoke to Erica?"
 
 ### Political Ally Of

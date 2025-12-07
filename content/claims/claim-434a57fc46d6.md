@@ -3,9 +3,10 @@ title: "plane that departed Scottsdale at eight local time and lande..."
 claim_id: "claim-434a57fc46d6"
 episode: "581dILVcEE4"
 type: "factual"
+veracity: "unverifiable"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ❓ Unverifiable
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,12 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+**Confidence:** High
+**Source:** [N/A](N/A)
+
+### Analysis
+
+No reliable primary sources (e.g., news articles from established outlets like Daily Mail, People, or Yahoo News, or official flight records) confirm or refute the existence of a specific plane departing Scottsdale at 8 a.m. local time and landing in Provo at 10 a.m. local time on September 10, 2025, owned by T.W. Lewis. Available web results focus on a different plane departing Provo after the shooting, with ownership unmasked in some reports, but not matching the claimed route or timing. X posts mention a morning flight linked to a TPUSA donor but are inconclusive and not reliable evidence. Verification would require public or FOIA-accessible flight records from FAA, FlightAware, or similar aviation databases to check registrations under T.W. Lewis or associated entities for that date and route.
 
 ## Follow-up
 

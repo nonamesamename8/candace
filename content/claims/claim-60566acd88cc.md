@@ -3,9 +3,10 @@ title: "A CIA spokeswoman, Liz Lyon, stated that Shawna Rae Kirkhoff..."
 claim_id: "claim-60566acd88cc"
 episode: "YaZfwLQ7vrI"
 type: "factual"
+veracity: "false"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ❌ False
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,12 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+**Confidence:** High
+**Source:** [Report linked ex-Capitol Police officer to 'Jan. 6 pipe bomber': What we know | Snopes.com](https://www.snopes.com/news/2025/11/11/capitol-police-kerkhoff-j6-bomber/)
+
+### Analysis
+
+No reliable sources, including news articles or official statements, confirm that a CIA spokeswoman named Liz Lyon made any statement about Shawna Rae Kirkhoff (or similar spellings like Shauni Rae Kerkhoff) working in Capitol Police Campus Security or living in Alexandria, Virginia. Searches for primary sources yielded reports about Kerkhoff from outlets like Blaze Media, which later retracted its claims linking her to the Jan. 6 pipe bombs after federal authorities charged Brian J. Cole instead. X posts mention Kerkhoff's background but attribute it to investigative reports, not a CIA spokeswoman. The absence of any evidence for Liz Lyon's statement across multiple sources indicates the claim is contradicted or fabricated.
 
 ## Follow-up
 

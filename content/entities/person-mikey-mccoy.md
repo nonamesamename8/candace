@@ -33,7 +33,7 @@ _Type: People_
 ### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:27:51](/episodes/ep-K1tFD7FfoCU.md#^t-00-27-09)
-  > "...That was my reason for going after Andrew Colvet, Mikey McCoy. Anybody that's told a lie—Rob McCoy, blood all over him— you got my attention. What lie has Erika ..."
+  > "...That was my reason for going after Andrew Kolvet, Mikey McCoy. Anybody that's told a lie—Rob McCoy, blood all over him— you got my attention. What lie has Erika ..."
 
 ### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
 

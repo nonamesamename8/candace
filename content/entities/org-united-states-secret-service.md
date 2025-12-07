@@ -40,3 +40,4 @@ _Type: Organizations_
 
 - [Wilmington, Delaware](/entities/gpe-wilmington.md)
   - [ep-SKGUzGHymcI @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#^t-00-10-15): "you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801."
+- [920 North King Street](/entities/gpe-920-north-king-street.md)

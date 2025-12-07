@@ -25,4 +25,6 @@ _Type: Places_
 
 ## Relationships
 
-_No relationships extracted yet._
+### Referenced By
+
+- [33 Thomas Street](/entities/gpe-33-thomas-street.md) **located in** this

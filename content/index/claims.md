@@ -40,15 +40,24 @@ Claims are factual assertions extracted from episode transcripts. Each claim is 
 | Metric | Count |
 |--------|-------|
 | Factual claims | 1008 |
-| Verified | 5 |
-| Unverified | 1003 |
-| True | 1 |
-| False | 1 |
-| Mixed | 0 |
+| Verified | 25 |
+| Unverified | 983 |
+| True | 5 |
+| False | 5 |
+| Mixed | 3 |
 
 ## By Verification Status
 
 ### False Claims
+
+### [ep-581dILVcEE4 @ 00:01:15](/episodes/ep-581dILVcEE4.md#^t-00-00-44)
+
+> the filing deadline, if you file for an extension—which we can assume Turning Point did—was November 15th for this year
+
+**Type:** Factual
+**Veracity:** False (high)
+**Source:** [Turning Point Usa Inc - Nonprofit Explorer - ProPublica](https://projects.propublica.org/nonprofits/organizations/800835023)
+**Verification Notes:** ProPublica provides access to Turning Point USA's historical IRS Form 990 filings, which show a fiscal year ending June 30 (confirmed by posts found on X referencing filings like the one covering July 1, 2020, to June 30, 2021). Per IRS rules, for a fiscal year ending June 30, the original Form 990 due date is November 15 of the same year, and filing for a 6-month extension moves the deadline to May 15 of the following year. The claim incorrectly states that the deadline with an extension is November 15, which is actually the original deadline without extension. No evidence was found of a change in fiscal year to make November 15 the extended date.
 
 ### [ep-SKGUzGHymcI @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#^t-00-10-15)
 
@@ -59,7 +68,81 @@ Claims are factual assertions extracted from episode transcripts. Each claim is 
 **Source:** [Contact Us - Richards, Layton & Finger](https://www.rlf.com/contact-us/)
 **Verification Notes:** The address 920 North King Street in Wilmington, Delaware, is confirmed as the location of Richards, Layton & Finger, a private law firm, based on their official website. No primary sources, such as official government directories or websites for the DEA or Secret Service, list these agencies at this address in the search results. Posts found on X suggest the agencies may be at a different location (e.g., 500 Delaware Avenue), but this information is treated as inconclusive due to the controversial nature of the topic. The claim that public directories currently show the DEA and Secret Service at this address is not supported and appears incorrect.
 
+### [ep-SKGUzGHymcI @ 00:15:30](/episodes/ep-SKGUzGHymcI.md#^t-00-14-53)
+
+> When you Google FBI Wilmington Resident Agency, you should check the address in the Google info panel. You will likely get 920 North King Street with the label Federal Bureau of Investigation.
+
+**Type:** Factual
+**Veracity:** False (medium)
+**Source:** [Field Offices | Federal Bureau of Investigation](https://www.fbi.gov/contact-us/field-offices)
+**Verification Notes:** The official FBI website lists field offices but does not specify 920 North King Street as the address for the Wilmington Resident Agency. Provided web search results for the query including 'Google info panel' do not show or confirm that Google displays this address. Multiple X posts from users who conducted Google searches and contacted the Baltimore FBI office (which oversees Delaware) state that no Google results show FBI offices at 920 North King Street, and the actual address is 500 Delaware Avenue. One post notes the FBI moved from North King Street some time ago. This contradicts the claim that Google will likely show 920 North King Street.
+
+### [ep-YaZfwLQ7vrI @ 00:08:21](/episodes/ep-YaZfwLQ7vrI.md#^t-00-08-05)
+
+> the person responsible for dropping off those pipe bombs was... a 31-year-old woman and a United States Capitol Police officer named Shawna Rae Kirkhoff
+
+**Type:** Factual
+**Veracity:** False (high)
+**Source:** [Officials say a fresh review of evidence led to arrest in D.C. pipe bomb case](https://www.nbcnews.com/politics/politics-news/suspect-arrested-january-6-dc-pipe-bomb-case-rcna247308)
+**Verification Notes:** Multiple reliable news outlets, including NBC, NPR, ABC, CBS, POLITICO, and Axios, report that on December 4, 2025, the FBI arrested Brian J. Cole, a Virginia man, in connection with the January 5, 2021, pipe bombs near DNC and RNC headquarters. The claim appears to stem from a November 2025 Blaze Media report alleging a forensic match to former Capitol Police officer Shauni Rae Kerkhoff (similar to the named 'Shawna Rae Kirkhoff'), but Blaze Media retracted this report on December 4, 2025, after the official arrest. Snopes also confirms the retraction and the charging of Cole, contradicting the claim.
+
+### [ep-YaZfwLQ7vrI @ 00:10:34](/episodes/ep-YaZfwLQ7vrI.md#^t-00-10-09)
+
+> A CIA spokeswoman, Liz Lyon, stated that Shawna Rae Kirkhoff... worked in Capitol Police Campus Security. She lives in Alexandria, Virginia.
+
+**Type:** Factual
+**Veracity:** False (high)
+**Source:** [Report linked ex-Capitol Police officer to 'Jan. 6 pipe bomber': What we know | Snopes.com](https://www.snopes.com/news/2025/11/11/capitol-police-kerkhoff-j6-bomber/)
+**Verification Notes:** No reliable sources, including news articles or official statements, confirm that a CIA spokeswoman named Liz Lyon made any statement about Shawna Rae Kirkhoff (or similar spellings like Shauni Rae Kerkhoff) working in Capitol Police Campus Security or living in Alexandria, Virginia. Searches for primary sources yielded reports about Kerkhoff from outlets like Blaze Media, which later retracted its claims linking her to the Jan. 6 pipe bombs after federal authorities charged Brian J. Cole instead. X posts mention Kerkhoff's background but attribute it to investigative reports, not a CIA spokeswoman. The absence of any evidence for Liz Lyon's statement across multiple sources indicates the claim is contradicted or fabricated.
+
+### Mixed Claims
+
+### [ep-581dILVcEE4 @ 00:04:30](/episodes/ep-581dILVcEE4.md#^t-00-04-16)
+
+> a person in the State Department confirmed that a foreign military jet actually can't just land on American soil without the federal government paying attention. It actually requires a federal escort
+
+**Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Diplomatic Aircraft Clearance Procedures for Foreign State Aircraft To Operate in United States National Airspace - United States Department of State](https://www.state.gov/diplomatic-aircraft-clearance-procedures-for-foreign-state-aircraft-to-operate-in-united-states-national-airspace/)
+**Verification Notes:** Official U.S. State Department guidelines confirm that foreign state aircraft, including military jets, require diplomatic clearance to enter and operate in U.S. airspace, ensuring federal government awareness and approval. Multiple sources, including FAA and DoD documents, support that such landings are monitored and cannot occur without attention. However, the claim's assertion of a required 'federal escort' (implying physical or airborne accompaniment) is not explicitly mandated in these policies; escorts may be provided in specific security contexts (e.g., interceptions per FAA guidelines) but are not a standard requirement for cleared flights.
+
+### [ep-581dILVcEE4 @ 00:46:52](/episodes/ep-581dILVcEE4.md#^t-00-46-30)
+
+> a woman who yelled and took away a million dollars because of the Tucker Carlson speech. That woman was Joyce Chernick... married to Aubrey Chernick... fund a variety of pro-Israel causes through the David Horowitz Freedom Center
+
+**Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Meet the Chernicks](https://mondoweiss.net/2010/09/meet-the-chernicks/)
+**Verification Notes:** The claim that Joyce Chernick is married to Aubrey Chernick and that they fund pro-Israel causes through the David Horowitz Freedom Center is supported by reliable sources, including articles detailing their philanthropic activities and connections to conservative, pro-Israel organizations. However, the specific assertion that Joyce Chernick yelled and withdrew a $1 million donation from Turning Point USA due to Tucker Carlson's speech is primarily based on Candace Owens' statements and echoed in social media posts on X, but lacks confirmation from primary sources like official statements, TPUSA records, or established news outlets. Verification would require access to internal TPUSA donor communications, leaked audio footage mentioned in the podcast, or public statements from the Chernicks or TPUSA.
+
+### [ep-YaZfwLQ7vrI @ 00:02:11](/episodes/ep-YaZfwLQ7vrI.md#^t-00-02-01)
+
+> Timpanogos Hospital... was further and also less equipped than UV Hospital... UV was a trauma one, and Timpanogos was trauma three
+
+**Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Utah Trauma and Stroke Centers 2023](https://ems.utah.gov/wp-content/uploads/sites/34/2023/04/Copy-of-Utah-Trauma-Stroke-2023.pdf)
+**Verification Notes:** The Utah Bureau of EMS lists Level I trauma centers in Utah as Intermountain Medical Center and University of Utah Hospital (not Utah Valley Hospital). Additional sources confirm Utah Valley Hospital is a Level II trauma center, contradicting the claim that it is Level I. Timpanogos Regional Hospital is confirmed as Level III via its official website. Thus, the trauma level for Timpanogos is accurate, but for UV Hospital is not. 'Less equipped' aligns with Level II being higher than Level III. 'Further' is context-dependent and unverifiable without the incident's exact location, though some social media discussions suggest varying distances based on site (e.g., closer from UVU).
+
 ### True Claims
+
+### [ep-581dILVcEE4 @ 00:25:08](/episodes/ep-581dILVcEE4.md#^t-00-24-53)
+
+> correspondence went to Chief Long: 'There is a student roof access pretty close to where CK will be set up'... He comes back... 'I got you covered'
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk's Security Chief: Campus Police Failed to Cover Rooftops as Promised Before Assassination](https://www.breitbart.com/tech/2025/11/22/charlie-kirks-security-chief-campus-police-failed-to-cover-rooftops-as-promised-before-assassination/)
+**Verification Notes:** Multiple established news outlets, including Breitbart and Fox News, report on Brian Harpole's interview where he described and reportedly showed text correspondence with UVU Police Chief Jeff Long about student roof access near the event site at the Sorensen Center. The chief's response was 'I got you covered,' matching the claim. Additional sources confirm texts were presented in the interview, supporting the described exchange. No reliable sources refute this specific correspondence.
+
+### [ep-581dILVcEE4 @ 00:38:37](/episodes/ep-581dILVcEE4.md#^t-00-38-23)
+
+> America's Pastor Rob McCoy was in Jerusalem on November 16th... at an event... billed as a celebration of the life of Charlie Kirk
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk Tribute Event Set for November 16 in Jerusalem | Israel Hayom](https://www.israelhayom.com/2025/11/12/charlie-kirk-tribute-november-jerusalem/)
+**Verification Notes:** Multiple established news sources, including Israel Hayom, The Jerusalem Post, and Fox News, confirm that Pastor Rob McCoy was in Jerusalem on November 16, 2025, delivering the main address at a tribute event honoring Charlie Kirk's life, organized by The Isaiah Projects and Gideon 300 at Beit Shmuel.
 
 ### [ep-SKGUzGHymcI @ 00:12:40](/episodes/ep-SKGUzGHymcI.md#^t-00-12-23)
 
@@ -69,6 +152,24 @@ Claims are factual assertions extracted from episode transcripts. Each claim is 
 **Veracity:** True (high)
 **Source:** [Dassault Opening NY Mx Center after Wilmington Closure | Aviation International News](https://www.ainonline.com/aviation-news/business-aviation/2022-02-24/dassault-opening-ny-mx-center-after-wilmington-closure)
 **Verification Notes:** Reliable aviation news sources confirm that Dassault Falcon Jet had an authorized service center in Wilmington, Delaware, which faced closure considerations in December 2021 due to operational challenges and union disputes, with the closure confirmed by early 2022 when a new center was announced in New York.
+
+### [ep-SKGUzGHymcI @ 00:12:48](/episodes/ep-SKGUzGHymcI.md#^t-00-12-23)
+
+> in December of 2024, a French aircraft finishing company called Satys... announced that it was taking over the shuttered Wilmington airport hangar.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Satys Aerospace signs two-year lease for Wilmington Airport hangar](https://delawarebusinesstimes.com/news/satys-lease-wilmington-hangar/)
+**Verification Notes:** Multiple reliable news sources, including Delaware Business Times, Delaware Online, and Choose Delaware, confirm that Satys Aerospace, a French aircraft finishing company, announced and signed a lease in December 2024 to take over the hangar at Wilmington Airport previously vacated by Dassault. Articles published between December 10 and December 30, 2024, detail the two-year lease with options to renew, investment plans, and the site's use for aircraft painting and finishing.
+
+### [ep-YaZfwLQ7vrI @ 00:12:35](/episodes/ep-YaZfwLQ7vrI.md#^t-00-12-17)
+
+> four out of the six protest permits that were issued on January 6th were issued to independent, charismatic Christian groups
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [The New Apostolic Reformation drove the January 6 riots, so why was it overlooked by the House Select Committee? – Baptist News Global](https://baptistnews.com/article/the-new-apostolic-reformation-drove-the-january-6-riots-so-why-was-it-overlooked-by-the-house-select-committee/)
+**Verification Notes:** Multiple reliable sources, including Baptist News Global, The Washington Post, and archived reports, confirm that four out of six protest permits issued on January 6, 2021, were granted to independent charismatic Christian groups, many affiliated with the New Apostolic Reformation (NAR), which had been involved in efforts to overturn the 2020 election results. No contradicting evidence was found in established news outlets or government records.
 
 ## By Follow-up Status
 
@@ -608,60 +709,90 @@ Claims are factual assertions extracted from episode transcripts. Each claim is 
 > the filing deadline, if you file for an extension—which we can assume Turning Point did—was November 15th for this year
 
 **Type:** Factual
+**Veracity:** False (high)
+**Source:** [Turning Point Usa Inc - Nonprofit Explorer - ProPublica](https://projects.propublica.org/nonprofits/organizations/800835023)
+**Verification Notes:** ProPublica provides access to Turning Point USA's historical IRS Form 990 filings, which show a fiscal year ending June 30 (confirmed by posts found on X referencing filings like the one covering July 1, 2020, to June 30, 2021). Per IRS rules, for a fiscal year ending June 30, the original Form 990 due date is November 15 of the same year, and filing for a 6-month extension moves the deadline to May 15 of the following year. The claim incorrectly states that the deadline with an extension is November 15, which is actually the original deadline without extension. No evidence was found of a change in fiscal year to make November 15 the extended date.
 
 ### [ep-581dILVcEE4 @ 00:03:51](/episodes/ep-581dILVcEE4.md#^t-00-03-33)
 
 > this was a full flight over to Utah. This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie Kirk's assassination
 
 **Type:** Factual
+**Veracity:** Unverifiable (medium)
+**Source:** [Who does Candace Owens think killed Charlie Kirk? Ex-TPUSA member gives bombshell update on ‘Egyptian Air Force’ theory | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/who-does-candace-owens-think-killed-charlie-kirk-ex-tpusa-member-gives-bombshell-update-on-egyptian-air-force-theory-101760299828271.html)
+**Verification Notes:** The article reports Candace Owens' claim of an Egyptian Air Force plane (SU-BTT) flying out of Utah on Sept 10 after Charlie Kirk's assassination, implying a prior landing, but provides no independent confirmation of a Sept 4 landing or it being a 'full flight.' Other sources treat this as a conspiracy theory, with some noting debunking due to time zone confusion (e.g., UTC vs. local time). No primary evidence like flight logs or official records found; verification would require FAA flight data, Flightradar24 records for SU-BTT on Sept 4, 2025, or official US/Egyptian government statements.
 
 ### [ep-581dILVcEE4 @ 00:04:30](/episodes/ep-581dILVcEE4.md#^t-00-04-16)
 
 > a person in the State Department confirmed that a foreign military jet actually can't just land on American soil without the federal government paying attention. It actually requires a federal escort
 
 **Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Diplomatic Aircraft Clearance Procedures for Foreign State Aircraft To Operate in United States National Airspace - United States Department of State](https://www.state.gov/diplomatic-aircraft-clearance-procedures-for-foreign-state-aircraft-to-operate-in-united-states-national-airspace/)
+**Verification Notes:** Official U.S. State Department guidelines confirm that foreign state aircraft, including military jets, require diplomatic clearance to enter and operate in U.S. airspace, ensuring federal government awareness and approval. Multiple sources, including FAA and DoD documents, support that such landings are monitored and cannot occur without attention. However, the claim's assertion of a required 'federal escort' (implying physical or airborne accompaniment) is not explicitly mandated in these policies; escorts may be provided in specific security contexts (e.g., interceptions per FAA guidelines) but are not a standard requirement for cleared flights.
 
 ### [ep-581dILVcEE4 @ 00:07:05](/episodes/ep-581dILVcEE4.md#^t-00-07-02)
 
 > five plates as follows: a white 2025 Toyota Camry. This had an Arizona license plate, and that number is CWN9872... silver 2025 Toyota RAV4... Utah license plate... T092ZS... white 2023 Toyota RAV4... T912KM... black 2025 Toyota 4Runner... Z923DA... gray or silver 2025 Toyota 4Runner, Utah license plate number Z349AA. Five vehicles which were secured by Duncan Aviation
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Candace Owens Reveals New Evidence Regarding Charlie Kirk Assassination and Asks Utah Residents to Aid Her Investigation](https://www.latintimes.com/candace-owens-reveals-new-evidence-regarding-charlie-kirk-assassination-asks-utah-residents-aid-591698)
+**Verification Notes:** The claim lists five specific vehicles with license plates allegedly secured by Duncan Aviation in connection to a conspiracy theory about Charlie Kirk's assassination. While news sources and social media posts report Candace Owens making similar claims about rental cars and license plates (initially four, with a possible fifth added later), no reliable primary sources, such as official rental records, law enforcement reports, or company statements from Duncan Aviation, confirm these details. Verification would require access to private rental agreements, Duncan Aviation's internal records, or FOIA-requested documents from relevant authorities investigating the assassination. Established outlets discuss her theories but do not provide evidence supporting the specific vehicle and plate details as factual.
 
 ### [ep-581dILVcEE4 @ 00:12:18](/episodes/ep-581dILVcEE4.md#^t-00-11-38)
 
 > Utah Valley University student recalls seeing man walking on or near the Lozier Center roof twice in two weeks... he last saw the person on the roof last Wednesday at noon, a week before the shooting... described the man as tall, skinny-ish, white dude with dark hair. He had a backpack on and was wearing dark clothes
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** No reliable sources, including major news outlets like CNN, were found confirming the existence of the claimed article or the student's account of seeing a man on the Lozier/Losee Center roof a week before the September 10, 2025, shooting. Available web results and X posts describe sightings on the day of the event but not prior weeks. The Wikipedia entry and FBI updates detail the assassination but omit any pre-event roof sightings. To verify, access to CNN archives from September 11, 2025, or direct statements from the alleged student/FBI tip line records via FOIA would be needed. Multiple search strategies yielded no supporting evidence, suggesting the claim may be unsubstantiated interpretation.
 
 ### [ep-581dILVcEE4 @ 00:20:35](/episodes/ep-581dILVcEE4.md#^t-00-19-55)
 
 > plane that departed Scottsdale at eight local time and landed at about 10 a.m. local time into Provo was owned by a Turning Point USA donor, T.W. Lewis
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [N/A](N/A)
+**Verification Notes:** No reliable primary sources (e.g., news articles from established outlets like Daily Mail, People, or Yahoo News, or official flight records) confirm or refute the existence of a specific plane departing Scottsdale at 8 a.m. local time and landing in Provo at 10 a.m. local time on September 10, 2025, owned by T.W. Lewis. Available web results focus on a different plane departing Provo after the shooting, with ownership unmasked in some reports, but not matching the claimed route or timing. X posts mention a morning flight linked to a TPUSA donor but are inconclusive and not reliable evidence. Verification would require public or FOIA-accessible flight records from FAA, FlightAware, or similar aviation databases to check registrations under T.W. Lewis or associated entities for that date and route.
 
 ### [ep-581dILVcEE4 @ 00:25:08](/episodes/ep-581dILVcEE4.md#^t-00-24-53)
 
 > correspondence went to Chief Long: 'There is a student roof access pretty close to where CK will be set up'... He comes back... 'I got you covered'
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk's Security Chief: Campus Police Failed to Cover Rooftops as Promised Before Assassination](https://www.breitbart.com/tech/2025/11/22/charlie-kirks-security-chief-campus-police-failed-to-cover-rooftops-as-promised-before-assassination/)
+**Verification Notes:** Multiple established news outlets, including Breitbart and Fox News, report on Brian Harpole's interview where he described and reportedly showed text correspondence with UVU Police Chief Jeff Long about student roof access near the event site at the Sorensen Center. The chief's response was 'I got you covered,' matching the claim. Additional sources confirm texts were presented in the interview, supporting the described exchange. No reliable sources refute this specific correspondence.
 
 ### [ep-581dILVcEE4 @ 00:36:37](/episodes/ep-581dILVcEE4.md#^t-00-36-17)
 
 > Blake Neff... drops a receipt... call log with his mom... call begins at 11:24 [AZ time]... 45 seconds long
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [TPUSA responds to Candace Owens' claims on Charlie Kirk with a challenge: ‘The ball is now…’ | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/tpusa-responds-to-candace-owens-claims-on-charlie-kirk-with-a-challenge-the-ball-is-now-101764791896733.html)
+**Verification Notes:** No primary sources, such as a direct X post from Blake Neff or news articles, were found confirming that he posted a screenshot of a call log with his mom at 11:24 Arizona time lasting 45 seconds. Searches on X and the web yielded discussions about related timelines, phone calls, and disputes involving Blake Neff, Candace Owens, and Charlie Kirk's death, but no evidence of the specific screenshot. To verify, access to Blake Neff's full X timeline, archived posts, or official statements confirming the post would be required.
 
 ### [ep-581dILVcEE4 @ 00:38:37](/episodes/ep-581dILVcEE4.md#^t-00-38-23)
 
 > America's Pastor Rob McCoy was in Jerusalem on November 16th... at an event... billed as a celebration of the life of Charlie Kirk
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk Tribute Event Set for November 16 in Jerusalem | Israel Hayom](https://www.israelhayom.com/2025/11/12/charlie-kirk-tribute-november-jerusalem/)
+**Verification Notes:** Multiple established news sources, including Israel Hayom, The Jerusalem Post, and Fox News, confirm that Pastor Rob McCoy was in Jerusalem on November 16, 2025, delivering the main address at a tribute event honoring Charlie Kirk's life, organized by The Isaiah Projects and Gideon 300 at Beit Shmuel.
 
 ### [ep-581dILVcEE4 @ 00:46:52](/episodes/ep-581dILVcEE4.md#^t-00-46-30)
 
 > a woman who yelled and took away a million dollars because of the Tucker Carlson speech. That woman was Joyce Chernick... married to Aubrey Chernick... fund a variety of pro-Israel causes through the David Horowitz Freedom Center
 
 **Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Meet the Chernicks](https://mondoweiss.net/2010/09/meet-the-chernicks/)
+**Verification Notes:** The claim that Joyce Chernick is married to Aubrey Chernick and that they fund pro-Israel causes through the David Horowitz Freedom Center is supported by reliable sources, including articles detailing their philanthropic activities and connections to conservative, pro-Israel organizations. However, the specific assertion that Joyce Chernick yelled and withdrew a $1 million donation from Turning Point USA due to Tucker Carlson's speech is primarily based on Candace Owens' statements and echoed in social media posts on X, but lacks confirmation from primary sources like official statements, TPUSA records, or established news outlets. Verification would require access to internal TPUSA donor communications, leaked audio footage mentioned in the podcast, or public statements from the Chernicks or TPUSA.
 
 ### [ep-5autG89PW6w @ 00:00:35](/episodes/ep-5autG89PW6w.md#^t-00-00-00)
 
@@ -1832,16 +1963,18 @@ Claims are factual assertions extracted from episode transcripts. Each claim is 
 > on the morning of Charlie Kirk's assassination, the plane... departed on the morning at 7:14 a.m. local time from Provo, Utah. And it's headed to Wilmington, Delaware. It arrived in Wilmington, Delaware at 11:51 a.m. Eastern.
 
 **Type:** Factual
-**Veracity:** Unverifiable (high)
-**Verification Notes:** No reliable primary sources, such as news articles, official statements, or government documents, were found to corroborate or refute the specific details of a plane departing Provo, Utah, at 7:14 a.m. local time on September 10, 2025, heading to Wilmington, Delaware, and arriving at 11:51 a.m. Eastern Time. Available web results focus on a different private jet (N888KG) that departed after the assassination and unrelated conspiracy theories, but none mention this exact flight itinerary. X posts reference similar claims but are not considered reliable evidence.
+**Veracity:** Unverifiable (low)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** No reliable primary sources, such as news articles from established outlets or official flight records, confirm a plane departing Provo, Utah, at 7:14 a.m. local time on September 10, 2025, heading to Wilmington, Delaware, arriving at 11:51 a.m. Eastern. Web searches reveal discussions of post-shooting flights (e.g., private jet N888KG) and conspiracy theories on X about an Egyptian plane, but no verifiable details match the exact timing and route. Verification would require FAA flight logs, FlightAware data, or FOIA-requested aviation records for that date.
 
 ### [ep-SKGUzGHymcI @ 00:03:55](/episodes/ep-SKGUzGHymcI.md#^t-00-03-23)
 
 > Charlie Kirk's gonna get shot at 12:23.
 
 **Type:** Factual
-**Veracity:** Unverifiable
-**Verification Notes:** No corroborating sources found
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, PBS, NPR, ABC News, NBC News, FBI updates, CBS News, AP News, and The New York Times, confirm the assassination occurred on September 10, 2025, at Utah Valley University in Orem, Utah, with Kirk shot in the neck during an event. However, none specify the exact time as 12:23 (presumably local Mountain Time). X posts mention details like the shooter arriving on campus at 11:52, but no precise shooting time is given. This claim cannot be verified without access to official documents such as police reports, FBI investigative timelines, or autopsy records, which could be obtained via FOIA requests or detailed news archives not present in available results.
 
 ### [ep-SKGUzGHymcI @ 00:10:15](/episodes/ep-SKGUzGHymcI.md#^t-00-09-44)
 
@@ -1874,18 +2007,27 @@ Claims are factual assertions extracted from episode transcripts. Each claim is 
 > in December of 2024, a French aircraft finishing company called Satys... announced that it was taking over the shuttered Wilmington airport hangar.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Satys Aerospace signs two-year lease for Wilmington Airport hangar](https://delawarebusinesstimes.com/news/satys-lease-wilmington-hangar/)
+**Verification Notes:** Multiple reliable news sources, including Delaware Business Times, Delaware Online, and Choose Delaware, confirm that Satys Aerospace, a French aircraft finishing company, announced and signed a lease in December 2024 to take over the hangar at Wilmington Airport previously vacated by Dassault. Articles published between December 10 and December 30, 2024, detail the two-year lease with options to renew, investment plans, and the site's use for aircraft painting and finishing.
 
 ### [ep-SKGUzGHymcI @ 00:15:30](/episodes/ep-SKGUzGHymcI.md#^t-00-14-53)
 
 > When you Google FBI Wilmington Resident Agency, you should check the address in the Google info panel. You will likely get 920 North King Street with the label Federal Bureau of Investigation.
 
 **Type:** Factual
+**Veracity:** False (medium)
+**Source:** [Field Offices | Federal Bureau of Investigation](https://www.fbi.gov/contact-us/field-offices)
+**Verification Notes:** The official FBI website lists field offices but does not specify 920 North King Street as the address for the Wilmington Resident Agency. Provided web search results for the query including 'Google info panel' do not show or confirm that Google displays this address. Multiple X posts from users who conducted Google searches and contacted the Baltimore FBI office (which oversees Delaware) state that no Google results show FBI offices at 920 North King Street, and the actual address is 500 Delaware Avenue. One post notes the FBI moved from North King Street some time ago. This contradicts the claim that Google will likely show 920 North King Street.
 
 ### [ep-SKGUzGHymcI @ 00:31:49](/episodes/ep-SKGUzGHymcI.md#^t-00-31-36)
 
 > his team has drones up looking at the crowd from above and they text him some video.
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Megyn Kelly gets into heated exchange at Turning Point USA event | CNN Politics](https://www.cnn.com/2025/09/25/politics/video/megyn-kelly-turning-point-usa-tour-charlie-kirk-contd-vrtc)
+**Verification Notes:** Conflicting statements exist from primary sources involved in the event: Frank Turek claimed in an interview on the Megyn Kelly Show that Charlie Kirk's team used drones to monitor the crowd and sent video footage, while Brian Harpole, head of security, stated in a podcast that drones were not allowed and not used. No independent reliable sources, such as news articles, official TPUSA statements, police reports from the assassination investigation, or FAA drone flight records, were found to confirm or refute the claim. Verification would require access to FAA flight logs for September 10, 2025, at Utah Valley University or official documents from the law enforcement investigation into the event.
 
 ### [ep-UBkFkg4UNY8 @ 00:01:40](/episodes/ep-UBkFkg4UNY8.md#^t-00-01-13)
 
@@ -2402,42 +2544,63 @@ Claims are factual assertions extracted from episode transcripts. Each claim is 
 > the feds immediately seized the footage at Timpanogos Hospital
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** No primary or reliable sources, such as news articles from established outlets (e.g., CNN, ABC News, The Guardian) or official statements, confirm that federal authorities seized footage from Timpanogos Hospital related to Charlie Kirk's shooting. The provided web search results detail the shooting event on September 10, 2025, but do not mention any hospital involvement or footage seizure. The claim appears to circulate primarily on X (formerly Twitter) and in the podcast, often tied to conspiracy theories, but lacks corroboration. To verify, access to official FBI investigative reports, hospital records, or a FOIA request for federal seizure documents would be required. Reliable sources also do not confirm Kirk was taken to Timpanogos Hospital; they report he was fatally shot at the event site.
 
 ### [ep-YaZfwLQ7vrI @ 00:02:11](/episodes/ep-YaZfwLQ7vrI.md#^t-00-02-01)
 
 > Timpanogos Hospital... was further and also less equipped than UV Hospital... UV was a trauma one, and Timpanogos was trauma three
 
 **Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Utah Trauma and Stroke Centers 2023](https://ems.utah.gov/wp-content/uploads/sites/34/2023/04/Copy-of-Utah-Trauma-Stroke-2023.pdf)
+**Verification Notes:** The Utah Bureau of EMS lists Level I trauma centers in Utah as Intermountain Medical Center and University of Utah Hospital (not Utah Valley Hospital). Additional sources confirm Utah Valley Hospital is a Level II trauma center, contradicting the claim that it is Level I. Timpanogos Regional Hospital is confirmed as Level III via its official website. Thus, the trauma level for Timpanogos is accurate, but for UV Hospital is not. 'Less equipped' aligns with Level II being higher than Level III. 'Further' is context-dependent and unverifiable without the incident's exact location, though some social media discussions suggest varying distances based on site (e.g., closer from UVU).
 
 ### [ep-YaZfwLQ7vrI @ 00:08:21](/episodes/ep-YaZfwLQ7vrI.md#^t-00-08-05)
 
 > the person responsible for dropping off those pipe bombs was... a 31-year-old woman and a United States Capitol Police officer named Shawna Rae Kirkhoff
 
 **Type:** Factual
+**Veracity:** False (high)
+**Source:** [Officials say a fresh review of evidence led to arrest in D.C. pipe bomb case](https://www.nbcnews.com/politics/politics-news/suspect-arrested-january-6-dc-pipe-bomb-case-rcna247308)
+**Verification Notes:** Multiple reliable news outlets, including NBC, NPR, ABC, CBS, POLITICO, and Axios, report that on December 4, 2025, the FBI arrested Brian J. Cole, a Virginia man, in connection with the January 5, 2021, pipe bombs near DNC and RNC headquarters. The claim appears to stem from a November 2025 Blaze Media report alleging a forensic match to former Capitol Police officer Shauni Rae Kerkhoff (similar to the named 'Shawna Rae Kirkhoff'), but Blaze Media retracted this report on December 4, 2025, after the official arrest. Snopes also confirms the retraction and the charging of Cole, contradicting the claim.
 
 ### [ep-YaZfwLQ7vrI @ 00:10:34](/episodes/ep-YaZfwLQ7vrI.md#^t-00-10-09)
 
 > A CIA spokeswoman, Liz Lyon, stated that Shawna Rae Kirkhoff... worked in Capitol Police Campus Security. She lives in Alexandria, Virginia.
 
 **Type:** Factual
+**Veracity:** False (high)
+**Source:** [Report linked ex-Capitol Police officer to 'Jan. 6 pipe bomber': What we know | Snopes.com](https://www.snopes.com/news/2025/11/11/capitol-police-kerkhoff-j6-bomber/)
+**Verification Notes:** No reliable sources, including news articles or official statements, confirm that a CIA spokeswoman named Liz Lyon made any statement about Shawna Rae Kirkhoff (or similar spellings like Shauni Rae Kerkhoff) working in Capitol Police Campus Security or living in Alexandria, Virginia. Searches for primary sources yielded reports about Kerkhoff from outlets like Blaze Media, which later retracted its claims linking her to the Jan. 6 pipe bombs after federal authorities charged Brian J. Cole instead. X posts mention Kerkhoff's background but attribute it to investigative reports, not a CIA spokeswoman. The absence of any evidence for Liz Lyon's statement across multiple sources indicates the claim is contradicted or fabricated.
 
 ### [ep-YaZfwLQ7vrI @ 00:12:07](/episodes/ep-YaZfwLQ7vrI.md#^t-00-11-32)
 
 > on November 6th—he publishes this onto his Facebook page... 'We're going to expose the fraud and stop this steal.'
 
 **Type:** Factual
+**Veracity:** Unverifiable (medium)
+**Source:** [Lance Wallnau | Facebook](https://www.facebook.com/LanceWallnau/)
+**Verification Notes:** No primary sources, such as direct screenshots, archived posts, or news articles, were found confirming a Facebook post by Lance Wallnau on November 6, 2020, with the exact quoted text. Searches for related web results and X posts show Wallnau's involvement in promoting election fraud claims and 'Stop the Steal' narratives in November 2020 (e.g., X posts from November 16, 26, and 30 discussing fraud in swing states), but none reference a specific Facebook post on that date with the claimed phrasing. To verify, access to Facebook archives, Wayback Machine captures of the post, or contemporaneous news reports quoting it exactly would be required. The claim may be based on real activity but lacks verifiable evidence in available sources.
 
 ### [ep-YaZfwLQ7vrI @ 00:12:35](/episodes/ep-YaZfwLQ7vrI.md#^t-00-12-17)
 
 > four out of the six protest permits that were issued on January 6th were issued to independent, charismatic Christian groups
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [The New Apostolic Reformation drove the January 6 riots, so why was it overlooked by the House Select Committee? – Baptist News Global](https://baptistnews.com/article/the-new-apostolic-reformation-drove-the-january-6-riots-so-why-was-it-overlooked-by-the-house-select-committee/)
+**Verification Notes:** Multiple reliable sources, including Baptist News Global, The Washington Post, and archived reports, confirm that four out of six protest permits issued on January 6, 2021, were granted to independent charismatic Christian groups, many affiliated with the New Apostolic Reformation (NAR), which had been involved in efforts to overturn the 2020 election results. No contradicting evidence was found in established news outlets or government records.
 
 ### [ep-YaZfwLQ7vrI @ 00:12:45](/episodes/ep-YaZfwLQ7vrI.md#^t-00-12-17)
 
 > Fifteen of these pastors and leaders surrounded Trump at the White House leading up to the January 6th Stop the Steal rally
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [January 6 United States Capitol attack - Wikipedia](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack)
+**Verification Notes:** No primary sources, established news outlets, or official documents were found confirming that exactly fifteen pastors and leaders surrounded Donald Trump at the White House before the January 6 Stop the Steal rally to discuss spiritual warfare. Posts found on X mention 15 NAR apostles and prophets meeting with high-level Trump administration officials on December 29, 2020, but this information is inconclusive for a controversial topic, does not specify the location as the White House, and does not confirm direct interaction with Trump himself. The cited Wikipedia page provides general context on January 6 events but lacks details on this specific claim. To verify, access to White House visitor logs from late December 2020, FOIA-requested documents from the Trump administration, or firsthand accounts from participants (e.g., via investigative reports or books by experts like Matthew D. Taylor) would be needed.
 
 ### [ep-YaZfwLQ7vrI @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39)
 

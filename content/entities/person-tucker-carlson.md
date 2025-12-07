@@ -187,8 +187,8 @@ _Type: People_
   - [ep-r1PS67aRmcA @ 00:05:03](/episodes/ep-r1PS67aRmcA.md#^t-00-04-34): "after I saw what he did with Nick Fuentes"
 - [Conrad Flynn](/entities/person-conrad-flynn.md)
   - [ep-5autG89PW6w @ 00:04:33](/episodes/ep-5autG89PW6w.md#^t-00-04-11): "the writer-producer Conrad Flynn that recently went on to Tucker (Tucker Carlson)'s show"
-- [Andrew Colvett](/entities/person-andrew-kolvet.md)
-  - [ep-ozWJz2spBcI @ 00:21:31](/episodes/ep-ozWJz2spBcI.md#^t-00-21-14): "Andrew Colvett when he sat across from Tucker Carlson"
+- [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+  - [ep-ozWJz2spBcI @ 00:21:31](/episodes/ep-ozWJz2spBcI.md#^t-00-21-14): "Andrew Kolvet when he sat across from Tucker Carlson"
 
 ### Referenced By
 

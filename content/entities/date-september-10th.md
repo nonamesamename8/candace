@@ -3,20 +3,16 @@ title: "September 10th"
 id: "date-september-10th"
 type: "DATE"
 aliases:
-  - "9/10"
-  - "September 15th"
-  - "September 10th (9/10)"
   - "9-10"
   - "September 10th"
-  - "September 12th"
-  - "September 18th"
-  - "September 21st, 2025"
+  - "9/10"
+  - "September 10th (9/10)"
   - "September 10, 2025"
 ---
 
 _Type: Dates_
 
-**Also known as:** 9/10, September 15th, September 10th (9/10), 9-10, September 10th, September 12th, September 18th, September 21st, 2025, September 10, 2025
+**Also known as:** 9-10, September 10th, 9/10, September 10th (9/10), September 10, 2025
 
 ## Mentions
 

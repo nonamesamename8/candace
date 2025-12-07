@@ -91,7 +91,7 @@ _Type: Organizations_
 ### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
 
 - [00:00:32](/episodes/ep-UBkFkg4UNY8.md#^t-00-00-00)
-  > "...at either had strong ties to the government or to Turning Point USA altogether. So what gives? Also, later on, we're going to discuss Andrew Colvett, the PR agent, clo..."
+  > "...at either had strong ties to the government or to Turning Point USA altogether. So what gives? Also, later on, we're going to discuss Andrew Kolvet, the PR agent, clo..."
 
 ### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
 
@@ -189,7 +189,7 @@ _Type: Organizations_
 ### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:08:25](/episodes/ep-pc3pxRyNFZk.md#^t-00-08-14)
-  > "...of people were like, "Is this Andrew Colvett from Turning Point USA hiding under a hat?" It is not true. I spoke to Andrew on this actual day. He definitively flew in ..."
+  > "...of people were like, "Is this Andrew Kolvet from Turning Point USA hiding under a hat?" It is not true. I spoke to Andrew on this actual day. He definitively flew in ..."
 
 ### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
 
@@ -317,7 +317,7 @@ _Type: Organizations_
   - [ep-JQjCAsfoXEE @ 00:12:15](/episodes/ep-JQjCAsfoXEE.md#^t-00-11-52)
 - [Mikey McCoy](/entities/person-mikey-mccoy.md) **employed by** this
   - [ep-YFmRH8p5lt0 @ 00:19:49](/episodes/ep-YFmRH8p5lt0.md#^t-00-19-41)
-- [Andrew Colvett](/entities/person-andrew-kolvet.md) **employed by** this
+- [Andrew Kolvet](/entities/person-andrew-kolvet.md) **employed by** this
   - [ep-UBkFkg4UNY8 @ 00:27:06](/episodes/ep-UBkFkg4UNY8.md#^t-00-26-28)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) **founded** this
   - [ep-YaZfwLQ7vrI @ 00:37:20](/episodes/ep-YaZfwLQ7vrI.md#^t-00-36-54)

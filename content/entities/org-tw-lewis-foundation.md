@@ -19,3 +19,7 @@ _Type: Organizations_
 
 - [Turning Point USA](/entities/org-turning-point-usa.md)
   - [ep-SKGUzGHymcI @ 00:28:18](/episodes/ep-SKGUzGHymcI.md#^t-00-27-51): "Turning Point USA is featured on T.W. Lewis's foundation website. They are partners. They have given to Turning Point USA"
+
+### Referenced By
+
+- [N560TW](/entities/work-n560tw.md) **owned by** this

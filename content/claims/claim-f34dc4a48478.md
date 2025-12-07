@@ -3,9 +3,10 @@ title: "a woman who yelled and took away a million dollars because o..."
 claim_id: "claim-f34dc4a48478"
 episode: "581dILVcEE4"
 type: "factual"
+veracity: "mixed"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ⚠️ Mixed
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,12 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+**Confidence:** Medium
+**Source:** [Meet the Chernicks](https://mondoweiss.net/2010/09/meet-the-chernicks/)
+
+### Analysis
+
+The claim that Joyce Chernick is married to Aubrey Chernick and that they fund pro-Israel causes through the David Horowitz Freedom Center is supported by reliable sources, including articles detailing their philanthropic activities and connections to conservative, pro-Israel organizations. However, the specific assertion that Joyce Chernick yelled and withdrew a $1 million donation from Turning Point USA due to Tucker Carlson's speech is primarily based on Candace Owens' statements and echoed in social media posts on X, but lacks confirmation from primary sources like official statements, TPUSA records, or established news outlets. Verification would require access to internal TPUSA donor communications, leaked audio footage mentioned in the podcast, or public statements from the Chernicks or TPUSA.
 
 ## Follow-up
 

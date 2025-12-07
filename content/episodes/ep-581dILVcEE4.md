@@ -246,16 +246,16 @@ youtube_url: "https://www.youtube.com/watch?v=581dILVcEE4"
 
 | Time | Type | Veracity | Claim |
 |------|------|----------|-------|
-| [00:01:15](/timestamps/ep-581dILVcEE4/t-00-00-44.md) | factual | [-](/claims/claim-2e3699207ed2.md) | the filing deadline, if you file for an extension—which we can assume Turning Po... |
-| [00:03:51](/timestamps/ep-581dILVcEE4/t-00-03-33.md) | factual | [-](/claims/claim-105c2539e007.md) | this was a full flight over to Utah. This Egyptian flight—and I'm referring to S... |
-| [00:04:30](/timestamps/ep-581dILVcEE4/t-00-04-16.md) | factual | [-](/claims/claim-b19f9144494b.md) | a person in the State Department confirmed that a foreign military jet actually ... |
-| [00:07:05](/timestamps/ep-581dILVcEE4/t-00-07-02.md) | factual | [-](/claims/claim-00e3d32b8c2b.md) | five plates as follows: a white 2025 Toyota Camry. This had an Arizona license p... |
-| [00:12:18](/timestamps/ep-581dILVcEE4/t-00-11-38.md) | factual | [-](/claims/claim-1be894604d3b.md) | Utah Valley University student recalls seeing man walking on or near the Lozier ... |
-| [00:20:35](/timestamps/ep-581dILVcEE4/t-00-19-55.md) | factual | [-](/claims/claim-434a57fc46d6.md) | plane that departed Scottsdale at eight local time and landed at about 10 a.m. l... |
-| [00:25:08](/timestamps/ep-581dILVcEE4/t-00-24-53.md) | factual | [-](/claims/claim-8d2340e00fe4.md) | correspondence went to Chief Long: 'There is a student roof access pretty close ... |
-| [00:36:37](/timestamps/ep-581dILVcEE4/t-00-36-17.md) | factual | [-](/claims/claim-ea573a26fcc3.md) | Blake Neff... drops a receipt... call log with his mom... call begins at 11:24 [... |
-| [00:38:37](/timestamps/ep-581dILVcEE4/t-00-38-23.md) | factual | [-](/claims/claim-1c67c2b7e4a7.md) | America's Pastor Rob McCoy was in Jerusalem on November 16th... at an event... b... |
-| [00:46:52](/timestamps/ep-581dILVcEE4/t-00-46-30.md) | factual | [-](/claims/claim-f34dc4a48478.md) | a woman who yelled and took away a million dollars because of the Tucker Carlson... |
+| [00:01:15](/timestamps/ep-581dILVcEE4/t-00-00-44.md) | factual | [❌ False](/claims/claim-2e3699207ed2.md) | the filing deadline, if you file for an extension—which we can assume Turning Po... |
+| [00:03:51](/timestamps/ep-581dILVcEE4/t-00-03-33.md) | factual | [❓ Unverifiable](/claims/claim-105c2539e007.md) | this was a full flight over to Utah. This Egyptian flight—and I'm referring to S... |
+| [00:04:30](/timestamps/ep-581dILVcEE4/t-00-04-16.md) | factual | [⚠️ Mixed](/claims/claim-b19f9144494b.md) | a person in the State Department confirmed that a foreign military jet actually ... |
+| [00:07:05](/timestamps/ep-581dILVcEE4/t-00-07-02.md) | factual | [❓ Unverifiable](/claims/claim-00e3d32b8c2b.md) | five plates as follows: a white 2025 Toyota Camry. This had an Arizona license p... |
+| [00:12:18](/timestamps/ep-581dILVcEE4/t-00-11-38.md) | factual | [❓ Unverifiable](/claims/claim-1be894604d3b.md) | Utah Valley University student recalls seeing man walking on or near the Lozier ... |
+| [00:20:35](/timestamps/ep-581dILVcEE4/t-00-19-55.md) | factual | [❓ Unverifiable](/claims/claim-434a57fc46d6.md) | plane that departed Scottsdale at eight local time and landed at about 10 a.m. l... |
+| [00:25:08](/timestamps/ep-581dILVcEE4/t-00-24-53.md) | factual | [✅ True](/claims/claim-8d2340e00fe4.md) | correspondence went to Chief Long: 'There is a student roof access pretty close ... |
+| [00:36:37](/timestamps/ep-581dILVcEE4/t-00-36-17.md) | factual | [❓ Unverifiable](/claims/claim-ea573a26fcc3.md) | Blake Neff... drops a receipt... call log with his mom... call begins at 11:24 [... |
+| [00:38:37](/timestamps/ep-581dILVcEE4/t-00-38-23.md) | factual | [✅ True](/claims/claim-1c67c2b7e4a7.md) | America's Pastor Rob McCoy was in Jerusalem on November 16th... at an event... b... |
+| [00:46:52](/timestamps/ep-581dILVcEE4/t-00-46-30.md) | factual | [⚠️ Mixed](/claims/claim-f34dc4a48478.md) | a woman who yelled and took away a million dollars because of the Tucker Carlson... |
 
 </details>
 
@@ -282,4 +282,4 @@ youtube_url: "https://www.youtube.com/watch?v=581dILVcEE4"
 
 **Organizations:** [FBI](/entities/org-fbi.md), [TMZ](/entities/org-tmz.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
 
-**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erica-kirk.md), [Kash Patel](/entities/person-kash-patel.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Kash Patel](/entities/person-kash-patel.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md)

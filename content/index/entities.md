@@ -1,6 +1,6 @@
 # Entities Index
 
-_Total entities: 633_
+_Total entities: 644_
 
 <input type="radio" id="sort-radio-alpha" name="entity-sort" checked class="sort-radio">
 <input type="radio" id="sort-radio-count" name="entity-sort" class="sort-radio">
@@ -29,7 +29,7 @@ summary:hover { color: var(--secondary); }
 <div class="sort-alpha">
 
 <details open>
-<summary>People (269)</summary>
+<summary>People (268)</summary>
 
 - [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md) (3 mentions)
 - [Abraham Lincoln](/entities/person-abraham-lincoln.md) (3 mentions)
@@ -118,7 +118,7 @@ summary:hover { color: var(--secondary); }
 - [Eric Dupond-Moretti](/entities/person-eric-dupond-moretti.md) (1 mention)
 - [Eric Trump](/entities/person-eric-trump.md) (1 mention)
 - [Erica Mindel](/entities/person-erica-mindel.md) (2 mentions)
-- [Erika Kirk](/entities/person-erica-kirk.md) (33 mentions)
+- [Erika Kirk](/entities/person-erika-kirk.md) (33 mentions)
 - [Erin Wexler](/entities/person-erin-wexler.md) (2 mentions)
 - [Erwin Steele](/entities/person-erwin-steele.md) (1 mention)
 - [Eyal Yakobi](/entities/person-eyal-yakobi.md) (1 mention)
@@ -168,7 +168,6 @@ summary:hover { color: var(--secondary); }
 - [Josh Hammer](/entities/person-josh-hammer.md) (19 mentions)
 - [Joyce Chernick](/entities/person-joyce-chernick.md) (2 mentions)
 - [Judas](/entities/person-judas.md) (1 mention)
-- [Judge Tony F. Graff Jr.](/entities/person-judge-tony-f-graff-jr.md) (1 mention)
 - [Julius Caesar](/entities/person-julius-caesar.md) (1 mention)
 - [Jussie Smollett](/entities/person-jussie-smollett.md) (1 mention)
 - [Justin Bieber](/entities/person-justin-bieber.md) (1 mention)
@@ -284,7 +283,7 @@ summary:hover { color: var(--secondary); }
 - [Tim Dillon](/entities/person-tim-dillon.md) (5 mentions)
 - [Tim Pool](/entities/person-tim-pool.md) (4 mentions)
 - [Tony Burke](/entities/person-tony-burke.md) (2 mentions)
-- [Tony F. Graff Jr.](/entities/person-tony-f-graff-jr.md) (1 mention)
+- [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md) (2 mentions)
 - [Tucker Carlson](/entities/person-tucker-carlson.md) (33 mentions)
 - [Tulsi Gabbard](/entities/person-tulsi-gabbard.md) (4 mentions)
 - [Tyler Bowyer](/entities/person-tyler-bowyer.md) (18 mentions)
@@ -304,7 +303,7 @@ summary:hover { color: var(--secondary); }
 </details>
 
 <details open>
-<summary>Organizations (168)</summary>
+<summary>Organizations (173)</summary>
 
 - [2nd Foreign Infantry Regiment](/entities/org-2nd-foreign-infantry-regiment.md) (3 mentions)
 - [4th Company, 2nd Foreign Infantry Regiment](/entities/org-4th-company-2nd-foreign-infantry-regiment.md) (2 mentions)
@@ -349,6 +348,7 @@ summary:hover { color: var(--secondary); }
 - [CNN](/entities/org-cnn.md) (2 mentions)
 - [Daily Mail](/entities/org-daily-mail.md) (4 mentions)
 - [DailyWire](/entities/org-dailywire.md) (1 mention)
+- [David Horowitz Freedom Center](/entities/org-david-horowitz-freedom-center.md) (3 mentions)
 - [DEA](/entities/org-dea.md) (6 mentions)
 - [Democratic Socialists of America](/entities/org-democratic-socialists-of-america.md) (1 mention)
 - [Department of Defense](/entities/org-department-of-defense.md) (3 mentions)
@@ -391,6 +391,7 @@ summary:hover { color: var(--secondary); }
 - [Leadership Institute](/entities/org-leadership-institute.md) (1 mention)
 - [Liberty University](/entities/org-liberty-university.md) (3 mentions)
 - [Longwood Foundation](/entities/org-longwood-foundation.md) (1 mention)
+- [Lozier Center](/entities/org-lozier-center.md) (8 mentions)
 - [Mar-a-Lago](/entities/org-mar-a-lago.md) (2 mentions)
 - [MG+M](/entities/org-mg-m.md) (1 mention)
 - [Ministry of the Armed Forces](/entities/org-ministry-of-the-armed-forces.md) (5 mentions)
@@ -419,10 +420,13 @@ summary:hover { color: var(--secondary); }
 - [Richards, Layton & Finger](/entities/org-richards-layton-finger.md) (2 mentions)
 - [Riverbend Ranch](/entities/org-riverbend-ranch.md) (2 mentions)
 - [RNC](/entities/org-rnc.md) (2 mentions)
+- [Rodney Square](/entities/org-rodney-square.md) (6 mentions)
 - [Safari Club](/entities/org-safari-club.md) (2 mentions)
 - [Salt Lake County Sheriff's Office](/entities/org-salt-lake-county-sheriff-s-office.md) (1 mention)
 - [Satis](/entities/org-satis.md) (4 mentions)
+- [Simon Wiesenthal Center](/entities/org-simon-wiesenthal-center.md) (3 mentions)
 - [Snopes](/entities/org-snopes.md) (1 mention)
+- [Sorensen Center](/entities/org-sorensen-center.md) (6 mentions)
 - [Stanford](/entities/org-stanford.md) (5 mentions)
 - [Stanford University](/entities/org-stanford-university.md) (2 mentions)
 - [Staples Center](/entities/org-staples-center.md) (1 mention)
@@ -478,11 +482,14 @@ summary:hover { color: var(--secondary); }
 </details>
 
 <details open>
-<summary>Places (84)</summary>
+<summary>Places (87)</summary>
 
 - [1100 North King Street](/entities/gpe-1100-north-king-street.md) (1 mention)
 - [1100 North Market Street](/entities/gpe-1100-north-market-street.md) (4 mentions)
+- [33 Thomas Street](/entities/gpe-33-thomas-street.md) (2 mentions)
 - [500 Delaware Avenue](/entities/gpe-500-delaware-avenue.md) (3 mentions)
+- [919 North Market Street](/entities/gpe-919-north-market-street.md) (1 mention)
+- [920 North King Street](/entities/gpe-920-north-king-street.md) (18 mentions)
 - [Alexandria, Virginia](/entities/gpe-alexandria-virginia.md) (3 mentions)
 - [Amiens](/entities/gpe-amiens.md) (1 mention)
 - [Arizona](/entities/gpe-arizona.md) (4 mentions)
@@ -677,7 +684,7 @@ summary:hover { color: var(--secondary); }
 </details>
 
 <details open>
-<summary>Work (27)</summary>
+<summary>Work (31)</summary>
 
 - [2 Corinthians 3:17](/entities/work-2-corinthians-3-17.md) (1 mention)
 - [A Grief Observed](/entities/work-a-grief-observed.md) (1 mention)
@@ -693,8 +700,12 @@ summary:hover { color: var(--secondary); }
 - [Jeremiah 17:8](/entities/work-jeremiah-17-8.md) (1 mention)
 - [Lady Ballers](/entities/work-lady-ballers.md) (2 mentions)
 - [Make Him a Sandwich](/entities/work-make-him-a-sandwich.md) (3 mentions)
+- [N560TW](/entities/work-n560tw.md) (2 mentions)
+- [N888KG](/entities/work-n888kg.md) (5 mentions)
 - [Past as Prologue: Safari Club Illuminates Candace Owens' Allegations](/entities/work-past-as-prologue-safari-club-illuminates-candace-owens-allegations.md) (2 mentions)
 - [PBD podcast](/entities/work-pbd-podcast.md) (3 mentions)
+- [SU-BND](/entities/work-su-bnd.md) (10 mentions)
+- [SU-BTT](/entities/work-su-btt.md) (25 mentions)
 - [Succession](/entities/work-succession.md) (1 mention)
 - [The Assassination of Candace Owens](/entities/work-the-assassination-of-candace-owens.md) (3 mentions)
 - [The Assault on Truth](/entities/work-the-assault-on-truth.md) (3 mentions)
@@ -714,13 +725,13 @@ summary:hover { color: var(--secondary); }
 <div class="sort-count">
 
 <details open>
-<summary>People (269)</summary>
+<summary>People (268)</summary>
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (55 mentions)
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (49 mentions)
 - [Candace Owens](/entities/person-candace-owens.md) (39 mentions)
 - [Donald Trump](/entities/person-donald-trump.md) (36 mentions)
-- [Erika Kirk](/entities/person-erica-kirk.md) (33 mentions)
+- [Erika Kirk](/entities/person-erika-kirk.md) (33 mentions)
 - [Tucker Carlson](/entities/person-tucker-carlson.md) (33 mentions)
 - [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md) (29 mentions)
 - [Andrew Kolvet](/entities/person-andrew-kolvet.md) (24 mentions)
@@ -875,6 +886,7 @@ summary:hover { color: var(--secondary); }
 - [Spencer Cox](/entities/person-spencer-cox.md) (2 mentions)
 - [Susie Wiles](/entities/person-susie-wiles.md) (2 mentions)
 - [Tony Burke](/entities/person-tony-burke.md) (2 mentions)
+- [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md) (2 mentions)
 - [Wilks Brothers](/entities/person-wilks-brothers.md) (2 mentions)
 - [Xavier Poussard](/entities/person-xavier-poussard.md) (2 mentions)
 - [Zohran Mamdani](/entities/person-zohran-mamdani.md) (2 mentions)
@@ -936,7 +948,6 @@ summary:hover { color: var(--secondary); }
 - [Joe Rogan](/entities/person-joe-rogan.md) (1 mention)
 - [Jonathan Pollard](/entities/person-jonathan-pollard.md) (1 mention)
 - [Judas](/entities/person-judas.md) (1 mention)
-- [Judge Tony F. Graff Jr.](/entities/person-judge-tony-f-graff-jr.md) (1 mention)
 - [Julius Caesar](/entities/person-julius-caesar.md) (1 mention)
 - [Jussie Smollett](/entities/person-jussie-smollett.md) (1 mention)
 - [Justin Bieber](/entities/person-justin-bieber.md) (1 mention)
@@ -982,14 +993,13 @@ summary:hover { color: var(--secondary); }
 - [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md) (1 mention)
 - [Thomas Michael Camino](/entities/person-thomas-michael-camino.md) (1 mention)
 - [Tim Ballard](/entities/person-tim-ballard.md) (1 mention)
-- [Tony F. Graff Jr.](/entities/person-tony-f-graff-jr.md) (1 mention)
 - [Xavier DeRusso](/entities/person-xavier-derusso.md) (1 mention)
 - [Yeshira Sanchez](/entities/person-yeshira-sanchez.md) (1 mention)
 
 </details>
 
 <details open>
-<summary>Organizations (168)</summary>
+<summary>Organizations (173)</summary>
 
 - [FBI](/entities/org-fbi.md) (90 mentions)
 - [Turning Point USA](/entities/org-turning-point-usa.md) (50 mentions)
@@ -1008,6 +1018,7 @@ summary:hover { color: var(--secondary); }
 - [United States Navy](/entities/org-united-states-navy.md) (10 mentions)
 - [Club Candace](/entities/org-club-candace.md) (8 mentions)
 - [DuPont family](/entities/org-dupont-family.md) (8 mentions)
+- [Lozier Center](/entities/org-lozier-center.md) (8 mentions)
 - [United States Secret Service](/entities/org-united-states-secret-service.md) (8 mentions)
 - [Camp Ripley Training Center](/entities/org-camp-ripley-training-center.md) (7 mentions)
 - [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md) (7 mentions)
@@ -1017,6 +1028,8 @@ summary:hover { color: var(--secondary); }
 - [Fox News](/entities/org-fox-news.md) (6 mentions)
 - [French Foreign Legion](/entities/org-french-foreign-legion.md) (6 mentions)
 - [PragerU](/entities/org-prageru.md) (6 mentions)
+- [Rodney Square](/entities/org-rodney-square.md) (6 mentions)
+- [Sorensen Center](/entities/org-sorensen-center.md) (6 mentions)
 - [Wilmington Trust](/entities/org-wilmington-trust.md) (6 mentions)
 - [CBS News](/entities/org-cbs-news.md) (5 mentions)
 - [Instagram](/entities/org-instagram.md) (5 mentions)
@@ -1039,6 +1052,7 @@ summary:hover { color: var(--secondary); }
 - [Berkeley](/entities/org-berkeley.md) (3 mentions)
 - [Caldera Engineering](/entities/org-caldera-engineering.md) (3 mentions)
 - [Calvary Chapel](/entities/org-calvary-chapel.md) (3 mentions)
+- [David Horowitz Freedom Center](/entities/org-david-horowitz-freedom-center.md) (3 mentions)
 - [Department of Defense](/entities/org-department-of-defense.md) (3 mentions)
 - [Department of Justice](/entities/org-department-of-justice.md) (3 mentions)
 - [Discord](/entities/org-discord.md) (3 mentions)
@@ -1048,6 +1062,7 @@ summary:hover { color: var(--secondary); }
 - [NIMESKINCARE.COM](/entities/org-nimeskincare-com.md) (3 mentions)
 - [Project Constitution](/entities/org-project-constitution.md) (3 mentions)
 - [Project Veritas](/entities/org-project-veritas.md) (3 mentions)
+- [Simon Wiesenthal Center](/entities/org-simon-wiesenthal-center.md) (3 mentions)
 - [The Free Press](/entities/org-the-free-press.md) (3 mentions)
 - [United States military](/entities/org-united-states-military.md) (3 mentions)
 - [Utah State University](/entities/org-utah-state-university.md) (3 mentions)
@@ -1163,7 +1178,7 @@ summary:hover { color: var(--secondary); }
 </details>
 
 <details open>
-<summary>Places (84)</summary>
+<summary>Places (87)</summary>
 
 - [Israel](/entities/gpe-israel.md) (50 mentions)
 - [Utah](/entities/gpe-utah.md) (25 mentions)
@@ -1171,6 +1186,7 @@ summary:hover { color: var(--secondary); }
 - [Provo](/entities/gpe-provo.md) (21 mentions)
 - [Egypt](/entities/gpe-egypt.md) (20 mentions)
 - [France](/entities/gpe-france.md) (20 mentions)
+- [920 North King Street](/entities/gpe-920-north-king-street.md) (18 mentions)
 - [Delaware](/entities/gpe-delaware.md) (16 mentions)
 - [New York](/entities/gpe-new-york.md) (13 mentions)
 - [Wilmington](/entities/gpe-wilmington.md) (13 mentions)
@@ -1213,6 +1229,7 @@ summary:hover { color: var(--secondary); }
 - [Tel Aviv](/entities/gpe-tel-aviv.md) (3 mentions)
 - [Thousand Oaks, California](/entities/gpe-thousand-oaks-california.md) (3 mentions)
 - [Virginia](/entities/gpe-virginia.md) (3 mentions)
+- [33 Thomas Street](/entities/gpe-33-thomas-street.md) (2 mentions)
 - [Australia](/entities/gpe-australia.md) (2 mentions)
 - [Austria](/entities/gpe-austria.md) (2 mentions)
 - [Canada](/entities/gpe-canada.md) (2 mentions)
@@ -1233,6 +1250,7 @@ summary:hover { color: var(--secondary); }
 - [Texas](/entities/gpe-texas.md) (2 mentions)
 - [Washington County](/entities/gpe-washington-county.md) (2 mentions)
 - [1100 North King Street](/entities/gpe-1100-north-king-street.md) (1 mention)
+- [919 North Market Street](/entities/gpe-919-north-market-street.md) (1 mention)
 - [Amiens](/entities/gpe-amiens.md) (1 mention)
 - [Blanding](/entities/gpe-blanding.md) (1 mention)
 - [British Columbia](/entities/gpe-british-columbia.md) (1 mention)
@@ -1362,10 +1380,13 @@ summary:hover { color: var(--secondary); }
 </details>
 
 <details open>
-<summary>Work (27)</summary>
+<summary>Work (31)</summary>
 
+- [SU-BTT](/entities/work-su-btt.md) (25 mentions)
+- [SU-BND](/entities/work-su-bnd.md) (10 mentions)
 - [Becoming Brigitte](/entities/work-becoming-brigitte.md) (9 mentions)
 - [The Matrix](/entities/work-the-matrix.md) (6 mentions)
+- [N888KG](/entities/work-n888kg.md) (5 mentions)
 - [Good Morning America](/entities/work-good-morning-america.md) (4 mentions)
 - [Make Him a Sandwich](/entities/work-make-him-a-sandwich.md) (3 mentions)
 - [PBD podcast](/entities/work-pbd-podcast.md) (3 mentions)
@@ -1374,6 +1395,7 @@ summary:hover { color: var(--secondary); }
 - [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md) (3 mentions)
 - [Game of Thrones](/entities/work-game-of-thrones.md) (2 mentions)
 - [Lady Ballers](/entities/work-lady-ballers.md) (2 mentions)
+- [N560TW](/entities/work-n560tw.md) (2 mentions)
 - [Past as Prologue: Safari Club Illuminates Candace Owens' Allegations](/entities/work-past-as-prologue-safari-club-illuminates-candace-owens-allegations.md) (2 mentions)
 - [USS Liberty](/entities/work-uss-liberty.md) (2 mentions)
 - [2 Corinthians 3:17](/entities/work-2-corinthians-3-17.md) (1 mention)

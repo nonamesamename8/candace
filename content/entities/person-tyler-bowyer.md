@@ -66,7 +66,7 @@ _Type: People_
 ### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
 
 - [00:04:23](/episodes/ep-c5BcKF91iec.md#^t-00-03-48)
-  > "...ing to maybe be on a group chat: me, Tyler Bowyer, Andrew Colvett, Stacey Sheridan even. If you're wondering who Stacey Sheridan is, by the way, she's the one who's ..."
+  > "...ing to maybe be on a group chat: me, Tyler Bowyer, Andrew Kolvet, Stacey Sheridan even. If you're wondering who Stacey Sheridan is, by the way, she's the one who's ..."
 
 ### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
@@ -116,7 +116,7 @@ _Type: People_
   - [ep-c5BcKF91iec @ 00:04:43](/episodes/ep-c5BcKF91iec.md#^t-00-04-27): "All of those people, by the way, were actually brought in by Tyler Boyer."
   - [ep-a-e7HC6SeK8 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#^t-00-13-20): "She was brought in specifically by Tyler Boyer"
   - [ep-a-e7HC6SeK8 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#^t-00-13-20): "She was brought in specifically by Tyler Boyer to raise money"
-- [Andrew Colvett](/entities/person-andrew-kolvet.md)
+- [Andrew Kolvet](/entities/person-andrew-kolvet.md)
   - [ep-c5BcKF91iec @ 00:04:43](/episodes/ep-c5BcKF91iec.md#^t-00-04-27): "All of those people, by the way, were actually brought in by Tyler Boyer."
 
 ### Works At

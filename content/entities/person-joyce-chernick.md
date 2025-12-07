@@ -17,6 +17,10 @@ _Type: People_
 
 ## Relationships
 
+### Funded
+
+- [David Horowitz Freedom Center](/entities/org-david-horowitz-freedom-center.md)
+
 ### Married To
 
 - [Aubrey Chernick](/entities/person-aubrey-chernick.md)

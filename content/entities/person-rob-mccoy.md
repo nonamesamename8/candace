@@ -40,7 +40,7 @@ _Type: People_
 ### [ep-K1tFD7FfoCU](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:27:53](/episodes/ep-K1tFD7FfoCU.md#^t-00-27-09)
-  > "...ew Colvet, Mikey McCoy. Anybody that's told a lie—Rob McCoy, blood all over him— you got my attention. What lie has Erika (Erika Kirk) told that I'm supposed t..."
+  > "...ew Kolvet, Mikey McCoy. Anybody that's told a lie—Rob McCoy, blood all over him— you got my attention. What lie has Erika (Erika Kirk) told that I'm supposed t..."
 
 ### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
 

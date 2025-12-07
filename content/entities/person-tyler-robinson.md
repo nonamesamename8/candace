@@ -124,16 +124,16 @@ _Type: People_
 ### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:06:18](/episodes/ep-adJ4LNGp84I.md#^t-00-05-34)
-  > "...s in the case that is overseeing the case against Tyler Robinson is Judge Tony F. Graff Jr. He was recently appointed to the 4th District Court in May of 2025 by Go..."
+  > "...s in the case that is overseeing the case against Tyler Robinson is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Go..."
 - [00:06:19](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18)
-  > "...s in the case that is overseeing the case against Tyler Robinson is Judge Tony F. Graff Jr. He was recently appointed to the 4th District Court in May of 2025 by Go..."
+  > "...s in the case that is overseeing the case against Tyler Robinson is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Go..."
 
 ### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
 
 - [00:53:16](/episodes/ep-c5BcKF91iec.md#^t-00-52-57)
   > "...hich was not accounted for. Joshua Steve writes, "Tyler Robinson appearing in court today via Zoom without having to show his face surely isn't helping any of the t..."
 - [00:04:23](/episodes/ep-c5BcKF91iec.md#^t-00-03-48)
-  > "...e were all going to maybe be on a group chat: me, Tyler Bowyer, Andrew Colvett, Stacey Sheridan even. If you're wondering who Stacey Sheridan is, by the way, she'..."
+  > "...e were all going to maybe be on a group chat: me, Tyler Bowyer, Andrew Kolvet, Stacey Sheridan even. If you're wondering who Stacey Sheridan is, by the way, she'..."
 
 ### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
 
@@ -199,7 +199,7 @@ _Type: People_
 - [00:15:20](/episodes/ep-tB5SXXmd9vU.md#^t-00-14-39)
   > ".... No Utah, not interested. I'm actually surprised Tyler Robinson's lawyer hasn't reached out to me. What's going on here? We've got to protect the patsy, right? We'..."
 - [00:55:33](/episodes/ep-tB5SXXmd9vU.md#^t-00-55-11)
-  > "...at it was supposed to be Candace if the killer is Tyler Robinson?" That was actually something that I had never considered. I told you guys that Andrew Colvett call..."
+  > "...at it was supposed to be Candace if the killer is Tyler Robinson?" That was actually something that I had never considered. I told you guys that Andrew Kolvet call..."
 
 ### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
 

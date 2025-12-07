@@ -3,9 +3,10 @@ title: "the feds immediately seized the footage at Timpanogos Hospit..."
 claim_id: "claim-951a8d00ee0e"
 episode: "YaZfwLQ7vrI"
 type: "factual"
+veracity: "unverifiable"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ❓ Unverifiable
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,12 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+**Confidence:** High
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+
+### Analysis
+
+No primary or reliable sources, such as news articles from established outlets (e.g., CNN, ABC News, The Guardian) or official statements, confirm that federal authorities seized footage from Timpanogos Hospital related to Charlie Kirk's shooting. The provided web search results detail the shooting event on September 10, 2025, but do not mention any hospital involvement or footage seizure. The claim appears to circulate primarily on X (formerly Twitter) and in the podcast, often tied to conspiracy theories, but lacks corroboration. To verify, access to official FBI investigative reports, hospital records, or a FOIA request for federal seizure documents would be required. Reliable sources also do not confirm Kirk was taken to Timpanogos Hospital; they report he was fatally shot at the event site.
 
 ## Follow-up
 

@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 
 **Published:** 2025-09-24 | [Watch on YouTube](https://www.youtube.com/watch?v=QZWSsq8ZWzw)
 
-**Stats:** 19 entities | 6 events | 18 claims
+**Stats:** 18 entities | 5 events | 18 claims
 
 ---
 
@@ -254,7 +254,6 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 - **2024-03-09**: Utah modernizes its state flag featuring beehive symbol.
 - **2024-07-13**: Thomas Matthew Crooks attempts to assassinate Trump at rally, killing Corey Comparatore.
 - **2025-08-27**: Jezebel commissions Etsy curse and hex on Charlie Kirk.
-- **2025-09-09**: Charlie Kirk and Erika consult priest to counter Jezebel curse.
 - **2025-09-24**: FBI pressures Utah authorities to close Charlie Kirk case as lone gunman.
 
 ## Entities Mentioned
@@ -267,6 +266,6 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 
 **Organizations:** [Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md), [Club Candace](/entities/org-club-candace.md), [FBI](/entities/org-fbi.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erica-kirk.md), [Jimmy Kimmel](/entities/person-jimmy-kimmel.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Jimmy Kimmel](/entities/person-jimmy-kimmel.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 **Work:** [Inside American Education](/entities/work-inside-american-education.md)

@@ -3,9 +3,10 @@ title: "America's Pastor Rob McCoy was in Jerusalem on November 16th..."
 claim_id: "claim-1c67c2b7e4a7"
 episode: "581dILVcEE4"
 type: "factual"
+veracity: "true"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ✅ True
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,12 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+**Confidence:** High
+**Source:** [Charlie Kirk Tribute Event Set for November 16 in Jerusalem | Israel Hayom](https://www.israelhayom.com/2025/11/12/charlie-kirk-tribute-november-jerusalem/)
+
+### Analysis
+
+Multiple established news sources, including Israel Hayom, The Jerusalem Post, and Fox News, confirm that Pastor Rob McCoy was in Jerusalem on November 16, 2025, delivering the main address at a tribute event honoring Charlie Kirk's life, organized by The Isaiah Projects and Gideon 300 at Beit Shmuel.
 
 ## Follow-up
 

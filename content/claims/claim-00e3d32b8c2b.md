@@ -3,9 +3,10 @@ title: "five plates as follows: a white 2025 Toyota Camry. This had ..."
 claim_id: "claim-00e3d32b8c2b"
 episode: "581dILVcEE4"
 type: "factual"
+veracity: "unverifiable"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ❓ Unverifiable
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,12 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+**Confidence:** High
+**Source:** [Candace Owens Reveals New Evidence Regarding Charlie Kirk Assassination and Asks Utah Residents to Aid Her Investigation](https://www.latintimes.com/candace-owens-reveals-new-evidence-regarding-charlie-kirk-assassination-asks-utah-residents-aid-591698)
+
+### Analysis
+
+The claim lists five specific vehicles with license plates allegedly secured by Duncan Aviation in connection to a conspiracy theory about Charlie Kirk's assassination. While news sources and social media posts report Candace Owens making similar claims about rental cars and license plates (initially four, with a possible fifth added later), no reliable primary sources, such as official rental records, law enforcement reports, or company statements from Duncan Aviation, confirm these details. Verification would require access to private rental agreements, Duncan Aviation's internal records, or FOIA-requested documents from relevant authorities investigating the assassination. Established outlets discuss her theories but do not provide evidence supporting the specific vehicle and plate details as factual.
 
 ## Follow-up
 

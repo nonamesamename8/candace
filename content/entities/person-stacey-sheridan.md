@@ -15,7 +15,7 @@ _Type: People_
 ### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:29:46](/episodes/ep-SKGUzGHymcI.md#^t-00-29-09)
-  > "... came from Arizona and potentially Santa Barbara. Andrew Colvett, Andrew Colvett's wife. We have a priest. We have Stacey Sheridan, who's the chief finance person. ..."
+  > "... came from Arizona and potentially Santa Barbara. Andrew Kolvet, Andrew Kolvet's wife. We have a priest. We have Stacey Sheridan, who's the chief finance person. ..."
 
 ### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
@@ -31,7 +31,7 @@ _Type: People_
 ### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
 
 - [00:04:23](/episodes/ep-c5BcKF91iec.md#^t-00-03-48)
-  > "...e were all going to maybe be on a group chat: me, Tyler Bowyer, Andrew Colvett, Stacey Sheridan even. If you're wondering who Stacey Sheridan is, by the way, she'..."
+  > "...e were all going to maybe be on a group chat: me, Tyler Bowyer, Andrew Kolvet, Stacey Sheridan even. If you're wondering who Stacey Sheridan is, by the way, she'..."
 - [00:04:27](/episodes/ep-c5BcKF91iec.md#^t-00-04-27)
   > "... Sheridan even. If you're wondering who Stacey Sheridan is, by the way, she's the one who's holding the camera when Charlie's casket is being escorted off of Air Force Two. She's like the chief money ..."
 

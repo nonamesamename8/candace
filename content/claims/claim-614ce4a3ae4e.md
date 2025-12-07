@@ -3,9 +3,10 @@ title: "When you Google FBI Wilmington Resident Agency, you should c..."
 claim_id: "claim-614ce4a3ae4e"
 episode: "SKGUzGHymcI"
 type: "factual"
+veracity: "false"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ❌ False
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,12 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+**Confidence:** Medium
+**Source:** [Field Offices | Federal Bureau of Investigation](https://www.fbi.gov/contact-us/field-offices)
+
+### Analysis
+
+The official FBI website lists field offices but does not specify 920 North King Street as the address for the Wilmington Resident Agency. Provided web search results for the query including 'Google info panel' do not show or confirm that Google displays this address. Multiple X posts from users who conducted Google searches and contacted the Baltimore FBI office (which oversees Delaware) state that no Google results show FBI offices at 920 North King Street, and the actual address is 500 Delaware Avenue. One post notes the FBI moved from North King Street some time ago. This contradicts the claim that Google will likely show 920 North King Street.
 
 ## Follow-up
 

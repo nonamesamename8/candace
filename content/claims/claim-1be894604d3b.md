@@ -3,9 +3,10 @@ title: "Utah Valley University student recalls seeing man walking on..."
 claim_id: "claim-1be894604d3b"
 episode: "581dILVcEE4"
 type: "factual"
+veracity: "unverifiable"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ❓ Unverifiable
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,12 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+**Confidence:** Low
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+
+### Analysis
+
+No reliable sources, including major news outlets like CNN, were found confirming the existence of the claimed article or the student's account of seeing a man on the Lozier/Losee Center roof a week before the September 10, 2025, shooting. Available web results and X posts describe sightings on the day of the event but not prior weeks. The Wikipedia entry and FBI updates detail the assassination but omit any pre-event roof sightings. To verify, access to CNN archives from September 11, 2025, or direct statements from the alleged student/FBI tip line records via FOIA would be needed. Multiple search strategies yielded no supporting evidence, suggesting the claim may be unsubstantiated interpretation.
 
 ## Follow-up
 

@@ -85,3 +85,4 @@ _Type: Places_
   - [ep-SKGUzGHymcI @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#^t-00-10-15)
 - [FBI](/entities/org-federal-reserve.md) **based in** this
   - [ep-SKGUzGHymcI @ 00:15:30](/episodes/ep-SKGUzGHymcI.md#^t-00-14-53)
+- [920 North King Street](/entities/gpe-920-north-king-street.md) **located in** this

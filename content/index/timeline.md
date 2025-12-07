@@ -3724,9 +3724,9 @@ _Total events: 455_
 
 </details>
 
-<a id="event-2025-05-01-governor-spencer-cox-appoints-judge-tony-f-graff-j"></a>
+<a id="event-2025-05-01-governor-spencer-cox-appoints-judge-tony-f-graf-jr"></a>
 
-#### 2025-05-01: Governor Spencer Cox appoints Judge Tony F. Graff Jr. to 4th District Court
+#### 2025-05-01: Governor Spencer Cox appoints Judge Tony F. Graf Jr. to 4th District Court
 
 <details>
 <summary>Mentioned in 5 episodes</summary>
@@ -15555,7 +15555,7 @@ _Total events: 455_
 
 </details>
 
-<a id="event-2025-09-09-charlie-and-erica-kirk-consult-priest-to-pray-agai"></a>
+<a id="event-2025-09-09-charlie-and-erika-kirk-consult-priest-to-pray-agai"></a>
 
 #### 2025-09-09: Charlie and Erika Kirk consult priest to pray against curse night before assassination
 
@@ -24655,7 +24655,7 @@ _Total events: 455_
 
 </details>
 
-<a id="event-2025-09-13-erica-kirk-addresses-nation-after-husband-s-death"></a>
+<a id="event-2025-09-13-erika-kirk-addresses-nation-after-husband-s-death"></a>
 
 #### 2025-09-13: Erika Kirk addresses nation after husband's death
 
@@ -24766,7 +24766,7 @@ _Total events: 455_
 
 </details>
 
-<a id="event-2025-09-14-erica-kirk-addresses-nation-on-husband-s-death-and"></a>
+<a id="event-2025-09-14-erika-kirk-addresses-nation-on-husband-s-death-and"></a>
 
 #### 2025-09-14: Erika Kirk addresses nation on husband's death and movement.
 
@@ -24807,7 +24807,7 @@ _Total events: 455_
 
 </details>
 
-<a id="event-2025-09-14-erica-kirk-addresses-world-vowing-to-continue-husb"></a>
+<a id="event-2025-09-14-erika-kirk-addresses-world-vowing-to-continue-husb"></a>
 
 #### 2025-09-14: Erika Kirk addresses world vowing to continue husband's movement.
 
@@ -24848,7 +24848,7 @@ _Total events: 455_
 
 </details>
 
-<a id="event-2025-09-14-erica-kirk-delivers-powerful-public-remarks-on-hus"></a>
+<a id="event-2025-09-14-erika-kirk-delivers-powerful-public-remarks-on-hus"></a>
 
 #### 2025-09-14: Erika Kirk delivers powerful public remarks on husband's death and movement
 
@@ -28338,9 +28338,9 @@ _Total events: 455_
 
 </details>
 
-<a id="event-2025-09-21-andrew-colvett-issues-statement-on-charlie-kirk-s"></a>
+<a id="event-2025-09-21-andrew-kolvet-issues-statement-on-charlie-kirk-s"></a>
 
-#### 2025-09-21: Andrew Colvett issues statement on Charlie Kirk's bullet wound and miracle.
+#### 2025-09-21: Andrew Kolvet issues statement on Charlie Kirk's bullet wound and miracle.
 
 <details>
 <summary>Mentioned in 56 episodes</summary>

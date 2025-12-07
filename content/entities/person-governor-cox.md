@@ -37,7 +37,7 @@ _Type: People_
 
 ### Appointed
 
-- [Judge Tony F. Graff Jr.](/entities/person-judge-tony-f-graff-jr.md)
-  - [ep-adJ4LNGp84I @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18): "the judge... is Judge Tony F. Graff Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox."
-- [Tony F. Graff Jr.](/entities/person-tony-f-graff-jr.md)
-  - [ep-adJ4LNGp84I @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18): "Judge Tony F. Graff Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox."
+- [Judge Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)
+  - [ep-adJ4LNGp84I @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18): "the judge... is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox."
+- [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md)
+  - [ep-adJ4LNGp84I @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18): "Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox."

@@ -3,9 +3,10 @@ title: "on November 6th—he publishes this onto his Facebook page... ..."
 claim_id: "claim-e8d0adb9c73d"
 episode: "YaZfwLQ7vrI"
 type: "factual"
+veracity: "unverifiable"
 ---
 
-**Status:** ⏳ Not yet verified
+**Status:** ❓ Unverifiable
 **Type:** Factual
 
 ## Claim
@@ -20,7 +21,12 @@ type: "factual"
 
 ## Verification
 
-_This claim has not yet been verified._
+**Confidence:** Medium
+**Source:** [Lance Wallnau | Facebook](https://www.facebook.com/LanceWallnau/)
+
+### Analysis
+
+No primary sources, such as direct screenshots, archived posts, or news articles, were found confirming a Facebook post by Lance Wallnau on November 6, 2020, with the exact quoted text. Searches for related web results and X posts show Wallnau's involvement in promoting election fraud claims and 'Stop the Steal' narratives in November 2020 (e.g., X posts from November 16, 26, and 30 discussing fraud in swing states), but none reference a specific Facebook post on that date with the claimed phrasing. To verify, access to Facebook archives, Wayback Machine captures of the post, or contemporaneous news reports quoting it exactly would be required. The claim may be based on real activity but lacks verifiable evidence in available sources.
 
 ## Follow-up
 
