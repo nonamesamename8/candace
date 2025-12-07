@@ -26,7 +26,7 @@ _Type: Organizations_
 
 ### Headquartered In
 
-- [1100 North Market Street](/entities/1100-north-market-street.md)
+- [1100 North Market Street](/entities/gpe-1100-north-market-street.md)
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:03](/episodes/ep-tB5SXXmd9vU.md#^t-00-31-48): ""And guess where the Wilmington Trust is actually located? It's located at 1100 North Market Street...""
 
 ### Referenced By

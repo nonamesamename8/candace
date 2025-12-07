@@ -226,6 +226,13 @@ _Type: Places_
 
 ## Relationships
 
+### Affiliated With
+
+- [Israel](/entities/gpe-israel.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43): "...and yes, some Israelis that were there, hence the 12 Israeli cell phones..."
+- [Israel](/entities/gpe-israel.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43): "...and yes, some Israelis that were there, hence the 12 Israeli cell phones..."
+
 ### Member Of
 
 - [Safari Club](/entities/org-safari-club.md)
@@ -233,5 +240,7 @@ _Type: Places_
 
 ### Referenced By
 
-- [Israelis](/entities/israelis.md) **affiliated with** this
+- [Israelis](/entities/gpe-israel.md) **affiliated with** this
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43)
+- [Israelis](/entities/gpe-israel.md) **affiliated with** this
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43)

@@ -22,10 +22,10 @@ _Type: People_
 
 ### Born In
 
-- [Montana](/entities/montana.md)
+- [Montana](/entities/gpe-montana.md)
   - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:11:33](/episodes/ep-YFmRH8p5lt0.md#^t-00-11-02): "he was born in Montana"
 
 ### Works At
 
-- [Turning Point USA Faith](/entities/turning-point-usa-faith.md)
+- [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
   - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:10:31](/episodes/ep-YFmRH8p5lt0.md#^t-00-10-20): "Sean Feucht is announced as the Turning Point USA Faith contributor"

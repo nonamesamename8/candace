@@ -125,7 +125,7 @@ _Type: People_
 
 ### Dating
 
-- [Alexis Wilkins](/entities/alexis-wilkins.md)
+- [Alexis Wilkins](/entities/person-alexis-wilkins.md)
   - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:37:00](/episodes/ep-MUA9ebCF4Ow.md#^t-00-36-22): "Leave my girlfriend alone"
 
 ### Hired

@@ -96,6 +96,11 @@ _Type: People_
 
 ## Relationships
 
+### Affiliated With
+
+- [Mossad](/entities/org-mossad.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:35:44](/episodes/ep-tB5SXXmd9vU.md#^t-00-35-20): ""They had said, hey, Brigitte might be an asset to the Mossad...""
+
 ### Sued
 
 - [Candace Owens](/entities/person-candace-owens.md)
@@ -105,5 +110,5 @@ _Type: People_
 
 ### Referenced By
 
-- [Emmanuel Macron](/entities/emmanuel-macron.md) **married to** this
+- [Emmanuel Macron](/entities/person-emmanuel-macron.md) **married to** this
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:12:30](/episodes/ep-tB5SXXmd9vU.md#^t-00-12-02)

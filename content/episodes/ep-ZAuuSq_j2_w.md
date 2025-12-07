@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=ZAuuSq_j2_w"
 
 **Published:** 2025-12-05 | [Watch on YouTube](https://www.youtube.com/watch?v=ZAuuSq_j2_w)
 
-**Stats:** 29 entities | 9 events | 12 claims
+**Stats:** 31 entities | 9 events | 12 claims
 
 ---
 
@@ -277,6 +277,6 @@ youtube_url: "https://www.youtube.com/watch?v=ZAuuSq_j2_w"
 
 **Places:** [Arizona](/entities/gpe-arizona.md), [Delaware](/entities/gpe-delaware.md), [Egypt](/entities/gpe-egypt.md), [France](/entities/gpe-france.md), [Israel](/entities/gpe-israel.md), [Phoenix](/entities/gpe-phoenix.md), [Provo](/entities/gpe-provo.md), [Wilmington](/entities/gpe-wilmington.md)
 
-**Organizations:** [Club Candace](/entities/org-club-candace.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [White House](/entities/org-white-house.md)
+**Organizations:** [Club Candace](/entities/org-club-candace.md), [FBI](/entities/org-fbi.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [White House](/entities/org-white-house.md)
 
-**People:** [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md), [Andrew Kolvet](/entities/person-andrew-colvett.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Cam Higby](/entities/person-cam-higby.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Frank Turek](/entities/person-frank-turek.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Josh Hammer](/entities/person-josh-hammer.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Walid Mahmood](/entities/person-walid-mahmood.md)
+**People:** [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md), [Andrew Kolvet](/entities/person-andrew-colvett.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Cam Higby](/entities/person-cam-higby.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Frank Turek](/entities/person-frank-turek.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Josh Hammer](/entities/person-josh-hammer.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Tyler Boyer](/entities/person-tyler-boyer.md), [Walid Mahmood](/entities/person-walid-mahmood.md)

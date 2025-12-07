@@ -19,5 +19,3 @@ _Type: Organizations_
 
 - [Olivia Bishop](/entities/person-olivia-bishop.md) **works at** this
   - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:19:20](/episodes/ep-t1YtLS1n8Vs.md#^t-00-18-54)
-- [Olivia Robertson Cobb Bishop](/entities/olivia-robertson-cobb-bishop.md) **works at** this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:19:20](/episodes/ep-t1YtLS1n8Vs.md#^t-00-18-54)

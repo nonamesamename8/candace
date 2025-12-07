@@ -18,4 +18,4 @@ _Type: Organizations_
 ### Referenced By
 
 - [Josh Hammer](/entities/person-josh-hammer.md) **works at** this
-  - [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:15:43](/episodes/ep-2Riv3I7D0Yk.md#^t-00-15-07)
+  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#^t-00-49-33)

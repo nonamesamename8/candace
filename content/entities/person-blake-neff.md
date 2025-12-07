@@ -53,5 +53,3 @@ _Type: People_
 - [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#^t-00-02-14): "Blake Neff, by the way, is the producer of The Charlie Kirk Show."
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#^t-00-02-14): "Blake Neff, by the way, is the producer of The Charlie Kirk Show."
-- [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:02:55](/episodes/ep-his-JBjlkh8.md#^t-00-02-14): "Blake Neff, by the way, is the producer of The Charlie Kirk Show."

@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
 
 **Published:** 2025-09-16 | [Watch on YouTube](https://www.youtube.com/watch?v=q7f8r-THr84)
 
-**Stats:** 24 entities | 9 events | 12 claims
+**Stats:** 25 entities | 9 events | 12 claims
 
 ---
 
@@ -356,6 +356,6 @@ youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
 
 **Places:** [Israel](/entities/gpe-israel.md), [Orem](/entities/gpe-orem.md), [Utah](/entities/gpe-utah.md)
 
-**Organizations:** [TMZ](/entities/org-tmz.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md)
+**Organizations:** [FBI](/entities/org-fbi.md), [TMZ](/entities/org-tmz.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md)
 
 **People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Donald Trump](/entities/person-donald-trump.md), [Erica Kirk](/entities/person-erica-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Governor Cox](/entities/person-governor-cox.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Josh Hammer](/entities/person-josh-hammer.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Seth Dillon](/entities/person-seth-dillon.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)

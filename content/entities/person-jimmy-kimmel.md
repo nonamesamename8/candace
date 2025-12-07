@@ -17,5 +17,5 @@ _Type: People_
 
 ### Referenced By
 
-- [Brendan Carr](/entities/brendan-carr.md) **criticized** this
+- [Brendan Carr](/entities/person-brendan-carr.md) **criticized** this
   - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:42:18](/episodes/ep-aDlhjfW6hz8.md#^t-00-41-34)

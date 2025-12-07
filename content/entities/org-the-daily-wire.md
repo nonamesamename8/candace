@@ -74,10 +74,6 @@ _Type: Organizations_
 
 - [Candace Owens](/entities/person-candace-owens.md)
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#^t-00-40-44): "I get fired from The Daily Wire."
-- [Candace Owens](/entities/person-candace-owens.md)
-  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:07:51](/episodes/ep-sImMM04XdWY.md#^t-00-07-38): "six days later I get fired from the Daily Wire."
-  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:48](/episodes/ep-vwG1juDCQZQ.md#^t-00-01-30): "I was fired."
-  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:33](/episodes/ep-r1PS67aRmcA.md#^t-00-12-19): "the week that I was gloriously fired from the Daily Wire"
 
 ### Referenced By
 
@@ -91,7 +87,5 @@ _Type: Organizations_
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:49:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-48-53)
 - [Candace Owens](/entities/person-candace-owens.md) **fired** this
   - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:29:16](/episodes/ep-aDlhjfW6hz8.md#^t-00-29-03)
-- [Candace Owens](/entities/person-candace-owens.md) **fired** this
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:20](/episodes/ep-sreYYcID-QY.md#^t-00-40-44)
 - [Brett Cooper](/entities/person-brett-cooper.md) **works at** this
   - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:22:21](/episodes/ep-LATnak75Si0.md#^t-00-22-10)

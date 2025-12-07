@@ -185,11 +185,8 @@ _Type: People_
   - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:29:34](/episodes/ep-iHav0PPzUz8.md#^t-00-29-27): "Tucker Carlson hosted Nick Fuentes on his show."
   - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:07:28](/episodes/ep-K1tFD7FfoCU.md#^t-00-06-49): "Tucker (Tucker Carlson) interviewed Nick Fuentes."
   - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:05:03](/episodes/ep-r1PS67aRmcA.md#^t-00-04-34): "after I saw what he did with Nick Fuentes"
-- [Conrad Flynn](/entities/conrad-flynn.md)
+- [Conrad Flynn](/entities/person-conrad-flynn.md)
   - [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 @ 00:04:33](/episodes/ep-5autG89PW6w.md#^t-00-04-11): "the writer-producer Conrad Flynn that recently went on to Tucker (Tucker Carlson)'s show"
-- [Nick Fuentes](/entities/nick-fuentes.md)
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:36:09](/episodes/ep-Qfwr08Ebczo.md#^t-00-35-53): "I interviewed Nick Fuentes to attack my wife and my son and my dad."
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:16:43](/episodes/ep-LATnak75Si0.md#^t-00-16-27): "when Tucker (Tucker Carlson) interviewed Nick Fuentes"
 - [Andrew Colvett](/entities/person-andrew-colvett.md)
   - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:21:31](/episodes/ep-ozWJz2spBcI.md#^t-00-21-14): "Andrew Colvett when he sat across from Tucker Carlson"
 

@@ -32,7 +32,7 @@ _Type: People_
 
 ### Affiliated With
 
-- [United States Pentagon](/entities/united-states-pentagon.md)
+- [United States Pentagon](/entities/org-united-states-pentagon.md)
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:45](/episodes/ep-his-JBjlkh8.md#^t-00-03-40): ""another Zionist influencer named Kam Higby, who has also now been credentialed by the Pentagon,""
 
 ### Employed By

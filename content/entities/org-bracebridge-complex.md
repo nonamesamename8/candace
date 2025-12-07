@@ -17,7 +17,7 @@ _Type: Organizations_
 
 ### Headquartered In
 
-- [1100 North King Street](/entities/1100-north-king-street.md)
+- [1100 North King Street](/entities/gpe-1100-north-king-street.md)
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:28:41](/episodes/ep-tB5SXXmd9vU.md#^t-00-28-30): ""What I found on 1100, 1100 North King Street is big. The actual building is called the Bracebridge Complex.""
 
 ### Referenced By

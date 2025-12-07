@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=YA1FxrDWNIo"
 
 **Published:** 2025-09-30 | [Watch on YouTube](https://www.youtube.com/watch?v=YA1FxrDWNIo)
 
-**Stats:** 39 entities | 5 events | 10 claims
+**Stats:** 40 entities | 5 events | 10 claims
 
 ---
 
@@ -244,6 +244,6 @@ youtube_url: "https://www.youtube.com/watch?v=YA1FxrDWNIo"
 
 **Places:** [Austria](/entities/gpe-austria.md), [Israel](/entities/gpe-israel.md), [Provo](/entities/gpe-provo.md), [Utah](/entities/gpe-utah.md)
 
-**Organizations:** [Amazon](/entities/org-amazon.md), [BearingPoint](/entities/org-bearingpoint.md), [Daily Mail](/entities/org-daily-mail.md), [Fox News](/entities/org-fox-news.md), [JPMorgan Chase](/entities/org-jpmorgan-chase.md), [LDS church](/entities/org-lds-church.md), [NewsNation](/entities/org-newsnation.md), [Operation Underground Railroad](/entities/org-operation-underground-railroad.md), [Prager University](/entities/org-prager-university.md), [Salt Lake County Sheriff's Office](/entities/org-salt-lake-county-sheriff-s-office.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+**Organizations:** [Amazon](/entities/org-amazon.md), [BearingPoint](/entities/org-bearingpoint.md), [Daily Mail](/entities/org-daily-mail.md), [FBI](/entities/org-fbi.md), [Fox News](/entities/org-fox-news.md), [JPMorgan Chase](/entities/org-jpmorgan-chase.md), [LDS church](/entities/org-lds-church.md), [NewsNation](/entities/org-newsnation.md), [Operation Underground Railroad](/entities/org-operation-underground-railroad.md), [Prager University](/entities/org-prager-university.md), [Salt Lake County Sheriff's Office](/entities/org-salt-lake-county-sheriff-s-office.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
 **People:** [Alex Jones](/entities/person-alex-jones.md), [Andrew Zenger](/entities/person-andrew-zenger.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bob Shillman](/entities/person-bob-shillman.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Gernot Omer](/entities/person-gernot-omer.md), [Kash Patel](/entities/person-kash-patel.md), [Laura Loomer](/entities/person-laura-loomer.md), [Mike Lee](/entities/person-mike-lee.md), [Mike Mitchell](/entities/person-mike-mitchell.md), [Phil Lyman](/entities/person-phil-lyman.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Robert Bowles](/entities/person-robert-bowles.md), [Shaner Broderick](/entities/person-shaner-broderick.md), [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md), [Tim Ballard](/entities/person-tim-ballard.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)

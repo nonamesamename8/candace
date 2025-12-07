@@ -17,5 +17,5 @@ _Type: People_
 
 ### Referenced By
 
-- [Michael Lohan](/entities/michael-lohan.md) **parent of** this
+- [Michael Lohan](/entities/person-michael-lohan.md) **parent of** this
   - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:14:01](/episodes/ep-7RLtGgkTh9o.md#^t-00-13-53)

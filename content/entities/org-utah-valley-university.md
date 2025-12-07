@@ -176,7 +176,7 @@ _Type: Organizations_
 
 ### Referenced By
 
-- [UVU students](/entities/uvu-students.md) **member of** this
+- [UVU students](/entities/org-uvu-students.md) **member of** this
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:06](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43)
-- [Jeff Long](/entities/jeff-long.md) **works at** this
+- [Jeff Long](/entities/person-jeff-long.md) **works at** this
   - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:24:59](/episodes/ep-581dILVcEE4.md#^t-00-24-53)

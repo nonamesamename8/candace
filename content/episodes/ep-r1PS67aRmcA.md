@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=r1PS67aRmcA"
 
 **Published:** 2025-11-08 | [Watch on YouTube](https://www.youtube.com/watch?v=r1PS67aRmcA)
 
-**Stats:** 28 entities | 5 events | 14 claims
+**Stats:** 29 entities | 5 events | 14 claims
 
 ---
 
@@ -314,6 +314,6 @@ youtube_url: "https://www.youtube.com/watch?v=r1PS67aRmcA"
 
 **Places:** [Florida](/entities/gpe-florida.md), [Iran](/entities/gpe-iran.md), [Israel](/entities/gpe-israel.md), [New York City](/entities/gpe-new-york-city.md)
 
-**Organizations:** [Auburn University](/entities/org-auburn-university.md), [CNN](/entities/org-cnn.md), [Democratic Socialists of America](/entities/org-democratic-socialists-of-america.md), [Turning Point USA](/entities/org-turning-point-usa.md), [White House](/entities/org-white-house.md)
+**Organizations:** [Auburn University](/entities/org-auburn-university.md), [CNN](/entities/org-cnn.md), [Democratic Socialists of America](/entities/org-democratic-socialists-of-america.md), [FBI](/entities/org-fbi.md), [Turning Point USA](/entities/org-turning-point-usa.md), [White House](/entities/org-white-house.md)
 
 **People:** [Ben Shapiro](/entities/person-ben-shapiro.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Eric Trump](/entities/person-eric-trump.md), [Erica Kirk](/entities/person-erica-kirk.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Lara Trump](/entities/person-lara-trump.md), [Marjorie Taylor Greene](/entities/person-marjorie-taylor-greene.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Ron Paul](/entities/person-ron-paul.md), [Seth Dillon](/entities/person-seth-dillon.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Zohran Mamdani](/entities/person-zohran-mamdani.md)

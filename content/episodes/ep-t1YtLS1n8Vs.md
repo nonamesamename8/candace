@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=t1YtLS1n8Vs"
 
 **Published:** 2025-10-02 | [Watch on YouTube](https://www.youtube.com/watch?v=t1YtLS1n8Vs)
 
-**Stats:** 40 entities | 10 events | 15 claims
+**Stats:** 41 entities | 10 events | 15 claims
 
 ---
 
@@ -280,7 +280,7 @@ youtube_url: "https://www.youtube.com/watch?v=t1YtLS1n8Vs"
 
 **Places:** [Atlanta](/entities/gpe-atlanta.md), [Connecticut](/entities/gpe-connecticut.md), [Israel](/entities/gpe-israel.md), [New York](/entities/gpe-new-york.md), [Orem](/entities/gpe-orem.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md)
 
-**Organizations:** [Anti-Defamation League](/entities/org-anti-defamation-league.md), [Azov Battalion](/entities/org-azov-battalion.md), [B'nai B'rith](/entities/org-b-nai-b-rith.md), [Orem Police Department](/entities/org-orem-police-department.md), [Turning Point USA](/entities/org-turning-point-usa.md), [United Nations](/entities/org-united-nations.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Warren Commission](/entities/org-warren-commission.md)
+**Organizations:** [Anti-Defamation League](/entities/org-anti-defamation-league.md), [Azov Battalion](/entities/org-azov-battalion.md), [B'nai B'rith](/entities/org-b-nai-b-rith.md), [FBI](/entities/org-fbi.md), [Orem Police Department](/entities/org-orem-police-department.md), [Turning Point USA](/entities/org-turning-point-usa.md), [United Nations](/entities/org-united-nations.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Warren Commission](/entities/org-warren-commission.md)
 
 **People:** [Brigitte Macron](/entities/person-brigitte-macron.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Elizabeth Lane](/entities/person-elizabeth-lane.md), [Elon Musk](/entities/person-elon-musk.md), [George Zinn](/entities/person-george-zinn.md), [Greta Thunberg](/entities/person-greta-thunberg.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kash Patel](/entities/person-kash-patel.md), [Leo Frank](/entities/person-leo-frank.md), [Marjorie Taylor Greene](/entities/person-marjorie-taylor-greene.md), [Mary Phagan](/entities/person-mary-phagan.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Olivia Bishop](/entities/person-olivia-bishop.md), [Phil Lyman](/entities/person-phil-lyman.md), [Scott Robbins](/entities/person-scott-robbins.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Theo Von](/entities/person-theo-von.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 

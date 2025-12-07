@@ -74,5 +74,5 @@ _Type: Organizations_
 
 ### Referenced By
 
-- [Liz Lyon](/entities/liz-lyon.md) **employed by** this
+- [Liz Lyon](/entities/person-liz-lyon.md) **employed by** this
   - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:10:34](/episodes/ep-YaZfwLQ7vrI.md#^t-00-10-09)

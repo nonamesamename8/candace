@@ -110,10 +110,8 @@ _Type: People_
 
 ### Works At
 
-- [Newsweek](/entities/newsweek.md)
-  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#^t-00-49-33): "Josh Hammer is actually the editor at large at Newsweek."
 - [Newsweek](/entities/org-newsweek.md)
-  - [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:15:43](/episodes/ep-2Riv3I7D0Yk.md#^t-00-15-07): "and he is currently the senior editor-at-large at Newsweek"
+  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:49:38](/episodes/ep-iHav0PPzUz8.md#^t-00-49-33): "Josh Hammer is actually the editor at large at Newsweek."
 
 ### Referenced By
 

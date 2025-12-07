@@ -45,5 +45,5 @@ _Type: Organizations_
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:15:59](/episodes/ep-tB5SXXmd9vU.md#^t-00-15-25)
 - [2nd Foreign Infantry Regiment](/entities/org-2nd-foreign-infantry-regiment.md) **member of** this
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:20:07](/episodes/ep-tB5SXXmd9vU.md#^t-00-19-45)
-- [French Foreign Legionnaires](/entities/french-foreign-legionnaires.md) **member of** this
+- [French Foreign Legionnaires](/entities/org-french-foreign-legionnaires.md) **member of** this
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43)

@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 
 **Published:** 2025-09-24 | [Watch on YouTube](https://www.youtube.com/watch?v=QZWSsq8ZWzw)
 
-**Stats:** 18 entities | 7 events | 18 claims
+**Stats:** 19 entities | 7 events | 18 claims
 
 ---
 
@@ -266,7 +266,7 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 
 **Places:** [Iran](/entities/gpe-iran.md), [Utah](/entities/gpe-utah.md)
 
-**Organizations:** [Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md), [Club Candace](/entities/org-club-candace.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+**Organizations:** [Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md), [Club Candace](/entities/org-club-candace.md), [FBI](/entities/org-fbi.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
 **People:** [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erica Kirk](/entities/person-erica-kirk.md), [Jimmy Kimmel](/entities/person-jimmy-kimmel.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 

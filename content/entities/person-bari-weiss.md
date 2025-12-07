@@ -32,5 +32,7 @@ _Type: People_
 
 ### Works At
 
+- [CBS](/entities/org-cbs.md)
+  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:15:31](/episodes/ep-sImMM04XdWY.md#^t-00-15-24): "Bari Weiss is a perfect example of that. Nobody knows why she is an executive at CBS."
 - [CBS News](/entities/org-cbs-news.md)
   - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:28:48](/episodes/ep-mKXdKV-OBog.md#^t-00-28-14): "before she went on to CBS News"

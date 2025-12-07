@@ -17,5 +17,5 @@ _Type: People_
 
 ### Works At
 
-- [United States Pentagon](/entities/united-states-pentagon.md)
+- [United States Pentagon](/entities/org-united-states-pentagon.md)
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:05:51](/episodes/ep-his-JBjlkh8.md#^t-00-05-36): ""I'm Kingsley Wilson. I'm the press secretary here at the Pentagon.""

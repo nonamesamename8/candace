@@ -28,5 +28,5 @@ _Type: Organizations_
 
 ### Headquartered In
 
-- [United States Pentagon](/entities/united-states-pentagon.md)
+- [United States Pentagon](/entities/org-united-states-pentagon.md)
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:30](/episodes/ep-his-JBjlkh8.md#^t-00-00-44): ""The United States Pentagon, in case you don't know, is the complex that houses our Department of Defense.""

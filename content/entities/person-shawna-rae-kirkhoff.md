@@ -17,10 +17,10 @@ _Type: People_
 
 ### Employed By
 
-- [United States Capitol Police](/entities/united-states-capitol-police.md)
+- [United States Capitol Police](/entities/org-united-states-capitol-police.md)
   - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:21](/episodes/ep-YaZfwLQ7vrI.md#^t-00-08-05): "a United States Capitol Police officer named Shawna Rae Kirkhoff"
 
 ### Lives In
 
-- [Alexandria, Virginia](/entities/alexandria-virginia.md)
+- [Alexandria, Virginia](/entities/gpe-alexandria-virginia.md)
   - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:10:46](/episodes/ep-YaZfwLQ7vrI.md#^t-00-10-09): "She lives in Alexandria, Virginia"

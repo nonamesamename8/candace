@@ -72,9 +72,9 @@ _Type: Places_
 
 - [Department of Justice](/entities/org-department-of-justice.md) **based in** this
   - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:10:15](/episodes/ep-SKGUzGHymcI.md#^t-00-09-44)
-- [DEA](/entities/dea.md) **based in** this
+- [DEA](/entities/org-dea.md) **based in** this
   - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#^t-00-10-15)
-- [United States Secret Service](/entities/united-states-secret-service.md) **based in** this
+- [United States Secret Service](/entities/org-united-states-secret-service.md) **based in** this
   - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#^t-00-10-15)
 - [FBI](/entities/org-federal-reserve.md) **based in** this
   - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:15:30](/episodes/ep-SKGUzGHymcI.md#^t-00-14-53)

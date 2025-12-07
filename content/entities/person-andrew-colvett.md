@@ -148,5 +148,3 @@ _Type: People_
   - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:21:31](/episodes/ep-ozWJz2spBcI.md#^t-00-21-14)
 - [Alex Clark](/entities/person-alex-clark.md) **interviewed** this
   - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#^t-00-00-32)
-- [Alex Clark](/entities/alex-clark.md) **interviewed** this
-  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#^t-00-00-32)

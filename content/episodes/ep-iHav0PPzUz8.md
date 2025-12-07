@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=iHav0PPzUz8"
 
 **Published:** 2025-10-30 | [Watch on YouTube](https://www.youtube.com/watch?v=iHav0PPzUz8)
 
-**Stats:** 39 entities | 7 events | 13 claims
+**Stats:** 40 entities | 7 events | 13 claims
 
 ---
 
@@ -380,6 +380,6 @@ youtube_url: "https://www.youtube.com/watch?v=iHav0PPzUz8"
 
 **Places:** [Arizona](/entities/gpe-arizona.md), [Delaware](/entities/gpe-delaware.md), [Egypt](/entities/gpe-egypt.md), [El Paso](/entities/gpe-el-paso.md), [France](/entities/gpe-france.md), [Israel](/entities/gpe-israel.md), [Montana](/entities/gpe-montana.md), [Provo](/entities/gpe-provo.md), [Texas](/entities/gpe-texas.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md), [Wilmington](/entities/gpe-wilmington.md), [Wyoming](/entities/gpe-wyoming.md)
 
-**Organizations:** [Daily Mail](/entities/org-daily-mail.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+**Organizations:** [Daily Mail](/entities/org-daily-mail.md), [FBI](/entities/org-fbi.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
 **People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Casey Baugh](/entities/person-casey-baugh.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Derek Maxfield](/entities/person-derek-maxfield.md), [Donald Trump](/entities/person-donald-trump.md), [Erica Kirk](/entities/person-erica-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Seth Dillon](/entities/person-seth-dillon.md), [Shalane Maxfield](/entities/person-shalane-maxfield.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)

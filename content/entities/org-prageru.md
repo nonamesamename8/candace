@@ -44,5 +44,5 @@ _Type: Organizations_
 - [Candace Owens](/entities/person-candace-owens.md) **employed by** this
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#^t-00-00-01)
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#^t-00-08-02)
-- [Wilks Brothers](/entities/wilks-brothers.md) **invested in** this
+- [Wilks Brothers](/entities/person-wilks-brothers.md) **invested in** this
   - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:54](/episodes/ep-Qfwr08Ebczo.md#^t-00-13-27)

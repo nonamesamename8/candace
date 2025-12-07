@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=adJ4LNGp84I"
 
 **Published:** 2025-10-01 | [Watch on YouTube](https://www.youtube.com/watch?v=adJ4LNGp84I)
 
-**Stats:** 28 entities | 7 events | 10 claims
+**Stats:** 29 entities | 7 events | 10 claims
 
 ---
 
@@ -268,7 +268,7 @@ youtube_url: "https://www.youtube.com/watch?v=adJ4LNGp84I"
 
 **Places:** [Austria](/entities/gpe-austria.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md)
 
-**Organizations:** [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [TMZ](/entities/org-tmz.md), [TikTok](/entities/org-tiktok.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
+**Organizations:** [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [FBI](/entities/org-fbi.md), [TMZ](/entities/org-tmz.md), [TikTok](/entities/org-tiktok.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
 
 **People:** [Ben Shapiro](/entities/person-ben-shapiro.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [George Zinn](/entities/person-george-zinn.md), [Kash Patel](/entities/person-kash-patel.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 

@@ -17,7 +17,7 @@ _Type: Organizations_
 
 ### Member Of
 
-- [U.S. Marines](/entities/us-marines.md)
+- [U.S. Marines](/entities/org-us-marines.md)
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:16:09](/episodes/ep-tB5SXXmd9vU.md#^t-00-15-25): "...integrated with U.S. Marines of the 6th Marine Regiment for a three-week training deployment..."
 
 ### Referenced By

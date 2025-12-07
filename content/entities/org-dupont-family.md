@@ -40,6 +40,18 @@ _Type: Organizations_
 
 ## Relationships
 
+### Affiliated With
+
+- [American military](/entities/org-american-military.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-47): ""DuPont also has extreme ties to both the American and the French military.""
+- [French military](/entities/org-french-military.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-47): ""DuPont also has extreme ties to both the American and the French military.""
+
+### Headquartered In
+
+- [1100 North Market Street](/entities/gpe-1100-north-market-street.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/episodes/ep-tB5SXXmd9vU.md#^t-00-34-38): ""DuPont, which is connected to 1100 North Market Street.""
+
 ### Referenced By
 
 - [Lisa Dean](/entities/person-lisa-dean.md) **member of** this

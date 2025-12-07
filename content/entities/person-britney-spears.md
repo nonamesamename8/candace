@@ -17,12 +17,12 @@ _Type: People_
 
 ### Lives In
 
-- [Thousand Oaks, California](/entities/thousand-oaks-california.md)
+- [Thousand Oaks, California](/entities/gpe-thousand-oaks-california.md)
   - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:15:59](/episodes/ep-7RLtGgkTh9o.md#^t-00-15-24): "Britney Spears lives in Thousand Oaks, California"
 
 ### Referenced By
 
 - [Jamie Spears](/entities/person-jamie-spears.md) **parent of** this
   - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#^t-00-06-14)
-- [Jamie Lynn Spears](/entities/jamie-lynn-spears.md) **sibling of** this
+- [Jamie Lynn Spears](/entities/person-jamie-lynn-spears.md) **sibling of** this
   - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#^t-00-06-14)

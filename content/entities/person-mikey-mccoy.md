@@ -122,8 +122,8 @@ _Type: People_
 
 ### Married To
 
-- [Elizabeth McCoy](/entities/elizabeth-mccoy.md)
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:42:32](/episodes/ep-LATnak75Si0.md#^t-00-42-01): "he also called Elizabeth McCoy, his wife"
+- [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
+  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:30:00](/episodes/ep-SKGUzGHymcI.md#^t-00-29-52): "Elizabeth McCoy, the amazing Mike McCoy's wife."
 
 ### Works At
 

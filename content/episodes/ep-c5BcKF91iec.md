@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=c5BcKF91iec"
 
 **Published:** 2025-10-27 | [Watch on YouTube](https://www.youtube.com/watch?v=c5BcKF91iec)
 
-**Stats:** 27 entities | 4 events | 8 claims
+**Stats:** 29 entities | 4 events | 8 claims
 
 ---
 
@@ -286,6 +286,6 @@ youtube_url: "https://www.youtube.com/watch?v=c5BcKF91iec"
 
 **Places:** [Arizona](/entities/gpe-arizona.md), [British Columbia](/entities/gpe-british-columbia.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md), [Wyoming](/entities/gpe-wyoming.md)
 
-**Organizations:** [CNN](/entities/org-cnn.md), [Fox News](/entities/org-fox-news.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
+**Organizations:** [CNN](/entities/org-cnn.md), [FBI](/entities/org-fbi.md), [Fox News](/entities/org-fox-news.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Corey Lewandowski](/entities/person-corey-lewandowski.md), [Erica Kirk](/entities/person-erica-kirk.md), [Foster Friess](/entities/person-foster-friess.md), [Frank Turek](/entities/person-frank-turek.md), [Ian Carroll](/entities/person-ian-carroll.md), [Joe Rogan](/entities/person-joe-rogan.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kanye West](/entities/person-kanye-west.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Corey Lewandowski](/entities/person-corey-lewandowski.md), [Erica Kirk](/entities/person-erica-kirk.md), [Foster Friess](/entities/person-foster-friess.md), [Frank Turek](/entities/person-frank-turek.md), [Ian Carroll](/entities/person-ian-carroll.md), [Joe Rogan](/entities/person-joe-rogan.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kanye West](/entities/person-kanye-west.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tyler Boyer](/entities/person-tyler-boyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md)

@@ -17,5 +17,5 @@ _Type: Organizations_
 
 ### Referenced By
 
-- [National Guard regiments](/entities/national-guard-regiments.md) **member of** this
+- [National Guard regiments](/entities/org-national-guard-regiments.md) **member of** this
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43)

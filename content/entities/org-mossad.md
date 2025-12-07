@@ -22,5 +22,5 @@ _Type: Organizations_
 
 ### Referenced By
 
-- [Brigitte Macron](/entities/person-macrons.md) **affiliated with** this
+- [Brigitte Macron](/entities/person-brigitte-macron.md) **affiliated with** this
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:35:44](/episodes/ep-tB5SXXmd9vU.md#^t-00-35-20)

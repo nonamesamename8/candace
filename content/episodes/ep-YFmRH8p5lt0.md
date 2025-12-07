@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=YFmRH8p5lt0"
 
 **Published:** 2025-10-31 | [Watch on YouTube](https://www.youtube.com/watch?v=YFmRH8p5lt0)
 
-**Stats:** 41 entities | 3 events | 12 claims
+**Stats:** 43 entities | 3 events | 12 claims
 
 ---
 
@@ -262,6 +262,6 @@ youtube_url: "https://www.youtube.com/watch?v=YFmRH8p5lt0"
 
 **Places:** [Delaware](/entities/gpe-delaware.md), [Egypt](/entities/gpe-egypt.md), [France](/entities/gpe-france.md), [Israel](/entities/gpe-israel.md), [Kansas](/entities/gpe-kansas.md), [Lincoln](/entities/gpe-lincoln.md), [Missouri](/entities/gpe-missouri.md), [Nashville](/entities/gpe-nashville.md), [Nebraska](/entities/gpe-nebraska.md), [Provo](/entities/gpe-provo.md), [St. Louis](/entities/gpe-st-louis.md), [Thousand Oaks](/entities/gpe-thousand-oaks.md), [Ukraine](/entities/gpe-ukraine.md), [Utah](/entities/gpe-utah.md), [Wilmington](/entities/gpe-wilmington.md)
 
-**Organizations:** [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Project Veritas](/entities/org-project-veritas.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+**Organizations:** [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [FBI](/entities/org-fbi.md), [Project Veritas](/entities/org-project-veritas.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Erica Kirk](/entities/person-erica-kirk.md), [James O'Keefe](/entities/person-james-o-keefe.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Sean Feucht](/entities/person-sean-feucht.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-colvett.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Erica Kirk](/entities/person-erica-kirk.md), [James O'Keefe](/entities/person-james-o-keefe.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Sean Feucht](/entities/person-sean-feucht.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Boyer](/entities/person-tyler-boyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md)

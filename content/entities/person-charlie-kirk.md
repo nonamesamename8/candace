@@ -266,8 +266,6 @@ _Type: People_
 - [Michael Knowles](/entities/person-michael-knowles.md)
   - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:11:23](/episodes/ep-ozWJz2spBcI.md#^t-00-11-19): "him debating with Michael Knowles"
   - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:34:06](/episodes/ep-UBkFkg4UNY8.md#^t-00-33-23): "You can go check the videos out—him debating with Michael Knowles, you know, in good fun."
-- [Michael Knowles](/entities/michael-knowles.md)
-  - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:34:13](/episodes/ep-UBkFkg4UNY8.md#^t-00-34-06): "[00:34:13] ...him debating with Michael Knowles..."
 
 ### Founded
 
@@ -286,7 +284,7 @@ _Type: People_
 
 ### Interviewed
 
-- [Breland Holland](/entities/breland-holland.md)
+- [Breland Holland](/entities/person-breland-holland.md)
   - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:18:45](/episodes/ep-Qt0VHV-POCg.md#^t-00-18-22): "Charlie interviewing a fourth grader and he was referring to Breland Holland"
 - [Kash Patel](/entities/person-kash-patel.md)
   - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:50:32](/episodes/ep-YFmRH8p5lt0.md#^t-00-50-18): "Charlie (Charlie Kirk) had him on his show"
@@ -302,10 +300,6 @@ _Type: People_
   - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:00:09](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00): "tracking Erica (Erica Kirk) and Charlie (Charlie Kirk)"
   - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 01:07:30](/episodes/ep-2WEHTk0Xewg.md#^t-01-06-45): "Erica Kirk has been—you could see the energy. She's gonna fight."
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:43:45](/episodes/ep-sreYYcID-QY.md#^t-00-43-40): "When's the last time you spoke to Erica?"
-- [Erika Kirk](/entities/erika-kirk.md)
-  - [To My Friend, Charlie Kirk. @ 00:18:06](/episodes/ep-_dRaEO47-co.md#^t-00-18-02): "Charlie Kirk fell in love with Erica."
-  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 01:07:30](/episodes/ep-2WEHTk0Xewg.md#^t-01-06-45): "Erica Kirk has been, you could see the energy. She's gonna fight."
-  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:34:34](/episodes/ep-K5GjF53bfN4.md#^t-00-33-50): "felt that somebody had put a hex on her husband."
 
 ### Works At
 
@@ -334,10 +328,8 @@ _Type: People_
 - [Candace Owens](/entities/person-candace-owens.md) **interviewed** this
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#^t-00-00-01)
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:43:32](/episodes/ep-K5GjF53bfN4.md#^t-00-42-54)
-- [Andrew K. Smith](/entities/andrew-k-smith.md) **interviewed** this
+- [Andrew K. Smith](/entities/person-andrew-k-smith.md) **interviewed** this
   - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:13:16](/episodes/ep-JQjCAsfoXEE.md#^t-00-12-33)
 - [Erika Kirk](/entities/person-erica-kirk.md) **married to** this
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:35:42](/episodes/ep-K5GjF53bfN4.md#^t-00-35-18)
   - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:21:26](/episodes/ep-K1tFD7FfoCU.md#^t-00-21-15)
-- [Erika Kirk](/entities/erika-kirk.md) **married to** this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:01:43](/episodes/ep-ja26iltROkM.md#^t-00-01-26)

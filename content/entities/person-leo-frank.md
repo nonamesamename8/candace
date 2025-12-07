@@ -19,5 +19,3 @@ _Type: People_
 
 - [Mary Phagan](/entities/person-mary-phagan.md) **employed by** this
   - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:03:44](/episodes/ep-t1YtLS1n8Vs.md#^t-00-03-31)
-- [Mary Phagan](/entities/person-mary-phagan.md) **employed by** this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:03:44](/episodes/ep-t1YtLS1n8Vs.md#^t-00-03-31)

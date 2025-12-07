@@ -17,5 +17,5 @@ _Type: People_
 
 ### Founded
 
-- [Airbnb](/entities/airbnb.md)
+- [Airbnb](/entities/org-airbnb.md)
   - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:10:41](/episodes/ep-LATnak75Si0.md#^t-00-10-30): "The Airbnb co-founder, Joe Gebbia"

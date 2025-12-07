@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=yAIb-NuUh_U"
 
 **Published:** 2025-11-13 | [Watch on YouTube](https://www.youtube.com/watch?v=yAIb-NuUh_U)
 
-**Stats:** 28 entities | 9 events | 8 claims
+**Stats:** 29 entities | 9 events | 8 claims
 
 ---
 
@@ -332,6 +332,6 @@ youtube_url: "https://www.youtube.com/watch?v=yAIb-NuUh_U"
 
 **Places:** [California](/entities/gpe-california.md), [Dana Point](/entities/gpe-dana-point.md), [Florida](/entities/gpe-florida.md), [Israel](/entities/gpe-israel.md), [Orange County](/entities/gpe-orange-county.md), [Pompano Beach](/entities/gpe-pompano-beach.md), [Ukraine](/entities/gpe-ukraine.md)
 
-**Organizations:** [CBN News](/entities/org-cbn-news.md), [Calvary Chapel](/entities/org-calvary-chapel.md), [LA Times](/entities/org-la-times.md), [PragerU](/entities/org-prageru.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+**Organizations:** [CBN News](/entities/org-cbn-news.md), [Calvary Chapel](/entities/org-calvary-chapel.md), [FBI](/entities/org-fbi.md), [LA Times](/entities/org-la-times.md), [PragerU](/entities/org-prageru.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 **People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kanye West](/entities/person-kanye-west.md), [Kash Patel](/entities/person-kash-patel.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Thomas Michael Camino](/entities/person-thomas-michael-camino.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)

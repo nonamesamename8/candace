@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=vwG1juDCQZQ"
 
 **Published:** 2025-11-06 | [Watch on YouTube](https://www.youtube.com/watch?v=vwG1juDCQZQ)
 
-**Stats:** 35 entities | 3 events | 11 claims
+**Stats:** 37 entities | 3 events | 11 claims
 
 ---
 
@@ -319,8 +319,8 @@ youtube_url: "https://www.youtube.com/watch?v=vwG1juDCQZQ"
 
 **Places:** [Australia](/entities/gpe-australia.md), [Israel](/entities/gpe-israel.md)
 
-**Organizations:** [Club Candace](/entities/org-club-candace.md), [Fox News](/entities/org-fox-news.md), [Liberty University](/entities/org-liberty-university.md), [Stanford University](/entities/org-stanford-university.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [University of Mississippi](/entities/org-university-of-mississippi.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Yale University](/entities/org-yale-university.md)
+**Organizations:** [Club Candace](/entities/org-club-candace.md), [FBI](/entities/org-fbi.md), [Fox News](/entities/org-fox-news.md), [Liberty University](/entities/org-liberty-university.md), [Stanford University](/entities/org-stanford-university.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [University of Mississippi](/entities/org-university-of-mississippi.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Yale University](/entities/org-yale-university.md)
 
-**People:** [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md), [Alyssa Cordova](/entities/person-alyssa-cordova.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Erica Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [JD Vance](/entities/person-jd-vance.md), [Jesse Watters](/entities/person-jesse-watters.md), [Kanye West](/entities/person-kanye-west.md), [Lila Rose](/entities/person-lila-rose.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tony Burke](/entities/person-tony-burke.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md), [Alyssa Cordova](/entities/person-alyssa-cordova.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Erica Kirk](/entities/person-erica-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [JD Vance](/entities/person-jd-vance.md), [Jesse Watters](/entities/person-jesse-watters.md), [Kanye West](/entities/person-kanye-west.md), [Lila Rose](/entities/person-lila-rose.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tony Burke](/entities/person-tony-burke.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Boyer](/entities/person-tyler-boyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 **Work:** [A Grief Observed](/entities/work-a-grief-observed.md)

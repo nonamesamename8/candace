@@ -99,3 +99,5 @@ _Type: Places_
 
 - [Operation Bright Star](/entities/event-operation-bright-star.md) **affiliated with** this
   - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:22:08](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-46)
+- [Riverbend Ranch](/entities/org-riverbend-ranch.md) **based in** this
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:35:38](/episodes/ep-his-JBjlkh8.md#^t-00-35-06)

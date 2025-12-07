@@ -17,5 +17,5 @@ _Type: People_
 
 ### Employed By
 
-- [IDF](/entities/idf.md)
+- [IDF](/entities/org-idf.md)
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:33](/episodes/ep-K5GjF53bfN4.md#^t-00-08-02): "Marissa Streit has not always been open about the fact that she worked for the IDF intelligence."

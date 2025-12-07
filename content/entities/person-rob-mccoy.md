@@ -120,7 +120,7 @@ _Type: People_
 
 ### Affiliated With
 
-- [TPUSA Faith](/entities/org-tpusa-faith.md)
+- [TPUSA Faith](/entities/org-turning-point-usa-faith.md)
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16): "TPUSA Faith-affiliated pastors, like theologian Frank Turek—who we'll have on in a moment—and Pastor Rob McCoy"
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16): "TPUSA Faith affiliated pastors... Pastor Rob McCoy..."
 - [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -128,12 +128,12 @@ _Type: People_
 
 ### Board Member Of
 
-- [Turning Point USA Faith](/entities/turning-point-usa-faith.md)
+- [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
   - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:13:21](/episodes/ep-YFmRH8p5lt0.md#^t-00-13-10): "Rob McCoy is obviously now the co-chair of TPUSA Faith"
 
 ### Employed By
 
-- [Potter's Fields Ministries](/entities/potters-fields-ministries.md)
+- [Potter's Fields Ministries](/entities/org-potters-fields-ministries.md)
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:27:07](/episodes/ep-yAIb-NuUh_U.md#^t-00-26-34): "they brought in Pastor Rob McCoy as a CFO to help steer the ship of their finances."
 
 ### Interviewed
@@ -148,7 +148,7 @@ _Type: People_
 
 ### Member Of
 
-- [Calvary Chapel Association](/entities/calvary-chapel-association.md)
+- [Calvary Chapel Association](/entities/org-calvary-chapel-association.md)
   - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:04:08](/episodes/ep-Qt0VHV-POCg.md#^t-00-03-39): "Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy..."
 
 ### Parent Of
@@ -160,7 +160,7 @@ _Type: People_
 
 ### Works At
 
-- [Godspeak Calvary Chapel](/entities/godspeak-calvary-chapel.md)
+- [Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md)
   - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:13:34](/episodes/ep-Qfwr08Ebczo.md#^t-00-13-27): "Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California."
 - [Turning Point USA](/entities/org-turning-point-usa.md)
   - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:15:47](/episodes/ep-Qfwr08Ebczo.md#^t-00-15-33): "When McCoy's responsibilities grew at Turning Point USA, he and his wife sold their home in Thousand Oaks and bought a home in the Phoenix area."

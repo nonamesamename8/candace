@@ -36,5 +36,5 @@ _Type: Organizations_
 
 ### Referenced By
 
-- [Victoria Churchill](/entities/victoria-churchill.md) **affiliated with** this
+- [Victoria Churchill](/entities/person-victoria-churchill.md) **affiliated with** this
   - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:30:03](/episodes/ep-aDlhjfW6hz8.md#^t-00-30-01)

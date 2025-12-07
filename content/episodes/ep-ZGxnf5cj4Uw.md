@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=ZGxnf5cj4Uw"
 
 **Published:** 2025-09-29 | [Watch on YouTube](https://www.youtube.com/watch?v=ZGxnf5cj4Uw)
 
-**Stats:** 24 entities | 6 events | 18 claims
+**Stats:** 26 entities | 6 events | 18 claims
 
 ---
 
@@ -321,8 +321,8 @@ youtube_url: "https://www.youtube.com/watch?v=ZGxnf5cj4Uw"
 
 **Places:** [Utah](/entities/gpe-utah.md), [Washington County](/entities/gpe-washington-county.md)
 
-**Organizations:** [TMZ](/entities/org-tmz.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah State University](/entities/org-utah-state-university.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+**Organizations:** [FBI](/entities/org-fbi.md), [TMZ](/entities/org-tmz.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah State University](/entities/org-utah-state-university.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Alex Jones](/entities/person-alex-jones.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Governor Cox](/entities/person-governor-cox.md), [Ian Carroll](/entities/person-ian-carroll.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Max Blumenthal](/entities/person-max-blumenthal.md), [Mike Mitchell](/entities/person-mike-mitchell.md), [Nate Brooksby](/entities/person-nate-brooksby.md), [Phil Lyman](/entities/person-phil-lyman.md), [Tayler Hansen](/entities/person-tayler-hansen.md), [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Alex Jones](/entities/person-alex-jones.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Governor Cox](/entities/person-governor-cox.md), [Ian Carroll](/entities/person-ian-carroll.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Max Blumenthal](/entities/person-max-blumenthal.md), [Mike Mitchell](/entities/person-mike-mitchell.md), [Nate Brooksby](/entities/person-nate-brooksby.md), [Phil Lyman](/entities/person-phil-lyman.md), [Tayler Hansen](/entities/person-tayler-hansen.md), [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md), [Tyler Boyer](/entities/person-tyler-boyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 **Work:** [Good Morning America](/entities/work-good-morning-america.md)

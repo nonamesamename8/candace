@@ -76,7 +76,7 @@ _Type: People_
 
 ### Affiliated With
 
-- [TPUSA Faith](/entities/org-tpusa-faith.md)
+- [TPUSA Faith](/entities/org-turning-point-usa-faith.md)
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16): "TPUSA Faith-affiliated pastors, like theologian Frank Turek"
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16): "TPUSA Faith affiliated pastors, like theologian Frank Turek..."
 - [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -89,5 +89,5 @@ _Type: People_
 
 ### Interviewed
 
-- [J. Warner Wallace](/entities/j-warner-wallace.md)
+- [J. Warner Wallace](/entities/person-j-warner-wallace.md)
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:03:18](/episodes/ep-yAIb-NuUh_U.md#^t-00-02-46): "why I had my friend Detective J. Warner Wallace on my podcast two weeks after Charlie (Charlie Kirk)'s martyrdom."

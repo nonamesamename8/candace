@@ -15,4 +15,7 @@ _Type: Organizations_
 
 ## Relationships
 
-_No relationships extracted yet._
+### Referenced By
+
+- [Operation Bright Star](/entities/event-operation-bright-star.md) **affiliated with** this
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:34](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-09)

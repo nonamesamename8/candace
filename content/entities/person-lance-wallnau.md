@@ -21,10 +21,13 @@ _Type: People_
 
 ### Invested In
 
-- [Turning Point USA Faith](/entities/turning-point-usa-faith.md)
+- [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)
   - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:20:07](/episodes/ep-YaZfwLQ7vrI.md#^t-00-19-33): "he put a ton of money into Turning Point USA Faith operations"
 
 ### Referenced By
 
-- [Carl Wallnau](/entities/carl-wallnau.md) **parent of** this
+- [Tyler Robinson](/entities/person-tyler-robinson.md) **dating** this
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:13:02](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-12-42)
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:13:02](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-12-42)
+- [Carl Wallnau](/entities/person-carl-wallnau.md) **parent of** this
   - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:17:14](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39)

@@ -46,13 +46,13 @@ _Type: People_
 
 ### Lives In
 
-- [Blanding](/entities/blanding.md)
+- [Blanding](/entities/gpe-blanding.md)
   - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-34-14): "heading back from Salt Lake to Blanding"
   - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:55](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-34-49): "I was just heading back from Salt Lake to Blanding."
 
 ### Referenced By
 
-- [George Zin](/entities/george-zin.md) **endorsed** this
+- [George Zin](/entities/person-george-zin.md) **endorsed** this
   - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#^t-00-02-54)
 - [George Zinn](/entities/person-george-zinn.md) **endorsed** this
   - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:03:27](/episodes/ep-adJ4LNGp84I.md#^t-00-02-54)

@@ -15,4 +15,7 @@ _Type: Places_
 
 ## Relationships
 
-_No relationships extracted yet._
+### Referenced By
+
+- [Sean Feucht](/entities/person-sean-feucht.md) **born in** this
+  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:11:33](/episodes/ep-YFmRH8p5lt0.md#^t-00-11-02)

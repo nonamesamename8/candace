@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=sreYYcID-QY"
 
 **Published:** 2025-09-18 | [Watch on YouTube](https://www.youtube.com/watch?v=sreYYcID-QY)
 
-**Stats:** 24 entities | 9 events | 15 claims
+**Stats:** 25 entities | 9 events | 15 claims
 
 ---
 
@@ -340,6 +340,6 @@ youtube_url: "https://www.youtube.com/watch?v=sreYYcID-QY"
 
 **Places:** [Israel](/entities/gpe-israel.md), [Orem](/entities/gpe-orem.md), [Utah](/entities/gpe-utah.md)
 
-**Organizations:** [Amazon](/entities/org-amazon.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [TMZ](/entities/org-tmz.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
+**Organizations:** [Amazon](/entities/org-amazon.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [FBI](/entities/org-fbi.md), [TMZ](/entities/org-tmz.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
 
 **People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Donald Trump](/entities/person-donald-trump.md), [Eric Bolling](/entities/person-eric-bolling.md), [Erica Kirk](/entities/person-erica-kirk.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)

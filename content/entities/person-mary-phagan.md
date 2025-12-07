@@ -23,5 +23,3 @@ _Type: People_
 
 - [Leo Frank](/entities/person-leo-frank.md)
   - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:03:44](/episodes/ep-t1YtLS1n8Vs.md#^t-00-03-31): "Mary Phagan was a 13-year-old girl who worked at his pencil factory."
-- [Leo Frank](/entities/person-leo-frank.md)
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:03:44](/episodes/ep-t1YtLS1n8Vs.md#^t-00-03-31): "Mary Fagan was a 13-year-old girl who worked at his pencil factory."

@@ -222,8 +222,6 @@ _Type: People_
 
 - [The Daily Wire](/entities/org-the-daily-wire.md)
   - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:29:16](/episodes/ep-aDlhjfW6hz8.md#^t-00-29-03): "three months earlier I had gotten fired from the Daily Wire"
-- [The Daily Wire](/entities/org-the-daily-wire.md)
-  - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:20](/episodes/ep-sreYYcID-QY.md#^t-00-40-44): "I get fired from The Daily Wire."
 
 ### Hired
 
@@ -241,18 +239,16 @@ _Type: People_
   - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:00:03](/episodes/ep-yAIb-NuUh_U.md#^t-00-00-01): "throwback clip from Charlie (Charlie Kirk) and me back when I had a show on PragerU."
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:43:32](/episodes/ep-K5GjF53bfN4.md#^t-00-42-54): "Your interview with Charlie Kirk on PragerU showed up on my YouTube algorithm."
   - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:01:06](/episodes/ep-mKXdKV-OBog.md#^t-00-00-43): "that interview that I did with Charlie (Charlie Kirk) back when my show was on PragerU's network"
-- [Ami Kozak](/entities/ami-kozak.md)
+- [Ami Kozak](/entities/person-ami-kozak.md)
   - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:42](/episodes/ep-ja26iltROkM.md#^t-00-32-41): "the conversation that I had with Ami Kozak"
 - [Norman Finkelstein](/entities/person-norman-finkelstein.md)
   - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:19](/episodes/ep-Qt0VHV-POCg.md#^t-00-38-57): "I was very excited to sit down and have a conversation... with Norman Finkelstein."
-- [Nick Fuentes](/entities/nick-fuentes.md)
-  - [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 @ 00:37:40](/episodes/ep-Qfwr08Ebczo.md#^t-00-37-10): "I hosted him. And he was, by the way, still a jerk."
 - [Tim Ballard](/entities/person-tim-ballard.md)
   - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:06:28](/episodes/ep-YA1FxrDWNIo.md#^t-00-06-12): "I've actually interviewed him."
   - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:06](/episodes/ep-YA1FxrDWNIo.md#^t-00-00-01): "I've actually interviewed him."
-- [Norm Finkelstein](/entities/norm-finkelstein.md)
+- [Norm Finkelstein](/entities/person-norm-finkelstein.md)
   - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:15:11](/episodes/ep-LATnak75Si0.md#^t-00-14-30): "when Norm Finkelstein was on our show"
-- [Phil Tourney](/entities/phil-tourney.md)
+- [Phil Tourney](/entities/person-phil-tourney.md)
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 01:04:06](/episodes/ep-his-JBjlkh8.md#^t-01-03-25): "when we interviewed Phil Tourney of the USS Liberty."
 - [Russell Brand](/entities/person-russell-brand.md)
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:56](/episodes/ep-his-JBjlkh8.md#^t-00-03-40): "[00:57:53] I spoke about it more at length with Russell Brand on his show, so that should be coming out soon."
@@ -269,9 +265,9 @@ _Type: People_
 
 ### Referenced By
 
-- [Eyal Yakobi](/entities/eyal-yakobi.md) **criticized** this
+- [Eyal Yakobi](/entities/person-eyal-yakobi.md) **criticized** this
   - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:02:02](/episodes/ep-581dILVcEE4.md#^t-00-01-26)
-- [Erin Wexler](/entities/erin-wexler.md) **criticized** this
+- [Erin Wexler](/entities/person-erin-wexler.md) **criticized** this
   - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:03:02](/episodes/ep-581dILVcEE4.md#^t-00-02-51)
 - [Bill Ackman](/entities/person-bill-ackman.md) **criticized** this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:00:24](/episodes/ep-sreYYcID-QY.md#^t-00-00-00)
@@ -299,9 +295,6 @@ _Type: People_
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:20](/episodes/ep-sreYYcID-QY.md#^t-00-40-44)
 - [The Daily Wire](/entities/org-the-daily-wire.md) **fired** this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#^t-00-40-44)
-- [The Daily Wire](/entities/org-the-daily-wire.md) **fired** this
-  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:07:51](/episodes/ep-sImMM04XdWY.md#^t-00-07-38)
-  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:48](/episodes/ep-vwG1juDCQZQ.md#^t-00-01-30)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) **hired** this
   - [To My Friend, Charlie Kirk. @ 00:01:45](/episodes/ep-_dRaEO47-co.md#^t-00-01-20)
   - [To My Friend, Charlie Kirk. @ 00:01:45](/episodes/ep-_dRaEO47-co.md#^t-00-01-20)
@@ -313,8 +306,3 @@ _Type: People_
 - [Brigitte Macron](/entities/person-brigitte-macron.md) **sued** this
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:46:11](/episodes/ep-sreYYcID-QY.md#^t-00-45-49)
   - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:17:22](/episodes/ep-sImMM04XdWY.md#^t-00-16-53)
-- [Emmanuel Macron](/entities/emmanuel-macron.md) **sued** this
-  - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:17:22](/episodes/ep-sImMM04XdWY.md#^t-00-16-53)
-  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:10](/episodes/ep-vwG1juDCQZQ.md#^t-00-01-30)
-- [Emmanuel Macron](/entities/person-emmanuel-macron.md) **sued** this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:01:56](/episodes/ep-a-e7HC6SeK8.md#^t-00-01-30)

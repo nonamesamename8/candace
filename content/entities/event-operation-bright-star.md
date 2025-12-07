@@ -22,7 +22,7 @@ _Type: Events_
 
 ### Affiliated With
 
-- [United States military](/entities/united-states-military.md)
+- [United States military](/entities/org-united-states-military.md)
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:34](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-09): "[00:24:34] On the 29th, we have Operation Bright Star, which commences—that joint operation that we told you about, which is biennial between Egypt and the United States military and other countries that are coming together."
 - [Egypt](/entities/gpe-egypt.md)
   - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:34](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-09): "[00:24:34] On the 29th, we have Operation Bright Star, which commences—that joint operation that we told you about, which is biennial between Egypt and the United States military and other countries that are coming together."

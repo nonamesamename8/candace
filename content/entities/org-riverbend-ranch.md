@@ -27,7 +27,7 @@ _Type: Organizations_
 
 ### Based In
 
-- [USA](/entities/usa.md)
+- [USA](/entities/gpe-united-states.md)
   - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:35:38](/episodes/ep-his-JBjlkh8.md#^t-00-35-06): ""All Riverbend Ranch cattle were born and raised here in the USA.""
 
 ### Referenced By
