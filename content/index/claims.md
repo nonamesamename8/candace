@@ -2,15 +2,51 @@
 
 _Total claims: 1141_
 
+## About Claims
+
+Claims are factual assertions extracted from episode transcripts. Each claim is tracked for potential verification against external sources.
+
+### Claim Types
+
+| Type | Description |
+|------|-------------|
+| **Factual** | Verifiable statements about events, dates, people, or facts |
+| **Opinion** | Subjective statements or interpretations |
+| **Prediction** | Forward-looking statements about future events |
+
+### Verification Status
+
+| Status | Description |
+|--------|-------------|
+| **Unverified** | Claim has not yet been checked against external sources |
+| **True** | Claim has been verified as accurate |
+| **False** | Claim has been verified as inaccurate |
+| **Mixed** | Claim is partially true or requires context |
+| **Unverifiable** | Claim cannot be verified (e.g., private conversations) |
+
+### Follow-up Status
+
+| Status | Description |
+|--------|-------------|
+| **Open** | Claim requires follow-up or investigation |
+| **Addressed** | Follow-up has been completed |
+| **Refuted** | Claim has been addressed and found to be incorrect |
+| **Unclear** | Status is undetermined |
+
+---
+
 ## Verification Summary
 
 | Metric | Count |
 |--------|-------|
 | Factual claims | 1008 |
 | Verified | 0 |
+| Unverified | 1008 |
 | True | 0 |
 | False | 0 |
 | Mixed | 0 |
+
+> **Note:** Verification has not yet been run on these claims. All claims are currently unverified pending fact-checking.
 
 ## By Follow-up Status
 

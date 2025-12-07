@@ -2,24 +2,31 @@
 
 _Total entities: 633_
 
+<input type="radio" id="sort-radio-alpha" name="entity-sort" checked class="sort-radio">
+<input type="radio" id="sort-radio-count" name="entity-sort" class="sort-radio">
+
 <div class="sort-controls">
   <strong>Sort by:</strong>
-  <button id="btn-alpha" class="sort-btn active">A-Z</button>
-  <button id="btn-count" class="sort-btn">Most Mentioned</button>
+  <label for="sort-radio-alpha" class="sort-btn">A-Z</label>
+  <label for="sort-radio-count" class="sort-btn">Most Mentioned</label>
 </div>
 
 <style>
+.sort-radio { position: absolute; opacity: 0; pointer-events: none; }
 .sort-controls { margin-bottom: 1em; }
-.sort-btn { padding: 0.3em 0.8em; margin-right: 0.5em; cursor: pointer; border: 1px solid var(--gray); background: var(--lightgray); border-radius: 4px; color: var(--darkgray); }
-.sort-btn.active { background: var(--secondary); color: var(--light); border-color: var(--secondary); }
+.sort-btn { display: inline-block; padding: 0.3em 0.8em; margin-right: 0.5em; cursor: pointer; border: 1px solid var(--gray); background: var(--lightgray); border-radius: 4px; color: var(--darkgray); user-select: none; }
+.sort-btn:hover { background: var(--light); }
 .sort-alpha, .sort-count { display: none; }
-.sort-alpha.visible, .sort-count.visible { display: block; }
+#sort-radio-alpha:checked ~ .sort-alpha { display: block; }
+#sort-radio-count:checked ~ .sort-count { display: block; }
+#sort-radio-alpha:checked ~ .sort-controls label[for="sort-radio-alpha"],
+#sort-radio-count:checked ~ .sort-controls label[for="sort-radio-count"] { background: var(--secondary); color: var(--light); border-color: var(--secondary); }
 details { margin-bottom: 1em; }
 summary { cursor: pointer; font-size: 1.3em; font-weight: bold; padding: 0.3em 0; }
 summary:hover { color: var(--secondary); }
 </style>
 
-<div class="sort-alpha visible">
+<div class="sort-alpha">
 
 <details open>
 <summary>People (269)</summary>
@@ -1388,26 +1395,3 @@ summary:hover { color: var(--secondary); }
 </details>
 
 </div>
-
-<script>
-(function() {
-  var btnAlpha = document.getElementById("btn-alpha");
-  var btnCount = document.getElementById("btn-count");
-  var sortAlpha = document.querySelector(".sort-alpha");
-  var sortCount = document.querySelector(".sort-count");
-  if (btnAlpha && btnCount && sortAlpha && sortCount) {
-    btnAlpha.addEventListener("click", function() {
-      sortAlpha.classList.add("visible");
-      sortCount.classList.remove("visible");
-      btnAlpha.classList.add("active");
-      btnCount.classList.remove("active");
-    });
-    btnCount.addEventListener("click", function() {
-      sortCount.classList.add("visible");
-      sortAlpha.classList.remove("visible");
-      btnCount.classList.add("active");
-      btnAlpha.classList.remove("active");
-    });
-  }
-})();
-</script>
