@@ -28,17 +28,17 @@ _Type: People_
 - [00:08:12](/episodes/ep-5autG89PW6w.md#^t-00-07-35)
   > "..."Third, if you discount the text messages between Tyler Robinson and his trans furry lover, you cannot take these at face value. Lastly, even if the text messages w..."
 - [00:20:43](/episodes/ep-5autG89PW6w.md#^t-00-19-58)
-  > "... executives would rather—and I'm now referring to Tyler Boyer—impugn the character of the people who are doing exactly what Charlie (Charlie Kirk) would have don..."
+  > "... executives would rather—and I'm now referring to Tyler Bowyer—impugn the character of the people who are doing exactly what Charlie (Charlie Kirk) would have don..."
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:34:58](/episodes/ep-JQjCAsfoXEE.md#^t-00-34-50)
-  > "...s never turned in. This is a massive red flag. So Tyler Boyer is being snarky on X.com and telling people to go look at the annual financial audit, but the finan..."
+  > "...s never turned in. This is a massive red flag. So Tyler Bowyer is being snarky on X.com and telling people to go look at the annual financial audit, but the finan..."
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md)
 
 - [00:33:35](/episodes/ep-K1tFD7FfoCU.md#^t-00-33-12)
-  > "...ive if they continue down this path of, you know, Tyler Boyer late-night tweeting at donors as he did over the weekend. I think he directed his fire at like John..."
+  > "...ive if they continue down this path of, you know, Tyler Bowyer late-night tweeting at donors as he did over the weekend. I think he directed his fire at like John..."
 
 ### [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
 
@@ -50,7 +50,7 @@ _Type: People_
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:16:53](/episodes/ep-MUA9ebCF4Ow.md#^t-00-16-41)
-  > "...every second of his moves. That offender would be Tyler Boyer, okay? He lied. Number seven: Terrell moved the SD cards because people were stealing hats. Questio..."
+  > "...every second of his moves. That offender would be Tyler Bowyer, okay? He lied. Number seven: Terrell moved the SD cards because people were stealing hats. Questio..."
 
 ### [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md)
 
@@ -70,7 +70,7 @@ _Type: People_
 ### [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
 
 - [00:30:00](/episodes/ep-SKGUzGHymcI.md#^t-00-29-52)
-  > "...eth McCoy, the amazing Mike McCoy's wife. We have Tyler Boyer, we have Erica (Erica Kirk). There could be more people. We need to focus here. There's a fact that's ..."
+  > "...eth McCoy, the amazing Mike McCoy's wife. We have Tyler Bowyer, we have Erika (Erika Kirk). There could be more people. We need to focus here. There's a fact that's ..."
 
 ### [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
 
@@ -91,28 +91,28 @@ _Type: People_
 - [00:01:22](/episodes/ep-YFmRH8p5lt0.md#^t-00-00-49)
   > "...at he was running, and certainly much bigger than Tyler Robinson on the LDS rooftop, who I don't even think even set foot on the campus that day. And I think anothe..."
 - [00:01:42](/episodes/ep-YFmRH8p5lt0.md#^t-00-01-22)
-  > "... this random sidebar conversation that I had with Tyler Boyer. Tyler Boyer is the king of shady at Turning Point USA. He is the one—like I said—that has—he has h..."
+  > "... this random sidebar conversation that I had with Tyler Bowyer. Tyler Bowyer is the king of shady at Turning Point USA. He is the one—like I said—that has—he has h..."
 
 ### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:40:12](/episodes/ep-ZAuuSq_j2_w.md#^t-00-40-08)
-  > "...need some help with legal fees." Yeah, yeah. Also Tyler Boyer—fun little update—sends a text or something. They're all just so insincere. I don't know—sent an em..."
+  > "...need some help with legal fees." Yeah, yeah. Also Tyler Bowyer—fun little update—sends a text or something. They're all just so insincere. I don't know—sent an em..."
 
 ### [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md)
 
 - [00:00:09](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-00-00)
   > "... get the information out as soon as possible that Tyler Robinson is not suicidal. And I'm going to tell you how I know that. Also, while investigating this assassin..."
 - [00:41:28](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-40-46)
-  > "...d then he mentioned Governor Cox, and he mentions Tyler Boyer of Turning Point USA and says that—again, this is according to Nick—that Tyler Boyer and the Lyman ..."
+  > "...d then he mentioned Governor Cox, and he mentions Tyler Bowyer of Turning Point USA and says that—again, this is according to Nick—that Tyler Bowyer and the Lyman ..."
 
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:13:27](/episodes/ep-a-e7HC6SeK8.md#^t-00-13-20)
-  > "...ing Point USA. She was brought in specifically by Tyler Boyer to raise money and to take Turning Point to the next level. And regarding Tyler Boyer, now we could..."
+  > "...ing Point USA. She was brought in specifically by Tyler Bowyer to raise money and to take Turning Point to the next level. And regarding Tyler Bowyer, now we could..."
 - [00:24:56](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-50)
-  > "...trife is going to be the new COO, taking over for Tyler Boyer, who was the COO. And then we have the first known public going out in local media that Charlie's c..."
+  > "...trife is going to be the new COO, taking over for Tyler Bowyer, who was the COO. And then we have the first known public going out in local media that Charlie's c..."
 - [00:47:13](/episodes/ep-a-e7HC6SeK8.md#^t-00-46-48)
-  > "...now be becoming a real estate empire? Apparently, Tyler Boyer has a younger brother who, for 10 years, has worked in dental sales until Charlie died, because a u..."
+  > "...now be becoming a real estate empire? Apparently, Tyler Bowyer has a younger brother who, for 10 years, has worked in dental sales until Charlie died, because a u..."
 
 ### [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md)
 
@@ -133,7 +133,7 @@ _Type: People_
 - [00:53:16](/episodes/ep-c5BcKF91iec.md#^t-00-52-57)
   > "...hich was not accounted for. Joshua Steve writes, "Tyler Robinson appearing in court today via Zoom without having to show his face surely isn't helping any of the t..."
 - [00:04:23](/episodes/ep-c5BcKF91iec.md#^t-00-03-48)
-  > "...e were all going to maybe be on a group chat: me, Tyler Boyer, Andrew Colvett, Stacey Sheridan even. If you're wondering who Stacey Sheridan is, by the way, she'..."
+  > "...e were all going to maybe be on a group chat: me, Tyler Bowyer, Andrew Colvett, Stacey Sheridan even. If you're wondering who Stacey Sheridan is, by the way, she'..."
 
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 
@@ -143,7 +143,7 @@ _Type: People_
 ### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [00:09:26](/episodes/ep-his-JBjlkh8.md#^t-00-08-43)
-  > "...ut of a camera. She has spread absurd claims that Tyler Boyer, who we just had on the show, sexually abuses male interns. Okay, so yes, the SD card thing is unbe..."
+  > "...ut of a camera. She has spread absurd claims that Tyler Bowyer, who we just had on the show, sexually abuses male interns. Okay, so yes, the SD card thing is unbe..."
 
 ### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 
@@ -165,12 +165,12 @@ _Type: People_
 - [00:04:03](/episodes/ep-ozWJz2spBcI.md#^t-00-03-29)
   > "...bluntly when he said, "So they want us to forgive Tyler Robinson, but to attack the people that are trying to solve the murder of Charlie Kirk (Charlie Kirk)?" Like..."
 - [00:00:27](/episodes/ep-ozWJz2spBcI.md#^t-00-00-00)
-  > "...ned over the weekend is that their TP Action COO, Tyler Boyer, went on a little bit of an X binge. I don't recommend it, which was then highlighted by Alex Clark..."
+  > "...ned over the weekend is that their TP Action COO, Tyler Bowyer, went on a little bit of an X binge. I don't recommend it, which was then highlighted by Alex Clark..."
 
 ### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:21:02](/episodes/ep-pc3pxRyNFZk.md#^t-00-20-54)
-  > "...tively a lot of lying that's going on. I told you Tyler Boyer lied. He just lied. The person who took the cameras down was absolutely not instructed to do so by ..."
+  > "...tively a lot of lying that's going on. I told you Tyler Bowyer lied. He just lied. The person who took the cameras down was absolutely not instructed to do so by ..."
 
 ### [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
 
@@ -206,7 +206,7 @@ _Type: People_
 - [00:09:38](/episodes/ep-vwG1juDCQZQ.md#^t-00-09-23)
   > "...eople agree with this—I could have never forgiven Tyler Robinson for whatever part he played in this. And obviously I'm saying whatever part he played in this becau..."
 - [00:14:13](/episodes/ep-vwG1juDCQZQ.md#^t-00-13-30)
-  > "...un. And in theory it would be the footage, right? Tyler Boyer said, "We have footage in 4K—all of the stuff," when he was tweeting. And similarly, not the univer..."
+  > "...un. And in theory it would be the footage, right? Tyler Bowyer said, "We have footage in 4K—all of the stuff," when he was tweeting. And similarly, not the univer..."
 
 ### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 

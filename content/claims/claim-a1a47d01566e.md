@@ -1,5 +1,5 @@
 ---
-title: "Tyler Boyer has a younger brother who, for 10 years, has wor..."
+title: "Tyler Bowyer has a younger brother who, for 10 years, has wo..."
 claim_id: "claim-a1a47d01566e"
 episode: "a-e7HC6SeK8"
 type: "factual"
@@ -10,7 +10,7 @@ type: "factual"
 
 ## Claim
 
-> Tyler Boyer has a younger brother who, for 10 years, has worked in dental sales until Charlie died, because a unique opportunity presented itself at Turning Point USA where Tyler had begun telling people that TPUSA plans to roll out a program to build houses for first-time home buyers
+> Tyler Bowyer has a younger brother who, for 10 years, has worked in dental sales until Charlie died, because a unique opportunity presented itself at Turning Point USA where Tyler had begun telling people that TPUSA plans to roll out a program to build houses for first-time home buyers
 
 ## Source
 

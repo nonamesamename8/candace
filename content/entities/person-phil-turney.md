@@ -2,9 +2,13 @@
 title: "Phil Turney"
 id: "person-phil-turney"
 type: "PERSON"
+aliases:
+  - "Phil Tourney"
 ---
 
 _Type: People_
+
+**Also known as:** Phil Tourney
 
 ## Mentions
 

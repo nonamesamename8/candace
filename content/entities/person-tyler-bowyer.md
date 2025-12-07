@@ -3,12 +3,12 @@ title: "Tyler Bowyer"
 id: "person-tyler-bowyer"
 type: "PERSON"
 aliases:
-  - "Bowyer"
+  - "Tyler Boyer"
 ---
 
 _Type: People_
 
-**Also known as:** Bowyer
+**Also known as:** Tyler Boyer
 
 ## Mentions
 

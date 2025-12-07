@@ -10,7 +10,7 @@ type: "factual"
 
 ## Claim
 
-> On September 2nd, Charlie sends out the email asking for a DOJ audit of his company. And he announces that Justin Strife is going to be the new COO, taking over for Tyler Boyer, who was the COO
+> On September 2nd, Charlie sends out the email asking for a DOJ audit of his company. And he announces that Justin Strife is going to be the new COO, taking over for Tyler Bowyer, who was the COO
 
 ## Source
 

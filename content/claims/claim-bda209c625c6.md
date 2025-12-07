@@ -1,5 +1,5 @@
 ---
-title: "Erica and Charlie were attending the Mass, and that's what I..."
+title: "Erika and Charlie were attending the Mass, and that's what I..."
 claim_id: "claim-bda209c625c6"
 episode: "UBkFkg4UNY8"
 type: "factual"
@@ -10,7 +10,7 @@ type: "factual"
 
 ## Claim
 
-> Erica and Charlie were attending the Mass, and that's what I said, and I said that he was praying the Rosary.
+> Erika and Charlie were attending the Mass, and that's what I said, and I said that he was praying the Rosary.
 
 ## Source
 

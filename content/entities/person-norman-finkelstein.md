@@ -3,12 +3,12 @@ title: "Norman Finkelstein"
 id: "person-norman-finkelstein"
 type: "PERSON"
 aliases:
-  - "Norman Finkelstein"
+  - "Norm Finkelstein"
 ---
 
 _Type: People_
 
-**Also known as:** Norman Finkelstein
+**Also known as:** Norm Finkelstein
 
 ## Mentions
 

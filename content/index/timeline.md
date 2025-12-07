@@ -858,9 +858,9 @@ _Total events: 484_
 **Mentioned in:**
 - [ep-K1tFD7FfoCU @ 00:07:35](/episodes/ep-K1tFD7FfoCU.md#^t-00-07-32)
 
-<a id="event-2025-07-01-erika-mendl-joins-tiktok-as-public-policy-manager"></a>
+<a id="event-2025-07-01-erica-mendel-joins-tiktok-as-public-policy-manager"></a>
 
-#### 2025-07-01: Erika Mendl joins TikTok as public policy manager for hate speech
+#### 2025-07-01: Erica Mendel joins TikTok as public policy manager for hate speech
 
 **Mentioned in:**
 - [ep-adJ4LNGp84I @ 00:44:21](/episodes/ep-adJ4LNGp84I.md#^t-00-44-06)
@@ -1460,7 +1460,7 @@ _Total events: 484_
 
 <a id="event-2025-09-09-charlie-kirk-and-erica-consult-priest-to-counter-j"></a>
 
-#### 2025-09-09: Charlie Kirk and Erica consult priest to counter Jezebel curse.
+#### 2025-09-09: Charlie Kirk and Erika consult priest to counter Jezebel curse.
 
 **Mentioned in:**
 - [ep-QZWSsq8ZWzw @ 00:33:55](/episodes/ep-QZWSsq8ZWzw.md#^t-00-33-34)
@@ -1474,7 +1474,7 @@ _Total events: 484_
 
 <a id="event-2025-09-09-charlie-and-erica-kirk-consult-priest-to-pray-agai"></a>
 
-#### 2025-09-09: Charlie and Erica Kirk consult priest to pray against curse night before assassination
+#### 2025-09-09: Charlie and Erika Kirk consult priest to pray against curse night before assassination
 
 **Mentioned in:**
 - [ep-QZWSsq8ZWzw @ 00:35:07](/episodes/ep-QZWSsq8ZWzw.md#^t-00-34-32)
@@ -2274,7 +2274,7 @@ _Total events: 484_
 
 <a id="event-2025-09-13-erica-kirk-addresses-nation-after-husband-s-death"></a>
 
-#### 2025-09-13: Erica Kirk addresses nation after husband's death
+#### 2025-09-13: Erika Kirk addresses nation after husband's death
 
 **Mentioned in:**
 - [ep-czVBmqZP6Ss @ 00:00:51](/episodes/ep-czVBmqZP6Ss.md#^t-00-00-44)
@@ -2295,21 +2295,21 @@ _Total events: 484_
 
 <a id="event-2025-09-14-erica-kirk-addresses-nation-on-husband-s-death-and"></a>
 
-#### 2025-09-14: Erica Kirk addresses nation on husband's death and movement.
+#### 2025-09-14: Erika Kirk addresses nation on husband's death and movement.
 
 **Mentioned in:**
 - [ep-czVBmqZP6Ss @ 00:00:51](/episodes/ep-czVBmqZP6Ss.md#^t-00-00-44)
 
 <a id="event-2025-09-14-erica-kirk-addresses-world-vowing-to-continue-husb"></a>
 
-#### 2025-09-14: Erica Kirk addresses world vowing to continue husband's movement.
+#### 2025-09-14: Erika Kirk addresses world vowing to continue husband's movement.
 
 **Mentioned in:**
 - [ep-czVBmqZP6Ss @ 00:00:51](/episodes/ep-czVBmqZP6Ss.md#^t-00-00-44)
 
 <a id="event-2025-09-14-erica-kirk-delivers-powerful-public-remarks-on-hus"></a>
 
-#### 2025-09-14: Erica Kirk delivers powerful public remarks on husband's death and movement
+#### 2025-09-14: Erika Kirk delivers powerful public remarks on husband's death and movement
 
 **Mentioned in:**
 - [ep-czVBmqZP6Ss @ 00:00:51](/episodes/ep-czVBmqZP6Ss.md#^t-00-00-44)
@@ -2526,9 +2526,9 @@ _Total events: 484_
 **Mentioned in:**
 - [ep-aDlhjfW6hz8 @ 00:39:25](/episodes/ep-aDlhjfW6hz8.md#^t-00-39-12)
 
-<a id="event-2025-09-20-andrew-coltvet-tweets-explanation-of-no-exit-wound"></a>
+<a id="event-2025-09-20-andrew-kolvet-tweets-explanation-of-no-exit-wound"></a>
 
-#### 2025-09-20: Andrew Coltvet tweets explanation of no exit wound as miracle in Kirk shooting.
+#### 2025-09-20: Andrew Kolvet tweets explanation of no exit wound as miracle in Kirk shooting.
 
 **Mentioned in:**
 - [ep-ja26iltROkM @ 00:08:21](/episodes/ep-ja26iltROkM.md#^t-00-08-07)
@@ -2752,9 +2752,9 @@ _Total events: 484_
 **Mentioned in:**
 - [ep-t1YtLS1n8Vs @ 00:10:01](/episodes/ep-t1YtLS1n8Vs.md#^t-00-09-50)
 
-<a id="event-2025-10-05-tpusa-action-coo-tyler-boyer-goes-on-x-posting-spr"></a>
+<a id="event-2025-10-05-tpusa-action-coo-tyler-bowyer-goes-on-x-posting-spr"></a>
 
-#### 2025-10-05: TPUSA Action COO Tyler Boyer goes on X posting spree defending organization.
+#### 2025-10-05: TPUSA Action COO Tyler Bowyer goes on X posting spree defending organization.
 
 **Mentioned in:**
 - [ep-ozWJz2spBcI @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#^t-00-00-00)
@@ -2766,9 +2766,9 @@ _Total events: 484_
 **Mentioned in:**
 - [ep-5autG89PW6w @ 00:00:22](/episodes/ep-5autG89PW6w.md#^t-00-00-00)
 
-<a id="event-2025-10-07-tpusa-spokesperson-andrew-collett-confirms-leaked"></a>
+<a id="event-2025-10-07-tpusa-spokesperson-andrew-kolvet-confirms-leaked"></a>
 
-#### 2025-10-07: TPUSA spokesperson Andrew Collett confirms leaked text messages are authentic
+#### 2025-10-07: TPUSA spokesperson Andrew Kolvet confirms leaked text messages are authentic
 
 **Mentioned in:**
 - [ep-5autG89PW6w @ 00:13:40](/episodes/ep-5autG89PW6w.md#^t-00-13-12)
@@ -3048,9 +3048,9 @@ _Total events: 484_
 **Mentioned in:**
 - [ep-581dILVcEE4 @ 00:38:37](/episodes/ep-581dILVcEE4.md#^t-00-38-23)
 
-<a id="event-2025-11-18-president-donald-trump-pardoned-tyler-boyer-pardon"></a>
+<a id="event-2025-11-18-president-donald-trump-pardoned-tyler-bowyer-pardon"></a>
 
-#### 2025-11-18: President Donald Trump pardoned Tyler Boyer (pardon referenced as occurring a couple weeks earlier).
+#### 2025-11-18: President Donald Trump pardoned Tyler Bowyer (pardon referenced as occurring a couple weeks earlier).
 
 **Mentioned in:**
 - [ep-a-e7HC6SeK8 @ 00:13:33](/episodes/ep-a-e7HC6SeK8.md#^t-00-13-20)
@@ -3263,7 +3263,7 @@ _Total events: 484_
 
 <a id="event-2025-12-02-reference-to-erica-kirk-serving-in-a-new-capacity"></a>
 
-#### 2025-12-02: Reference to Erica Kirk serving in a new capacity as CEO and chairman at Turning Point.
+#### 2025-12-02: Reference to Erika Kirk serving in a new capacity as CEO and chairman at Turning Point.
 
 **Mentioned in:**
 - [ep-a-e7HC6SeK8 @ 00:54:03](/episodes/ep-a-e7HC6SeK8.md#^t-00-53-36)
@@ -3445,7 +3445,7 @@ _Total events: 484_
 
 <a id="event-2025-12-03-pentagon-briefing-question-from-kam-cam-higby-aski"></a>
 
-#### 2025-12-03 00:42: Pentagon briefing question from Kam (Cam) Higby asking if DOD has evidence of French plot to assassinate Candace Owens.
+#### 2025-12-03 00:42: Pentagon briefing question from Kam (Cam) Higby asking if DoW has evidence of French plot to assassinate Candace Owens.
 
 **Mentioned in:**
 - [ep-his-JBjlkh8 @ 00:42:08](/episodes/ep-his-JBjlkh8.md#^t-00-42-06)

@@ -20,7 +20,7 @@ _Type: People_
 ### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:46:28](/episodes/ep-LATnak75Si0.md#^t-00-46-22)
-  > "...when the very anticipated interview drops between Jesse Watters and Erica Kirk. I will be watching. I am actually ecstatic to hear more from Erica. I know she's ob..."
+  > "...when the very anticipated interview drops between Jesse Watters and Erika Kirk. I will be watching. I am actually ecstatic to hear more from Erika. I know she's ob..."
 
 ### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 

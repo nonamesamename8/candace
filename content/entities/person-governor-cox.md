@@ -2,9 +2,14 @@
 title: "Governor Cox"
 id: "person-governor-cox"
 type: "PERSON"
+aliases:
+  - "Governor Spencer Cox"
+  - "Spencer Cox"
 ---
 
 _Type: People_
+
+**Also known as:** Governor Spencer Cox, Spencer Cox
 
 ## Mentions
 

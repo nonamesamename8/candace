@@ -10,7 +10,7 @@ type: "promise"
 
 ## Claim
 
-> I am on this journey to figure out what happened on that day. I'm not going to stop unless Erica Kirk asks me to stop, as I have said, or my father or my husband asks me to stop, because truth matters.
+> I am on this journey to figure out what happened on that day. I'm not going to stop unless Erika Kirk asks me to stop, as I have said, or my father or my husband asks me to stop, because truth matters.
 
 ## Source
 

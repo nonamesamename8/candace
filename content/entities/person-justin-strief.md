@@ -21,7 +21,7 @@ _Type: People_
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:24:56](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-50)
-  > "...a DOJ audit of his company. And he announces that Justin Strife is going to be the new COO, taking over for Tyler Boyer, who was the COO. And then we have the firs..."
+  > "...a DOJ audit of his company. And he announces that Justin Strife is going to be the new COO, taking over for Tyler Bowyer, who was the COO. And then we have the firs..."
 
 ## Relationships
 

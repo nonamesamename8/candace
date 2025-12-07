@@ -4,12 +4,12 @@ id: "person-candace-owens"
 type: "PERSON"
 aliases:
   - "Candace"
-  - "Candice"
+  - "Candace"
 ---
 
 _Type: People_
 
-**Also known as:** Candace, Candice
+**Also known as:** Candace, Candace
 
 ## Mentions
 

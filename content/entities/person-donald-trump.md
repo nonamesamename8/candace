@@ -101,7 +101,7 @@ _Type: People_
 ### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:13:35](/episodes/ep-a-e7HC6SeK8.md#^t-00-13-20)
-  > "...e of weeks ago—that he's a criminal, but actually Donald Trump pardoned him. He pardoned Tyler Boyer a couple of weeks ago. So we can't—that's actually not real. ..."
+  > "...e of weeks ago—that he's a criminal, but actually Donald Trump pardoned him. He pardoned Tyler Bowyer a couple of weeks ago. So we can't—that's actually not real. ..."
 - [00:39:16](/episodes/ep-a-e7HC6SeK8.md#^t-00-38-52)
   > "... opportunity to do it, right? We are going to get Trump elected, and we're going to get people to stop talking about racism and sexism and to understand, like, fa..."
 

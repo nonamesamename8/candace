@@ -2,9 +2,13 @@
 title: "Bob Coy"
 id: "person-bob-coy"
 type: "PERSON"
+aliases:
+  - "Rob Coy"
 ---
 
 _Type: People_
+
+**Also known as:** Rob Coy
 
 ## Mentions
 

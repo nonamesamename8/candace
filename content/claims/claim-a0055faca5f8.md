@@ -1,5 +1,5 @@
 ---
-title: "Andrew Collett, Turning Point's spokesperson, confirmed that..."
+title: "Andrew Kolvet, Turning Point's spokesperson, confirmed that ..."
 claim_id: "claim-a0055faca5f8"
 episode: "5autG89PW6w"
 type: "factual"
@@ -10,7 +10,7 @@ type: "factual"
 
 ## Claim
 
-> Andrew Collett, Turning Point's spokesperson, confirmed that the messages were in fact real.
+> Andrew Kolvet, Turning Point's spokesperson, confirmed that the messages were in fact real.
 
 ## Source
 
@@ -25,4 +25,4 @@ _This claim has not yet been verified._
 ## Follow-up
 
 **Status:** Open
-**Expected:** Check Andrew Collett's statement on the Charlie Kirk show
+**Expected:** Check Andrew Kolvet's statement on the Charlie Kirk show

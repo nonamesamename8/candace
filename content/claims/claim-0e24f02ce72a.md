@@ -1,5 +1,5 @@
 ---
-title: "Erica is a cradle Catholic, but she ended up kind of like me..."
+title: "Erika is a cradle Catholic, but she ended up kind of like me..."
 claim_id: "claim-0e24f02ce72a"
 episode: "UBkFkg4UNY8"
 type: "factual"
@@ -10,7 +10,7 @@ type: "factual"
 
 ## Claim
 
-> Erica is a cradle Catholic, but she ended up kind of like me. ... ended up becoming a Christian in college through a Protestant church, through a non-denominational kind of more...
+> Erika is a cradle Catholic, but she ended up kind of like me. ... ended up becoming a Christian in college through a Protestant church, through a non-denominational kind of more...
 
 ## Source
 

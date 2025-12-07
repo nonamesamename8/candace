@@ -528,7 +528,7 @@ _Total claims: 1141_
 
 ### [ep-2WEHTk0Xewg @ 01:08:05](/episodes/ep-2WEHTk0Xewg.md#^t-01-07-30)
 
-> Erica Kirk... She's gonna fight, and she is going to fight on the good side
+> Erika Kirk... She's gonna fight, and she is going to fight on the good side
 
 **Type:** Prediction
 
@@ -612,7 +612,7 @@ _Total claims: 1141_
 
 ### [ep-5autG89PW6w @ 00:13:40](/episodes/ep-5autG89PW6w.md#^t-00-13-12)
 
-> Andrew Collett, Turning Point's spokesperson, confirmed that the messages were in fact real.
+> Andrew Kolvet, Turning Point's spokesperson, confirmed that the messages were in fact real.
 
 **Type:** Factual
 
@@ -1446,7 +1446,7 @@ _Total claims: 1141_
 
 ### [ep-QZWSsq8ZWzw @ 00:34:44](/episodes/ep-QZWSsq8ZWzw.md#^t-00-34-32)
 
-> Erica Kirk and Charlie Kirk heard about these curses, it rattled Erica, they contacted a friend—a Catholic priest—to come over and pray with them over Charlie the night before he was murdered
+> Erika Kirk and Charlie Kirk heard about these curses, it rattled Erika, they contacted a friend—a Catholic priest—to come over and pray with them over Charlie the night before he was murdered
 
 **Type:** Factual
 
@@ -2052,19 +2052,19 @@ _Total claims: 1141_
 
 ### [ep-UBkFkg4UNY8 @ 00:32:44](/episodes/ep-UBkFkg4UNY8.md#^t-00-32-41)
 
-> Was he becoming Catholic? No. But he really loved Catholic Mass. He loved the ritual of it. He loved the beauty of old Catholic churches and the stained glass. And him and Erica would go sometimes.
+> Was he becoming Catholic? No. But he really loved Catholic Mass. He loved the ritual of it. He loved the beauty of old Catholic churches and the stained glass. And him and Erika would go sometimes.
 
 **Type:** Factual
 
 ### [ep-UBkFkg4UNY8 @ 00:33:03](/episodes/ep-UBkFkg4UNY8.md#^t-00-32-41)
 
-> Erica is a cradle Catholic, but she ended up kind of like me. ... ended up becoming a Christian in college through a Protestant church, through a non-denominational kind of more...
+> Erika is a cradle Catholic, but she ended up kind of like me. ... ended up becoming a Christian in college through a Protestant church, through a non-denominational kind of more...
 
 **Type:** Factual
 
 ### [ep-UBkFkg4UNY8 @ 00:34:48](/episodes/ep-UBkFkg4UNY8.md#^t-00-34-13)
 
-> Erica and Charlie were attending the Mass, and that's what I said, and I said that he was praying the Rosary.
+> Erika and Charlie were attending the Mass, and that's what I said, and I said that he was praying the Rosary.
 
 **Type:** Factual
 
@@ -2964,7 +2964,7 @@ _Total claims: 1141_
 
 ### [ep-a-e7HC6SeK8 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#^t-00-13-20)
 
-> Donald Trump pardoned him. He pardoned Tyler Boyer a couple of weeks ago
+> Donald Trump pardoned him. He pardoned Tyler Bowyer a couple of weeks ago
 
 **Type:** Factual
 
@@ -3120,7 +3120,7 @@ _Total claims: 1141_
 
 ### [ep-a-e7HC6SeK8 @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#^t-00-24-50)
 
-> On September 2nd, Charlie sends out the email asking for a DOJ audit of his company. And he announces that Justin Strife is going to be the new COO, taking over for Tyler Boyer, who was the COO
+> On September 2nd, Charlie sends out the email asking for a DOJ audit of his company. And he announces that Justin Strife is going to be the new COO, taking over for Tyler Bowyer, who was the COO
 
 **Type:** Factual
 
@@ -3222,7 +3222,7 @@ _Total claims: 1141_
 
 ### [ep-a-e7HC6SeK8 @ 00:47:36](/episodes/ep-a-e7HC6SeK8.md#^t-00-47-13)
 
-> Tyler Boyer has a younger brother who, for 10 years, has worked in dental sales until Charlie died, because a unique opportunity presented itself at Turning Point USA where Tyler had begun telling people that TPUSA plans to roll out a program to build houses for first-time home buyers
+> Tyler Bowyer has a younger brother who, for 10 years, has worked in dental sales until Charlie died, because a unique opportunity presented itself at Turning Point USA where Tyler had begun telling people that TPUSA plans to roll out a program to build houses for first-time home buyers
 
 **Type:** Factual
 
@@ -4284,19 +4284,19 @@ _Total claims: 1141_
 
 ### [ep-his-JBjlkh8 @ 00:08:00](/episodes/ep-his-JBjlkh8.md#^t-00-07-24)
 
-> Many more times they were following and perhaps tracking Erica.
+> Many more times they were following and perhaps tracking Erika.
 
 **Type:** Factual
 
 ### [ep-his-JBjlkh8 @ 00:10:22](/episodes/ep-his-JBjlkh8.md#^t-00-10-16)
 
-> Tyler Boyer hooked up with an intern who was a lot younger than him.
+> Tyler Bowyer hooked up with an intern who was a lot younger than him.
 
 **Type:** Factual
 
 ### [ep-his-JBjlkh8 @ 00:10:41](/episodes/ep-his-JBjlkh8.md#^t-00-10-16)
 
-> People that are currently working for Turning Point USA said that Tyler Boyer tried to hook up with them after some events.
+> People that are currently working for Turning Point USA said that Tyler Bowyer tried to hook up with them after some events.
 
 **Type:** Factual
 
@@ -4404,7 +4404,7 @@ _Total claims: 1141_
 
 ### [ep-his-JBjlkh8 @ 00:43:13](/episodes/ep-his-JBjlkh8.md#^t-00-43-02)
 
-> The DOD has no evidence of a French military plot to assassinate Candace Owens
+> The DoW has no evidence of a French military plot to assassinate Candace Owens
 
 **Type:** Factual
 
@@ -4800,7 +4800,7 @@ _Total claims: 1141_
 
 ### [ep-ja26iltROkM @ 00:45:13](/episodes/ep-ja26iltROkM.md#^t-00-45-12)
 
-> I am on this journey to figure out what happened on that day. I'm not going to stop unless Erica Kirk asks me to stop, as I have said, or my father or my husband asks me to stop, because truth matters.
+> I am on this journey to figure out what happened on that day. I'm not going to stop unless Erika Kirk asks me to stop, as I have said, or my father or my husband asks me to stop, because truth matters.
 
 **Type:** Promise
 
@@ -4944,13 +4944,13 @@ _Total claims: 1141_
 
 ### [ep-ozWJz2spBcI @ 00:08:55](/episodes/ep-ozWJz2spBcI.md#^t-00-08-17)
 
-> Erica took a Catholic bishop with her to pray over [Charlie Kirk's] body on the day that he died.
+> Erika took a Catholic bishop with her to pray over [Charlie Kirk's] body on the day that he died.
 
 **Type:** Factual
 
 ### [ep-ozWJz2spBcI @ 00:09:04](/episodes/ep-ozWJz2spBcI.md#^t-00-09-02)
 
-> a few weeks before his death, Erica had a priest come over to pray over them when some witches thought it would be funny—whatever—to put a hex on him.
+> a few weeks before his death, Erika had a priest come over to pray over them when some witches thought it would be funny—whatever—to put a hex on him.
 
 **Type:** Factual
 
@@ -4986,7 +4986,7 @@ _Total claims: 1141_
 
 ### [ep-ozWJz2spBcI @ 00:25:06](/episodes/ep-ozWJz2spBcI.md#^t-00-24-30)
 
-> I spoke to that Turning Point individual... And the answer that I was given sounded more like what Andrew Colvett said. 'You know, I was emotional. I knew that Charlie Kirk was dead. And my instinct was to make sure that I secured the footage so that Erica would not have to see it again. Like, he didn't want Erica to have to relive it.'
+> I spoke to that Turning Point individual... And the answer that I was given sounded more like what Andrew Colvett said. 'You know, I was emotional. I knew that Charlie Kirk was dead. And my instinct was to make sure that I secured the footage so that Erika would not have to see it again. Like, he didn't want Erika to have to relive it.'
 
 **Type:** Factual
 

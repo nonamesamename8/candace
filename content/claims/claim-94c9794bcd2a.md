@@ -10,7 +10,7 @@ type: "factual"
 
 ## Claim
 
-> People that are currently working for Turning Point USA said that Tyler Boyer tried to hook up with them after some events.
+> People that are currently working for Turning Point USA said that Tyler Bowyer tried to hook up with them after some events.
 
 ## Source
 

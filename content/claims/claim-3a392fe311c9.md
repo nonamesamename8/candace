@@ -25,4 +25,4 @@ _This claim has not yet been verified._
 ## Follow-up
 
 **Status:** Open
-**Expected:** Verification through interviews with Erica Kirk or the priest involved
+**Expected:** Verification through interviews with Erika Kirk or the priest involved

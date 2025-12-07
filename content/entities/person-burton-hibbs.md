@@ -4,11 +4,12 @@ id: "person-burton-hibbs"
 type: "PERSON"
 aliases:
   - "Butch"
+  - "Butch Hibbs"
 ---
 
 _Type: People_
 
-**Also known as:** Butch
+**Also known as:** Butch, Butch Hibbs
 
 ## Mentions
 

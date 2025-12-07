@@ -25,4 +25,4 @@ _This claim has not yet been verified._
 ## Follow-up
 
 **Status:** Open
-**Expected:** Verify through Erica's statements or records of the event
+**Expected:** Verify through Erika's statements or records of the event

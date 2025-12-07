@@ -30,7 +30,7 @@ _Type: Organizations_
 - [00:38:02](/episodes/ep-ja26iltROkM.md#^t-00-37-48)
   > "...o code Candace. Okay. The attacks against me from AIPAC citizens or Zionists are now bordering on the hysterical. I mean, last week was insane. I got to th..."
 - [00:38:52](/episodes/ep-ja26iltROkM.md#^t-00-38-09)
-  > "...o code Candice. Okay. The attacks against me from AIPAC citizens or Zionists are now bordering on the hysterical. I mean, last week was insane. I got to th..."
+  > "...o code Candace. Okay. The attacks against me from AIPAC citizens or Zionists are now bordering on the hysterical. I mean, last week was insane. I got to th..."
 
 ## Relationships
 

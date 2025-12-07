@@ -104,7 +104,7 @@ _Type: People_
 ### [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:24:20](/episodes/ep-vwG1juDCQZQ.md#^t-00-23-38)
-  > "... that. And I don't—I do not have any sympathy for Rob McCoy. I have no sympathy for Mikey McCoy. I have no sympathy for Tyler Boyer. I—yeah—I think telling the..."
+  > "... that. And I don't—I do not have any sympathy for Rob McCoy. I have no sympathy for Mikey McCoy. I have no sympathy for Tyler Bowyer. I—yeah—I think telling the..."
 
 ### [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
 

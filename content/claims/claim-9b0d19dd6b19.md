@@ -1,5 +1,5 @@
 ---
-title: "Erica Kirk... She's gonna fight, and she is going to fight o..."
+title: "Erika Kirk... She's gonna fight, and she is going to fight o..."
 claim_id: "claim-9b0d19dd6b19"
 episode: "2WEHTk0Xewg"
 type: "prediction"
@@ -10,7 +10,7 @@ type: "prediction"
 
 ## Claim
 
-> Erica Kirk... She's gonna fight, and she is going to fight on the good side
+> Erika Kirk... She's gonna fight, and she is going to fight on the good side
 
 ## Source
 
@@ -25,4 +25,4 @@ _This claim has not yet been verified._
 ## Follow-up
 
 **Status:** Open
-**Expected:** Observe Erica Kirk's future public actions or statements regarding the situation with Charlie Kirk
+**Expected:** Observe Erika Kirk's future public actions or statements regarding the situation with Charlie Kirk

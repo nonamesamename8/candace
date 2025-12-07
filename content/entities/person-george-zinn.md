@@ -4,11 +4,12 @@ id: "person-george-zinn"
 type: "PERSON"
 aliases:
   - "George"
+  - "George Zin"
 ---
 
 _Type: People_
 
-**Also known as:** George
+**Also known as:** George, George Zin
 
 ## Mentions
 

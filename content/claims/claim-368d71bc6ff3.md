@@ -1,5 +1,5 @@
 ---
-title: "Erica took a Catholic bishop with her to pray over [Charlie ..."
+title: "Erika took a Catholic bishop with her to pray over [Charlie ..."
 claim_id: "claim-368d71bc6ff3"
 episode: "ozWJz2spBcI"
 type: "factual"
@@ -10,7 +10,7 @@ type: "factual"
 
 ## Claim
 
-> Erica took a Catholic bishop with her to pray over [Charlie Kirk's] body on the day that he died.
+> Erika took a Catholic bishop with her to pray over [Charlie Kirk's] body on the day that he died.
 
 ## Source
 

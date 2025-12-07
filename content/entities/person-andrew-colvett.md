@@ -4,21 +4,23 @@ id: "person-andrew-colvett"
 type: "PERSON"
 aliases:
   - "Andrew"
-  - "Andrew Colvett"
-  - "Andrew Kolvet"
+  - "Andrew Colbert"
+  - "Andrew Collett"
+  - "Andrew Coltvet"
   - "Andrew Colvet"
+  - "Andrew Colvett"
 ---
 
 _Type: People_
 
-**Also known as:** Andrew, Andrew Colvett, Andrew Kolvet, Andrew Colvet
+**Also known as:** Andrew, Andrew Colbert, Andrew Collett, Andrew Coltvet, Andrew Colvet, Andrew Colvett
 
 ## Mentions
 
 ### [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
 
 - [00:13:03](/episodes/ep-5autG89PW6w.md#^t-00-12-28)
-  > "...essages are real." Update, says Community Notes: "Andrew Collett confirmed the screen grab was real." Of course it was real. I mean... I would have to be the dumbes..."
+  > "...essages are real." Update, says Community Notes: "Andrew Kolvet confirmed the screen grab was real." Of course it was real. I mean... I would have to be the dumbes..."
 
 ### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 
@@ -89,7 +91,7 @@ _Type: People_
 ### [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md)
 
 - [00:04:23](/episodes/ep-c5BcKF91iec.md#^t-00-03-48)
-  > "...ing to maybe be on a group chat: me, Tyler Boyer, Andrew Colvett, Stacey Sheridan even. If you're wondering who Stacey Sheridan is, by the way, she's the one who's ..."
+  > "...ing to maybe be on a group chat: me, Tyler Bowyer, Andrew Colvett, Stacey Sheridan even. If you're wondering who Stacey Sheridan is, by the way, she's the one who's ..."
 
 ### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
@@ -99,7 +101,7 @@ _Type: People_
 ### [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
 
 - [00:08:07](/episodes/ep-ja26iltROkM.md#^t-00-07-29)
-  > "...after was for the Turning Point USA spokesperson, Andrew Coltvet, to issue this statement as people were asking questions like, "Hey, how is that possible? How was ..."
+  > "...after was for the Turning Point USA spokesperson, Andrew Kolvet, to issue this statement as people were asking questions like, "Hey, how is that possible? How was ..."
 
 ### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 

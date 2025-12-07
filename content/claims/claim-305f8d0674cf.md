@@ -10,7 +10,7 @@ type: "factual"
 
 ## Claim
 
-> I spoke to that Turning Point individual... And the answer that I was given sounded more like what Andrew Colvett said. 'You know, I was emotional. I knew that Charlie Kirk was dead. And my instinct was to make sure that I secured the footage so that Erica would not have to see it again. Like, he didn't want Erica to have to relive it.'
+> I spoke to that Turning Point individual... And the answer that I was given sounded more like what Andrew Colvett said. 'You know, I was emotional. I knew that Charlie Kirk was dead. And my instinct was to make sure that I secured the footage so that Erika would not have to see it again. Like, he didn't want Erika to have to relive it.'
 
 ## Source
 

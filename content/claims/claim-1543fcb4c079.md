@@ -10,7 +10,7 @@ type: "factual"
 
 ## Claim
 
-> Many more times they were following and perhaps tracking Erica.
+> Many more times they were following and perhaps tracking Erika.
 
 ## Source
 

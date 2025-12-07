@@ -85,7 +85,7 @@ _Type: People_
 ### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:09:04](/episodes/ep-ozWJz2spBcI.md#^t-00-09-02)
-  > "...ts. And it is also a fact, which was presented by Megyn Kelly, that a few weeks before his death, Erica had a priest come over to pray over them when some witche..."
+  > "...ts. And it is also a fact, which was presented by Megyn Kelly, that a few weeks before his death, Erika had a priest come over to pray over them when some witche..."
 
 ### [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md)
 

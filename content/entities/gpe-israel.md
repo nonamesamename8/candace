@@ -141,9 +141,9 @@ _Type: Places_
 ### [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
 
 - [00:06:44](/episodes/ep-czVBmqZP6Ss.md#^t-00-06-16)
-  > "... my family, my son actually, on his 2019 visit to Israel, had lunch with him and his wife Erica. We're shattered first as human beings because a great human..."
+  > "... my family, my son actually, on his 2019 visit to Israel, had lunch with him and his wife Erika. We're shattered first as human beings because a great human..."
 - [00:07:19](/episodes/ep-czVBmqZP6Ss.md#^t-00-07-17)
-  > "... my family, my son actually, on his 2019 visit to Israel, had lunch with him and his wife Erica. We're shattered first as human beings because a great human..."
+  > "... my family, my son actually, on his 2019 visit to Israel, had lunch with him and his wife Erika. We're shattered first as human beings because a great human..."
 
 ### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 

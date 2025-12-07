@@ -21,7 +21,7 @@ _Type: Organizations_
 ### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [00:10:58](/episodes/ep-his-JBjlkh8.md#^t-00-10-16)
-  > "...e then obviously realized that they were tracking TPUSA Faith events and that many more times they were following and perhaps tracking Erica. You should be conce..."
+  > "...e then obviously realized that they were tracking TPUSA Faith events and that many more times they were following and perhaps tracking Erika. You should be conce..."
 
 ## Relationships
 

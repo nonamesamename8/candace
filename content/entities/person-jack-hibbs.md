@@ -2,9 +2,13 @@
 title: "Jack Hibbs"
 id: "person-jack-hibbs"
 type: "PERSON"
+aliases:
+  - "Pastor Jack Hibbs"
 ---
 
 _Type: People_
+
+**Also known as:** Pastor Jack Hibbs
 
 ## Mentions
 
