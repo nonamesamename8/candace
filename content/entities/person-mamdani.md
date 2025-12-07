@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
+### [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
 
 - [00:00:05](/episodes/ep-LATnak75Si0.md#^t-00-00-00)
   > "...Happy Wednesday for some people in New York City. Mamdani won. Okay, that's kind of the big story. The Republican establishment—they have a lot of excuses re..."

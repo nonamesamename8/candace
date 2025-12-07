@@ -12,7 +12,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:16:47](/episodes/ep-mKXdKV-OBog.md#^t-00-16-27)
   > "...shooting. So this is not a military campus, guys. Burton Hibbs—Butch—the brother of Pastor Jack Hibbs. Jack Hibbs phones up Charlie (Charlie Kirk); he's like, "He..."
@@ -22,4 +22,4 @@ _Type: People_
 ### Sibling Of
 
 - [Jack Hibbs](/entities/person-jack-hibbs.md)
-  - [ep-mKXdKV-OBog @ 00:16:47](/episodes/ep-mKXdKV-OBog.md#^t-00-16-27): "Burton Hibbs—Butch—the brother of Pastor Jack Hibbs"
+  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:16:47](/episodes/ep-mKXdKV-OBog.md#^t-00-16-27): "Burton Hibbs—Butch—the brother of Pastor Jack Hibbs"

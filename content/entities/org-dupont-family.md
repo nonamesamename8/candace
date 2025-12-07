@@ -13,7 +13,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:04:57](/episodes/ep-a-e7HC6SeK8.md#^t-00-04-18)
   > "...ed interests, particularly we were discussing the DuPont family, right? Mentioning the DuPont family led to a flurry of tips coming out of Delaware. It was incredi..."
@@ -24,14 +24,14 @@ _Type: Organizations_
 - [00:56:12](/episodes/ep-a-e7HC6SeK8.md#^t-00-55-43)
   > "...girl. My mouth was wide when you dropped the name DuPont. I cried tonight, I love you and I love Charlie from the get-go. A big part of my everyday was ripp..."
 
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [00:49:19](/episodes/ep-his-JBjlkh8.md#^t-00-49-01)
   > "...ecially as we have learned about Delaware and the DuPont-French connection, and the French Foreign Legion non-answer that we're getting, just gaslighting that we a..."
 - [00:49:40](/episodes/ep-his-JBjlkh8.md#^t-00-49-01)
   > "...ecially as we have learned about Delaware and the DuPont-French connection, and the French Foreign Legion non-answer that we're getting, just gaslighting th..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:29:28](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-13)
   > "...rs—excuse my terrible French—a French aristocrat. DuPont also has extreme ties to both the American and the French military. Obviously, we know that, as they are t..."
@@ -43,4 +43,4 @@ _Type: Organizations_
 ### Referenced By
 
 - [Lisa Dean](/entities/person-lisa-dean.md) **member of** this
-  - [ep-a-e7HC6SeK8 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#^t-00-10-27)
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#^t-00-10-27)

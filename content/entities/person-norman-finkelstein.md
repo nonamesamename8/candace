@@ -12,7 +12,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:39:19](/episodes/ep-Qt0VHV-POCg.md#^t-00-38-57)
   > "...rsation which we will be releasing on Friday with Norman Finkelstein. Norman Finkelstein was probably the single greatest contributor to me being sort of just smacked i..."
@@ -22,4 +22,4 @@ _Type: People_
 ### Referenced By
 
 - [Candace Owens](/entities/person-candace-owens.md) **interviewed** this
-  - [ep-Qt0VHV-POCg @ 00:39:19](/episodes/ep-Qt0VHV-POCg.md#^t-00-38-57)
+  - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:39:19](/episodes/ep-Qt0VHV-POCg.md#^t-00-38-57)

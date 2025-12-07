@@ -13,12 +13,12 @@ _Type: People_
 
 ## Mentions
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:30:22](/episodes/ep-a-e7HC6SeK8.md#^t-00-30-00)
   > "...essaged me and said, oh, you figured it out. It's Pierre du Pont, question mark exclamation point, question mark exclamation point. I had mentioned Pierre du Pont o..."
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:29:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-13)
   > "...American family du Pont, which was descended from Pierre Samuel du Pont de Nemours—excuse my terrible French—a French aristocrat. DuPont also has extreme ties to both the American an..."

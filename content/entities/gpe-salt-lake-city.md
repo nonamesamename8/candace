@@ -8,12 +8,12 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
+### [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:19:25](/episodes/ep-2WEHTk0Xewg.md#^t-00-18-53)
   > "...Okay. And then just seven minutes later, the FBI— Salt Lake City—drops static images of the alleged shooter walking up the stairs. Okay, so now we can see on our ti..."
 
-### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
+### [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:12:50](/episodes/ep-JQjCAsfoXEE.md#^t-00-12-33)
   > "...n I learned that Charlie (Charlie Kirk) flew into Salt Lake City that morning. Because why didn't he fly into the much closer Provo airport? Now, ostensibly, the an..."

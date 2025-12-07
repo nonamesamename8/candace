@@ -8,7 +8,7 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
+### [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:01:57](/episodes/ep-iHav0PPzUz8.md#^t-00-01-22)
   > "...t? And despite the fact that they were heading to Montana, they decided to make an unusual dip at 9:16 a.m. Again, this is in Utah time. Okay, we're doing al..."

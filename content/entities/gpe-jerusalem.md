@@ -8,7 +8,7 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
+### [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:25:39](/episodes/ep-mKXdKV-OBog.md#^t-00-25-28)
   > "...ael—which was David Friedman—took to the stage in Jerusalem to perform "Sweet Home Alabama." And by "Sweet Home Alabama," I mean "Sweet Home Jerusalem" in Hebr..."

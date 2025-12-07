@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
+### [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
 
 - [00:15:42](/episodes/ep-7RLtGgkTh9o.md#^t-00-15-24)
   > "...e also heard that Lou has connections and ties to Ghislaine Maxwell and Epstein, et cetera." I'm going to say all of this is alleged—obviously this is an email tip. I ..."

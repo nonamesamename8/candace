@@ -8,7 +8,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
+### [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
 
 - [00:37:55](/episodes/ep-his-JBjlkh8.md#^t-00-37-21)
   > "...Armed Forces. It's headquarters for the Army, the Navy, and the Air Force. And recently, because the American government wants the world to no longer take..."

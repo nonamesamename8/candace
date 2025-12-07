@@ -8,7 +8,7 @@ _Type: People_
 
 ## Mentions
 
-### [ep-_dRaEO47-co](/episodes/ep-_dRaEO47-co.md)
+### [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
 
 - [00:07:09](/episodes/ep-_dRaEO47-co.md#^t-00-07-08)
   > "...one. Actually, I think for that particular event, Dave Rubin hopped on, and the rest was future. For two years straight, Charlie (Charlie Kirk) and I flew aroun..."

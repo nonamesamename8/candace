@@ -12,7 +12,7 @@ _Type: Organizations_
 
 ## Mentions
 
-### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
+### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:34:34](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-53)
   > "...aperwork in your lawsuit, okay? The rules on that vary state by state. We then learned that Brigitte's lawyers in my lawsuit are directly across the str..."
@@ -22,4 +22,4 @@ _Type: Organizations_
 ### Referenced By
 
 - [Incyte](/entities/org-incyte.md) **affiliated with** this
-  - [ep-tB5SXXmd9vU @ 00:34:23](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-53)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:23](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-53)
