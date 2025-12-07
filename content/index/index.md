@@ -2,6 +2,8 @@
 
 _Total claims: 1141_
 
+> **Note:** Claim verification is performed using AI-powered web search. Results should be independently verified for critical decisions.
+
 <input type="radio" id="tab-type" name="claims-tab" checked class="tab-radio">
 <input type="radio" id="tab-veracity" name="claims-tab" class="tab-radio">
 
@@ -93,6 +95,9 @@ _Verifiable statements about events, dates, people, or facts_
 > he was texting people saying they are gonna kill me. On the same day that he's on this Zoom call—this is a fact—this night Zoom call, as Josh says it was at night, ... that same day, he's texting people saying they are going to kill me.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Charlie Kirk death: Josh Hammer slams Candace Owens over 'Jewish donor' row, drops TPUSA boss's full texts | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/charlie-kirk-death-josh-hammer-slams-candace-owens-over-jewish-donor-row-drops-tpusa-bosss-full-texts-101760037740362.html)
+**Verification Notes:** Multiple news articles, including this one from Hindustan Times, report that Josh Hammer released full text messages from a group chat involving Charlie Kirk to refute Candace Owens' claims, confirming a Zoom call or long talk the night before Kirk's death. However, no reliable sources quote or confirm any specific text from Kirk saying 'they are gonna kill me' on the same day as the Zoom call. The claim mixes verifiable elements (e.g., the existence of a night call and released texts about frustration with donors) with an unsubstantiated allegation about the 'kill me' text and its timing. To verify, access to the complete original text message screenshots, timestamps, or an official investigation report (e.g., via law enforcement or court documents) would be required, as news reports do not provide this detail.
 
 ### [ep-2WEHTk0Xewg @ 00:07:26](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
 
@@ -108,6 +113,9 @@ _Verifiable statements about events, dates, people, or facts_
 > Charlie Kirk was shot at 12:23 p.m.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk assassination: Timeline of Utah campus shooting details attack, manhunt for suspect](https://www.foxnews.com/us/charlie-kirk-assassination-timeline-utah-campus-shooting-details-attack-manhunt-suspect)
+**Verification Notes:** Multiple established news outlets, including Fox News, ABC News, NPR, and CNN, provide detailed timelines of the Charlie Kirk shooting at Utah Valley University on September 10, 2025. These sources consistently report the shooting occurring around midday, with specific details aligning on 12:23 p.m. as the time of the incident, supported by official updates and visual timelines.
 
 ### [ep-2WEHTk0Xewg @ 00:07:35](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
 
@@ -156,6 +164,9 @@ _Verifiable statements about events, dates, people, or facts_
 > Tyler Robinson entered the campus at 8:07 a.m. wearing a maroon t-shirt and shorts
 
 **Type:** Factual
+**Veracity:** True (medium)
+**Source:** [Fact Check: Tyler Robinson Was NOT Wearing A Trump Shirt In Photo -- The Original Image Of Kirk Shooting Suspect Was Edited](https://www.yahoo.com/news/articles/fact-check-tyler-robinson-not-063837838.html)
+**Verification Notes:** Reliable fact-check sources confirm a real photo exists of Tyler Robinson wearing a plain shirt (described in multiple reports as maroon) and shorts, taken in the context of his arrival on campus the morning of the incident. Posts found on X align with the 8:07 a.m. timeline and outfit description, supporting the official narrative. However, confidence is medium due to some online debate questioning if it's him, though primary news sources treat the photo as authentic and of Robinson.
 
 ### [ep-2WEHTk0Xewg @ 00:15:17](/episodes/ep-2WEHTk0Xewg.md#^t-00-15-06)
 
@@ -1252,18 +1263,27 @@ _Verifiable statements about events, dates, people, or facts_
 > Bill Ackman gave $1.75 million to stop Mamdani.
 
 **Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Pro-Israel Billionaire Who Led Mamdani Scaremongering Now Offers to Help NYC's Next Mayor | Common Dreams](https://www.commondreams.org/news/ackman-congratulates-mamdani)
+**Verification Notes:** Initial reports from October 2025 indicate Bill Ackman donated $1 million to Defend NYC, a super PAC opposing Mamdani. A later November 2025 report states he 'dumped nearly $2 million' into stopping Mamdani, which is close to but not exactly $1.75 million. The claim's specific amount is not precisely matched across sources, making it mixed with the higher figure supported but not exact.
 
 ### [ep-LATnak75Si0 @ 00:10:30](/episodes/ep-LATnak75Si0.md#^t-00-09-44)
 
 > Michael Bloomberg gave $8.3 million to a Cuomo-affiliated super PAC to stop Mamdani.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Bloomberg pours more cash into Cuomo super PAC, bringing his total contribution to $8.3M - POLITICO](https://www.politico.com/news/2025/06/18/bloomberg-donation-cuomo-super-pac-00413966)
+**Verification Notes:** Multiple reliable sources, including POLITICO and The New York Times, confirm that Michael Bloomberg donated a total of $8.3 million to a super PAC affiliated with Andrew Cuomo in the 2025 New York City mayoral race, with the explicit aim of supporting Cuomo and opposing Zohran Mamdani. Reports detail incremental donations adding up to this amount, and the super PAC's activities were focused on anti-Mamdani efforts.
 
 ### [ep-LATnak75Si0 @ 00:10:41](/episodes/ep-LATnak75Si0.md#^t-00-10-30)
 
 > Airbnb co-founder Joe Gebbia gave $3.1 million to stop Mamdani.
 
 **Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Airbnb co-founder and Trump design official gives $2 million in support of Cuomo](https://www.nydailynews.com/2025/10/16/airbnb-co-founder-and-trump-official-gives-2-million-in-support-of-cuomo/)
+**Verification Notes:** Reliable news sources, including the New York Daily News and Yahoo News, confirm Joe Gebbia donated $2 million to super PACs supporting Andrew Cuomo in opposition to Zohran Mamdani in the 2025 NYC mayoral race. Posts found on X from journalists and Mamdani himself reference donations of $2 million or $3 million to anti-Mamdani efforts. No sources confirm the exact figure of $3.1 million, making the specific amount inaccurate, but the claim of a significant donation to stop Mamdani is supported by evidence.
 
 ### [ep-LATnak75Si0 @ 00:10:47](/episodes/ep-LATnak75Si0.md#^t-00-10-30)
 
@@ -1294,12 +1314,18 @@ _Verifiable statements about events, dates, people, or facts_
 > Bob Shulman took $2 million away from Charlie Kirk because he let Tucker Carlson hit the stage.
 
 **Type:** Factual
+**Veracity:** True (medium)
+**Source:** [Top pro-Israel TPUSA donor terminated support for Kirk in days before death, sources say - The Grayzone](https://thegrayzone.com/2025/09/22/israel-tpusa-donor-terminated-kirk/)
+**Verification Notes:** The article reports that ultra-Zionist billionaire Robert Shillman (likely a reference to 'Bob Shulman,' possibly a misspelling) ended funding for Turning Point USA due to Charlie Kirk's increasingly critical views on Israel. Additional posts found on X and other web sources, including leaks from group chat messages shared by Candace Owens, specify that Shillman withdrew a $2 million pledge specifically because Kirk refused to cancel Tucker Carlson from appearing at events. This aligns with the claim's details, though the exact name 'Shulman' appears to be a variant or error for 'Shillman.' Evidence is based on investigative reporting and secondary sources, with no direct primary document like an official statement found.
 
 ### [ep-LATnak75Si0 @ 00:31:39](/episodes/ep-LATnak75Si0.md#^t-00-31-13)
 
 > Charlie Kirk was never rendered any first aid immediately; security team did not administer first aid, no gauze, no hand on wound.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, The Guardian, ABC News, BBC, and FBI releases, detail the shooting event, footage availability, security aspects, and timeline, but none directly address whether immediate first aid was administered by the security team, such as applying gauze or pressure to the wound. The widow's thanks to first responders in BBC reporting implies some response occurred, but this likely refers to emergency services rather than immediate security actions. To verify, access to the full multi-angle footage (as referenced in sources like The Guardian and ABC News visual timeline) or official incident reports from UVU security, first responders, or autopsy details would be required; these could be obtained via FOIA requests to the FBI or local authorities.
 
 ### [ep-LATnak75Si0 @ 00:32:30](/episodes/ep-LATnak75Si0.md#^t-00-31-55)
 
@@ -1416,6 +1442,9 @@ _Verifiable statements about events, dates, people, or facts_
 > FBI is putting an absurd amount of pressure right now on the authorities in Utah and also the rest of the government in Utah to come out and say that the Charlie Kirk case is closed
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Utah Valley Shooting Updates | Federal Bureau of Investigation](https://www.fbi.gov/news/press-releases/utah-valley-shooting-updates)
+**Verification Notes:** No reliable primary sources, such as official FBI statements, Utah government documents, or established news outlets (e.g., ABC News, The New York Times, BBC), confirm or refute the specific claim of FBI exerting pressure on Utah authorities to declare the Charlie Kirk assassination case closed as a lone gunman incident. Web searches and X posts reveal official narratives describing the suspect Tyler James Robinson as acting alone, with FBI collaboration in the investigation, but only unsubstantiated conspiracy theories on X suggest cover-ups or undue influence. Verification would require internal communications, such as leaked emails, FOIA-requested FBI or Utah state documents, or whistleblower testimony from involved authorities to confirm any pressure.
 
 ### [ep-QZWSsq8ZWzw @ 00:01:35](/episodes/ep-QZWSsq8ZWzw.md#^t-00-01-30)
 
@@ -1428,6 +1457,9 @@ _Verifiable statements about events, dates, people, or facts_
 > FBI wants Charlie Kirk's assassination to be officially ruled lone gunman
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** No reliable primary sources, such as official FBI statements, Utah government documents, or established news outlets (e.g., CNN, PBS, NPR), confirm or mention any FBI pressure on Utah authorities to rule the assassination as a lone gunman act or to close the case. Official reports and news articles describe the incident as perpetrated by a single suspect, Tyler James Robinson, who was charged with aggravated murder, with authorities expressing confidence he acted alone (e.g., statements from Utah Gov. Spencer Cox). The claim originates from an anonymous 'authoritative source' in the podcast, which mixes verifiable facts (e.g., the suspect's name and charges) with unverified interpretation of motives. To verify, access to internal FBI or Utah law enforcement communications, such as emails or memos via FOIA requests, or public statements from involved officials would be needed. Posts on X reflect public sentiment and conspiracy speculation but do not provide conclusive evidence.
 
 ### [ep-QZWSsq8ZWzw @ 00:02:30](/episodes/ep-QZWSsq8ZWzw.md#^t-00-02-13)
 
@@ -1452,6 +1484,9 @@ _Verifiable statements about events, dates, people, or facts_
 > There is absolutely no video which shows Tyler Robinson firing the weapon or even taking aim at Charlie Kirk
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** No reliable sources, including Wikipedia, CNN, ABC News, or other major outlets, confirm or deny the existence of video footage showing Tyler Robinson firing the weapon or taking aim at Charlie Kirk. Reports detail CCTV footage of Robinson before and after the incident, but not the act itself. The case is ongoing with a trial scheduled for 2026, and detailed evidence (such as potential surveillance videos) has not been publicly disclosed. Verification would require access to court documents, prosecution evidence lists, official police reports, or FOIA requests to the FBI or Utah authorities for any non-public video evidence.
 
 ### [ep-QZWSsq8ZWzw @ 00:03:25](/episodes/ep-QZWSsq8ZWzw.md#^t-00-02-58)
 
@@ -1506,6 +1541,9 @@ _Verifiable statements about events, dates, people, or facts_
 > Bullet was too fragmented to match Tyler's rifle
 
 **Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Charlie Kirk shooting suspect referenced fascism and memes on bullets, officials say](https://www.nbcnews.com/tech/internet/charlie-kirk-shooting-suspect-fascism-memes-bullets-tyler-robinson-rcna230950)
+**Verification Notes:** No reliable primary sources, such as official forensic reports, court documents, or statements from law enforcement, were found detailing the condition of the bullet or any ballistic matching to Tyler Robinson's rifle. Available news articles discuss the suspect and ammunition but do not address bullet fragmentation or matching. Social media posts on X mention conflicting claims (e.g., some alleging a match, others questioning evidence), but these are not conclusive. Verification would require access to autopsy reports, ballistic analysis from the FBI or ATF, or court filings from the ongoing case, potentially obtainable via FOIA requests or trial proceedings.
 
 ### [ep-QZWSsq8ZWzw @ 00:05:35](/episodes/ep-QZWSsq8ZWzw.md#^t-00-05-00)
 
@@ -1518,6 +1556,9 @@ _Verifiable statements about events, dates, people, or facts_
 > Tyler Robinson has not confessed to anything
 
 **Type:** Factual
+**Veracity:** False (medium)
+**Source:** [Charlie Kirk: Tyler Robinson never went to Utah Valley University, disliked gun? Stunning twist in Charlie Kirk assassination plot - The Economic Times](https://economictimes.indiatimes.com/news/international/global-trends/us-news-candace-owens-tyler-robinson-never-went-to-utah-valley-university-disliked-gun-new-bombshell-in-charlie-kirk-assassination/articleshow/124248415.cms)
+**Verification Notes:** Multiple news sources and posts on X report that Tyler Robinson confessed or implied involvement to family members, leading to his surrender, as detailed in official affidavits and statements from Utah authorities. While he has not confessed to authorities directly and is not cooperating, the claim that he has not confessed 'to anything' is contradicted by these accounts of confessions to family.
 
 ### [ep-QZWSsq8ZWzw @ 00:05:50](/episodes/ep-QZWSsq8ZWzw.md#^t-00-05-35)
 
@@ -2299,6 +2340,9 @@ _Verifiable statements about events, dates, people, or facts_
 > Charlie Kirk was taken to Timpanogos Regional Hospital... a smaller regional hospital that was a little farther away... trauma III center.
 
 **Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, ABC News, Reuters, AP News, and local outlets like Lehi Free Press, confirm Charlie Kirk was rushed to and pronounced dead at Timpanogos Regional Hospital in Orem, Utah, following the shooting at Utah Valley University. This supports the claim that he was taken to Timpanogos, described as a smaller regional hospital. However, the claim that it was 'a little farther away' and a 'trauma III center' is mixed: posts on X and some reports suggest Utah Valley Hospital (a Level II trauma center) was closer and better equipped for severe trauma, indicating Timpanogos may indeed be farther and less equipped (potentially Level III), but official news sources do not explicitly confirm or refute the distance or exact trauma level comparison, mixing verifiable facts with interpretive elements.
 
 ### [ep-YA1FxrDWNIo @ 00:31:35](/episodes/ep-YA1FxrDWNIo.md#^t-00-31-28)
 
@@ -2311,6 +2355,9 @@ _Verifiable statements about events, dates, people, or facts_
 > Kash Patel... fired the chief of the Utah bureau... replaced her with Robert Bowles in August.
 
 **Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Kash Patel questions grow as it's revealed he gutted Utah FBI leadership before Charlie Kirk assassination | Daily Mail Online](https://www.dailymail.co.uk/news/article-15089759/Kash-Patel-Utah-FBI-leadership-Charlie-Kirk-assassination.html)
+**Verification Notes:** Reliable sources, including the Daily Mail article and posts on X, confirm that Kash Patel fired the chief of the Utah FBI bureau (Mehtab Syed, a woman) in August 2025, a month before the Charlie Kirk assassination in September. Multiple news outlets and X posts support the firing and gutting of Utah FBI leadership. However, no sources mention the replacement being specifically Robert Bowles, making that part of the claim unverifiable without official FBI personnel records or announcements (e.g., via FOIA request or FBI press releases).
 
 ### [ep-YA1FxrDWNIo @ 00:36:10](/episodes/ep-YA1FxrDWNIo.md#^t-00-35-28)
 
@@ -3605,6 +3652,9 @@ _Verifiable statements about events, dates, people, or facts_
 > The judge that is in the case that is overseeing the case against Tyler Robinson is Judge Tony F. Graff Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [JUDGE TONY F. GRAF, JR.](https://www.utcourts.gov/en/about/courts/judges-bios/district-courts/fourth-district-court/tony-f-graf-jr.html)
+**Verification Notes:** Multiple reliable sources, including the official Utah Courts website, Utah State Bar press release, and news articles from outlets like Utah Policy and The Salt Lake Tribune, confirm that Judge Tony F. Graf Jr. (noting minor spelling variation from 'Graff' in the claim) was appointed to the Fourth District Court in May 2025 by Governor Spencer Cox. Additional sources explicitly link him to presiding over the case against Tyler Robinson in the Charlie Kirk matter.
 
 ### [ep-adJ4LNGp84I @ 00:06:44](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18)
 
@@ -3617,6 +3667,9 @@ _Verifiable statements about events, dates, people, or facts_
 > Charlie Kirk did indeed have an autopsy.
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk autopsy: When will a detailed report be released after Utah shooting? What we know | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/charlie-kirk-autopsy-when-will-a-detailed-report-be-released-after-utah-shooting-what-we-know-101757887508612.html)
+**Verification Notes:** Multiple reliable sources, including Hindustan Times, Wikipedia, and fact-checking sites like Factually.co, confirm that an autopsy was performed on Charlie Kirk following his shooting death on September 10, 2025, as required by Utah law for homicides. While the full report remains private and unreleased publicly, the fact of the autopsy's occurrence is consistently supported across news outlets and official contexts, refuting rumors of no autopsy.
 
 ### [ep-adJ4LNGp84I @ 00:11:30](/episodes/ep-adJ4LNGp84I.md#^t-00-11-20)
 
@@ -4170,6 +4223,9 @@ _Verifiable statements about events, dates, people, or facts_
 > People at Turning Point USA are in possession of text messages the day before Charlie Kirk died, in which he wrote out to you—and not just to people that work at Turning Point USA, but also security guards—that he thought that they were going to kill him tomorrow
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Did Charlie Kirk predict his own murder? Candace Owens reveals eerie 'prophecy' text messages from years before his death - The Times of India](https://timesofindia.indiatimes.com/world/us/did-charlie-kirk-predict-his-own-murder-candace-owens-reveals-eerie-prophecy-text-messages-from-years-before-his-death/articleshow/125024848.cms)
+**Verification Notes:** No reliable primary sources, such as news articles from established outlets or official statements from Turning Point USA, confirm the existence of text messages from Charlie Kirk sent the day before his death (September 9, 2025) explicitly stating that 'they' were going to kill him tomorrow, sent to TPUSA staff and security guards. Available reports discuss other leaked texts (e.g., about Israel positions 48 hours prior or prophecies from years earlier), but none match this specific claim. Posts on X echo Candace Owens' assertions but are inconclusive and not factual evidence. Verification would require release of the alleged private text messages, court documents from the ongoing Utah prosecution, or a FOIA request for FBI investigative records related to Kirk's assassination on September 10, 2025.
 
 ### [ep-his-JBjlkh8 @ 00:12:32](/episodes/ep-his-JBjlkh8.md#^t-00-12-21)
 
@@ -4320,6 +4376,9 @@ _Verifiable statements about events, dates, people, or facts_
 > an hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar... at 6:45 p.m. in French time. That's 10:45 a.m. in Utah time
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [N/A](N/A)
+**Verification Notes:** No reliable primary sources, such as news articles from established outlets, official government statements, or Macron's public calendar documents, were found confirming a phone call between Donald Trump and Emmanuel Macron on September 10, 2025, at 6:45 p.m. French time (10:45 a.m. Utah time). Posts on X mention this detail and reference public records, but X posts are not conclusive evidence and may contain unverified claims. Additionally, the exact time of Charlie Kirk's assassination is not detailed in reliable sources, making the '1.5 hours before' aspect impossible to confirm. Verification would require access to Emmanuel Macron's official public calendar for September 10, 2025, or FOIA-requested records from French or U.S. government sources documenting the call, as well as precise timestamps from police reports or news archives on the assassination timing.
 
 ### [ep-his-JBjlkh8 @ 00:49:54](/episodes/ep-his-JBjlkh8.md#^t-00-49-40)
 
@@ -4705,12 +4764,18 @@ _Verifiable statements about events, dates, people, or facts_
 > The yellow plane with tail number SUBTT stopped for just one hour in Minot, North Dakota on September 4th before making its way to Provo.
 
 **Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [N/A](N/A)
+**Verification Notes:** No reliable sources, including news articles, official flight records, or government statements, were found mentioning a yellow plane with tail number SUBTT making a one-hour stopover in Minot, North Dakota, on September 4th (assuming 2025 based on context) before proceeding to Provo. Searches across web results and X posts yielded information on unrelated incidents, such as a July 2025 near-miss at Minot Airport and Egyptian jets in Provo on September 10th, but nothing matching the specific claim. Verification would require access to FAA flight logs, FlightAware or ADS-B tracking data, or official records from Minot International Airport/Minot AFB via FOIA request, which are not publicly available in the searched sources.
 
 ### [ep-mKXdKV-OBog @ 00:07:04](/episodes/ep-mKXdKV-OBog.md#^t-00-06-30)
 
 > Kash Patel ended his press conference on September 12th with quote, 'Lastly, to my friend Charlie Kirk, rest now, my brother. We have the watch, and I'll see you in Valhalla.'
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [FBI Director Patel to Charlie Kirk: "See You in Valhalla" | Video | C-SPAN.org](https://www.c-span.org/clip/news-conference/fbi-director-patel-to-charlie-kirk-see-you-in-valhalla/5171858)
+**Verification Notes:** C-SPAN provides video evidence of Kash Patel ending his September 12, 2025, press conference with the tribute: 'Rest now, brother. We have the watch, and I will see you in Valhalla.' This is corroborated by multiple reliable sources, including FBI.gov transcripts, YouTube clips, and articles from The Guardian and Times of India, all confirming the quote and date in the context of a press conference on Charlie Kirk's killing.
 
 ### [ep-mKXdKV-OBog @ 00:08:11](/episodes/ep-mKXdKV-OBog.md#^t-00-07-51)
 
@@ -4807,12 +4872,18 @@ _Verifiable statements about events, dates, people, or facts_
 > This is an actual group chat which happened two days before Charlie Kirk was assassinated. There were nine people in total on this chat, including Charlie Kirk and Rob McCoy.
 
 **Type:** Factual
+**Veracity:** Unverifiable (medium)
+**Source:** [After Charlie Kirk’s Assassination, a Bumper Crop of Conspiracy Theories](https://www.nytimes.com/2025/09/29/us/charlie-kirk-assassination-conspiracy-theories.html)
+**Verification Notes:** Multiple news sources, including The New York Times, Axios, and The Guardian, report on Candace Owens promoting conspiracy theories about Charlie Kirk's assassination, including claims of screenshots from group chats, but none provide independent verification of the screenshot's authenticity. Posts on X discuss Owens sharing the screenshot, but X content is not conclusive evidence. The claim mixes verifiable elements (e.g., the assassination date around September 10, 2025, based on timeline in sources) with unverified ones (the chat's existence and content). Verification would require statements from chat participants (e.g., Rob McCoy or others named), digital forensic analysis of the screenshot, or official investigation records from law enforcement, such as FBI documents obtained via FOIA.
 
 ### [ep-ozWJz2spBcI @ 00:16:50](/episodes/ep-ozWJz2spBcI.md#^t-00-16-33)
 
 > Charlie Kirk writes in this group chat, 'Just lost another huge Jewish donor—two million a year—because we won't cancel Tucker Carlson. I'm thinking of inviting Candace Owens.' [Followed by] 'Jewish donors play into all of the stereotypes. I cannot and will not be bullied like this, leaving me no choice but to leave the pro-Israel cause.'
 
 **Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk leaked text confirms he was livid about 'bullying' Jewish donors: 'I'm leaving pro-Israel cause' | Daily Mail Online](https://www.dailymail.co.uk/news/article-15171321/Charlie-Kirk-bullying-Jewish-Israel-donors.html)
+**Verification Notes:** Multiple established news outlets, including Daily Mail, Haaretz, Jewish Telegraphic Agency, and Jerusalem Post, report on leaked text messages from Charlie Kirk matching the quoted content, expressing frustration with Jewish donors over not canceling Tucker Carlson and stating he is leaving the pro-Israel cause. Turning Point USA spokesman Andrew Kolvet confirmed the authenticity of the screenshots on the 'Charlie Kirk Show,' supporting the claim's accuracy.
 
 ### [ep-ozWJz2spBcI @ 00:17:50](/episodes/ep-ozWJz2spBcI.md#^t-00-17-17)
 
@@ -7544,7 +7615,7 @@ _Forward-looking statements about future events_
 <div class="tab-content tab-content-veracity">
 
 <details open>
-<summary>False (18)</summary>
+<summary>False (19)</summary>
 
 _Claims verified as inaccurate_
 
@@ -7574,6 +7645,15 @@ _Claims verified as inaccurate_
 **Veracity:** False (high)
 **Source:** [Turning Point Usa Inc - Nonprofit Explorer - ProPublica](https://projects.propublica.org/nonprofits/organizations/800835023)
 **Verification Notes:** ProPublica provides access to Turning Point USA's historical IRS Form 990 filings, which show a fiscal year ending June 30 (confirmed by posts found on X referencing filings like the one covering July 1, 2020, to June 30, 2021). Per IRS rules, for a fiscal year ending June 30, the original Form 990 due date is November 15 of the same year, and filing for a 6-month extension moves the deadline to May 15 of the following year. The claim incorrectly states that the deadline with an extension is November 15, which is actually the original deadline without extension. No evidence was found of a change in fiscal year to make November 15 the extended date.
+
+### [ep-QZWSsq8ZWzw @ 00:05:50](/episodes/ep-QZWSsq8ZWzw.md#^t-00-05-35)
+
+> Tyler Robinson has not confessed to anything
+
+**Type:** Factual
+**Veracity:** False (medium)
+**Source:** [Charlie Kirk: Tyler Robinson never went to Utah Valley University, disliked gun? Stunning twist in Charlie Kirk assassination plot - The Economic Times](https://economictimes.indiatimes.com/news/international/global-trends/us-news-candace-owens-tyler-robinson-never-went-to-utah-valley-university-disliked-gun-new-bombshell-in-charlie-kirk-assassination/articleshow/124248415.cms)
+**Verification Notes:** Multiple news sources and posts on X report that Tyler Robinson confessed or implied involvement to family members, leading to his surrender, as detailed in official affidavits and statements from Utah authorities. While he has not confessed to authorities directly and is not cooperating, the claim that he has not confessed 'to anything' is contradicted by these accounts of confessions to family.
 
 ### [ep-SKGUzGHymcI @ 00:11:00](/episodes/ep-SKGUzGHymcI.md#^t-00-10-15)
 
@@ -7714,7 +7794,7 @@ _Claims verified as inaccurate_
 </details>
 
 <details open>
-<summary>Mixed (18)</summary>
+<summary>Mixed (22)</summary>
 
 _Claims that are partially true or require context_
 
@@ -7735,6 +7815,42 @@ _Claims that are partially true or require context_
 **Veracity:** Mixed (medium)
 **Source:** [Meet the Chernicks](https://mondoweiss.net/2010/09/meet-the-chernicks/)
 **Verification Notes:** The claim that Joyce Chernick is married to Aubrey Chernick and that they fund pro-Israel causes through the David Horowitz Freedom Center is supported by reliable sources, including articles detailing their philanthropic activities and connections to conservative, pro-Israel organizations. However, the specific assertion that Joyce Chernick yelled and withdrew a $1 million donation from Turning Point USA due to Tucker Carlson's speech is primarily based on Candace Owens' statements and echoed in social media posts on X, but lacks confirmation from primary sources like official statements, TPUSA records, or established news outlets. Verification would require access to internal TPUSA donor communications, leaked audio footage mentioned in the podcast, or public statements from the Chernicks or TPUSA.
+
+### [ep-LATnak75Si0 @ 00:10:22](/episodes/ep-LATnak75Si0.md#^t-00-09-44)
+
+> Bill Ackman gave $1.75 million to stop Mamdani.
+
+**Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Pro-Israel Billionaire Who Led Mamdani Scaremongering Now Offers to Help NYC's Next Mayor | Common Dreams](https://www.commondreams.org/news/ackman-congratulates-mamdani)
+**Verification Notes:** Initial reports from October 2025 indicate Bill Ackman donated $1 million to Defend NYC, a super PAC opposing Mamdani. A later November 2025 report states he 'dumped nearly $2 million' into stopping Mamdani, which is close to but not exactly $1.75 million. The claim's specific amount is not precisely matched across sources, making it mixed with the higher figure supported but not exact.
+
+### [ep-LATnak75Si0 @ 00:10:41](/episodes/ep-LATnak75Si0.md#^t-00-10-30)
+
+> Airbnb co-founder Joe Gebbia gave $3.1 million to stop Mamdani.
+
+**Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Airbnb co-founder and Trump design official gives $2 million in support of Cuomo](https://www.nydailynews.com/2025/10/16/airbnb-co-founder-and-trump-official-gives-2-million-in-support-of-cuomo/)
+**Verification Notes:** Reliable news sources, including the New York Daily News and Yahoo News, confirm Joe Gebbia donated $2 million to super PACs supporting Andrew Cuomo in opposition to Zohran Mamdani in the 2025 NYC mayoral race. Posts found on X from journalists and Mamdani himself reference donations of $2 million or $3 million to anti-Mamdani efforts. No sources confirm the exact figure of $3.1 million, making the specific amount inaccurate, but the claim of a significant donation to stop Mamdani is supported by evidence.
+
+### [ep-YA1FxrDWNIo @ 00:30:44](/episodes/ep-YA1FxrDWNIo.md#^t-00-30-08)
+
+> Charlie Kirk was taken to Timpanogos Regional Hospital... a smaller regional hospital that was a little farther away... trauma III center.
+
+**Type:** Factual
+**Veracity:** Mixed (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, ABC News, Reuters, AP News, and local outlets like Lehi Free Press, confirm Charlie Kirk was rushed to and pronounced dead at Timpanogos Regional Hospital in Orem, Utah, following the shooting at Utah Valley University. This supports the claim that he was taken to Timpanogos, described as a smaller regional hospital. However, the claim that it was 'a little farther away' and a 'trauma III center' is mixed: posts on X and some reports suggest Utah Valley Hospital (a Level II trauma center) was closer and better equipped for severe trauma, indicating Timpanogos may indeed be farther and less equipped (potentially Level III), but official news sources do not explicitly confirm or refute the distance or exact trauma level comparison, mixing verifiable facts with interpretive elements.
+
+### [ep-YA1FxrDWNIo @ 00:32:13](/episodes/ep-YA1FxrDWNIo.md#^t-00-31-28)
+
+> Kash Patel... fired the chief of the Utah bureau... replaced her with Robert Bowles in August.
+
+**Type:** Factual
+**Veracity:** Mixed (medium)
+**Source:** [Kash Patel questions grow as it's revealed he gutted Utah FBI leadership before Charlie Kirk assassination | Daily Mail Online](https://www.dailymail.co.uk/news/article-15089759/Kash-Patel-Utah-FBI-leadership-Charlie-Kirk-assassination.html)
+**Verification Notes:** Reliable sources, including the Daily Mail article and posts on X, confirm that Kash Patel fired the chief of the Utah FBI bureau (Mehtab Syed, a woman) in August 2025, a month before the Charlie Kirk assassination in September. Multiple news outlets and X posts support the firing and gutting of Utah FBI leadership. However, no sources mention the replacement being specifically Robert Bowles, making that part of the claim unverifiable without official FBI personnel records or announcements (e.g., via FOIA request or FBI press releases).
 
 ### [ep-YFmRH8p5lt0 @ 00:14:15](/episodes/ep-YFmRH8p5lt0.md#^t-00-13-53)
 
@@ -7884,7 +8000,7 @@ _Claims that are partially true or require context_
 </details>
 
 <details open>
-<summary>True (49)</summary>
+<summary>True (57)</summary>
 
 _Claims verified as accurate_
 
@@ -7896,6 +8012,24 @@ _Claims verified as accurate_
 **Veracity:** True (high)
 **Source:** [33 hours: A timeline of Charlie Kirk's shooting and the search for a suspect](https://www.npr.org/2025/09/12/nx-s1-5539285/charlie-kirk-shooting-manhunt-suspect-custody-timeline)
 **Verification Notes:** Multiple established news outlets, including NPR, Fox News, ABC News, and CNN, provide detailed timelines of the September 10, 2025, shooting at Utah Valley University, confirming that Charlie Kirk was shot at approximately 12:23 p.m. MT. This specific time is consistently reported in official updates from the FBI and law enforcement, aligning with eyewitness accounts and security footage references in the timelines.
+
+### [ep-2WEHTk0Xewg @ 00:07:33](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
+
+> Charlie Kirk was shot at 12:23 p.m.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk assassination: Timeline of Utah campus shooting details attack, manhunt for suspect](https://www.foxnews.com/us/charlie-kirk-assassination-timeline-utah-campus-shooting-details-attack-manhunt-suspect)
+**Verification Notes:** Multiple established news outlets, including Fox News, ABC News, NPR, and CNN, provide detailed timelines of the Charlie Kirk shooting at Utah Valley University on September 10, 2025. These sources consistently report the shooting occurring around midday, with specific details aligning on 12:23 p.m. as the time of the incident, supported by official updates and visual timelines.
+
+### [ep-2WEHTk0Xewg @ 00:15:06](/episodes/ep-2WEHTk0Xewg.md#^t-00-14-28)
+
+> Tyler Robinson entered the campus at 8:07 a.m. wearing a maroon t-shirt and shorts
+
+**Type:** Factual
+**Veracity:** True (medium)
+**Source:** [Fact Check: Tyler Robinson Was NOT Wearing A Trump Shirt In Photo -- The Original Image Of Kirk Shooting Suspect Was Edited](https://www.yahoo.com/news/articles/fact-check-tyler-robinson-not-063837838.html)
+**Verification Notes:** Reliable fact-check sources confirm a real photo exists of Tyler Robinson wearing a plain shirt (described in multiple reports as maroon) and shorts, taken in the context of his arrival on campus the morning of the incident. Posts found on X align with the 8:07 a.m. timeline and outfit description, supporting the official narrative. However, confidence is medium due to some online debate questioning if it's him, though primary news sources treat the photo as authentic and of Robinson.
 
 ### [ep-2WEHTk0Xewg @ 00:15:17](/episodes/ep-2WEHTk0Xewg.md#^t-00-15-06)
 
@@ -7996,6 +8130,24 @@ _Claims verified as accurate_
 **Source:** [“I Spoke To Charlie Kirk About Israel The Night Before His Death…” | Josh Hammer - YouTube](https://www.youtube.com/watch?v=bOWOWoM6Wcs)
 **Verification Notes:** Josh Hammer directly states in this interview that he spoke with Charlie Kirk on a Zoom call the night before Kirk's death, discussing Israel-related topics. This is corroborated by multiple posts on X (formerly Twitter) from various users, including one citing another individual (Eitan Fischberger) confirming the call involved Hammer and Rabbi PW. No sources refute the occurrence of the call, though it is a private event without public records like Zoom logs; confidence is medium due to reliance on self-reporting and social media corroboration without independent primary evidence like participant confirmations or call records.
 
+### [ep-LATnak75Si0 @ 00:10:30](/episodes/ep-LATnak75Si0.md#^t-00-09-44)
+
+> Michael Bloomberg gave $8.3 million to a Cuomo-affiliated super PAC to stop Mamdani.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Bloomberg pours more cash into Cuomo super PAC, bringing his total contribution to $8.3M - POLITICO](https://www.politico.com/news/2025/06/18/bloomberg-donation-cuomo-super-pac-00413966)
+**Verification Notes:** Multiple reliable sources, including POLITICO and The New York Times, confirm that Michael Bloomberg donated a total of $8.3 million to a super PAC affiliated with Andrew Cuomo in the 2025 New York City mayoral race, with the explicit aim of supporting Cuomo and opposing Zohran Mamdani. Reports detail incremental donations adding up to this amount, and the super PAC's activities were focused on anti-Mamdani efforts.
+
+### [ep-LATnak75Si0 @ 00:20:45](/episodes/ep-LATnak75Si0.md#^t-00-20-09)
+
+> Bob Shulman took $2 million away from Charlie Kirk because he let Tucker Carlson hit the stage.
+
+**Type:** Factual
+**Veracity:** True (medium)
+**Source:** [Top pro-Israel TPUSA donor terminated support for Kirk in days before death, sources say - The Grayzone](https://thegrayzone.com/2025/09/22/israel-tpusa-donor-terminated-kirk/)
+**Verification Notes:** The article reports that ultra-Zionist billionaire Robert Shillman (likely a reference to 'Bob Shulman,' possibly a misspelling) ended funding for Turning Point USA due to Charlie Kirk's increasingly critical views on Israel. Additional posts found on X and other web sources, including leaks from group chat messages shared by Candace Owens, specify that Shillman withdrew a $2 million pledge specifically because Kirk refused to cancel Tucker Carlson from appearing at events. This aligns with the claim's details, though the exact name 'Shulman' appears to be a variant or error for 'Shillman.' Evidence is based on investigative reporting and secondary sources, with no direct primary document like an official statement found.
+
 ### [ep-SKGUzGHymcI @ 00:12:40](/episodes/ep-SKGUzGHymcI.md#^t-00-12-23)
 
 > Wilmington used to have a Dassault Falcon authorized center, but it shut down around 2021.
@@ -8068,6 +8220,24 @@ _Claims verified as accurate_
 **Source:** [Sen. Rick Scott Leads Unanimous Passage of Resolution Designating October 14th National Day of Remembrance for Charlie Kirk](https://www.rickscott.senate.gov/2025/9/sen-rick-scott-leads-unanimous-passage-of-resolution-designating-october-14th-national-day-of-remembrance-for-charlie-kirk)
 **Verification Notes:** Official Senate statements and multiple news sources (e.g., ABC News, The Hill, Axios) confirm the U.S. Senate passed a resolution by unanimous consent designating October 14—Charlie Kirk's birthday—as the National Day of Remembrance for Charlie Kirk. The passage is described as a rare bipartisan recognition, with no opposition from any senators, though sponsorship was primarily Republican.
 
+### [ep-adJ4LNGp84I @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18)
+
+> The judge that is in the case that is overseeing the case against Tyler Robinson is Judge Tony F. Graff Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [JUDGE TONY F. GRAF, JR.](https://www.utcourts.gov/en/about/courts/judges-bios/district-courts/fourth-district-court/tony-f-graf-jr.html)
+**Verification Notes:** Multiple reliable sources, including the official Utah Courts website, Utah State Bar press release, and news articles from outlets like Utah Policy and The Salt Lake Tribune, confirm that Judge Tony F. Graf Jr. (noting minor spelling variation from 'Graff' in the claim) was appointed to the Fourth District Court in May 2025 by Governor Spencer Cox. Additional sources explicitly link him to presiding over the case against Tyler Robinson in the Charlie Kirk matter.
+
+### [ep-adJ4LNGp84I @ 00:06:52](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18)
+
+> Charlie Kirk did indeed have an autopsy.
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk autopsy: When will a detailed report be released after Utah shooting? What we know | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/charlie-kirk-autopsy-when-will-a-detailed-report-be-released-after-utah-shooting-what-we-know-101757887508612.html)
+**Verification Notes:** Multiple reliable sources, including Hindustan Times, Wikipedia, and fact-checking sites like Factually.co, confirm that an autopsy was performed on Charlie Kirk following his shooting death on September 10, 2025, as required by Utah law for homicides. While the full report remains private and unreleased publicly, the fact of the autopsy's occurrence is consistently supported across news outlets and official contexts, refuting rumors of no autopsy.
+
 ### [ep-c5BcKF91iec @ 00:07:20](/episodes/ep-c5BcKF91iec.md#^t-00-07-11)
 
 > He was wise enough at 31 to put together a plan for succession. It's very clear what they decided, and they're implementing it now.
@@ -8112,6 +8282,24 @@ _Claims verified as accurate_
 **Veracity:** True (high)
 **Source:** [Official’s Access to F.B.I. Files in Charlie Kirk Case Drew Pushback - The New York Times](https://www.nytimes.com/2025/10/28/us/politics/fbi-files-charlie-kirk-case.html)
 **Verification Notes:** Multiple established news outlets, including The New York Times, Daily Mail, Hindustan Times, and Yahoo News, report that FBI Director Kash Patel pushed back against, clashed over, or shut down an inquiry by National Counterterrorism Center Director Joe Kent into potential foreign intelligence ties in Charlie Kirk's killing. These articles, published in late October 2025, confirm the claim based on sources within the administration and intelligence community.
+
+### [ep-mKXdKV-OBog @ 00:07:04](/episodes/ep-mKXdKV-OBog.md#^t-00-06-30)
+
+> Kash Patel ended his press conference on September 12th with quote, 'Lastly, to my friend Charlie Kirk, rest now, my brother. We have the watch, and I'll see you in Valhalla.'
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [FBI Director Patel to Charlie Kirk: "See You in Valhalla" | Video | C-SPAN.org](https://www.c-span.org/clip/news-conference/fbi-director-patel-to-charlie-kirk-see-you-in-valhalla/5171858)
+**Verification Notes:** C-SPAN provides video evidence of Kash Patel ending his September 12, 2025, press conference with the tribute: 'Rest now, brother. We have the watch, and I will see you in Valhalla.' This is corroborated by multiple reliable sources, including FBI.gov transcripts, YouTube clips, and articles from The Guardian and Times of India, all confirming the quote and date in the context of a press conference on Charlie Kirk's killing.
+
+### [ep-ozWJz2spBcI @ 00:16:50](/episodes/ep-ozWJz2spBcI.md#^t-00-16-33)
+
+> Charlie Kirk writes in this group chat, 'Just lost another huge Jewish donor—two million a year—because we won't cancel Tucker Carlson. I'm thinking of inviting Candace Owens.' [Followed by] 'Jewish donors play into all of the stereotypes. I cannot and will not be bullied like this, leaving me no choice but to leave the pro-Israel cause.'
+
+**Type:** Factual
+**Veracity:** True (high)
+**Source:** [Charlie Kirk leaked text confirms he was livid about 'bullying' Jewish donors: 'I'm leaving pro-Israel cause' | Daily Mail Online](https://www.dailymail.co.uk/news/article-15171321/Charlie-Kirk-bullying-Jewish-Israel-donors.html)
+**Verification Notes:** Multiple established news outlets, including Daily Mail, Haaretz, Jewish Telegraphic Agency, and Jerusalem Post, report on leaked text messages from Charlie Kirk matching the quoted content, expressing frustration with Jewish donors over not canceling Tucker Carlson and stating he is leaving the pro-Israel cause. Turning Point USA spokesman Andrew Kolvet confirmed the authenticity of the screenshots on the 'Charlie Kirk Show,' supporting the claim's accuracy.
 
 ### [ep-sImMM04XdWY @ 00:09:08](/episodes/ep-sImMM04XdWY.md#^t-00-09-03)
 
@@ -8333,9 +8521,18 @@ _Claims verified as accurate_
 </details>
 
 <details>
-<summary>Unverifiable (69)</summary>
+<summary>Unverifiable (79)</summary>
 
 _Claims that cannot be verified (e.g., private conversations)_
+
+### [ep-2Riv3I7D0Yk @ 00:35:12](/episodes/ep-2Riv3I7D0Yk.md#^t-00-34-57)
+
+> he was texting people saying they are gonna kill me. On the same day that he's on this Zoom call—this is a fact—this night Zoom call, as Josh says it was at night, ... that same day, he's texting people saying they are going to kill me.
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Charlie Kirk death: Josh Hammer slams Candace Owens over 'Jewish donor' row, drops TPUSA boss's full texts | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/charlie-kirk-death-josh-hammer-slams-candace-owens-over-jewish-donor-row-drops-tpusa-bosss-full-texts-101760037740362.html)
+**Verification Notes:** Multiple news articles, including this one from Hindustan Times, report that Josh Hammer released full text messages from a group chat involving Charlie Kirk to refute Candace Owens' claims, confirming a Zoom call or long talk the night before Kirk's death. However, no reliable sources quote or confirm any specific text from Kirk saying 'they are gonna kill me' on the same day as the Zoom call. The claim mixes verifiable elements (e.g., the existence of a night call and released texts about frustration with donors) with an unsubstantiated allegation about the 'kill me' text and its timing. To verify, access to the complete original text message screenshots, timestamps, or an official investigation report (e.g., via law enforcement or court documents) would be required, as news reports do not provide this detail.
 
 ### [ep-2WEHTk0Xewg @ 00:19:06](/episodes/ep-2WEHTk0Xewg.md#^t-00-18-53)
 
@@ -8444,6 +8641,51 @@ _Claims that cannot be verified (e.g., private conversations)_
 **Veracity:** Unverifiable (high)
 **Source:** [N/A](N/A)
 **Verification Notes:** The claim is a personal anecdote from Rob O'Neill based on his combat experiences, stating that shirts did not move in a particular way when he shot people. No primary sources, such as news articles, official forensic analyses, or expert statements, were found that directly support or refute this subjective observation. Multiple search strategies (e.g., queries on ballistics, gunshot wound analysis, shirt movement in shootings, and Rob O'Neill's comments on the Brian Thompson assassination) yielded no reliable evidence addressing this specific detail. To verify, access to classified military records, videos from O'Neill's operations, or independent ballistic experiments replicating similar conditions (e.g., clothing response to specific calibers and velocities) would be required, potentially via FOIA requests to the Department of Defense or expert forensic reconstructions.
+
+### [ep-LATnak75Si0 @ 00:31:39](/episodes/ep-LATnak75Si0.md#^t-00-31-13)
+
+> Charlie Kirk was never rendered any first aid immediately; security team did not administer first aid, no gauze, no hand on wound.
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** Multiple reliable sources, including Wikipedia, The Guardian, ABC News, BBC, and FBI releases, detail the shooting event, footage availability, security aspects, and timeline, but none directly address whether immediate first aid was administered by the security team, such as applying gauze or pressure to the wound. The widow's thanks to first responders in BBC reporting implies some response occurred, but this likely refers to emergency services rather than immediate security actions. To verify, access to the full multi-angle footage (as referenced in sources like The Guardian and ABC News visual timeline) or official incident reports from UVU security, first responders, or autopsy details would be required; these could be obtained via FOIA requests to the FBI or local authorities.
+
+### [ep-QZWSsq8ZWzw @ 00:01:35](/episodes/ep-QZWSsq8ZWzw.md#^t-00-01-30)
+
+> FBI is putting an absurd amount of pressure right now on the authorities in Utah and also the rest of the government in Utah to come out and say that the Charlie Kirk case is closed
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Utah Valley Shooting Updates | Federal Bureau of Investigation](https://www.fbi.gov/news/press-releases/utah-valley-shooting-updates)
+**Verification Notes:** No reliable primary sources, such as official FBI statements, Utah government documents, or established news outlets (e.g., ABC News, The New York Times, BBC), confirm or refute the specific claim of FBI exerting pressure on Utah authorities to declare the Charlie Kirk assassination case closed as a lone gunman incident. Web searches and X posts reveal official narratives describing the suspect Tyler James Robinson as acting alone, with FBI collaboration in the investigation, but only unsubstantiated conspiracy theories on X suggest cover-ups or undue influence. Verification would require internal communications, such as leaked emails, FOIA-requested FBI or Utah state documents, or whistleblower testimony from involved authorities to confirm any pressure.
+
+### [ep-QZWSsq8ZWzw @ 00:01:59](/episodes/ep-QZWSsq8ZWzw.md#^t-00-01-30)
+
+> FBI wants Charlie Kirk's assassination to be officially ruled lone gunman
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** No reliable primary sources, such as official FBI statements, Utah government documents, or established news outlets (e.g., CNN, PBS, NPR), confirm or mention any FBI pressure on Utah authorities to rule the assassination as a lone gunman act or to close the case. Official reports and news articles describe the incident as perpetrated by a single suspect, Tyler James Robinson, who was charged with aggravated murder, with authorities expressing confidence he acted alone (e.g., statements from Utah Gov. Spencer Cox). The claim originates from an anonymous 'authoritative source' in the podcast, which mixes verifiable facts (e.g., the suspect's name and charges) with unverified interpretation of motives. To verify, access to internal FBI or Utah law enforcement communications, such as emails or memos via FOIA requests, or public statements from involved officials would be needed. Posts on X reflect public sentiment and conspiracy speculation but do not provide conclusive evidence.
+
+### [ep-QZWSsq8ZWzw @ 00:03:18](/episodes/ep-QZWSsq8ZWzw.md#^t-00-02-58)
+
+> There is absolutely no video which shows Tyler Robinson firing the weapon or even taking aim at Charlie Kirk
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Assassination of Charlie Kirk - Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk)
+**Verification Notes:** No reliable sources, including Wikipedia, CNN, ABC News, or other major outlets, confirm or deny the existence of video footage showing Tyler Robinson firing the weapon or taking aim at Charlie Kirk. Reports detail CCTV footage of Robinson before and after the incident, but not the act itself. The case is ongoing with a trial scheduled for 2026, and detailed evidence (such as potential surveillance videos) has not been publicly disclosed. Verification would require access to court documents, prosecution evidence lists, official police reports, or FOIA requests to the FBI or Utah authorities for any non-public video evidence.
+
+### [ep-QZWSsq8ZWzw @ 00:05:35](/episodes/ep-QZWSsq8ZWzw.md#^t-00-05-00)
+
+> Bullet was too fragmented to match Tyler's rifle
+
+**Type:** Factual
+**Veracity:** Unverifiable (low)
+**Source:** [Charlie Kirk shooting suspect referenced fascism and memes on bullets, officials say](https://www.nbcnews.com/tech/internet/charlie-kirk-shooting-suspect-fascism-memes-bullets-tyler-robinson-rcna230950)
+**Verification Notes:** No reliable primary sources, such as official forensic reports, court documents, or statements from law enforcement, were found detailing the condition of the bullet or any ballistic matching to Tyler Robinson's rifle. Available news articles discuss the suspect and ammunition but do not address bullet fragmentation or matching. Social media posts on X mention conflicting claims (e.g., some alleging a match, others questioning evidence), but these are not conclusive. Verification would require access to autopsy reports, ballistic analysis from the FBI or ATF, or court filings from the ongoing case, potentially obtainable via FOIA requests or trial proceedings.
 
 ### [ep-SKGUzGHymcI @ 00:03:23](/episodes/ep-SKGUzGHymcI.md#^t-00-02-39)
 
@@ -8642,6 +8884,24 @@ _Claims that cannot be verified (e.g., private conversations)_
 **Source:** [Charlie Kirk predicted his own death before murder? Candace Owens shares chilling texts: ‘I might get wiped out' | Hindustan Times](https://www.hindustantimes.com/world-news/us-news/charlie-kirk-predicted-his-own-death-before-murder-candace-owens-shares-chilling-texts-i-might-get-wiped-out-101761613365981.html)
 **Verification Notes:** Multiple news outlets, including Hindustan Times, report that Candace Owens shared text messages from Charlie Kirk containing similar language about predicting his death and not living to see the end of the revolution, which aligns with parts of the transcript. However, the specific claim quote is from alleged private messages, and no primary evidence (e.g., screenshots, official statements from Turning Point USA, or independent verification) confirms authenticity. Verification would require access to Charlie Kirk's message archives, confirmation from Mikey McCoy (mentioned in the transcript), or a statement from Turning Point USA validating the texts. Ongoing disputes between Owens and TPUSA add uncertainty, but no direct refutation or confirmation of this exact phrase was found.
 
+### [ep-his-JBjlkh8 @ 00:12:32](/episodes/ep-his-JBjlkh8.md#^t-00-12-21)
+
+> People at Turning Point USA are in possession of text messages the day before Charlie Kirk died, in which he wrote out to you—and not just to people that work at Turning Point USA, but also security guards—that he thought that they were going to kill him tomorrow
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [Did Charlie Kirk predict his own murder? Candace Owens reveals eerie 'prophecy' text messages from years before his death - The Times of India](https://timesofindia.indiatimes.com/world/us/did-charlie-kirk-predict-his-own-murder-candace-owens-reveals-eerie-prophecy-text-messages-from-years-before-his-death/articleshow/125024848.cms)
+**Verification Notes:** No reliable primary sources, such as news articles from established outlets or official statements from Turning Point USA, confirm the existence of text messages from Charlie Kirk sent the day before his death (September 9, 2025) explicitly stating that 'they' were going to kill him tomorrow, sent to TPUSA staff and security guards. Available reports discuss other leaked texts (e.g., about Israel positions 48 hours prior or prophecies from years earlier), but none match this specific claim. Posts on X echo Candace Owens' assertions but are inconclusive and not factual evidence. Verification would require release of the alleged private text messages, court documents from the ongoing Utah prosecution, or a FOIA request for FBI investigative records related to Kirk's assassination on September 10, 2025.
+
+### [ep-his-JBjlkh8 @ 00:49:54](/episodes/ep-his-JBjlkh8.md#^t-00-49-40)
+
+> an hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar... at 6:45 p.m. in French time. That's 10:45 a.m. in Utah time
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [N/A](N/A)
+**Verification Notes:** No reliable primary sources, such as news articles from established outlets, official government statements, or Macron's public calendar documents, were found confirming a phone call between Donald Trump and Emmanuel Macron on September 10, 2025, at 6:45 p.m. French time (10:45 a.m. Utah time). Posts on X mention this detail and reference public records, but X posts are not conclusive evidence and may contain unverified claims. Additionally, the exact time of Charlie Kirk's assassination is not detailed in reliable sources, making the '1.5 hours before' aspect impossible to confirm. Verification would require access to Emmanuel Macron's official public calendar for September 10, 2025, or FOIA-requested records from French or U.S. government sources documenting the call, as well as precise timestamps from police reports or news archives on the assassination timing.
+
 ### [ep-iHav0PPzUz8 @ 00:01:44](/episodes/ep-iHav0PPzUz8.md#^t-00-01-22)
 
 > This plane departed from the Biggs Army Airfield at 6:13 a.m. ... dipped down to just 300 feet above ground over the Provo airport runway, and they made a loop
@@ -8713,6 +8973,24 @@ _Claims that cannot be verified (e.g., private conversations)_
 **Veracity:** Unverifiable (high)
 **Source:** [Candace Owens says a whistleblower revealed that days before Charlie Kirk's assassination, Egyptian military subcontractors arrived in Provo, Utah](https://www.primetimer.com/news/candace-owens-says-a-whistleblower-revealed-that-days-before-charlie-kirks-assassination-egyptian-military-subcontractors-arrived-in-provo-utah)
 **Verification Notes:** The claim relies on an anonymous whistleblower cited by Candace Owens, with no publicly available primary evidence such as flight manifests, passenger lists, or official statements from the Egyptian government, FAA, or U.S. authorities confirming that military subcontractors were dropped off in Provo and did not return to Cairo. Web searches and X posts discuss the conspiracy theory but provide no verifiable documentation; articles report on Owens' allegations without independent confirmation and often highlight errors (e.g., time zone confusion). Verification would require access to confidential flight records, passenger manifests from the Egyptian Air Force, or FOIA requests to U.S. agencies like the FAA or DoD, which are not publicly available and may be classified due to the military nature of the flight.
+
+### [ep-mKXdKV-OBog @ 00:05:48](/episodes/ep-mKXdKV-OBog.md#^t-00-05-45)
+
+> The yellow plane with tail number SUBTT stopped for just one hour in Minot, North Dakota on September 4th before making its way to Provo.
+
+**Type:** Factual
+**Veracity:** Unverifiable (high)
+**Source:** [N/A](N/A)
+**Verification Notes:** No reliable sources, including news articles, official flight records, or government statements, were found mentioning a yellow plane with tail number SUBTT making a one-hour stopover in Minot, North Dakota, on September 4th (assuming 2025 based on context) before proceeding to Provo. Searches across web results and X posts yielded information on unrelated incidents, such as a July 2025 near-miss at Minot Airport and Egyptian jets in Provo on September 10th, but nothing matching the specific claim. Verification would require access to FAA flight logs, FlightAware or ADS-B tracking data, or official records from Minot International Airport/Minot AFB via FOIA request, which are not publicly available in the searched sources.
+
+### [ep-ozWJz2spBcI @ 00:16:17](/episodes/ep-ozWJz2spBcI.md#^t-00-15-58)
+
+> This is an actual group chat which happened two days before Charlie Kirk was assassinated. There were nine people in total on this chat, including Charlie Kirk and Rob McCoy.
+
+**Type:** Factual
+**Veracity:** Unverifiable (medium)
+**Source:** [After Charlie Kirk’s Assassination, a Bumper Crop of Conspiracy Theories](https://www.nytimes.com/2025/09/29/us/charlie-kirk-assassination-conspiracy-theories.html)
+**Verification Notes:** Multiple news sources, including The New York Times, Axios, and The Guardian, report on Candace Owens promoting conspiracy theories about Charlie Kirk's assassination, including claims of screenshots from group chats, but none provide independent verification of the screenshot's authenticity. Posts on X discuss Owens sharing the screenshot, but X content is not conclusive evidence. The claim mixes verifiable elements (e.g., the assassination date around September 10, 2025, based on timeline in sources) with unverified ones (the chat's existence and content). Verification would require statements from chat participants (e.g., Rob McCoy or others named), digital forensic analysis of the screenshot, or official investigation records from law enforcement, such as FBI documents obtained via FOIA.
 
 ### [ep-sImMM04XdWY @ 00:00:01](/episodes/ep-sImMM04XdWY.md#^t-00-00-01)
 
@@ -8961,7 +9239,7 @@ _Claims that cannot be verified (e.g., private conversations)_
 </details>
 
 <details>
-<summary>Unverified (987)</summary>
+<summary>Unverified (964)</summary>
 
 _Claims not yet checked against external sources_
 
@@ -9019,18 +9297,6 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [ep-2Riv3I7D0Yk @ 00:35:12](/episodes/ep-2Riv3I7D0Yk.md#^t-00-34-57)
-
-> he was texting people saying they are gonna kill me. On the same day that he's on this Zoom call—this is a fact—this night Zoom call, as Josh says it was at night, ... that same day, he's texting people saying they are going to kill me.
-
-**Type:** Factual
-
-### [ep-2WEHTk0Xewg @ 00:07:33](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
-
-> Charlie Kirk was shot at 12:23 p.m.
-
-**Type:** Factual
-
 ### [ep-2WEHTk0Xewg @ 00:07:44](/episodes/ep-2WEHTk0Xewg.md#^t-00-07-18)
 
 > George Zinn was announced as a suspect in custody by the Utah police approximately 30 minutes after the shooting
@@ -9058,12 +9324,6 @@ _Claims not yet checked against external sources_
 ### [ep-2WEHTk0Xewg @ 00:14:05](/episodes/ep-2WEHTk0Xewg.md#^t-00-13-45)
 
 > The campus is three to four hours away from where Tyler and Lance live together
-
-**Type:** Factual
-
-### [ep-2WEHTk0Xewg @ 00:15:06](/episodes/ep-2WEHTk0Xewg.md#^t-00-14-28)
-
-> Tyler Robinson entered the campus at 8:07 a.m. wearing a maroon t-shirt and shorts
 
 **Type:** Factual
 
@@ -10013,24 +10273,6 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [ep-LATnak75Si0 @ 00:10:22](/episodes/ep-LATnak75Si0.md#^t-00-09-44)
-
-> Bill Ackman gave $1.75 million to stop Mamdani.
-
-**Type:** Factual
-
-### [ep-LATnak75Si0 @ 00:10:30](/episodes/ep-LATnak75Si0.md#^t-00-09-44)
-
-> Michael Bloomberg gave $8.3 million to a Cuomo-affiliated super PAC to stop Mamdani.
-
-**Type:** Factual
-
-### [ep-LATnak75Si0 @ 00:10:41](/episodes/ep-LATnak75Si0.md#^t-00-10-30)
-
-> Airbnb co-founder Joe Gebbia gave $3.1 million to stop Mamdani.
-
-**Type:** Factual
-
 ### [ep-LATnak75Si0 @ 00:10:47](/episodes/ep-LATnak75Si0.md#^t-00-10-30)
 
 > The Tisch family gave $1.2 million to stop Mamdani.
@@ -10052,18 +10294,6 @@ _Claims not yet checked against external sources_
 ### [ep-LATnak75Si0 @ 00:15:44](/episodes/ep-LATnak75Si0.md#^t-00-15-11)
 
 > Donald Trump dedicated 900% more Truth Social posts to ensuring that Mamdani would lose than to ensuring that Charlie Kirk's murderer was found.
-
-**Type:** Factual
-
-### [ep-LATnak75Si0 @ 00:20:45](/episodes/ep-LATnak75Si0.md#^t-00-20-09)
-
-> Bob Shulman took $2 million away from Charlie Kirk because he let Tucker Carlson hit the stage.
-
-**Type:** Factual
-
-### [ep-LATnak75Si0 @ 00:31:39](/episodes/ep-LATnak75Si0.md#^t-00-31-13)
-
-> Charlie Kirk was never rendered any first aid immediately; security team did not administer first aid, no gauze, no hand on wound.
 
 **Type:** Factual
 
@@ -10179,19 +10409,7 @@ _Claims not yet checked against external sources_
 
 ### [ep-QZWSsq8ZWzw @ 00:01:35](/episodes/ep-QZWSsq8ZWzw.md#^t-00-01-30)
 
-> FBI is putting an absurd amount of pressure right now on the authorities in Utah and also the rest of the government in Utah to come out and say that the Charlie Kirk case is closed
-
-**Type:** Factual
-
-### [ep-QZWSsq8ZWzw @ 00:01:35](/episodes/ep-QZWSsq8ZWzw.md#^t-00-01-30)
-
 > the FBI is putting an absurd amount of pressure right now on the authorities in Utah and also the rest of the government in Utah to come out and to say that the Charlie Kirk case is closed
-
-**Type:** Factual
-
-### [ep-QZWSsq8ZWzw @ 00:01:59](/episodes/ep-QZWSsq8ZWzw.md#^t-00-01-30)
-
-> FBI wants Charlie Kirk's assassination to be officially ruled lone gunman
 
 **Type:** Factual
 
@@ -10210,12 +10428,6 @@ _Claims not yet checked against external sources_
 ### [ep-QZWSsq8ZWzw @ 00:03:06](/episodes/ep-QZWSsq8ZWzw.md#^t-00-02-58)
 
 > currently there is absolutely no video which shows Tyler Robinson firing the weapon or even taking aim at Charlie Kirk
-
-**Type:** Factual
-
-### [ep-QZWSsq8ZWzw @ 00:03:18](/episodes/ep-QZWSsq8ZWzw.md#^t-00-02-58)
-
-> There is absolutely no video which shows Tyler Robinson firing the weapon or even taking aim at Charlie Kirk
 
 **Type:** Factual
 
@@ -10269,19 +10481,7 @@ _Claims not yet checked against external sources_
 
 ### [ep-QZWSsq8ZWzw @ 00:05:35](/episodes/ep-QZWSsq8ZWzw.md#^t-00-05-00)
 
-> Bullet was too fragmented to match Tyler's rifle
-
-**Type:** Factual
-
-### [ep-QZWSsq8ZWzw @ 00:05:35](/episodes/ep-QZWSsq8ZWzw.md#^t-00-05-00)
-
 > regarding the bullet, the source says that it was too fragmented to match Tyler's rifle
-
-**Type:** Factual
-
-### [ep-QZWSsq8ZWzw @ 00:05:50](/episodes/ep-QZWSsq8ZWzw.md#^t-00-05-35)
-
-> Tyler Robinson has not confessed to anything
 
 **Type:** Factual
 
@@ -11031,21 +11231,9 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [ep-YA1FxrDWNIo @ 00:30:44](/episodes/ep-YA1FxrDWNIo.md#^t-00-30-08)
-
-> Charlie Kirk was taken to Timpanogos Regional Hospital... a smaller regional hospital that was a little farther away... trauma III center.
-
-**Type:** Factual
-
 ### [ep-YA1FxrDWNIo @ 00:31:35](/episodes/ep-YA1FxrDWNIo.md#^t-00-31-28)
 
 > that hospital had just announced that they had a brand-new CEO and head surgeon named Andrew Zenger
-
-**Type:** Factual
-
-### [ep-YA1FxrDWNIo @ 00:32:13](/episodes/ep-YA1FxrDWNIo.md#^t-00-31-28)
-
-> Kash Patel... fired the chief of the Utah bureau... replaced her with Robert Bowles in August.
 
 **Type:** Factual
 
@@ -12316,21 +12504,9 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [ep-adJ4LNGp84I @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18)
-
-> The judge that is in the case that is overseeing the case against Tyler Robinson is Judge Tony F. Graff Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox.
-
-**Type:** Factual
-
 ### [ep-adJ4LNGp84I @ 00:06:44](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18)
 
 > I was also informed that the coroner in this case was also brand spanking new.
-
-**Type:** Factual
-
-### [ep-adJ4LNGp84I @ 00:06:52](/episodes/ep-adJ4LNGp84I.md#^t-00-06-18)
-
-> Charlie Kirk did indeed have an autopsy.
 
 **Type:** Factual
 
@@ -12898,12 +13074,6 @@ _Claims not yet checked against external sources_
 
 ### [ep-his-JBjlkh8 @ 00:12:32](/episodes/ep-his-JBjlkh8.md#^t-00-12-21)
 
-> People at Turning Point USA are in possession of text messages the day before Charlie Kirk died, in which he wrote out to you—and not just to people that work at Turning Point USA, but also security guards—that he thought that they were going to kill him tomorrow
-
-**Type:** Factual
-
-### [ep-his-JBjlkh8 @ 00:12:32](/episodes/ep-his-JBjlkh8.md#^t-00-12-21)
-
 > People at Turning Point USA are in possession of text messages the day before Charlie died, in which he wrote that he thought that they were going to kill him tomorrow.
 
 **Type:** Factual
@@ -13067,12 +13237,6 @@ _Claims not yet checked against external sources_
 ### [ep-his-JBjlkh8 @ 00:49:16](/episodes/ep-his-JBjlkh8.md#^t-00-49-01)
 
 > There is a six-day gap in Brigitte Macron's schedule on the dates that the Egyptian plane was flying around America
-
-**Type:** Factual
-
-### [ep-his-JBjlkh8 @ 00:49:54](/episodes/ep-his-JBjlkh8.md#^t-00-49-40)
-
-> an hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar... at 6:45 p.m. in French time. That's 10:45 a.m. in Utah time
 
 **Type:** Factual
 
@@ -13422,18 +13586,6 @@ _Claims not yet checked against external sources_
 
 **Type:** Factual
 
-### [ep-mKXdKV-OBog @ 00:05:48](/episodes/ep-mKXdKV-OBog.md#^t-00-05-45)
-
-> The yellow plane with tail number SUBTT stopped for just one hour in Minot, North Dakota on September 4th before making its way to Provo.
-
-**Type:** Factual
-
-### [ep-mKXdKV-OBog @ 00:07:04](/episodes/ep-mKXdKV-OBog.md#^t-00-06-30)
-
-> Kash Patel ended his press conference on September 12th with quote, 'Lastly, to my friend Charlie Kirk, rest now, my brother. We have the watch, and I'll see you in Valhalla.'
-
-**Type:** Factual
-
 ### [ep-mKXdKV-OBog @ 00:08:11](/episodes/ep-mKXdKV-OBog.md#^t-00-07-51)
 
 > Operation Valhalla Strike took place August 24th-29th, 2024, where the 891st Squadron from Minot Air Force Base traveled to Camp Ripley Training Center in Minnesota for training focused on air-based ground defense and nuclear security tactics, including full-distance live-fire exercises.
@@ -13521,18 +13673,6 @@ _Claims not yet checked against external sources_
 ### [ep-ozWJz2spBcI @ 00:15:18](/episodes/ep-ozWJz2spBcI.md#^t-00-15-14)
 
 > both his son and his daughter-in-law work for Turning Point USA.
-
-**Type:** Factual
-
-### [ep-ozWJz2spBcI @ 00:16:17](/episodes/ep-ozWJz2spBcI.md#^t-00-15-58)
-
-> This is an actual group chat which happened two days before Charlie Kirk was assassinated. There were nine people in total on this chat, including Charlie Kirk and Rob McCoy.
-
-**Type:** Factual
-
-### [ep-ozWJz2spBcI @ 00:16:50](/episodes/ep-ozWJz2spBcI.md#^t-00-16-33)
-
-> Charlie Kirk writes in this group chat, 'Just lost another huge Jewish donor—two million a year—because we won't cancel Tucker Carlson. I'm thinking of inviting Candace Owens.' [Followed by] 'Jewish donors play into all of the stereotypes. I cannot and will not be bullied like this, leaving me no choice but to leave the pro-Israel cause.'
 
 **Type:** Factual
 
