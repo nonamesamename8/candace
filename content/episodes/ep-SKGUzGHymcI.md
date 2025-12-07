@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=SKGUzGHymcI"
 
 **Published:** 2025-11-19 | [Watch on YouTube](https://www.youtube.com/watch?v=SKGUzGHymcI)
 
-**Stats:** 25 entities | 9 events | 8 claims
+**Stats:** 25 entities | 8 events | 8 claims
 
 ---
 
@@ -281,7 +281,6 @@ youtube_url: "https://www.youtube.com/watch?v=SKGUzGHymcI"
 - **2024-12-05**: FBI Director Christopher Wray issues press release on Wilmington partnerships
 - **2024-12-10**: Satys announces takeover of shuttered Wilmington airport hangar
 - **2025-09-10 07:14**: Egyptian military plane SUBTT departs Provo, Utah en route to Wilmington, Delaware
-- **2025-09-10 11:51**: Egyptian military plane SUBTT arrives in Wilmington, Delaware
 - **2025-09-10 12:23**: Charlie Kirk assassinated by shooting in Provo, Utah
 
 ## Entities Mentioned

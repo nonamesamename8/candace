@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
 
 **Published:** 2025-09-22 | [Watch on YouTube](https://www.youtube.com/watch?v=ja26iltROkM)
 
-**Stats:** 29 entities | 9 events | 14 claims
+**Stats:** 29 entities | 8 events | 14 claims
 
 ---
 
@@ -283,7 +283,6 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
 ## Timeline Events
 
 - **2025-07-01**: Charlie Kirk hosts town hall discussing anti-Semitism with Gen Z students.
-- **2025-09-10**: Charlie Kirk assassinated during campus debate event at UVU.
 - **2025-09-12**: Assassination site area repaved within 48 hours of shooting.
 - **2025-09-20**: Andrew Kolvet tweets explanation of no exit wound as miracle in Kirk shooting.
 - **2025-09-20**: Derek Maxfield states plane transponder turned off with ATC permission.

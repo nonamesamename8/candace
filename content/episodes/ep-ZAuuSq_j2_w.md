@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=ZAuuSq_j2_w"
 
 **Published:** 2025-12-05 | [Watch on YouTube](https://www.youtube.com/watch?v=ZAuuSq_j2_w)
 
-**Stats:** 30 entities | 9 events | 12 claims
+**Stats:** 30 entities | 8 events | 12 claims
 
 ---
 
@@ -263,7 +263,6 @@ youtube_url: "https://www.youtube.com/watch?v=ZAuuSq_j2_w"
 - **2025-05-27**: Egyptian plane SUBTU arrives in Provo carrying Walid Mahmood
 - **2025-06-02**: Egyptian plane SUBTU departs Provo without transponder data
 - **2025-08-15**: Cam Higby hired onto Turning Point USA payroll
-- **2025-09-10**: Charlie Kirk assassinated in broad daylight in Provo, Utah
 - **2025-09-10**: Egyptian military planes fly over Provo during Charlie Kirk assassination
 - **2025-09-10**: Yellow Egyptian plane departs Provo to Wilmington, DE with Walid Mahmood aboard
 - **2025-09-10**: Egyptian President el-Sisi meets Tunisia PM Sarah Zafrani in Egypt

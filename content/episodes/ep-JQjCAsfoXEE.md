@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=JQjCAsfoXEE"
 
 **Published:** 2025-11-17 | [Watch on YouTube](https://www.youtube.com/watch?v=JQjCAsfoXEE)
 
-**Stats:** 23 entities | 10 events | 16 claims
+**Stats:** 23 entities | 9 events | 16 claims
 
 ---
 
@@ -270,7 +270,6 @@ youtube_url: "https://www.youtube.com/watch?v=JQjCAsfoXEE"
 - **2025-09-10 09:05**: Egyptian plane SU-BND transponds at Provo FBO until 10:34
 - **2025-09-10 09:23**: Charlie Kirk lands in Salt Lake City before Provo event
 - **2025-09-10 10:06**: Flight N560TW lands in Provo from Scottsdale, Arizona
-- **2025-09-10 12:40**: Egyptian plane SU-BND transponds again post-Kirk shooting until 13:29
 - **2025-09-18**: Erika Kirk appointed CEO of Turning Point USA
 - **2025-10-11**: Candace Owens tweets about Egyptian military plane leaving Provo
 - **2025-10-15**: Turning Point USA misses IRS Form 990 extension deadline for FY2024

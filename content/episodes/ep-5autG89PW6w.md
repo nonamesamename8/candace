@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=5autG89PW6w"
 
 **Published:** 2025-10-07 | [Watch on YouTube](https://www.youtube.com/watch?v=5autG89PW6w)
 
-**Stats:** 25 entities | 6 events | 9 claims
+**Stats:** 25 entities | 5 events | 9 claims
 
 ---
 
@@ -278,7 +278,6 @@ youtube_url: "https://www.youtube.com/watch?v=5autG89PW6w"
 ## Timeline Events
 
 - **2025-07-01**: Charlie Kirk sends letter to Benjamin Netanyahu affirming support for Israel
-- **2025-09-10**: Charlie Kirk assassinated by gunshot during event
 - **2025-09-12**: Authorities apprehend suspect Tyler Robinson 33 hours after assassination
 - **2025-10-06**: Candace Owens releases screenshots of Charlie Kirk's text messages criticizing Israel
 - **2025-10-07**: TPUSA spokesperson Andrew Kolvet confirms leaked text messages are authentic

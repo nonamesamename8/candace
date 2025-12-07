@@ -1,6 +1,6 @@
 # Entities Index
 
-_Total entities: 634_
+_Total entities: 633_
 
 <div class="sort-controls">
   <strong>Sort by:</strong>
@@ -561,11 +561,10 @@ summary:hover { color: var(--secondary); }
 </details>
 
 <details open>
-<summary>Events (14)</summary>
+<summary>Events (13)</summary>
 
 - [9/11](/entities/event-9-11.md) (1 mention)
 - [America Fest](/entities/event-america-fest.md) (4 mentions)
-- [AmericaFest](/entities/event-americafest.md) (2 mentions)
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (49 mentions)
 - [COVID-19 Pandemic](/entities/event-covid-19-pandemic.md) (2 mentions)
 - [January 6th](/entities/event-january-6th.md) (1 mention)
@@ -1247,14 +1246,13 @@ summary:hover { color: var(--secondary); }
 </details>
 
 <details open>
-<summary>Events (14)</summary>
+<summary>Events (13)</summary>
 
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (49 mentions)
 - [America Fest](/entities/event-america-fest.md) (4 mentions)
 - [Operation Bright Star](/entities/event-operation-bright-star.md) (4 mentions)
 - [Operation Valhalla](/entities/event-operation-valhalla.md) (3 mentions)
 - [Warren Commission](/entities/event-warren-commission.md) (3 mentions)
-- [AmericaFest](/entities/event-americafest.md) (2 mentions)
 - [COVID-19 Pandemic](/entities/event-covid-19-pandemic.md) (2 mentions)
 - [JFK assassination](/entities/event-jfk-assassination.md) (2 mentions)
 - [Moon landing](/entities/event-moon-landing.md) (2 mentions)

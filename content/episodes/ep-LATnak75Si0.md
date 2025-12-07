@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=LATnak75Si0"
 
 **Published:** 2025-11-05 | [Watch on YouTube](https://www.youtube.com/watch?v=LATnak75Si0)
 
-**Stats:** 36 entities | 8 events | 14 claims
+**Stats:** 36 entities | 7 events | 14 claims
 
 ---
 
@@ -378,7 +378,6 @@ youtube_url: "https://www.youtube.com/watch?v=LATnak75Si0"
 - **2024-02-01**: Candace Owens and Charlie Kirk conduct joint campus tour across US.
 - **2025-07-01**: CNN panel calls Candace Owens disgusting and anti-Semitic.
 - **2025-07-15**: UVU requests Charlie Kirk for campus event, approved quickly.
-- **2025-09-10**: Charlie Kirk shot and killed at Utah Valley University campus event.
 - **2025-11-05**: Zohran Mamdani wins New York City mayoral election against Andrew Cuomo.
 - **2025-11-05**: Brett Cooper accused of being the new Hitler by critics.
 - **2025-11-05**: Pentagon grants press pass to conservative activist Laura Loomer.

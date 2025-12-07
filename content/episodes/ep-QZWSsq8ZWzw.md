@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 
 **Published:** 2025-09-24 | [Watch on YouTube](https://www.youtube.com/watch?v=QZWSsq8ZWzw)
 
-**Stats:** 19 entities | 7 events | 18 claims
+**Stats:** 19 entities | 6 events | 18 claims
 
 ---
 
@@ -255,7 +255,6 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 - **2024-07-13**: Thomas Matthew Crooks attempts to assassinate Trump at rally, killing Corey Comparatore.
 - **2025-08-27**: Jezebel commissions Etsy curse and hex on Charlie Kirk.
 - **2025-09-09**: Charlie Kirk and Erika consult priest to counter Jezebel curse.
-- **2025-09-10 12:15**: Charlie Kirk assassinated by rooftop gunman Tyler Robinson at Utah campus.
 - **2025-09-24**: FBI pressures Utah authorities to close Charlie Kirk case as lone gunman.
 
 ## Entities Mentioned
