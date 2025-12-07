@@ -1,6 +1,6 @@
 # Entities Index
 
-_Total entities: 633_
+_Total entities: 641_
 
 ## People
 
@@ -221,6 +221,7 @@ _Total entities: 633_
 - [Rush Limbaugh](/entities/person-rush-limbaugh.md) (1 mention)
 - [Russell Brand](/entities/person-russell-brand.md) (1 mention)
 - [Ryan Reynolds](/entities/person-ryan-reynolds.md) (1 mention)
+- [Sam Parker](/entities/person-sam-parker.md) (3 mentions)
 - [Samuel Steele](/entities/person-samuel-steele.md) (0 mentions)
 - [Sara Zaafarani Zenzari](/entities/person-sarah-zafrani.md) (1 mention)
 - [Scott Robbins](/entities/person-scott-robbins.md) (2 mentions)
@@ -270,12 +271,14 @@ _Total entities: 633_
 - [Xavier Poussard](/entities/person-xavier-poussard.md) (2 mentions)
 - [Yashar Ali](/entities/person-yashar-ali.md) (1 mention)
 - [Yeshira Sanchez](/entities/person-yeshira-sanchez.md) (1 mention)
+- [Zeb Boykin](/entities/person-zeb-boykin.md) (3 mentions)
 - [Zohran Mamdani](/entities/person-zohran-mamdani.md) (1 mention)
 
 ## Organizations
 
 - [2nd Foreign Infantry Regiment](/entities/org-2nd-foreign-infantry-regiment.md) (1 mention)
 - [4th Company, 2nd Foreign Infantry Regiment](/entities/org-4th-company-2nd-foreign-infantry-regiment.md) (1 mention)
+- [4th Company, 2nd Foreign Infantry Regiment](/entities/org-4th-company-french-foreign-legion.md) (2 mentions)
 - [6th Light Armored Brigade](/entities/org-6th-light-armored-brigade.md) (1 mention)
 - [6th Marine Regiment](/entities/org-6th-marine-regiment.md) (1 mention)
 - [ACE Partners](/entities/org-ace-partners.md) (2 mentions)
@@ -357,6 +360,7 @@ _Total entities: 633_
 - [JPMorgan Chase](/entities/org-jpmorgan-chase.md) (1 mention)
 - [JTV](/entities/org-jtv.md) (1 mention)
 - [LA Times](/entities/org-la-times.md) (1 mention)
+- [Layton & Finger](/entities/org-layton-and-finger.md) (2 mentions)
 - [LDS church](/entities/org-lds-church.md) (1 mention)
 - [Leadership Institute](/entities/org-leadership-institute.md) (0 mentions)
 - [Liberty University](/entities/org-liberty-university.md) (3 mentions)
@@ -400,6 +404,7 @@ _Total entities: 633_
 - [T.W. Lewis Foundation](/entities/org-tw-lewis-foundation.md) (0 mentions)
 - [Telegram](/entities/org-telegram.md) (1 mention)
 - [The Daily Wire](/entities/org-the-daily-wire.md) (11 mentions)
+- [The Decentralized Intelligence Agency](/entities/org-decentralized-intelligence-agency.md) (4 mentions)
 - [the federal government](/entities/org-the-federal-government.md) (1 mention)
 - [The Free Press](/entities/org-the-free-press.md) (1 mention)
 - [The New York Times](/entities/org-the-new-york-times.md) (2 mentions)
@@ -496,6 +501,7 @@ _Total entities: 633_
 - [Nemours](/entities/gpe-nemours.md) (1 mention)
 - [New York](/entities/gpe-new-york.md) (1 mention)
 - [New York City](/entities/gpe-new-york-city.md) (3 mentions)
+- [North Carolina](/entities/gpe-north-carolina.md) (2 mentions)
 - [North Dakota](/entities/gpe-north-dakota.md) (1 mention)
 - [Omaha](/entities/gpe-omaha.md) (2 mentions)
 - [Orange County](/entities/gpe-orange-county.md) (1 mention)
@@ -531,10 +537,12 @@ _Total entities: 633_
 - [Washington, D.C.](/entities/gpe-washington-d-c.md) (4 mentions)
 - [Wilmington](/entities/gpe-wilmington.md) (13 mentions)
 - [Wyoming](/entities/gpe-wyoming.md) (4 mentions)
+- [Élysée Palace](/entities/gpe-elysee-palace.md) (4 mentions)
 
 ## Events
 
 - [9/11](/entities/event-9-11.md) (1 mention)
+- [America Fest](/entities/event-america-fest.md) (4 mentions)
 - [AmericaFest](/entities/event-americafest.md) (1 mention)
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (49 mentions)
 - [COVID-19 Pandemic](/entities/event-covid-19-pandemic.md) (2 mentions)
