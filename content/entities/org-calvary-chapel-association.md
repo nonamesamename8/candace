@@ -8,7 +8,10 @@ _Type: Organizations_
 
 ## Mentions
 
-_No mentions recorded._
+### [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md)
+
+- [00:03:52](/episodes/ep-Qt0VHV-POCg.md#^t-00-03-39)
+  > "...ow. It reads: "Rob McCoy and Charlie Kirk founded Turning Point USA Faith (TPUSA Faith) together." "Along with being a Pentecostal pastor in the Calvary Chapel Association, ..."
 
 ## Relationships
 

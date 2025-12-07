@@ -8,7 +8,10 @@ _Type: Places_
 
 ## Mentions
 
-_No mentions recorded._
+### [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
+
+- [00:12:03](/episodes/ep-a-e7HC6SeK8.md#^t-00-11-53)
+  > "...s red crane at 1100 North King Street, and that's Bridge Complex, which is supposed to house Insight headquarters, and they've got a French CEO. It's just a lot hap..."
 
 ## Relationships
 
