@@ -11,7 +11,7 @@ _Type: People_
 ### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:09:33](/episodes/ep-t1YtLS1n8Vs.md#^t-00-09-05)
-  > "...he says, no more. Okay, he wrote this in a tweet. James Comey wrote love letters to the ADL and embedded FBI agents with them, a group that ran disgraceful ops s..."
+  > "...ip, sharing intel. They were training agents. And he says, no more. Okay, he wrote this in a tweet. James Comey wrote love letters to the ADL and embedded FBI agents with them, a group that ran disgraceful ops s..."
 
 ## Relationships
 

@@ -11,7 +11,7 @@ _Type: Organizations_
 ### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:24:32](/episodes/ep-yAIb-NuUh_U.md#^t-00-24-32)
-  > "...e's doing now with Turning Point USA. I would say it's very relevant. Potter's Fields is an area up in Whitefish, Montana, and the Calvary Church Association funded a ministry which came to be known a..."
+  > "... Whitefish, Montana, and the Calvary Church Association funded a ministry which came to be known as Potter's Fields Ministries, right up there. They have a hunting ground. They have a camp for kids. They have a student program..."
 
 ## Relationships
 

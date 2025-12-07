@@ -11,7 +11,9 @@ _Type: Dates_
 ### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:15:12](/episodes/ep-ZAuuSq_j2_w.md#^t-00-15-09)
-  > "...kay? Specifically, Walid Mahmood came to Provo on May 27th of this year. Walid Mahmood came in, and we can also confirm that if you look up the plane that he ..."
+  > "...g, okay? Walid Mahmood had been in Provo before, okay? Specifically, Walid Mahmood came to Provo on May 27th of this year. Walid Mahmood came in, and we can also confirm that if you look up the plane that he ..."
+- [00:16:04](/episodes/ep-ZAuuSq_j2_w.md#^t-00-15-51)
+  > "...harlie Kirk)'s assassination—both times in Provo. And we can drop that now into our timeline, okay? May 27th: SUBTU flies into Provo with Walid Mahmood aboard. Maybe it's a pilot. I don't know. Then we've got..."
 
 ## Relationships
 

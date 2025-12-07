@@ -11,7 +11,7 @@ _Type: Organizations_
 ### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
 
 - [00:21:13](/episodes/ep-2Riv3I7D0Yk.md#^t-00-20-54)
-  > "... after Charlie (Charlie Kirk)'s death, he went on JTV—which is on the global Jewish channel—to discuss that call, that last call with Charlie (Charlie Ki..."
+  > "... He never once forgot to plug his book. A few days after Charlie (Charlie Kirk)'s death, he went on JTV—which is on the global Jewish channel—to discuss that call, that last call with Charlie (Charlie Ki..."
 
 ## Relationships
 

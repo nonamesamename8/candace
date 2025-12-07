@@ -11,7 +11,7 @@ _Type: Organizations_
 ### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:00:27](/episodes/ep-ozWJz2spBcI.md#^t-00-00-00)
-  > "...ned over the weekend is that their TP Action COO, Tyler Bowyer, went on a little bit of an X binge. I don't recommend it, which was then highlighted by Alex Clark..."
+  > "...nipulative, and I've really had enough of it. Frankly, what happened over the weekend is that their TP Action COO, Tyler Bowyer, went on a little bit of an X binge. I don't recommend it, which was then highlig..."
 
 ## Relationships
 

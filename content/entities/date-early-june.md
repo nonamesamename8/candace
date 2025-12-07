@@ -10,8 +10,8 @@ _Type: Dates_
 
 ### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
-- [00:18:55](/episodes/ep-ZAuuSq_j2_w.md#^t-00-18-21)
-  > "... or she doing in Provo at the end of May and into early June? These are questions and honestly concerns that shouldn't be expressed by me. It should be expresse..."
+- [00:18:57](/episodes/ep-ZAuuSq_j2_w.md#^t-00-18-21)
+  > "... the pilot. That could make sense. But what was he or she doing in Provo at the end of May and into early June? These are questions—and honestly concerns—that shouldn't be expressed by me. It should be expresse..."
 
 ## Relationships
 

@@ -15,8 +15,8 @@ _Type: People_
 
 ### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
-- [00:07:02](/episodes/ep-a-e7HC6SeK8.md#^t-00-06-21)
-  > "...ry and you should read this. And it tells us that Robert Richards the Fourth was in 2009 convicted of raping his three-year-old daughter, seven years after she, who was just fi..."
+- [00:07:02](/episodes/ep-a-e7HC6SeK8.md#^t-00-07-02)
+  > "...er a decade because I was so disturbed by the story, and you should read this. And it tells us that Robert Richards the Fourth was in 2009 convicted of raping his three-year-old daughter, seven years after she—who was just fiv..."
 
 ## Relationships
 

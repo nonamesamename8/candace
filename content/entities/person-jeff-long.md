@@ -11,14 +11,16 @@ _Type: People_
 ### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
 
 - [00:24:59](/episodes/ep-581dILVcEE4.md#^t-00-24-53)
-  > "...rom what I have seen thus far, it is just not that convincing. For one, Brian offers up that the lack of security on the rooftop can actually be attributed to the UVU police chief, Jeff Long. Here is ..."
+  > "...ers up that the lack of security on the rooftop can actually be attributed to the UVU police chief, Jeff Long. Here is what he had to say. (Brian Harpole Clip) On Monday before this correspondence went to Chie..."
 - [00:27:28](/episodes/ep-581dILVcEE4.md#^t-00-27-08)
-  > "... by that. I'm not going, "Oh, this is UVU's fault," okay? By the way, Jeff Long also has a very extensive military career. I... obviously have been very clear that I believe that this was a military-l..."
+  > "...by anyone. I am not blown away by that. I'm not going, "Oh, this is UVU's fault," okay? By the way, Jeff Long also has a very extensive military career. I... obviously have been very clear that I believe that ..."
+- [00:27:47](/episodes/ep-581dILVcEE4.md#^t-00-27-47)
+  > "...we can speak to that's somehow involved has an extensive military background. I'm not interested in Jeff Long's participation in this, but Brian Harpole kind of sort of laments the fact that he won't speak up ..."
 
 ### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:36:51](/episodes/ep-sImMM04XdWY.md#^t-00-36-51)
-  > "...nd he had the communication. That's fundamentally dishonest. He should have said, "This text message happened between Dan Flood and Jeff Long," and here's what it was pertaining to—or he should have s..."
+  > "...t's fundamentally dishonest. He should have said, "This text message happened between Dan Flood and Jeff Long," and here's what it was pertaining to—or he should have showed more, but he couldn't show more. An..."
 
 ## Relationships
 

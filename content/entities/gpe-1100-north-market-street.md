@@ -8,19 +8,12 @@ _Type: Places_
 
 ## Mentions
 
-### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
-
-- [00:12:18](/episodes/ep-a-e7HC6SeK8.md#^t-00-11-53)
-  > "We've got the Wilmington Trust actual location, which is at 1100 North Market."
-- [00:12:04](/episodes/ep-a-e7HC6SeK8.md#^t-00-11-53)
-  > "We've got Brigitte's lawyers at 919 North Market Street."
-
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:32:03](/episodes/ep-tB5SXXmd9vU.md#^t-00-31-48)
-  > "It's located at 1100 North Market Street,"
-- [00:32:03](/episodes/ep-tB5SXXmd9vU.md#^t-00-31-48)
-  > "It's located at 1100 North Market Street,"
+  > "...-American du Pont family. And guess where the Wilmington Trust is actually located? It's located at 1100 North Market Street, the building that is right next to 1100 North King Street, and both are on Rodney Square. So again..."
+- [00:34:39](/episodes/ep-tB5SXXmd9vU.md#^t-00-34-38)
+  > "...e, which is also French-aligned, connected to 1100 North King Street; DuPont, which is connected to 1100 North Market Street. And then we have 1100 North King Street itself, which is connected to 920 North King Street. And w..."
 
 ## Relationships
 

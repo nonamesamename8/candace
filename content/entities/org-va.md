@@ -14,8 +14,8 @@ _Type: Organizations_
 
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
-- [00:34:34](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-53)
-  > "...aperwork in your lawsuit, okay? The rules on that vary state by state. We then learned that Brigitte's lawyers in my lawsuit are directly across the str..."
+- [00:34:23](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-53)
+  > "...any that he runs—is also plugged directly into the federal medical supply chains, which include our VA systems that interface with military healthcare infrastructure. Okay. So to pull this all together,..."
 
 ## Relationships
 

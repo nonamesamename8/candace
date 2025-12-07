@@ -11,7 +11,7 @@ _Type: People_
 ### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [01:00:45](/episodes/ep-his-JBjlkh8.md#^t-01-00-40)
-  > "...hat we live in that you guys truly feel this way. Angie Lynn writes, "TPUSA will lie about everything as they have been doing. Do not trust this for one second...."
+  > "...ut it is sad. It really is a marker of the times that we live in that you guys truly feel this way. Angie Lynn writes, "TPUSA will lie about everything as they have been doing. Do not trust this for one second...."
 
 ## Relationships
 

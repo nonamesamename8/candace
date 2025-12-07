@@ -8,12 +8,15 @@ _Type: Organizations_
 
 ## Mentions
 
+### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
+
+- [00:11:41](/episodes/ep-Cq7nj9rxPdo.md#^t-00-11-30)
+  > "... on YouTube to speak at his conference. You should also know that he is the father—or stepfather—to Andreessen Horowitz, the one that Bibi (Benjamin Netanyahu) is insisting should be a part of this group that buys TikTo..."
+
 ### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:31:22](/episodes/ep-adJ4LNGp84I.md#^t-00-30-42)
-  > "...ery clear about the fact he's an agent of Israel. Andreessen Horowitz, the son of David Horowitz. David Horowitz, from which all of the connections, PragerU, I could tel..."
-- [00:31:16](/episodes/ep-adJ4LNGp84I.md#^t-00-30-42)
-  > "...ough, and we know who's a part of that deal. It's Larry Ellison, who has made, he's very clear about the fact he's an agent of Israel. Andreessen Horowitz, the son..."
+  > "...hat deal. It's Larry Ellison, who has made, he's very clear about the fact he's an agent of Israel. Andreessen Horowitz, the son of David Horowitz. David Horowitz, from which all of the connections, PragerU, I could tel..."
 
 ## Relationships
 

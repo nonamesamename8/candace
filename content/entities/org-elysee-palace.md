@@ -14,17 +14,15 @@ _Type: Organizations_
 
 ### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
-- [00:24:51](/episodes/ep-ZAuuSq_j2_w.md#^t-00-24-28)
-  > "...nd of strange that neither the White House or the Élysée Palace or even the United States Pentagon has formally denied this quote unquote crazy claim? That's what ..."
 - [00:24:47](/episodes/ep-ZAuuSq_j2_w.md#^t-00-24-28)
-  > "...at hey, isn't it kind of strange that neither the White House nor the Élysée Palace—or even the United States Pentagon—has formally denied this quote-unquote cra..."
-- [00:21:14](/episodes/ep-ZAuuSq_j2_w.md#^t-00-20-32)
-  > "... the White House or the Élysée Palace or even the United States Pentagon has formally denied this quote unquote crazy claim? That's what Hollywood's for, right? Yo..."
+  > "...supposed to ignore the fact that hey, isn't it kind of strange that neither the White House nor the Élysée Palace—or even the United States Pentagon—has formally denied this quote-unquote crazy claim? That's what ..."
 
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
-- [00:22:30](/episodes/ep-tB5SXXmd9vU.md#^t-00-21-46)
-  > "... yes-or-no answers from the White House, from the Élysée Palace, or from the French security forces. Now, as it pertains to the French Legion, something else that'..."
+- [00:08:30](/episodes/ep-tB5SXXmd9vU.md#^t-00-08-00)
+  > "...ow been a full week since I made that announcement. And here is the official response issued by the Élysée Palace. Nothing. Nothing. I want you to bear in mind that this was front-page global news from the United ..."
+- [00:22:30](/episodes/ep-tB5SXXmd9vU.md#^t-00-22-30)
+  > "...speculate until we get some answers, some straight yes-or-no answers from the White House, from the Élysée Palace, or from the French security forces. Now, as it pertains to the French Legion, something else that'..."
 
 ## Relationships
 

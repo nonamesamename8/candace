@@ -11,7 +11,7 @@ _Type: People_
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:33:45](/episodes/ep-tB5SXXmd9vU.md#^t-00-33-10)
-  > "...CEO of that biopharmaceutical company Incyte was? Hervé Hoppenot. And guess what? He's also French. He's not just French, but he is a French national. He seems to h..."
+  > "...taking about a year. Also, guess who the longtime CEO of that biopharmaceutical company Incyte was? Hervé Hoppenot. And guess what? He's also French. He's not just French, but he is a French national. He seems to h..."
 
 ## Relationships
 

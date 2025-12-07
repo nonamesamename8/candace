@@ -11,7 +11,7 @@ _Type: People_
 ### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:40:05](/episodes/ep-ZAuuSq_j2_w.md#^t-00-39-23)
-  > "...w the whole matrix works. Okay, comments. We have Deb Skates. That is a massive donation. Thank you so much, Deb. She wrote, you may need some help with legal f..."
+  > "... up to how it works. How the whole system works—how the whole matrix works. Okay, comments. We have Deb Skates. That is a massive donation. Thank you so much, Deb. She wrote: "You may need some help with legal ..."
 
 ## Relationships
 

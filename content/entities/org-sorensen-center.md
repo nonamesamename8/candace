@@ -16,21 +16,23 @@ _Type: Organizations_
 ### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
 
 - [00:25:18](/episodes/ep-581dILVcEE4.md#^t-00-25-08)
-  > ""There is a student roof access pretty close to where CK will be set up at the Utah Valley—the Sorensen Center.""
+  > "...up." "There is a student roof access pretty close to where CK will be set up at the Utah Valley—the Sorensen Center." "It has a couple of staircases that go up to walkways on the roofs." He comes back for edificatio..."
 - [00:25:33](/episodes/ep-581dILVcEE4.md#^t-00-25-08)
-  > "for edification: the Sorensen Center was the building in front of the Lozier Center."
+  > "...has a couple of staircases that go up to walkways on the roofs." He comes back for edification: the Sorensen Center was the building in front of the Lozier Center. And so he comes back, and he says, "You want access..."
 
 ### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:16:15](/episodes/ep-YA1FxrDWNIo.md#^t-00-15-56)
-  > "calmly walked out of Sorensen Building."
+  > "... then—immediately, according to our timeline—hit record, and he didn't run. He calmly walked out of Sorensen Building. I hope I'm saying that right: the Sorensen Building. And he wasn't the only one that was walking c..."
 - [00:16:17](/episodes/ep-YA1FxrDWNIo.md#^t-00-15-56)
-  > "I hope I'm saying that right: the Sorensen Building."
+  > "...rd, and he didn't run. He calmly walked out of Sorensen Building. I hope I'm saying that right: the Sorensen Building. And he wasn't the only one that was walking calmly. And I'm not, by the way, none of these people ..."
 
 ### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
+- [00:34:07](/episodes/ep-sImMM04XdWY.md#^t-00-33-57)
+  > "...oup. There is a student roof access pretty close to where CK will be set up at the Utah Valley, the Sorensen Center. It has a couple of staircases that go up to walkways on the roofs." He comes back— for edification..."
 - [00:34:21](/episodes/ep-sImMM04XdWY.md#^t-00-33-57)
-  > "for edification, the Sorensen Center was the building in front of the Locke Center—"
+  > "...as a couple of staircases that go up to walkways on the roofs." He comes back— for edification, the Sorensen Center was the building in front of the Locke Center— and so he comes back, and he says, "You want access ..."
 
 ## Relationships
 

@@ -10,8 +10,10 @@ _Type: People_
 
 ### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
-- [00:27:09](/episodes/ep-adJ4LNGp84I.md#^t-00-26-38)
-  > "...are winning because they're telling the truth? So Deborah Lee asked Benjamin Netanyahu specifically about Charlie Kirk's (Charlie Kirk) assassination and the pot..."
+- [00:26:44](/episodes/ep-adJ4LNGp84I.md#^t-00-26-38)
+  > "...onna beat out all of these independent voices who are winning because they're telling the truth? So Deborah Lee asked Benjamin Netanyahu specifically about Charlie (Charlie Kirk)'s assassination and the potentia..."
+- [00:27:05](/episodes/ep-adJ4LNGp84I.md#^t-00-26-38)
+  > "...he died and it pissed me off. Okay. Take a listen to what Deborah asks. (Following question is from Deborah Lee to Benjamin Netanyahu.) SPEAKER_4: So something I would like to raise, which was actually my first ..."
 
 ## Relationships
 

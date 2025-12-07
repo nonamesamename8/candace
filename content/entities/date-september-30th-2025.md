@@ -11,7 +11,7 @@ _Type: Dates_
 ### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:41:59](/episodes/ep-adJ4LNGp84I.md#^t-00-41-25)
-  > "... to me. It reads, dear Candace, tonight, which is September 30th, 2025, several friends and myself attended the TPUSA event at Utah State University. There was a full agr..."
+  > "...his person attended and wrote this to me. It reads, dear Candace (Candace Owens), tonight, which is September 30th, 2025, several friends and myself attended the TPUSA event at Utah State University. There was a full agr..."
 
 ## Relationships
 

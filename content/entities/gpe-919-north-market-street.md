@@ -15,7 +15,7 @@ _Type: Places_
 ### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
 - [00:12:04](/episodes/ep-a-e7HC6SeK8.md#^t-00-11-53)
-  > "We've got Brigitte's lawyers at 919 North Market Street."
+  > "...at's actually owned by the Wilmington Trust at 500 Delaware Avenue. We've got Brigitte's lawyers at 919 North Market Street. Also in that building happens to be Stacey Sheridan's registered agent. That's Stacey Sheridan of ..."
 
 ## Relationships
 

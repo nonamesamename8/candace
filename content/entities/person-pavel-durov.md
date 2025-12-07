@@ -10,8 +10,8 @@ _Type: People_
 
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
-- [00:10:50](/episodes/ep-tB5SXXmd9vU.md#^t-00-10-07)
-  > "...ecoming Brigitte series. And so I'd like to thank Pavel Durov, the founder of Telegram, for being one of the first people to stick out his neck immediately and t..."
+- [00:10:50](/episodes/ep-tB5SXXmd9vU.md#^t-00-10-50)
+  > "...Exactly. That's one of the broader points of the Becoming Brigitte series. And so I'd like to thank Pavel Durov, the founder of Telegram, for being one of the first people to stick out his neck immediately and t..."
 
 ## Relationships
 

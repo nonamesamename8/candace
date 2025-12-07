@@ -10,8 +10,10 @@ _Type: People_
 
 ### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
-- [00:41:04](/episodes/ep-his-JBjlkh8.md#^t-00-40-39)
-  > "...e Pentagon's press secretary, a young woman named Kingsley Wilson, about the foreign angle of Charlie's assassination. Now, I obviously reported that the French Fore..."
+- [00:40:51](/episodes/ep-his-JBjlkh8.md#^t-00-40-39)
+  > "...d to ask the perhaps billion-dollar question to the Pentagon's press secretary, a young woman named Kingsley Wilson, about the foreign angle of Charlie (Charlie Kirk)'s assassination. Now, I obviously reported that ..."
+- [00:41:56](/episodes/ep-his-JBjlkh8.md#^t-00-41-55)
+  > "...s question. The way he asks it is, I think, worthy of highlighting. Take a listen. "Absolutely. I'm Kingsley Wilson. I'm the press secretary here at the Pentagon. We're in the Pentagon briefing room, and it's been f..."
 
 ## Relationships
 

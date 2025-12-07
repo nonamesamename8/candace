@@ -15,10 +15,19 @@ _Type: Organizations_
 ### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 
+### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
+
+
 ### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:00:25](/episodes/ep-t1YtLS1n8Vs.md#^t-00-00-00)
-  > "... So today we are going to talk about the ADL, the Anti-Defamation League, because suddenly Kash Patel wants to distance the feds from them. I don't really think that's poss..."
+  > "...per evil, something more sinister that sits below. So today we are going to talk about the ADL, the Anti-Defamation League, because suddenly Kash Patel wants to distance the feds from them. I don't really think that's poss..."
+- [00:01:30](/episodes/ep-t1YtLS1n8Vs.md#^t-00-01-24)
+  > "... They announced that they were going to cut ties with the ADL, right? You know what the ADL is? The Anti-Defamation League, and the reasons, well, because they had listed Charlie (Charlie Kirk) (Charlie Kirk) and his organ..."
+- [00:01:24](/episodes/ep-t1YtLS1n8Vs.md#^t-00-01-24)
+  > "...he FBI made a rather curious announcement. They announced that they were going to cut ties with the ADL, right? You know what the ADL is? The Anti-Defamation League, and the reasons, well, because they h..."
+- [00:01:29](/episodes/ep-t1YtLS1n8Vs.md#^t-00-01-24)
+  > "...nnouncement. They announced that they were going to cut ties with the ADL, right? You know what the ADL is? The Anti-Defamation League, and the reasons, well, because they had listed Charlie (Charlie Kir..."
 
 ## Relationships
 

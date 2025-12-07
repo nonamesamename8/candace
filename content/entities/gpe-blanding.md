@@ -10,8 +10,8 @@ _Type: Places_
 
 ### [ep-ZGxnf5cj4Uw](/episodes/ep-ZGxnf5cj4Uw.md)
 
-- [00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-34-14)
-  > "...nd 11:30 p.m. at night. Hey, it's September 10th, 2025, and I was just heading back from Salt Lake to Blanding. I'm getting a very late start. It's about ..."
+- [00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#^t-00-34-49)
+  > "... 11:30 p.m. at night. Hey, it's September 10th, 2025, and I was just heading back from Salt Lake to Blanding. I'm getting a very late start. It's about 11:30 at night, and I wanted to swing back by UVU campus..."
 
 ## Relationships
 

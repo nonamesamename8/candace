@@ -15,17 +15,17 @@ _Type: Organizations_
 ### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
 
 - [00:47:01](/episodes/ep-581dILVcEE4.md#^t-00-46-30)
-  > "They fund a variety of pro-Israel causes through the David Horowitz Freedom Center."
+  > "...hernick. He's a software tech billionaire guy. They fund a variety of pro-Israel causes through the David Horowitz Freedom Center. So that was another donor who went, "Bye-bye, Charlie (Charlie Kirk)." "How dare you let him speak..."
 
 ### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
 
 - [00:09:22](/episodes/ep-YFmRH8p5lt0.md#^t-00-08-56)
-  > "at that David Horowitz Freedom Center event that I was telling you about."
+  > "... Veritas, and he and Charlie (Charlie Kirk) and myself all met at the same time in November at that David Horowitz Freedom Center event that I was telling you about. James O'Keefe was really young. So we all kind of came up in th..."
 
 ### [ep-adJ4LNGp84I](/episodes/ep-adJ4LNGp84I.md)
 
 - [00:31:25](/episodes/ep-adJ4LNGp84I.md#^t-00-31-25)
-  > "David Horowitz, from which all of the connections, PragerU, I could tell you the stories; PragerU, David Horowitz Freedom Center, and Ben Shapiro, all"
+  > "... David Horowitz, from which all of the connections, PragerU, I could tell you the stories; PragerU, David Horowitz Freedom Center, and Ben Shapiro, all of them related in their beginnings in Los Angeles. So he's basically saying,..."
 
 ## Relationships
 

@@ -11,11 +11,7 @@ _Type: People_
 ### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:01:54](/episodes/ep-mKXdKV-OBog.md#^t-00-01-47)
-  > "... Franklin—I always really enjoyed—um, you know, I—George Washington, Abraham Lincoln, Thomas Jefferson are—I think are too cliché. So one I really enjoy that I just lo..."
-- [00:15:27](/episodes/ep-mKXdKV-OBog.md#^t-00-15-00)
-  > "... Um, so I love the American Founding Fathers. Ben Franklin—I always really enjoyed—um, you know, I—George Washington, Abraham Lincoln, Thomas Jefferson are—I thi..."
-- [00:11:22](/episodes/ep-mKXdKV-OBog.md#^t-00-10-47)
-  > "...njoyed—um, you know, I—George Washington, Abraham Lincoln, Thomas Jefferson are—I think are too cliché. So one I really enjoy that I just love learning from ..."
+  > ".... Um, so I love the American Founding Fathers. Ben Franklin—I always really enjoyed—um, you know, I—George Washington, Abraham Lincoln, Thomas Jefferson are—I think are too cliché. So one I really enjoy that I just lo..."
 
 ## Relationships
 

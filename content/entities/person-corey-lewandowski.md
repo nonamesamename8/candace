@@ -11,7 +11,7 @@ _Type: People_
 ### [ep-c5BcKF91iec](/episodes/ep-c5BcKF91iec.md)
 
 - [00:03:31](/episodes/ep-c5BcKF91iec.md#^t-00-03-03)
-  > "... soon as—I think it was Don Jr.— it might've been Corey Lewandowski—hit flash, took the picture. Charlie just went, "I don't know why you guys like this," because he w..."
+  > "...this catch. Charlie's eyes are closed here. And as soon as—I think it was Don Jr.— it might've been Corey Lewandowski—hit flash, took the picture. Charlie just went, "I don't know why you guys like this," because he w..."
 
 ## Relationships
 

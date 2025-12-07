@@ -11,7 +11,7 @@ _Type: People_
 ### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
 
 - [00:46:56](/episodes/ep-581dILVcEE4.md#^t-00-46-30)
-  > "...ion dollars because of the Tucker (Tucker Carlson) speech. That woman was Joyce Chernick. Joyce Chernick is married to Aubrey Chernick. He's a software tech billionaire guy. They fund a variety of pro..."
+  > "... of the Tucker (Tucker Carlson) speech. That woman was Joyce Chernick. Joyce Chernick is married to Aubrey Chernick. He's a software tech billionaire guy. They fund a variety of pro-Israel causes through the David H..."
 
 ## Relationships
 

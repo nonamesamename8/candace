@@ -15,7 +15,7 @@ _Type: Organizations_
 ### [ep-r1PS67aRmcA](/episodes/ep-r1PS67aRmcA.md)
 
 - [00:04:38](/episodes/ep-r1PS67aRmcA.md#^t-00-04-34)
-  > "...do a show together, talking about the DSA threat, Democratic Socialists of America threat, and orienting in the same direction? Happy to do whatever it takes to bring everyone back t..."
+  > "...ing. It means the world. It truly does. Should we do a show together, talking about the DSA threat, Democratic Socialists of America threat, and orienting in the same direction? Happy to do whatever it takes to bring everyone back t..."
 
 ## Relationships
 

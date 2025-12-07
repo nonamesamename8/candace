@@ -10,23 +10,32 @@ _Type: People_
 
 ### [ep-2Riv3I7D0Yk](/episodes/ep-2Riv3I7D0Yk.md)
 
-- [00:22:45](/episodes/ep-2Riv3I7D0Yk.md#^t-00-22-12)
-  > "...re teetering a bit: the Megyns and Kellys and the Michael Knowleses and others, kind of in this in-between." What do you think is going on there with them? "Yeah, lo..."
+- [00:25:16](/episodes/ep-2Riv3I7D0Yk.md#^t-00-24-59)
+  > "...to promote his book as like Charlie (Charlie Kirk)'s last wish. It's really amazing. Also, why does Michael Knowles randomly catch a stray? Like what's Michael Knowles been up to? That he's like now on their list. M..."
+- [00:25:19](/episodes/ep-2Riv3I7D0Yk.md#^t-00-24-59)
+  > "... last wish. It's really amazing. Also, why does Michael Knowles randomly catch a stray? Like what's Michael Knowles been up to? That he's like now on their list. Michael Knowles, Megyn Kelly—they're listing them. Th..."
+- [00:25:23](/episodes/ep-2Riv3I7D0Yk.md#^t-00-24-59)
+  > "...s randomly catch a stray? Like what's Michael Knowles been up to? That he's like now on their list. Michael Knowles, Megyn Kelly—they're listing them. That's coming next, okay? Inevitably, it comes inward. And I jus..."
 
 ### [ep-LATnak75Si0](/episodes/ep-LATnak75Si0.md)
 
 - [00:22:27](/episodes/ep-LATnak75Si0.md#^t-00-22-10)
-  > "...ly Wire: "Lady Ballers." You're good friends with Michael Knowles. You know fully well who Brett Cooper is. And that was a super classless tweet coming from you. Lik..."
+  > "...in a movie that Brett Cooper starred in at the Daily Wire: "Lady Ballers." You're good friends with Michael Knowles. You know fully well who Brett Cooper is. And that was a super classless tweet coming from you. Lik..."
 
 ### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
 
-- [00:34:06](/episodes/ep-UBkFkg4UNY8.md#^t-00-33-23)
-  > "...You can go check the videos out—him debating with Michael Knowles, you know, in good fun. I mean, they were dear friends, but they loved kind of debating the whole P..."
+- [00:34:06](/episodes/ep-UBkFkg4UNY8.md#^t-00-34-06)
+  > "...ad some really big theological hangups with that. You can go check the videos out—him debating with Michael Knowles, you know, in good fun. I mean, they were dear friends, but they loved kind of debating the whole P..."
 
 ### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
 
 - [00:11:23](/episodes/ep-ozWJz2spBcI.md#^t-00-11-19)
-  > "...You can go check the videos out—him debating with Michael Knowles, you know, in good fun. I mean, they were dear friends, but they loved kind of debating the whole P..."
+  > "...ad some really big theological hangups with that. You can go check the videos out—him debating with Michael Knowles, you know, in good fun. I mean, they were dear friends, but they loved kind of debating the whole P..."
+
+### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
+
+- [00:41:53](/episodes/ep-vwG1juDCQZQ.md#^t-00-41-49)
+  > "...e, okay? Because it meant there were gonna be protests. They will burn you in effigy—as they did to Michael Knowles at a Turning Point USA event. So there has to be certain parameters that are set to allow these par..."
 
 ## Relationships
 

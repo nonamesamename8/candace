@@ -11,9 +11,7 @@ _Type: Organizations_
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:20:07](/episodes/ep-tB5SXXmd9vU.md#^t-00-19-45)
-  > "...heir thing. Elsewhere in the article, and this is France 24 that reported this, it tells us that, quote, "The Ministry of the Armed Forces confirms that a trai..."
-- [00:20:02](/episodes/ep-tB5SXXmd9vU.md#^t-00-19-45)
-  > "...heir thing. Elsewhere in the article, and this is France 24 that reported this, it tells us that, quote, "The Ministry of the Armed Forces confirms that a t..."
+  > "...e French government. Yes-or-no questions are not their thing. Elsewhere in the article, and this is France 24 that reported this, it tells us that, quote, "The Ministry of the Armed Forces confirms that a trai..."
 
 ## Relationships
 

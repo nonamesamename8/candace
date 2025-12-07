@@ -14,10 +14,8 @@ _Type: Work_
 
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
-- [00:11:54](/episodes/ep-tB5SXXmd9vU.md#^t-00-11-17)
-  > "...ard of that, this was the article that he wrote: "Past as Prologue: Safari Club Illuminates Candace Owens' Allegations." I had never heard of this. I really hadn't, okay? Because I feel like I'm Alice in Wonderland. A ..."
 - [00:11:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-11-17)
-  > "...was the article that he wrote: "Past as Prologue: Safari Club Illuminates Candace Owens' Allegations." I had never heard of this. I really hadn't, okay? Because ..."
+  > "...tly this sort of operation, Now, if you haven't heard of that, this was the article that he wrote: "Past as Prologue: Safari Club Illuminates Candace Owens' Allegations." I had never heard of this. I really hadn't, okay? Because I feel like I'm Alice in Wonderland. A ..."
 
 ## Relationships
 

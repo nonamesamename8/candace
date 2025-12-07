@@ -14,15 +14,15 @@ _Type: People_
 
 ### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
-- [00:47:26](/episodes/ep-ZAuuSq_j2_w.md#^t-00-47-08)
-  > "... want to hang out with you. I don't hang out with Adam Sosnick. So can we get to the next part? Okay, we're not invited. We can't come to the party. We can't hang..."
+- [00:47:23](/episodes/ep-ZAuuSq_j2_w.md#^t-00-47-08)
+  > "...w. It's like—I want nothing to do with it. I don't want to hang out with you. I don't hang out with Adam Sosnick. So can we get to the next part? Okay, we're not invited. We can't come to the party. We can't hang..."
 
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:46:58](/episodes/ep-tB5SXXmd9vU.md#^t-00-46-56)
-  > "...ad brush, but a broad stroke. But I will say that Adam Sosnick is reaching levels of absurdity here. Rather than at all trying to prod the narrative of whether or..."
-- [00:47:14](/episodes/ep-tB5SXXmd9vU.md#^t-00-46-56)
-  > "... Take a listen to what Adam Sosnick had to say on Patrick Bet-David's podcast. Disgusting. Forget about what she said about Israel and Jews and BLM and liberals. This ..."
+  > "...und, so you know it's not fair to paint with a broad brush, but a broad stroke. But I will say that Adam Sosnick is reaching levels of absurdity here. Rather than at all trying to prod the narrative of whether or..."
+- [00:47:33](/episodes/ep-tB5SXXmd9vU.md#^t-00-46-56)
+  > "...aughable at this moment, of people that are engaged in the sport of politics. Take a listen to what Adam Sosnick had to say on Patrick Bet-David's podcast. Disgusting. Forget about what she said about Israel and ..."
 
 ## Relationships
 

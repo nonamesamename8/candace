@@ -11,7 +11,7 @@ _Type: People_
 ### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
 - [00:57:53](/episodes/ep-his-JBjlkh8.md#^t-00-57-46)
-  > "...logy rather. I spoke about it more at length with Russell Brand on his show, so that should be coming out soon, but we have to become educated about where it stems..."
+  > "...h is guiding that movement— it's guiding that theology rather. I spoke about it more at length with Russell Brand on his show, so that should be coming out soon. But we have to become educated about where it stems..."
 
 ## Relationships
 

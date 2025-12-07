@@ -10,10 +10,10 @@ _Type: People_
 
 ### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
 
-- [00:12:30](/episodes/ep-7RLtGgkTh9o.md#^t-00-12-06)
-  > "...ago, the New Yorker reported that she also tried to place Courtney Love and Lindsay Lohan into conservatorships. Oh, we're going to get there because as I started following the Calvary Chapel again—su..."
-- [00:13:50](/episodes/ep-7RLtGgkTh9o.md#^t-00-13-13)
-  > "...is many Calvary Chapel scandals and stories? She also mentioned Lindsay Lohan. She's not lying there. Well-loved teenager, fantastic actress—who didn't love a Parent Trap when they were growing up—and..."
+- [00:14:01](/episodes/ep-7RLtGgkTh9o.md#^t-00-13-53)
+  > "... Parent Trap when they were growing up—and then somehow became addicted to drugs. Suddenly her dad, Michael Lohan—you might not remember this, but he got in front of a mic speaking to the press and called out Lou ..."
+- [00:14:10](/episodes/ep-7RLtGgkTh9o.md#^t-00-13-53)
+  > "...this, but he got in front of a mic speaking to the press and called out Lou Taylor. Take a listen. (Michael Lohan clip) When Lindsay was supposed to go into Morningstar rehab, they started to reconstruct everythin..."
 
 ## Relationships
 

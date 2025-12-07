@@ -11,7 +11,7 @@ _Type: People_
 ### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
 
 - [00:13:16](/episodes/ep-JQjCAsfoXEE.md#^t-00-13-16)
-  > "...rant fund. Andrew K. Smith out of nowhere does this "Restaurantology" interview with Charlie (Charlie Kirk), and so Charlie (Charlie Kirk) flew into Salt Lake to make this interview happen. That to me..."
+  > "...an interview with a person that nobody really knows. He's a managing director of a restaurant fund. Andrew K. Smith out of nowhere does this "Restaurantology" interview with Charlie (Charlie Kirk), and so Charlie (C..."
 
 ## Relationships
 

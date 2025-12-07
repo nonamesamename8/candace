@@ -11,9 +11,7 @@ _Type: Places_
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:13:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15)
-  > "...Morocco, and France. Israel's involved, Rhodesia, South Africa. I mean, it tells you there that the process then led, resulted in the 1979 Egypt-Israel peace trea..."
-- [00:13:29](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15)
-  > "...handle business, and members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France. Israel's involved, Rhodesia, South Africa. I mean, it te..."
+  > "...s in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France. Israel's involved, Rhodesia, South Africa. I mean, it tells you there that the process then led, resulted in the 1979 Egypt-Israel peace trea..."
 
 ## Relationships
 

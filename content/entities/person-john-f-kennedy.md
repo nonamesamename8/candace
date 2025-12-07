@@ -12,11 +12,10 @@ _Type: People_
 
 ## Mentions
 
-### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
+### [ep-aDlhjfW6hz8](/episodes/ep-aDlhjfW6hz8.md)
 
-
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
-
+- [00:01:25](/episodes/ep-aDlhjfW6hz8.md#^t-00-00-55)
+  > "...government maneuver. Like, we get a Martin Luther King Day. We've got Martin Luther King Boulevard. John F. Kennedy gets a library and a national day of mourning. But you know what? You know what I was thinking? I'd..."
 
 ## Relationships
 

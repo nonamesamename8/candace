@@ -11,7 +11,7 @@ _Type: People_
 ### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
 
 - [00:14:52](/episodes/ep-sreYYcID-QY.md#^t-00-14-12)
-  > "... to the feds. So we're looking into Erwin, and we find that he doesn't just co-own just that one house on the street with somebody else named Samuel Steele, but Samuel and his wife Carrie are the ones..."
+  > "... and we find that he doesn't just co-own just that one house on the street with somebody else named Samuel Steele, but Samuel and his wife Carrie are the ones that own the house that gave the footage, not Erwin. B..."
 
 ## Relationships
 

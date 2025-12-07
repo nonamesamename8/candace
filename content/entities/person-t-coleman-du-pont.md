@@ -10,8 +10,8 @@ _Type: People_
 
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
-- [00:31:48](/episodes/ep-tB5SXXmd9vU.md#^t-00-31-13)
-  > "...ere sold to Wilmington Trust which was founded by T. Coleman du Pont, the French-American then-president of DuPont, to manage the growing fortune of the French-American..."
+- [00:31:48](/episodes/ep-tB5SXXmd9vU.md#^t-00-31-48)
+  > "...0, nearly all of lower Delaware branches of WSFS were sold to Wilmington Trust which was founded by T. Coleman du Pont, the French-American then-president of DuPont, to manage the growing fortune of the French-American..."
 
 ## Relationships
 

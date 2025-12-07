@@ -14,8 +14,8 @@ _Type: Organizations_
 
 ### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
-- [00:12:03](/episodes/ep-a-e7HC6SeK8.md#^t-00-11-53)
-  > "...s red crane at 1100 North King Street, and that's Bridge Complex, which is supposed to house Insight headquarters, and they've got a French CEO. It's just a lot hap..."
+- [00:12:24](/episodes/ep-a-e7HC6SeK8.md#^t-00-11-53)
+  > "...100 North Market. We told you about this crane—this red crane—at 1100 North King Street, and that's Bridge Complex, which is supposed to house Insight headquarters, and they've got a French CEO. It's just a lot hap..."
 
 ## Relationships
 

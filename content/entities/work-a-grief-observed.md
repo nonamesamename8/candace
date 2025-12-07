@@ -11,7 +11,7 @@ _Type: Work_
 ### [ep-vwG1juDCQZQ](/episodes/ep-vwG1juDCQZQ.md)
 
 - [00:08:34](/episodes/ep-vwG1juDCQZQ.md#^t-00-08-14)
-  > "...s only married to her for four years. It's called A Grief Observed. It was a very hard book to read, not because it was about grief, but because in the opening pages ..."
+  > "... Lewis because he lost the love of his life. He was only married to her for four years. It's called A Grief Observed. It was a very hard book to read, not because it was about grief, but because in the opening pages ..."
 
 ## Relationships
 

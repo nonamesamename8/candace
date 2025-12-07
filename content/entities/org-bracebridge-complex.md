@@ -11,7 +11,7 @@ _Type: Organizations_
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:28:46](/episodes/ep-tB5SXXmd9vU.md#^t-00-28-30)
-  > "... Street is big. The actual building is called the Bracebridge Complex. It spans over 1 million square feet. It seems it was originally built for the Maryland Bank as the..."
+  > "... here, okay? What I found on 1100, 1100 North King Street is big. The actual building is called the Bracebridge Complex. It spans over 1 million square feet. It seems it was originally built for the Maryland Bank as the..."
 
 ## Relationships
 

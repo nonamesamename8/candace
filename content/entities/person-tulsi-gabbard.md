@@ -15,19 +15,31 @@ _Type: People_
 ### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
 
 - [00:10:23](/episodes/ep-581dILVcEE4.md#^t-00-10-23)
-  > "...—could that be the gray and the black 4Runner? I don't know, but that could be compelling. That would be something that perhaps Joe Kent and Tulsi Gabbard—who are warring, or at least that's what the ..."
+  > "...nner? I don't know, but that could be compelling. That would be something that perhaps Joe Kent and Tulsi Gabbard—who are warring, or at least that's what the press said, warring with the FBI, or warring with Kash..."
+
+### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
+
+- [00:27:49](/episodes/ep-JQjCAsfoXEE.md#^t-00-27-38)
+  > "...kay. Honestly, you guys, it brings me great pleasure to deliver this information because now surely Tulsi's office can get involved—because you know those darn Egyptians are at it again. Those darn Egyptia..."
 
 ### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
 
 - [00:20:54](/episodes/ep-Qt0VHV-POCg.md#^t-00-20-35)
-  > "... have a meeting with Susie Wiles and Joe Kent and Tulsi Gabbard and Trump officials. I think it said JD Vance was in this meeting as well, and nothing was accompli..."
-- [00:18:37](/episodes/ep-Qt0VHV-POCg.md#^t-00-18-22)
-  > "...on that Kash Patel decided to have a meeting with Susie Wiles and Joe Kent and Tulsi Gabbard and Trump officials. I think it said JD Vance was in this meeting as..."
+  > "...yesterday—pertaining to how upset Kash Patel was when he received an inquiry from Joe Kent's office—Tulsi Gabbard's office. They lead the National Counterterrorism Center—Joe Kent does—and him inquiring about deta..."
+- [00:21:58](/episodes/ep-Qt0VHV-POCg.md#^t-00-21-58)
+  > "... And this is the reason that Kash Patel decided to have a meeting with Susie Wiles and Joe Kent and Tulsi Gabbard and Trump officials. I think it said JD Vance was in this meeting as well, and nothing was accompli..."
+- [00:22:54](/episodes/ep-Qt0VHV-POCg.md#^t-00-22-39)
+  > "...hat day. And I'm getting the suspicion that there were some foreign entities involved. So Joe Kent, Tulsi Gabbard—if you guys by any chance see this episode—keep going, right? We're just going very slowly here. Se..."
 
 ### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
 
-- [00:25:27](/episodes/ep-YFmRH8p5lt0.md#^t-00-24-47)
-  > "... on the plane. I do know that if Tulsi Gabbard or Kash Patel is potentially watching this—or if they are, as they have stated, or as the public figured out, bei..."
+- [00:25:27](/episodes/ep-YFmRH8p5lt0.md#^t-00-25-27)
+  > "...d, right? I don't know what this plane is doing. I don't know who's on the plane. I do know that if Tulsi Gabbard or Kash Patel is potentially watching this—or if they are, as they have stated, or as the public fi..."
+
+### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
+
+- [00:51:14](/episodes/ep-sImMM04XdWY.md#^t-00-50-42)
+  > "... obviously be fearful. Kash? That's just corruption. I mean, once I saw the article—he was blocking Tulsi's office— I lost all faith in Kash. I think he's a part of the corruption, plain and simple. Black ..."
 
 ## Relationships
 

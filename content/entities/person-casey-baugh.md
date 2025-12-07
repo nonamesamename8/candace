@@ -11,9 +11,9 @@ _Type: People_
 ### [ep-iHav0PPzUz8](/episodes/ep-iHav0PPzUz8.md)
 
 - [00:05:03](/episodes/ep-iHav0PPzUz8.md#^t-00-04-55)
-  > "...so co-owns that plane with them is a person named Casey Baugh—B-A-U-G-H. Now, I'm mentioning Casey Baugh because I found it—when I was researching—interesting th..."
-- [00:05:34](/episodes/ep-iHav0PPzUz8.md#^t-00-04-55)
-  > "... onto the rooftop? But of course now we know that Tyler Robinson was not on the Woodbury Building or on campus at all for that matter. So Casey Baugh is not a suspe..."
+  > "...wens: Someone who didn't hit internet radar who also co-owns that plane with them is a person named Casey Baugh—B-A-U-G-H. Now, I'm mentioning Casey Baugh because I found it—when I was researching—interesting th..."
+- [00:05:42](/episodes/ep-iHav0PPzUz8.md#^t-00-05-40)
+  > "... not on the Woodbury Building or Candace Owens: on campus at all for that matter. Candace Owens: So Casey Baugh is not a suspect for having provided him access in any way. Candace Owens: But I will say that the ..."
 
 ## Relationships
 

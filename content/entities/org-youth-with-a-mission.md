@@ -11,7 +11,7 @@ _Type: Organizations_
 ### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:14:09](/episodes/ep-YaZfwLQ7vrI.md#^t-00-13-59)
-  > "...th With A Mission, and Loren was sharing with me about a conversation he had had with Bill Bright. The two of them were visited actually by the Lord within the same 24 hours, and God spoke to them and..."
+  > "...a conversation I had in the year 2000. I had been talking to Loren Cunningham, who's the founder of Youth With A Mission, and Loren was sharing with me about a conversation he had had with Bill Bright. The two of them we..."
 
 ## Relationships
 

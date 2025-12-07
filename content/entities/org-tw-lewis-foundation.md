@@ -10,8 +10,8 @@ _Type: Organizations_
 
 ### [ep-581dILVcEE4](/episodes/ep-581dILVcEE4.md)
 
-- [00:21:14](/episodes/ep-581dILVcEE4.md#^t-00-20-39)
-  > "It'd be great if that foundation, T.W. Lewis Foundation, could help us out. I don't think they will for some reason."
+- [00:21:12](/episodes/ep-581dILVcEE4.md#^t-00-20-39)
+  > ".... I don't think the students are flying around on private planes. It'd be great if that foundation, T.W. Lewis Foundation, could help us out. I don't think they will for some reason. We keep coming up against the wall fro..."
 
 ## Relationships
 

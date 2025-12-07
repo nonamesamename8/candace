@@ -10,6 +10,8 @@ _Type: People_
 
 ### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
 
+- [00:12:15](/episodes/ep-JQjCAsfoXEE.md#^t-00-11-52)
+  > "... the general public. For example, one of the earliest alarms that went off for me was the fact that Terrell Farnsworth, the guy who takes out the SD cards, was there at all. Okay, Terrell does not do college campus eve..."
 
 ## Relationships
 

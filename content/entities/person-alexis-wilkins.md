@@ -11,19 +11,19 @@ _Type: People_
 ### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
 
 - [00:38:29](/episodes/ep-MUA9ebCF4Ow.md#^t-00-38-29)
-  > "...h-ranking enemy officials. Now, in response to the comments on that same day, Elijah Schaffer posted a photo of Alexis Wilkins—that is her name—and Patel. So this is what they're suing over, right her..."
+  > "...emy officials. Now, in response to the comments on that same day, Elijah Schaffer posted a photo of Alexis Wilkins—that is her name—and Patel. So this is what they're suing over, right here on the internet. LOL. El..."
 - [00:42:39](/episodes/ep-MUA9ebCF4Ow.md#^t-00-42-13)
-  > "I wake up. I'm called the N-word. Big deal. The internet is optional, Alexis Wilkins. It's optional, Kash Patel. This lawsuit is pathetic."
+  > "... People just being insulting. I wake up. I'm called the N-word. Big deal. The internet is optional, Alexis Wilkins. It's optional, Kash Patel. This lawsuit is pathetic. You should be forced to step aside, but you k..."
 
 ### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
 
 - [00:32:20](/episodes/ep-mKXdKV-OBog.md#^t-00-32-20)
-  > "... wrong. Like I'm engaged in—I make one slight mention, joke about Alexis Wilkins referring to Tim Dillon's content, and us getting a strike. And she goes on a rant against me—not against Tim Dillon, o..."
+  > "...w how he never gets sued. It feels wrong. Like I'm engaged in—I make one slight mention, joke about Alexis Wilkins referring to Tim Dillon's content, and us getting a strike. And she goes on a rant against me—not a..."
 
 ### [ep-yAIb-NuUh_U](/episodes/ep-yAIb-NuUh_U.md)
 
 - [00:45:31](/episodes/ep-yAIb-NuUh_U.md#^t-00-45-19)
-  > "...knows what she was doing in Switzerland—just loves him for him and was in the right place at the right time. By the way, I should mention Alexis Wilkins is her name—Alexis Wilkins. She's also a member..."
+  > "...d—just loves him for him and was in the right place at the right time. By the way, I should mention Alexis Wilkins is her name—Alexis Wilkins. She's also a member of the Calvary Chapel Church in California—Chino Hi..."
 
 ## Relationships
 

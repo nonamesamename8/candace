@@ -11,7 +11,7 @@ _Type: Organizations_
 ### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
 
 - [00:13:20](/episodes/ep-pc3pxRyNFZk.md#^t-00-13-06)
-  > "...und knowledge. So I work for an organization called Leadership Institute. And what we do is we work hand-in-hand with all the different conservative coalition groups on college campuses: the Young Ame..."
+  > "...? Yeah, so this requires a little bit of background knowledge. So I work for an organization called Leadership Institute. And what we do is we work hand-in-hand with all the different conservative coalition groups on col..."
 
 ## Relationships
 

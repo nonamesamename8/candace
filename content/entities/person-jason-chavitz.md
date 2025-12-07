@@ -14,10 +14,16 @@ _Type: People_
 
 ### [ep-pc3pxRyNFZk](/episodes/ep-pc3pxRyNFZk.md)
 
-- [00:22:13](/episodes/ep-pc3pxRyNFZk.md#^t-00-21-29)
-  > "... where he believed the shot came from, and that's Jason Chavitz, right? Jason Chavitz (Jason Chavitz) is a former politician and a Fox News contributor who was a w..."
-- [00:24:29](/episodes/ep-pc3pxRyNFZk.md#^t-00-24-13)
-  > "...avitz (Jason Chavitz), he's been honest about his background. His parents are in the government. They're literally in the FBI. So he's telling you that shot was closer. So what gives? Also, why is eve..."
+- [00:22:13](/episodes/ep-pc3pxRyNFZk.md#^t-00-22-13)
+  > "...News immediately after to provide a description of where he believed the shot came from, and that's Jason Chavitz, right? Jason Chavitz (Jason Chavitz) is a former politician and a Fox News contributor who was a w..."
+- [00:22:17](/episodes/ep-pc3pxRyNFZk.md#^t-00-22-13)
+  > "... to provide a description of where he believed the shot came from, and that's Jason Chavitz, right? Jason Chavitz (Jason Chavitz) is a former politician and a Fox News contributor who was a witness to this event b..."
+- [00:23:10](/episodes/ep-pc3pxRyNFZk.md#^t-00-22-56)
+  > "...—vibes were weird there, okay? Not assigning any necessarily badness to her, but didn't feel right. Jason Chavitz (Jason Chavitz), however, genuinely—when I looked at the footage—he seemed shaken by the event. And..."
+- [00:23:15](/episodes/ep-pc3pxRyNFZk.md#^t-00-22-56)
+  > "...however, genuinely—when I looked at the footage—he seemed shaken by the event. And let's hear where Jason Chavitz (Jason Chavitz) says he believes the shot came from. (Clip: Jason Chavitz) Take a listen. Being the..."
+- [00:24:24](/episodes/ep-pc3pxRyNFZk.md#^t-00-24-13)
+  > "...hot was from like the Losey building, he doesn't believe that. He doesn't believe that. By the way, Jason Chavitz (Jason Chavitz), he's been honest about his background. His parents are in the government. They're ..."
 
 ## Relationships
 

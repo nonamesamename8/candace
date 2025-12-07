@@ -11,7 +11,7 @@ _Type: Organizations_
 ### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:22:36](/episodes/ep-YA1FxrDWNIo.md#^t-00-22-32)
-  > "...doesn't know that. Mitchell, a detective with the Salt Lake County Sheriff's Office, has been investigating child sex crimes on the Internet for about a year. ‘I don't think people re..."
+  > "...detective hunting for a pedophile. But the hunted doesn't know that. Mitchell, a detective with the Salt Lake County Sheriff's Office, has been investigating child sex crimes on the Internet for about a year. ‘I don't think people re..."
 
 ## Relationships
 

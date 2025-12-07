@@ -14,8 +14,8 @@ _Type: People_
 
 ### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
 
-- [01:04:06](/episodes/ep-his-JBjlkh8.md#^t-01-03-25)
-  > "...iritual movement in this room when we interviewed Phil Turney of the USS Liberty. I'll never forget that interview. It transformed me. It was a major turning poi..."
+- [01:04:06](/episodes/ep-his-JBjlkh8.md#^t-01-04-06)
+  > "...e have ever given. We were all—you could feel a spiritual movement in this room when we interviewed Phil Tourney of the USS Liberty. I'll never forget that interview. It transformed me. It was a major turning poi..."
 
 ## Relationships
 

@@ -11,7 +11,7 @@ _Type: Organizations_
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:45:00](/episodes/ep-tB5SXXmd9vU.md#^t-00-44-51)
-  > "...ude of plastic surgeons. And then they list them. Wilmington University is nearby where they offer LGBTQ programs for kids, and Transition Delaware LLC, which offers couns..."
+  > "...es back toward the airport, you will find a multitude of plastic surgeons. And then they list them. Wilmington University is nearby where they offer LGBTQ programs for kids, and Transition Delaware LLC, which offers couns..."
 
 ## Relationships
 

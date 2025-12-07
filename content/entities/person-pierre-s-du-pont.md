@@ -10,10 +10,10 @@ _Type: People_
 
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
-- [00:29:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-13)
-  > "...on, a philanthropic nonprofit that was founded by Pierre S. du Pont to make it function as a quote-unquote educational center. There's just one problem with that. Pier..."
 - [00:29:28](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-13)
-  > "...ssed which would provide financial support to the Longwood Foundation, a philanthropic nonprofit that was founded by Pierre S. du Pont to make it function as a quote-unq..."
+  > "...provide financial support to the Longwood Foundation, a philanthropic nonprofit that was founded by Pierre S. du Pont to make it function as a quote-unquote educational center. There's just one problem with that. Pier..."
+- [00:29:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-29-47)
+  > "...Pont to make it function as a quote-unquote educational center. There's just one problem with that. Pierre S. du Pont was a member of the French-American family du Pont, which was descended from Pierre Samuel du Pont ..."
 
 ## Relationships
 

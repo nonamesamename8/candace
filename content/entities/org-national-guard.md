@@ -10,8 +10,8 @@ _Type: Organizations_
 
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
-- [00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-58-43)
-  > "... explain later this week, I think there were some National Guard regiments that were there, some French Foreign Legionnaires that were there, and yes, some Israelis..."
+- [00:59:13](/episodes/ep-tB5SXXmd9vU.md#^t-00-59-13)
+  > "... information that I am getting, which I'm going to explain later this week, I think there were some National Guard regiments that were there, some French Foreign Legionnaires that were there, and yes, some Israelis..."
 
 ## Relationships
 

@@ -11,7 +11,7 @@ _Type: Organizations_
 ### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:08:21](/episodes/ep-YaZfwLQ7vrI.md#^t-00-08-05)
-  > "... and a United States Capitol Police officer named Shawna Rae Kirkhoff, right? A man named—a reporter named Steve Baker—who just deserves all of the credit on this amazin..."
+  > "...dropping off those pipe bombs was revealed to be a fed—more specifically, a 31-year-old woman and a United States Capitol Police officer named Shawna Rae Kirkhoff, right? A man named—a reporter named Steve Baker—who just deserve..."
 
 ## Relationships
 

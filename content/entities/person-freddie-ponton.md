@@ -10,8 +10,8 @@ _Type: People_
 
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
-- [00:11:01](/episodes/ep-tB5SXXmd9vU.md#^t-00-10-50)
-  > "...d, or dropped. And I also would like to shout out Freddie Ponton, who wrote this article reminding people, and when I say reminding, I mean teaching people, if you'..."
+- [00:11:17](/episodes/ep-tB5SXXmd9vU.md#^t-00-11-17)
+  > "...dy knows about France. Here's what he said. He said, or dropped. And I also would like to shout out Freddie Ponton, who wrote this article reminding people, and when I say reminding, I mean teaching people, if you'..."
 
 ## Relationships
 

@@ -28,6 +28,9 @@ _Type: Organizations_
 ### [ep-5autG89PW6w](/episodes/ep-5autG89PW6w.md)
 
 
+### [ep-7RLtGgkTh9o](/episodes/ep-7RLtGgkTh9o.md)
+
+
 ### [ep-JQjCAsfoXEE](/episodes/ep-JQjCAsfoXEE.md)
 
 
@@ -35,9 +38,6 @@ _Type: Organizations_
 
 
 ### [ep-K5GjF53bfN4](/episodes/ep-K5GjF53bfN4.md)
-
-
-### [ep-MUA9ebCF4Ow](/episodes/ep-MUA9ebCF4Ow.md)
 
 
 ### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
@@ -48,15 +48,8 @@ _Type: Organizations_
 
 ### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
 
-- [00:06:23](/episodes/ep-SKGUzGHymcI.md#^t-00-06-15)
-  > "... people in government—people that were working in federal— and I did, people that I trusted. I went to, spoke with them, waited a while. That's why this email came i..."
-- [00:06:23](/episodes/ep-SKGUzGHymcI.md#^t-00-06-15)
-  > "... people in government—people that were working in federal— and I did, people that I trusted. I went to, spoke with them, waited a while. That's why this email came i..."
 
 ### [ep-UBkFkg4UNY8](/episodes/ep-UBkFkg4UNY8.md)
-
-
-### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
 
 
 ### [ep-YFmRH8p5lt0](/episodes/ep-YFmRH8p5lt0.md)
@@ -95,9 +88,6 @@ _Type: Organizations_
 ### [ep-ja26iltROkM](/episodes/ep-ja26iltROkM.md)
 
 
-### [ep-mKXdKV-OBog](/episodes/ep-mKXdKV-OBog.md)
-
-
 ### [ep-ozWJz2spBcI](/episodes/ep-ozWJz2spBcI.md)
 
 
@@ -118,6 +108,8 @@ _Type: Organizations_
 
 ### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
 
+- [00:34:45](/episodes/ep-t1YtLS1n8Vs.md#^t-00-34-19)
+  > "...on, okay? And so now what they're doing is they're calling their cronies. Brigitte Macron has hired feds, former federal prosecutors, and she's hiring a firm here. Why? Because the next option is if Canda..."
 
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 

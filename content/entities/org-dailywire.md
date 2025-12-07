@@ -11,7 +11,7 @@ _Type: Organizations_
 ### [ep-Qfwr08Ebczo](/episodes/ep-Qfwr08Ebczo.md)
 
 - [00:13:54](/episodes/ep-Qfwr08Ebczo.md#^t-00-13-27)
-  > "... Texas. The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire—not the initial seed money behind PragerU, but they majorly fun..."
+  > "...is church was funded by the Wilks Brothers down in Texas. The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire—not the initial seed money behind PragerU, but they majorl..."
 
 ## Relationships
 

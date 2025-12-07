@@ -11,9 +11,7 @@ _Type: People_
 ### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:31:05](/episodes/ep-QZWSsq8ZWzw.md#^t-00-30-51)
-  > "...piro, Clay Travis, Candace Owens (Candace Owens), Mitch McConnell, Rand Paul, even my old pal Ted Cruz, who, believe it or not, said something very beautiful on my b..."
-- [00:31:17](/episodes/ep-QZWSsq8ZWzw.md#^t-00-30-51)
-  > "...ens), Mitch McConnell, Rand Paul, even my old pal Ted Cruz, who, believe it or not, said something very beautiful on my behalf. I hate what Jimmy Kimmel said...."
+  > "...ay. People who I never would have imagined, like Ben Shapiro, Clay Travis, Candace (Candace Owens), Mitch McConnell, Rand Paul—even my old pal Ted Cruz, who, believe it or not, said something very beautiful on my be..."
 
 ## Relationships
 

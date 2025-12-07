@@ -17,12 +17,17 @@ _Type: Organizations_
 
 ## Mentions
 
+### [ep-Cq7nj9rxPdo](/episodes/ep-Cq7nj9rxPdo.md)
+
+
 ### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
-- [00:35:57](/episodes/ep-ZAuuSq_j2_w.md#^t-00-35-53)
-  > "...eal. Use code CANDACE10 for 10% off your order at NIMESKINCARE.COM. That's NIMESKINCARE.COM, and do not wait. Get your skin the care that it needs this winter. Treat ..."
+- [00:36:29](/episodes/ep-ZAuuSq_j2_w.md#^t-00-35-53)
+  > "... few, and you will thank me later. So here's the deal. Use code CANDACE10 for 10% off your order at NIMESKINCARE.COM. That's NIMESKINCARE.COM, and do not wait. Get your skin the care that it needs this winter. Treat ..."
+- [00:36:32](/episodes/ep-ZAuuSq_j2_w.md#^t-00-35-53)
+  > "...me later. So here's the deal. Use code CANDACE10 for 10% off your order at NIMESKINCARE.COM. That's NIMESKINCARE.COM, and do not wait. Get your skin the care that it needs this winter. Treat yourself, grab a couple o..."
 
-### [ep-his-JBjlkh8](/episodes/ep-his-JBjlkh8.md)
+### [ep-sreYYcID-QY](/episodes/ep-sreYYcID-QY.md)
 
 
 ## Relationships

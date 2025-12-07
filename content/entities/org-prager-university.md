@@ -11,7 +11,7 @@ _Type: Organizations_
 ### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:06:29](/episodes/ep-YA1FxrDWNIo.md#^t-00-06-12)
-  > "...d by my interview with him when I was working for Prager University. But moving on from that, Phil also disputes something that was quite strange: that Shaner Broderic..."
+  > "...ed to donate to that charity because I was so moved by my interview with him when I was working for Prager University. But moving on from that, Phil also disputes something that was quite strange: that Shaner Broderic..."
 
 ## Relationships
 

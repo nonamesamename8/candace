@@ -11,7 +11,9 @@ _Type: Work_
 ### [ep-QZWSsq8ZWzw](/episodes/ep-QZWSsq8ZWzw.md)
 
 - [00:18:16](/episodes/ep-QZWSsq8ZWzw.md#^t-00-17-56)
-  > "...oviet ideology. I tell people a must-read book is Inside American Education by Thomas Sowell. It is not left or right. He is just telling you how it all came together—the decl..."
+  > "...public school system comes from. It is shaped by Soviet ideology. I tell people a must-read book is Inside American Education by Thomas Sowell. It is not left or right. He is just telling you how it all came together—the decl..."
+- [00:44:28](/episodes/ep-QZWSsq8ZWzw.md#^t-00-44-08)
+  > "...gues, I've got to come with correct facts." "What resources do you recommend?" Well, I'd start with Inside American Education. I think that really does a really good job of illustrating what's been happening and why it's happ..."
 
 ## Relationships
 

@@ -10,8 +10,13 @@ _Type: Organizations_
 
 ### [ep-Qt0VHV-POCg](/episodes/ep-Qt0VHV-POCg.md)
 
-- [00:03:52](/episodes/ep-Qt0VHV-POCg.md#^t-00-03-39)
-  > "...ow. It reads: "Rob McCoy and Charlie Kirk founded Turning Point USA Faith (TPUSA Faith) together." "Along with being a Pentecostal pastor in the Calvary Chapel Association, ..."
+- [00:03:59](/episodes/ep-Qt0VHV-POCg.md#^t-00-03-39)
+  > "...nded Turning Point USA Faith (TPUSA Faith) together." "Along with being a Pentecostal pastor in the Calvary Chapel Association, McCoy is the co-chairman of TPUSA Faith." "Aligned with the Christian right, McCoy inspired Kirk t..."
+
+### [ep-SKGUzGHymcI](/episodes/ep-SKGUzGHymcI.md)
+
+- [00:51:37](/episodes/ep-SKGUzGHymcI.md#^t-00-51-10)
+  > "...e do know what this is really about. Soul Survivor writes, Calvary Global Network branched off from Calvary Chapel Association in 2017. Much like they infiltrated TPUSA, they started branching out into separate things. I sent ..."
 
 ## Relationships
 

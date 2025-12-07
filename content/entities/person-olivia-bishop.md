@@ -15,7 +15,13 @@ _Type: People_
 ### [ep-t1YtLS1n8Vs](/episodes/ep-t1YtLS1n8Vs.md)
 
 - [00:17:21](/episodes/ep-t1YtLS1n8Vs.md#^t-00-16-46)
-  > "...s listen to her testimony now. [CLIP ATTRIBUTION: Olivia Bishop speaking in this clip.] I kind of realized the type of street I was on, a little bit more secluded,..."
+  > "...oter limping up close. And her name, and we know this because she spoke to the news—they all did—is Olivia Robertson Cobb Bishop. Let's listen to her testimony now. [CLIP ATTRIBUTION: Olivia Bishop speaking in this clip.] I kind..."
+- [00:17:29](/episodes/ep-t1YtLS1n8Vs.md#^t-00-16-46)
+  > "...they all did—is Olivia Robertson Cobb Bishop. Let's listen to her testimony now. [CLIP ATTRIBUTION: Olivia Bishop speaking in this clip.] I kind of realized the type of street I was on, a little bit more secluded,..."
+- [00:17:32](/episodes/ep-t1YtLS1n8Vs.md#^t-00-17-32)
+  > "...n this clip.] I kind of realized the type of street I was on, a little bit more secluded, you know. Olivia Bishop retraces her steps where she came face to face with Charlie (Charlie Kirk)'s alleged killer. Just l..."
+- [00:21:28](/episodes/ep-t1YtLS1n8Vs.md#^t-00-21-03)
+  > "...at time, spoke to Alex Jones, Fox News, NewsNation, really anybody that would have him. Now we have Olivia Bishop; she works for the Orem Police, records specialist, and yeah, she works as the Orem Police records ..."
 
 ## Relationships
 

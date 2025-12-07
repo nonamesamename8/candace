@@ -14,8 +14,8 @@ _Type: People_
 
 ### [ep-a-e7HC6SeK8](/episodes/ep-a-e7HC6SeK8.md)
 
-- [00:07:45](/episodes/ep-a-e7HC6SeK8.md#^t-00-07-02)
-  > "...ing a toddler, it goes on and tells us that Judge Jan Jordan rules that Richards would benefit from treatment instead. Critics have since noted that such treatm..."
+- [00:07:39](/episodes/ep-a-e7HC6SeK8.md#^t-00-07-02)
+  > "...be valid. So instead of sentencing him to prison for raping a toddler, it goes on and tells us that Judge Jan Jordan rules that Richards would benefit from treatment instead. Critics have since noted that such treatm..."
 
 ## Relationships
 

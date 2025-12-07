@@ -11,7 +11,7 @@ _Type: Organizations_
 ### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
 - [00:17:22](/episodes/ep-sImMM04XdWY.md#^t-00-16-53)
-  > "...that Brigitte and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court, right? Not saying that Brigitte or Emmanuel are on this..."
+  > "...he 20th to the 26th—that happens to be the period that Brigitte and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court, right? Not saying that Brigitte or Emmanuel are on this..."
 
 ## Relationships
 

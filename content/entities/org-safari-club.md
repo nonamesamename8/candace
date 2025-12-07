@@ -11,9 +11,9 @@ _Type: Organizations_
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
 - [00:11:47](/episodes/ep-tB5SXXmd9vU.md#^t-00-11-17)
-  > "...was the article that he wrote: "Past as Prologue: Safari Club Illuminates Candace Owens' Allegations." I had never heard of this. I really hadn't, okay? Because ..."
-- [00:11:54](/episodes/ep-tB5SXXmd9vU.md#^t-00-11-17)
-  > "...ard of that, this was the article that he wrote: "Past as Prologue: Safari Club Illuminates Candace Owens' Allegations." I had never heard of this. I really hadn't, okay? Because I feel like I'm Alice in Wonderland. A ..."
+  > "...peration, Now, if you haven't heard of that, this was the article that he wrote: "Past as Prologue: Safari Club Illuminates Candace Owens' Allegations." I had never heard of this. I really hadn't, okay? Because ..."
+- [00:13:15](/episodes/ep-tB5SXXmd9vU.md#^t-00-13-15)
+  > "...m just pulling up the Wikipedia page here, you should go read that article in its entirety, but the Safari Club, man, a covert alliance of intelligence services formed in 1976, that ran operations around Africa...."
 
 ## Relationships
 

@@ -11,7 +11,7 @@ _Type: People_
 ### [ep-YaZfwLQ7vrI](/episodes/ep-YaZfwLQ7vrI.md)
 
 - [00:17:14](/episodes/ep-YaZfwLQ7vrI.md#^t-00-16-39)
-  > "...ifferent. He graduated from a military academy. His father, Carl Wallnau, was a major in the United States Air Force. Wallnau served under General Patton. After the war, he then continued his adventur..."
+  > "... Lance Wallnau (Lance Wallnau)—he's no different. He graduated from a military academy. His father, Carl Wallnau, was a major in the United States Air Force. Wallnau served under General Patton. After the war, he..."
 
 ## Relationships
 

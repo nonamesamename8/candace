@@ -11,7 +11,7 @@ _Type: Organizations_
 ### [ep-2WEHTk0Xewg](/episodes/ep-2WEHTk0Xewg.md)
 
 - [00:46:08](/episodes/ep-2WEHTk0Xewg.md#^t-00-46-02)
-  > "...t of heat for this and people are really mad. The American Jewish Committee called, in a statement, Charlie Kirk an anti-Semite, and quote, dangerous. Charlie Kirk, an anti-Se..."
+  > "...ld text me and say, "Man, I'm really taking a lot of heat for this, and people are really mad." The American Jewish Committee called—in a statement—Charlie (Charlie Kirk) an anti-Semite and quote "dangerous." Charlie (Charlie..."
 
 ## Relationships
 

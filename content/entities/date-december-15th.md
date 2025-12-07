@@ -15,12 +15,18 @@ _Type: Dates_
 ### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:05:05](/episodes/ep-ZAuuSq_j2_w.md#^t-00-04-36)
-  > "... "At 4 p.m. Eastern, 2 p.m. local time on Monday, December 15th, a collection of Charlie's friends will respond to statements made by Candace Owens to set the reco..."
+  > "...ached out to me and we set a time. No. He goes on. "At 4 p.m. Eastern, 2 p.m. local time on Monday, December 15th, a collection of Charlie (Charlie Kirk)'s friends will respond to statements made by Candace Owens ..."
+- [00:06:52](/episodes/ep-ZAuuSq_j2_w.md#^t-00-06-44)
+  > "...ty and instead chose to tweet this confirmation out at midnight. Why am I learning about this on X? December 15th does not work in person, and 2 p.m. happens to also be the literal time that I do my podcast live e..."
+- [00:08:12](/episodes/ep-ZAuuSq_j2_w.md#^t-00-08-05)
+  > "...ve decided that that response will be delivered during a live stream"—as he said, a live stream—"on December 15th. Thank you for your response, letting us know that you will not be joining the in-person conversati..."
+- [00:10:21](/episodes/ep-ZAuuSq_j2_w.md#^t-00-10-11)
+  > "... can do this virtually any place and any time." But no—they need to have it in person in Phoenix on December 15th, or they cannot have me at all. Is that passing the vibe check for you guys? Or does it seem like m..."
 
 ### [ep-sImMM04XdWY](/episodes/ep-sImMM04XdWY.md)
 
-- [00:09:08](/episodes/ep-sImMM04XdWY.md#^t-00-09-03)
-  > "...rn a man named Jean-Michel Trogneux. Suddenly, on December 3rd, before I interview him, I receive the first ever cease-and-desist letter from Brigitte Macron and h..."
+- [00:09:59](/episodes/ep-sImMM04XdWY.md#^t-00-09-40)
+  > "...is going to be their hangar. Okay, interesting. Back to our timeline. That is publicly announced on December 10th. And then on December 18th, Tom Clare sends another follow-up email regarding the cease-and-desist...."
 
 ## Relationships
 

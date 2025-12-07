@@ -10,10 +10,8 @@ _Type: Organizations_
 
 ### [ep-tB5SXXmd9vU](/episodes/ep-tB5SXXmd9vU.md)
 
-- [00:16:09](/episodes/ep-tB5SXXmd9vU.md#^t-00-15-25)
-  > "...gust 25th of this year, the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment, the 6th Light Armored Brigade, were integrated with U.S. Marines of the 6th Marine Regiment for a ..."
-- [00:15:59](/episodes/ep-tB5SXXmd9vU.md#^t-00-15-25)
-  > "...ing to the French Foreign Legion website, between August 2nd and August 25th of this year, the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment,..."
+- [00:16:09](/episodes/ep-tB5SXXmd9vU.md#^t-00-16-09)
+  > "... Foreign Legion website, between August 2nd and August 25th of this year, the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment, the 6th Light Armored Brigade, were integrated with U.S. Marines of the 6th Marine Regiment for a ..."
 
 ## Relationships
 

@@ -11,7 +11,7 @@ _Type: Work_
 ### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
 - [00:43:36](/episodes/ep-ZAuuSq_j2_w.md#^t-00-42-58)
-  > "...ishroom writes, I suffered through one episode of The New Turning Point. They are fake as hell and they are hiding behind the guise of religion for political power. That m..."
+  > "...ction. It is a step into the broader awakening. Fishroom writes: "I suffered through one episode of The New Turning Point. They are fake as hell, and they are hiding behind the guise of religion for political power." That..."
 
 ## Relationships
 

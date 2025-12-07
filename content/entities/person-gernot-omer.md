@@ -10,8 +10,8 @@ _Type: People_
 
 ### [ep-YA1FxrDWNIo](/episodes/ep-YA1FxrDWNIo.md)
 
-- [00:10:16](/episodes/ep-YA1FxrDWNIo.md#^t-00-09-32)
-  > "... doing? How did we get here? Anyways, his name is Gernot Omer, and we were able to find that his face matched with photos from a blog post that was written in Ge..."
+- [00:10:16](/episodes/ep-YA1FxrDWNIo.md#^t-00-10-16)
+  > ".... I mean, what? Austrian? What's this Austrian guy doing? How did we get here? Anyways, his name is Gernot Omer, and we were able to find that his face matched with photos from a blog post that was written in Ge..."
 
 ## Relationships
 

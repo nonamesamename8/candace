@@ -14,20 +14,18 @@ _Type: Events_
 
 ### [ep-ZAuuSq_j2_w](/episodes/ep-ZAuuSq_j2_w.md)
 
-- [00:05:21](/episodes/ep-ZAuuSq_j2_w.md#^t-00-04-36)
-  > "...aight once and for all." "Prior to the opening of AmericaFest." Now, if it's gonna be once and for all, it sounds pretty final. I mean, I would assume that I wou..."
+- [00:05:18](/episodes/ep-ZAuuSq_j2_w.md#^t-00-04-36)
+  > "...ements made by Candace Owens to set the record straight once and for all." "Prior to the opening of AmericaFest." Now, if it's gonna be once and for all, it sounds pretty final. I mean, I would assume that I wou..."
 
 ### [ep-czVBmqZP6Ss](/episodes/ep-czVBmqZP6Ss.md)
 
 - [00:13:18](/episodes/ep-czVBmqZP6Ss.md#^t-00-12-57)
-  > "...ertaining to Tucker (Tucker Carlson) and Candace (Candace Owens), but Tucker (Tucker Carlson) was really the focus when it came to AmericaFest. How could Charlie (..."
+  > "...lson) and Candace (Candace Owens), but Tucker (Tucker Carlson) was really the focus when it came to AmericaFest. How could Charlie (Charlie Kirk) allow these debates about Israel to take place? How could he allo..."
 
 ### [ep-q7f8r-THr84](/episodes/ep-q7f8r-THr84.md)
 
 - [00:40:36](/episodes/ep-q7f8r-THr84.md#^t-00-40-20)
-  > "...ing financial threats over his shifting stance on Israel, over who he was hosting, over—from his podcast to people that were on stage at America Fest—Dave S..."
-- [00:40:54](/episodes/ep-q7f8r-THr84.md#^t-00-40-20)
-  > "...ing financial threats over his shifting stance on Israel, over who he was hosting, over—from his podcast to people that were on stage at America Fest—Dave S..."
+  > "...ng stance on Israel, over who he was hosting, over—from his podcast to people that were on stage at America Fest—Dave Smith, Tucker (Tucker Carlson). That is reality, my friends. Again, want those people to know ..."
 
 ## Relationships
 
