@@ -269,4 +269,24 @@ _Type: People_
 
 ## Relationships
 
-_No relationships extracted yet._
+### Ceo Of
+
+- [Turning Point USA](/entities/org-turning-point-usa.md)
+  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:06:41](/episodes/ep-vwG1juDCQZQ.md#^t-00-06-26): "what it's like being at the helm of the organization, what her thoughts are about what that organization is going to look like going forward."
+  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:33:11](/episodes/ep-K5GjF53bfN4.md#^t-00-33-05): "she is stepping into a role: a CEO and the chairman of a company, a company that got bigger than Charlie Kirk"
+  - [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 @ 00:15:32](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-12): "Erika Kirk is now the CEO"
+
+### Married To
+
+- [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:35:42](/episodes/ep-K5GjF53bfN4.md#^t-00-35-18): "Charlie Kirk was very happy with Erika Kirk"
+  - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:21:26](/episodes/ep-K1tFD7FfoCU.md#^t-00-21-15): "Mrs. Erika Kirk will accept the award on her husband's behalf"
+
+### Referenced By
+
+- [Jesse Watters](/entities/person-jesse-watters.md) **interviewed** this
+  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:01:01](/episodes/ep-vwG1juDCQZQ.md#^t-00-00-45)
+  - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:00:36](/episodes/ep-K1tFD7FfoCU.md#^t-00-00-00)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) **married to** this
+  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:00:09](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00)
+  - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 01:07:30](/episodes/ep-2WEHTk0Xewg.md#^t-01-06-45)

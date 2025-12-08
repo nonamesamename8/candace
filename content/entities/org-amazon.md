@@ -32,7 +32,7 @@ _Type: Organizations_
 ### [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
 
 - [00:27:20](/episodes/ep-YA1FxrDWNIo.md#^t-00-26-45)
-  > "...'ll get 20% off your order. Beekeepers Naturals products are also available at Target, Whole Foods, Amazon, CVS, and Walgreens. Again, that's BeekeepersNaturals.com/Candace; enter code CANDICE. Okay, guys, ..."
+  > "...'ll get 20% off your order. Beekeepers Naturals products are also available at Target, Whole Foods, Amazon, CVS, and Walgreens. Again, that's BeekeepersNaturals.com/Candace; enter code CANDACE. Okay, guys, ..."
 
 ### [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
 

@@ -4366,7 +4366,7 @@ _Type: People_
 
 ### Married To
 
-- [Erika Kirk](/entities/person-erica-kirk.md)
+- [Erika Kirk](/entities/person-erika-kirk.md)
   - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:00:09](/episodes/ep-SKGUzGHymcI.md#^t-00-00-00): "tracking Erika (Erika Kirk) and Charlie (Charlie Kirk)"
   - [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 @ 01:07:30](/episodes/ep-2WEHTk0Xewg.md#^t-01-06-45): "Erika Kirk has been—you could see the energy. She's gonna fight."
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:43:45](/episodes/ep-sreYYcID-QY.md#^t-00-43-40): "When's the last time you spoke to Erica?"
@@ -4413,7 +4413,7 @@ _Type: People_
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:43:32](/episodes/ep-K5GjF53bfN4.md#^t-00-42-54)
 - [Andrew K. Smith](/entities/person-andrew-k-smith.md) **interviewed** this
   - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:13:16](/episodes/ep-JQjCAsfoXEE.md#^t-00-12-33)
-- [Erika Kirk](/entities/person-erica-kirk.md) **married to** this
+- [Erika Kirk](/entities/person-erika-kirk.md) **married to** this
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:35:42](/episodes/ep-K5GjF53bfN4.md#^t-00-35-18)
   - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 @ 00:21:26](/episodes/ep-K1tFD7FfoCU.md#^t-00-21-15)
 - [Andrew Kolvet](/entities/person-andrew-kolvet.md) **worked with** this

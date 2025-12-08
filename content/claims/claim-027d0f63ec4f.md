@@ -1,5 +1,5 @@
 ---
-title: "Andrew Colvett called me from the hospital and basically sai..."
+title: "Andrew Kolvet called me from the hospital and basically said..."
 claim_id: "claim-027d0f63ec4f"
 episode: "tB5SXXmd9vU"
 type: "factual"
@@ -10,7 +10,7 @@ type: "factual"
 
 ## Claim
 
-> Andrew Colvett called me from the hospital and basically said you and Tucker should shut up because you guys are on a list
+> Andrew Kolvet called me from the hospital and basically said you and Tucker should shut up because you guys are on a list
 
 ## Source
 
@@ -25,4 +25,4 @@ _This claim has not yet been verified._
 ## Follow-up
 
 **Status:** Open
-**Expected:** Confirm call details or statements from Andrew Colvett
+**Expected:** Confirm call details or statements from Andrew Kolvet

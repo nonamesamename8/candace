@@ -1,5 +1,5 @@
 ---
-title: "Andrew Colvett said, and I quote, 'Candace, it was supposed ..."
+title: "Andrew Kolvet said, and I quote, 'Candace, it was supposed t..."
 claim_id: "claim-77cd4ea72c5e"
 episode: "sImMM04XdWY"
 type: "factual"
@@ -11,7 +11,7 @@ veracity: "unverifiable"
 
 ## Claim
 
-> Andrew Colvett said, and I quote, 'Candace, it was supposed to be you'
+> Andrew Kolvet said, and I quote, 'Candace, it was supposed to be you'
 
 ## Source
 
@@ -28,4 +28,4 @@ veracity: "unverifiable"
 
 ### Analysis
 
-Multiple news outlets and posts on X report Candace Owens making this allegation in her podcast, including direct quotes matching the claim. However, the claim refers to a private phone conversation between Owens and Andrew Kolvet (likely misspelled as Colvett), with no publicly available recording, transcript, or confirmation/denial from Kolvet specifically addressing this quote. Andrew Kolvet has denied other related claims by Owens (e.g., about Israeli links) as 'laughably untrue' in sources like Hindustan Times, but not this exact statement. Verification would require a recording of the call, call logs, or a direct statement from Kolvet or witnesses confirming the quote.
+Multiple news outlets and posts on X report Candace Owens making this allegation in her podcast, including direct quotes matching the claim. However, the claim refers to a private phone conversation between Owens and Andrew Kolvet (likely misspelled as Kolvet), with no publicly available recording, transcript, or confirmation/denial from Kolvet specifically addressing this quote. Andrew Kolvet has denied other related claims by Owens (e.g., about Israeli links) as 'laughably untrue' in sources like Hindustan Times, but not this exact statement. Verification would require a recording of the call, call logs, or a direct statement from Kolvet or witnesses confirming the quote.

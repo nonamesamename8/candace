@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 
 **Published:** 2025-09-19 | [Watch on YouTube](https://www.youtube.com/watch?v=aDlhjfW6hz8)
 
-**Stats:** 25 entities | 6 events | 54 claims
+**Stats:** 26 entities | 6 events | 54 claims
 
 ---
 
@@ -302,7 +302,7 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 | [00:46:47](/timestamps/ep-aDlhjfW6hz8/t-00-46-24.md) | promise | [-](/claims/claim-a487fa4b4356.md) | I'm going to keep investigating every single lead until I solve his murder |
 | [00:50:38](/timestamps/ep-aDlhjfW6hz8/t-00-49-57.md) | factual | [-](/claims/claim-40268eced4ca.md) | They began using those advertisements for that drink, on August 31st |
 | [00:51:33](/timestamps/ep-aDlhjfW6hz8/t-00-51-24.md) | factual | [-](/claims/claim-8a45fd14e977.md) | There's a pipeline from people at UVU to people that go and work for the CIA |
-| [00:52:15](/timestamps/ep-aDlhjfW6hz8/t-00-52-10.md) | factual | [-](/claims/claim-ce0310944dae.md) | Andrew Colvett was definitely not there in the Hamptons |
+| [00:52:15](/timestamps/ep-aDlhjfW6hz8/t-00-52-10.md) | factual | [-](/claims/claim-ce0310944dae.md) | Andrew Kolvet was definitely not there in the Hamptons |
 
 </details>
 
@@ -327,4 +327,4 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 
 **Organizations:** [AIPAC](/entities/org-aipac.md), [Caldera Engineering](/entities/org-caldera-engineering.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [FBI](/entities/org-fbi.md), [TMZ](/entities/org-tmz.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Eric Bolling](/entities/person-eric-bolling.md), [Erika Kirk](/entities/person-erika-kirk.md), [Kanye West](/entities/person-kanye-west.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Eric Bolling](/entities/person-eric-bolling.md), [Erika Kirk](/entities/person-erika-kirk.md), [Kanye West](/entities/person-kanye-west.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Skylar](/entities/person-skylar.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)

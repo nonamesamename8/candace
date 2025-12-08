@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=2Riv3I7D0Yk"
 
 **Published:** 2025-10-08 | [Watch on YouTube](https://www.youtube.com/watch?v=2Riv3I7D0Yk)
 
-**Stats:** 40 entities | 7 events | 10 claims
+**Stats:** 42 entities | 7 events | 10 claims
 
 ---
 
@@ -386,8 +386,8 @@ youtube_url: "https://www.youtube.com/watch?v=2Riv3I7D0Yk"
 
 **Places:** [Israel](/entities/gpe-israel.md), [Qatar](/entities/gpe-qatar.md), [Saudi Arabia](/entities/gpe-saudi-arabia.md), [South Carolina](/entities/gpe-south-carolina.md), [Ukraine](/entities/gpe-ukraine.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
-**Organizations:** [AIPAC](/entities/org-aipac.md), [FBI](/entities/org-fbi.md), [JTV](/entities/org-jtv.md), [Mossad](/entities/org-mossad.md), [Newsweek](/entities/org-newsweek.md), [One America News](/entities/org-one-america-news.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+**Organizations:** [AIPAC](/entities/org-aipac.md), [FBI](/entities/org-fbi.md), [JTV](/entities/org-jtv.md), [Mossad](/entities/org-mossad.md), [Newsweek](/entities/org-newsweek.md), [One America News](/entities/org-one-america-news.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Alex Jones](/entities/person-alex-jones.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dinesh D'Souza](/entities/person-dinesh-d-souza.md), [Donald Trump](/entities/person-donald-trump.md), [Ian Carroll](/entities/person-ian-carroll.md), [Irina Zarutska](/entities/person-irina-zarutska.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kanye West](/entities/person-kanye-west.md), [Matt Gaetz](/entities/person-matt-gaetz.md), [Matt Walsh](/entities/person-matt-walsh.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael Knowles](/entities/person-michael-knowles.md), [Rabbi Pesach Wolicki](/entities/person-rabbi-pesach-wolicki.md), [Seth Dillon](/entities/person-seth-dillon.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Yashar Ali](/entities/person-yashar-ali.md)
+**People:** [Alex Jones](/entities/person-alex-jones.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dinesh D'Souza](/entities/person-dinesh-d-souza.md), [Donald Trump](/entities/person-donald-trump.md), [Ian Carroll](/entities/person-ian-carroll.md), [Irina Zarutska](/entities/person-irina-zarutska.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kanye West](/entities/person-kanye-west.md), [Matt Gaetz](/entities/person-matt-gaetz.md), [Matt Walsh](/entities/person-matt-walsh.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael Knowles](/entities/person-michael-knowles.md), [Rabbi Pesach Wolicki](/entities/person-rabbi-pesach-wolicki.md), [Seth Dillon](/entities/person-seth-dillon.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Uvalde Shooter](/entities/person-uvalde-shooter.md), [Yashar Ali](/entities/person-yashar-ali.md)
 
 **Work:** [Israel and Civilization](/entities/work-israel-and-civilization.md)

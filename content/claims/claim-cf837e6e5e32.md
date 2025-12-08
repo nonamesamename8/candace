@@ -1,5 +1,5 @@
 ---
-title: "I also had a long discussion with Andrew Colvet separately, ..."
+title: "I also had a long discussion with Andrew Kolvet separately, ..."
 claim_id: "claim-cf837e6e5e32"
 episode: "K1tFD7FfoCU"
 type: "factual"
@@ -11,7 +11,7 @@ veracity: "unverified"
 
 ## Claim
 
-> I also had a long discussion with Andrew Colvet separately, telling them both that Charlie should host Nick Fuentes on his show and debate him. I tried to make that happen. Andrew Colvet can confirm that everything that I am saying is true.
+> I also had a long discussion with Andrew Kolvet separately, telling them both that Charlie should host Nick Fuentes on his show and debate him. I tried to make that happen. Andrew Kolvet can confirm that everything that I am saying is true.
 
 ## Source
 
@@ -27,4 +27,4 @@ veracity: "unverified"
 ## Follow-up
 
 **Status:** Open
-**Expected:** Confirmation from Andrew Colvet
+**Expected:** Confirmation from Andrew Kolvet

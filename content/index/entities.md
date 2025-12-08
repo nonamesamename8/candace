@@ -1,6 +1,6 @@
 # Entities Index
 
-_Total entities: 644_
+_Total entities: 650_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -31,7 +31,7 @@ summary:hover { color: var(--secondary); }
 <div class="sort-alpha">
 
 <details open>
-<summary>People (268)</summary>
+<summary>People (272)</summary>
 
 - [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md) (2 mentions)
 - [Abraham Lincoln](/entities/person-abraham-lincoln.md) (1 mention)
@@ -60,6 +60,7 @@ summary:hover { color: var(--secondary); }
 - [Benjamin Franklin](/entities/person-ben-franklin.md) (1 mention)
 - [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md) (144 mentions)
 - [Bill Ackman](/entities/person-bill-ackman.md) (56 mentions)
+- [Blake Lively](/entities/person-blake-lively.md) (2 mentions)
 - [Blake Neff](/entities/person-blake-neff.md) (47 mentions)
 - [Bob Bryar](/entities/person-bob-bryar.md) (3 mentions)
 - [Bob Coy](/entities/person-bob-coy.md) (3 mentions)
@@ -265,6 +266,7 @@ summary:hover { color: var(--secondary); }
 - [Sherry Steele](/entities/person-sherry-steele.md) (4 mentions)
 - [Sigmund Freud](/entities/person-sigmund-freud.md) (29 mentions)
 - [Skordas](/entities/person-skordas.md) (3 mentions)
+- [Skylar](/entities/person-skylar.md) (3 mentions)
 - [Spencer Cox](/entities/person-spencer-cox.md) (1 mention)
 - [Stacey Sheridan](/entities/person-stacey-sheridan.md) (12 mentions)
 - [Steve Baker](/entities/person-steve-baker.md) (3 mentions)
@@ -290,11 +292,13 @@ summary:hover { color: var(--secondary); }
 - [Tulsi Gabbard](/entities/person-tulsi-gabbard.md) (7 mentions)
 - [Tyler Bowyer](/entities/person-tyler-bowyer.md) (45 mentions)
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (179 mentions)
+- [Uvalde Shooter](/entities/person-uvalde-shooter.md) (1 mention)
 - [Victoria Churchill](/entities/person-victoria-churchill.md) (3 mentions)
 - [Vivek Ramaswamy](/entities/person-vivek-ramaswamy.md) (4 mentions)
 - [Volodymyr Zelensky](/entities/person-volodymyr-zelensky.md) (7 mentions)
 - [Walid Mahmood](/entities/person-walid-mahmood.md) (10 mentions)
 - [Wilks Brothers](/entities/person-wilks-brothers.md) (2 mentions)
+- [William Shakespeare](/entities/person-shakespeare.md) (0 mentions)
 - [Xavier DeRusso](/entities/person-xavier-derusso.md) (17 mentions)
 - [Xavier Poussard](/entities/person-xavier-poussard.md) (9 mentions)
 - [Yashar Ali](/entities/person-yashar-ali.md) (3 mentions)
@@ -484,7 +488,7 @@ summary:hover { color: var(--secondary); }
 </details>
 
 <details open>
-<summary>Places (87)</summary>
+<summary>Places (88)</summary>
 
 - [1100 North King Street](/entities/gpe-1100-north-king-street.md) (6 mentions)
 - [1100 North Market Street](/entities/gpe-1100-north-market-street.md) (2 mentions)
@@ -568,6 +572,7 @@ summary:hover { color: var(--secondary); }
 - [United States](/entities/gpe-united-states.md) (469 mentions)
 - [Utah](/entities/gpe-utah.md) (152 mentions)
 - [Virginia](/entities/gpe-virginia.md) (4 mentions)
+- [Warner Valley](/entities/gpe-warner-valley.md) (0 mentions)
 - [Washington County](/entities/gpe-washington-county.md) (12 mentions)
 - [Washington, D.C.](/entities/gpe-washington-d-c.md) (4 mentions)
 - [Wilmington](/entities/gpe-wilmington.md) (83 mentions)
@@ -620,7 +625,7 @@ summary:hover { color: var(--secondary); }
 </details>
 
 <details open>
-<summary>Dates (53)</summary>
+<summary>Dates (54)</summary>
 
 - [1913](/entities/date-1913.md) (3 mentions)
 - [1960s](/entities/date-the-60s.md) (2 mentions)
@@ -670,6 +675,7 @@ summary:hover { color: var(--secondary); }
 - [October 14th](/entities/date-october-14th.md) (2 mentions)
 - [October 2023](/entities/date-october-2023.md) (1 mention)
 - [October 7th](/entities/date-october-7th.md) (11 mentions)
+- [September 10, 2025](/entities/date-september-10-2025.md) (0 mentions)
 - [September 10th](/entities/date-september-10th.md) (69 mentions)
 - [September 11th](/entities/date-september-11th.md) (19 mentions)
 - [September 2nd](/entities/date-september-2nd.md) (6 mentions)
@@ -727,7 +733,7 @@ summary:hover { color: var(--secondary); }
 <div class="sort-count">
 
 <details open>
-<summary>People (268)</summary>
+<summary>People (272)</summary>
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (2075 mentions)
 - [Candace Owens](/entities/person-candace-owens.md) (526 mentions)
@@ -883,6 +889,7 @@ summary:hover { color: var(--secondary); }
 - [Patrick Bet-David](/entities/person-patrick-bet-david.md) (3 mentions)
 - [Robert Bowles](/entities/person-robert-bowles.md) (3 mentions)
 - [Skordas](/entities/person-skordas.md) (3 mentions)
+- [Skylar](/entities/person-skylar.md) (3 mentions)
 - [Steve Baker](/entities/person-steve-baker.md) (3 mentions)
 - [Thomas Michael Camino](/entities/person-thomas-michael-camino.md) (3 mentions)
 - [Victoria Churchill](/entities/person-victoria-churchill.md) (3 mentions)
@@ -891,6 +898,7 @@ summary:hover { color: var(--secondary); }
 - [Aesmar](/entities/person-aesmar.md) (2 mentions)
 - [Ashley Reinsberg](/entities/person-ashley-reinsberg.md) (2 mentions)
 - [Austin Erickson](/entities/person-austin-erickson.md) (2 mentions)
+- [Blake Lively](/entities/person-blake-lively.md) (2 mentions)
 - [Bob Shillman](/entities/person-bob-shillman.md) (2 mentions)
 - [Breland Holland](/entities/person-breland-holland.md) (2 mentions)
 - [Brendan Carr](/entities/person-brendan-carr.md) (2 mentions)
@@ -996,7 +1004,9 @@ summary:hover { color: var(--secondary); }
 - [Tayler Hansen](/entities/person-tayler-hansen.md) (1 mention)
 - [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (1 mention)
 - [Thomas Jefferson](/entities/person-thomas-jefferson.md) (1 mention)
+- [Uvalde Shooter](/entities/person-uvalde-shooter.md) (1 mention)
 - [Yeshira Sanchez](/entities/person-yeshira-sanchez.md) (1 mention)
+- [William Shakespeare](/entities/person-shakespeare.md) (0 mentions)
 
 </details>
 
@@ -1180,7 +1190,7 @@ summary:hover { color: var(--secondary); }
 </details>
 
 <details open>
-<summary>Places (87)</summary>
+<summary>Places (88)</summary>
 
 - [Israel](/entities/gpe-israel.md) (596 mentions)
 - [United States](/entities/gpe-united-states.md) (469 mentions)
@@ -1269,6 +1279,7 @@ summary:hover { color: var(--secondary); }
 - [Riyadh](/entities/gpe-riyadh.md) (1 mention)
 - [South Africa](/entities/gpe-south-africa.md) (1 mention)
 - [United Kingdom](/entities/gpe-united-kingdom.md) (1 mention)
+- [Warner Valley](/entities/gpe-warner-valley.md) (0 mentions)
 
 </details>
 
@@ -1316,7 +1327,7 @@ summary:hover { color: var(--secondary); }
 </details>
 
 <details open>
-<summary>Dates (53)</summary>
+<summary>Dates (54)</summary>
 
 - [September 10th](/entities/date-september-10th.md) (69 mentions)
 - [2024](/entities/date-2024.md) (50 mentions)
@@ -1371,6 +1382,7 @@ summary:hover { color: var(--secondary); }
 - [November 25th](/entities/date-november-25th.md) (1 mention)
 - [October 2023](/entities/date-october-2023.md) (1 mention)
 - [September 30th, 2025](/entities/date-september-30th-2025.md) (1 mention)
+- [September 10, 2025](/entities/date-september-10-2025.md) (0 mentions)
 
 </details>
 

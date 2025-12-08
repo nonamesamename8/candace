@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=iHav0PPzUz8"
 
 **Published:** 2025-10-30 | [Watch on YouTube](https://www.youtube.com/watch?v=iHav0PPzUz8)
 
-**Stats:** 39 entities | 7 events | 13 claims
+**Stats:** 40 entities | 8 events | 13 claims
 
 ---
 
@@ -368,6 +368,7 @@ youtube_url: "https://www.youtube.com/watch?v=iHav0PPzUz8"
 - **2025-09-04**: Egyptian Air Force plane SUBTT arrives in Provo, Utah
 - **2025-09-10 07:14**: Egyptian Air Force plane SUBTT departs Provo, Utah
 - **2025-09-10 09:16**: Military-contracted plane dips low over Provo airport 26 minutes after Kirk assassination
+- **2025-09-10 12:23**: Charlie Kirk assassinated by shooting in Provo, Utah
 - **2025-09-10 13:20**: Private plane N888KG departs Provo airport for Page, Arizona
 - **2025-09-11 15:00**: Derek Maxfield issues statement denying N888KG involvement in Kirk assassination
 - **2025-10-29**: Daily Mail publishes Kash Patel shutting down Kirk foreign intelligence probe
@@ -384,4 +385,4 @@ youtube_url: "https://www.youtube.com/watch?v=iHav0PPzUz8"
 
 **Organizations:** [Daily Mail](/entities/org-daily-mail.md), [FBI](/entities/org-fbi.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Casey Baugh](/entities/person-casey-baugh.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Derek Maxfield](/entities/person-derek-maxfield.md), [Donald Trump](/entities/person-donald-trump.md), [George Zinn](/entities/person-george-zinn.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Seth Dillon](/entities/person-seth-dillon.md), [Shalane Maxfield](/entities/person-shalane-maxfield.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Casey Baugh](/entities/person-casey-baugh.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Derek Maxfield](/entities/person-derek-maxfield.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Seth Dillon](/entities/person-seth-dillon.md), [Shalane Maxfield](/entities/person-shalane-maxfield.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)

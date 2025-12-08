@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=pc3pxRyNFZk"
 
 **Published:** 2025-10-09 | [Watch on YouTube](https://www.youtube.com/watch?v=pc3pxRyNFZk)
 
-**Stats:** 21 entities | 6 events | 8 claims
+**Stats:** 22 entities | 8 events | 8 claims
 
 ---
 
@@ -308,6 +308,8 @@ youtube_url: "https://www.youtube.com/watch?v=pc3pxRyNFZk"
 
 ## Timeline Events
 
+- **1963-11-22**: President John F. Kennedy assassinated in Dallas, Texas
+- **1997-01-01**: Caldera Engineering company established
 - **2023-10-07**: Hamas attacks Israel on October 7
 - **2024-02-15**: Jared Kushner speaks at Harvard about Gaza future
 - **2024-05-15**: Dr. Deidre Weiss Amaro appointed Utah state medical examiner
@@ -325,4 +327,4 @@ youtube_url: "https://www.youtube.com/watch?v=pc3pxRyNFZk"
 
 **Organizations:** [Caldera Engineering](/entities/org-caldera-engineering.md), [FBI](/entities/org-fbi.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Jared Kushner](/entities/person-jared-kushner.md), [Jason Chaffetz](/entities/person-jason-chavitz.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kanye West](/entities/person-kanye-west.md), [Kash Patel](/entities/person-kash-patel.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Jared Kushner](/entities/person-jared-kushner.md), [Jason Chaffetz](/entities/person-jason-chavitz.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kanye West](/entities/person-kanye-west.md), [Kash Patel](/entities/person-kash-patel.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Skylar](/entities/person-skylar.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)

@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=7RLtGgkTh9o"
 
 **Published:** 2025-11-15 | [Watch on YouTube](https://www.youtube.com/watch?v=7RLtGgkTh9o)
 
-**Stats:** 32 entities | 7 events | 12 claims
+**Stats:** 33 entities | 7 events | 12 claims
 
 ---
 
@@ -298,4 +298,4 @@ youtube_url: "https://www.youtube.com/watch?v=7RLtGgkTh9o"
 
 **Organizations:** [Calvary Chapel](/entities/org-calvary-chapel.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Club Candace](/entities/org-club-candace.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Bob Coy](/entities/person-bob-coy.md), [Brett Cooper](/entities/person-brett-cooper.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Britney Spears](/entities/person-britney-spears.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Courtney Love](/entities/person-courtney-love.md), [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md), [Jamie Spears](/entities/person-jamie-spears.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Justin Bieber](/entities/person-justin-bieber.md), [Kanye West](/entities/person-kanye-west.md), [Kurt Cobain](/entities/person-kurt-cobain.md), [Lindsay Lohan](/entities/person-lindsay-lohan.md), [Lou Taylor](/entities/person-lou-taylor.md), [Michael Jackson](/entities/person-michael-jackson.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md)
+**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Bob Coy](/entities/person-bob-coy.md), [Brett Cooper](/entities/person-brett-cooper.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Britney Spears](/entities/person-britney-spears.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Courtney Love](/entities/person-courtney-love.md), [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md), [Jamie Spears](/entities/person-jamie-spears.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Justin Bieber](/entities/person-justin-bieber.md), [Kanye West](/entities/person-kanye-west.md), [Kurt Cobain](/entities/person-kurt-cobain.md), [Lindsay Lohan](/entities/person-lindsay-lohan.md), [Lou Taylor](/entities/person-lou-taylor.md), [Michael Jackson](/entities/person-michael-jackson.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Skylar](/entities/person-skylar.md)

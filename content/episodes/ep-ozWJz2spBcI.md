@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=ozWJz2spBcI"
 
 **Published:** 2025-10-06 | [Watch on YouTube](https://www.youtube.com/watch?v=ozWJz2spBcI)
 
-**Stats:** 26 entities | 7 events | 14 claims
+**Stats:** 28 entities | 7 events | 14 claims
 
 ---
 
@@ -299,7 +299,7 @@ youtube_url: "https://www.youtube.com/watch?v=ozWJz2spBcI"
 
 ## Entities Mentioned
 
-**Dates:** [2025](/entities/date-2025.md), [September 10th](/entities/date-september-10th.md)
+**Dates:** [2025](/entities/date-2025.md), [September 10, 2025](/entities/date-september-10-2025.md), [September 10th](/entities/date-september-10th.md)
 
 **Events:** [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
@@ -307,4 +307,4 @@ youtube_url: "https://www.youtube.com/watch?v=ozWJz2spBcI"
 
 **Organizations:** [FBI](/entities/org-fbi.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Wall Street Journal](/entities/org-wall-street-journal.md)
 
-**People:** [Alex Clark](/entities/person-alex-clark.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [David Hogg](/entities/person-david-hogg.md), [Donald Trump](/entities/person-donald-trump.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Kyle Kashuv](/entities/person-kyle-kashuv.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael Knowles](/entities/person-michael-knowles.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Alex Clark](/entities/person-alex-clark.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [David Hogg](/entities/person-david-hogg.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Kyle Kashuv](/entities/person-kyle-kashuv.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael Knowles](/entities/person-michael-knowles.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md)

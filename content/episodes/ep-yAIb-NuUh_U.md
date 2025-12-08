@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=yAIb-NuUh_U"
 
 **Published:** 2025-11-13 | [Watch on YouTube](https://www.youtube.com/watch?v=yAIb-NuUh_U)
 
-**Stats:** 29 entities | 9 events | 8 claims
+**Stats:** 29 entities | 11 events | 8 claims
 
 ---
 
@@ -314,6 +314,8 @@ youtube_url: "https://www.youtube.com/watch?v=yAIb-NuUh_U"
 
 ## Timeline Events
 
+- **1990-01-01**: Thomas Michael Camino placed on probation for lewd conduct with minors
+- **1995-05-01**: Thomas Michael Camino sentenced to 8 years for child-related offenses
 - **2019-01-17**: Calvary Chapel Fort Lauderdale employee arrested for child pornography
 - **2019-07-01**: Potter's Fields Ministries shuts down amid financial and psychological abuse scandal
 - **2022-06-01**: Mothers protest Thomas Camino's involvement in Calvary Chapel youth program

@@ -105,7 +105,7 @@ This page shows all extracted relationships between entities.
 - [Charlie Kirk](/entities/person-charlie-kirk.md) → [Kash Patel](/entities/person-kash-patel.md)
 - [Frank Turek](/entities/person-frank-turek.md) → [J. Warner Wallace](/entities/person-j-warner-wallace.md)
 - [Glenn Beck](/entities/person-glenn-beck.md) → [Steve Baker](/entities/person-steve-baker.md)
-- [Jesse Watters](/entities/person-jesse-watters.md) → [Erika Kirk](/entities/person-erica-kirk.md)
+- [Jesse Watters](/entities/person-jesse-watters.md) → [Erika Kirk](/entities/person-erika-kirk.md)
 - [Katie Miller](/entities/person-katie-miller.md) → [Pam Bondi](/entities/person-pam-bondi.md)
 - [Kayleigh McEnany](/entities/person-kayleigh-mcenany.md) → [Phil Lyman](/entities/person-phil-lyman.md)
 - [Megyn Kelly](/entities/person-megyn-kelly.md) → [Ben Shapiro](/entities/person-ben-shapiro.md)
@@ -257,11 +257,11 @@ This page shows all extracted relationships between entities.
 <details>
 <summary>Married To (10)</summary>
 
-- [Charlie Kirk](/entities/person-charlie-kirk.md) → [Erika Kirk](/entities/person-erica-kirk.md)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) → [Erika Kirk](/entities/person-erika-kirk.md)
 - [Courtney Love](/entities/person-courtney-love.md) → [Kurt Cobain](/entities/person-kurt-cobain.md)
 - [Derek Maxfield](/entities/person-derek-maxfield.md) → [Shalane Maxfield](/entities/person-shalane-maxfield.md)
 - [Emmanuel Macron](/entities/person-emmanuel-macron.md) → [Brigitte Macron](/entities/person-brigitte-macron.md)
-- [Erika Kirk](/entities/person-erica-kirk.md) → [Charlie Kirk](/entities/person-charlie-kirk.md)
+- [Erika Kirk](/entities/person-erika-kirk.md) → [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [Joyce Chernick](/entities/person-joyce-chernick.md) → [Aubrey Chernick](/entities/person-aubrey-chernick.md)
 - [Lisa Dean](/entities/person-lisa-dean.md) → [Christopher Mosley](/entities/person-christopher-mosley.md)
 - [Mike McCoy](/entities/person-mikey-mccoy.md) → [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md)
@@ -350,7 +350,7 @@ This page shows all extracted relationships between entities.
 
 - [Andrew Zenger](/entities/person-andrew-zenger.md) → [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
-- [Erika Kirk](/entities/person-erica-kirk.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
+- [Erika Kirk](/entities/person-erika-kirk.md) → [Turning Point USA](/entities/org-turning-point-usa.md)
 - [Hervé Hoppenot](/entities/person-herve-hoppenot.md) → [Incyte](/entities/org-incyte.md)
 - [Jeremy Boreing](/entities/person-jeremy-boreing.md) → [The Daily Wire](/entities/org-the-daily-wire.md)
 

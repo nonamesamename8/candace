@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=K1tFD7FfoCU"
 
 **Published:** 2025-11-03 | [Watch on YouTube](https://www.youtube.com/watch?v=K1tFD7FfoCU)
 
-**Stats:** 29 entities | 7 events | 14 claims
+**Stats:** 31 entities | 7 events | 14 claims
 
 ---
 
@@ -250,13 +250,13 @@ youtube_url: "https://www.youtube.com/watch?v=K1tFD7FfoCU"
 | [00:06:29](/timestamps/ep-K1tFD7FfoCU/t-00-06-07.md) | factual | [⏳ Unverified](/claims/claim-8f635dbe5404.md) | They fired him from Fox because he was speaking out against the Ukrainian war, a... |
 | [00:07:05](/timestamps/ep-K1tFD7FfoCU/t-00-06-49.md) | factual | [⏳ Unverified](/claims/claim-ad609848ce51.md) | these same individuals were squeezing Charlie leading up to the end of his life.... |
 | [00:08:20](/timestamps/ep-K1tFD7FfoCU/t-00-08-16.md) | factual | [⏳ Unverified](/claims/claim-baa785beab44.md) | Before Charlie died—really kind of just before he died in July—I interviewed Nic... |
-| [00:08:39](/timestamps/ep-K1tFD7FfoCU/t-00-08-16.md) | factual | [⏳ Unverified](/claims/claim-cf837e6e5e32.md) | I also had a long discussion with Andrew Colvet separately, telling them both th... |
+| [00:08:39](/timestamps/ep-K1tFD7FfoCU/t-00-08-16.md) | factual | [⏳ Unverified](/claims/claim-cf837e6e5e32.md) | I also had a long discussion with Andrew Kolvet separately, telling them both th... |
 | [00:14:52](/timestamps/ep-K1tFD7FfoCU/t-00-14-16.md) | factual | [⏳ Unverified](/claims/claim-3482fdb5efac.md) | Charlie and Ben Shapiro did not get along. Because Charlie found out that Ben Sh... |
 | [00:15:28](/timestamps/ep-K1tFD7FfoCU/t-00-14-56.md) | factual | [⏳ Unverified](/claims/claim-3c5edc1e48d1.md) | Ben Shapiro told Charlie that Ben Shapiro was in part upset because I made a jok... |
 | [00:18:55](/timestamps/ep-K1tFD7FfoCU/t-00-18-23.md) | factual | [⏳ Unverified](/claims/claim-a7c948949d3b.md) | Charlie loved Tucker Carlson... he fought for Tucker Carlson to be on the Turnin... |
 | [00:20:36](/timestamps/ep-K1tFD7FfoCU/t-00-20-31.md) | factual | [⏳ Unverified](/claims/claim-3eddf15b982d.md) | in the immediate aftermath of Charlie's death... the team reached out to host Ma... |
 | [00:20:53](/timestamps/ep-K1tFD7FfoCU/t-00-20-31.md) | factual | [⏳ Unverified](/claims/claim-a13febca5ad9.md) | the Jerusalem Post completely fictionalized or rather published a completely der... |
-| [00:22:13](/timestamps/ep-K1tFD7FfoCU/t-00-21-54.md) | factual | [⏳ Unverified](/claims/claim-07f466d67e84.md) | Andrew Colvet, the spokesperson for Turning Point USA, instantly came out and sl... |
+| [00:22:13](/timestamps/ep-K1tFD7FfoCU/t-00-21-54.md) | factual | [⏳ Unverified](/claims/claim-07f466d67e84.md) | Andrew Kolvet, the spokesperson for Turning Point USA, instantly came out and sl... |
 | [00:23:33](/timestamps/ep-K1tFD7FfoCU/t-00-23-22.md) | factual | [⏳ Unverified](/claims/claim-f7696ef2514b.md) | he wavered in his support [for Israel] |
 | [00:36:52](/timestamps/ep-K1tFD7FfoCU/t-00-36-34.md) | factual | [⏳ Unverified](/claims/claim-969e2f2e9ed8.md) | Kash Patel... flew down in his FBI plane to go see her [Alexis] down in Nashvill... |
 | [00:37:08](/timestamps/ep-K1tFD7FfoCU/t-00-36-34.md) | factual | [⏳ Unverified](/claims/claim-0cb559f24926.md) | there are clips of Kash Patel calling the FBI corrupt before he was in the FBI a... |
@@ -283,6 +283,6 @@ youtube_url: "https://www.youtube.com/watch?v=K1tFD7FfoCU"
 
 **Places:** [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
 
-**Organizations:** [AIPAC](/entities/org-aipac.md), [FBI](/entities/org-fbi.md), [Jerusalem Post](/entities/org-jerusalem-post.md), [Republican Jewish Coalition](/entities/org-republican-jewish-coalition.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md)
+**Organizations:** [AIPAC](/entities/org-aipac.md), [FBI](/entities/org-fbi.md), [Jerusalem Post](/entities/org-jerusalem-post.md), [Republican Jewish Coalition](/entities/org-republican-jewish-coalition.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Jesse Watters](/entities/person-jesse-watters.md), [Jussie Smollett](/entities/person-jussie-smollett.md), [Kash Patel](/entities/person-kash-patel.md), [Lindsey Graham](/entities/person-lindsey-graham.md), [Matt Walsh](/entities/person-matt-walsh.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael Starr](/entities/person-michael-starr.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Randy Fine](/entities/person-randy-fine.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [Jesse Watters](/entities/person-jesse-watters.md), [Jussie Smollett](/entities/person-jussie-smollett.md), [Kash Patel](/entities/person-kash-patel.md), [Lindsey Graham](/entities/person-lindsey-graham.md), [Matt Walsh](/entities/person-matt-walsh.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael Starr](/entities/person-michael-starr.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Randy Fine](/entities/person-randy-fine.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)

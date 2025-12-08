@@ -1323,7 +1323,7 @@ _Type: Organizations_
 - [Eric Bolling](/entities/person-eric-bolling.md) **board member of** this
   - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:25:58](/episodes/ep-aDlhjfW6hz8.md#^t-00-25-42)
   - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:39:21](/episodes/ep-sreYYcID-QY.md#^t-00-38-58)
-- [Erika Kirk](/entities/person-erica-kirk.md) **ceo of** this
+- [Erika Kirk](/entities/person-erika-kirk.md) **ceo of** this
   - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:06:41](/episodes/ep-vwG1juDCQZQ.md#^t-00-06-26)
   - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:33:11](/episodes/ep-K5GjF53bfN4.md#^t-00-33-05)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) **ceo of** this

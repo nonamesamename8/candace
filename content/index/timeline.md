@@ -1,6 +1,6 @@
 # Timeline
 
-_Total events: 455_
+_Total events: 465_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -215,6 +215,36 @@ _Total events: 455_
 
 </details>
 
+## 1990
+
+### January
+
+<a id="event-1990-01-01-thomas-michael-camino-placed-on-probation-for-lewd"></a>
+
+#### 1990-01-01: Thomas Michael Camino placed on probation for lewd conduct with minors
+
+<details>
+<summary>1 mention in 1 episode</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | ... @ 00:00:00](/episodes/ep-yAIb-NuUh_U.md#^t-00-00-01)
+
+</details>
+
+## 1995
+
+### May
+
+<a id="event-1995-05-01-thomas-michael-camino-sentenced-to-8-years-for-chi"></a>
+
+#### 1995-05-01: Thomas Michael Camino sentenced to 8 years for child-related offenses
+
+<details>
+<summary>1 mention in 1 episode</summary>
+
+- [What Did Charlie Kirk Discover Near The End? | ... @ 00:00:00](/episodes/ep-yAIb-NuUh_U.md#^t-00-00-01)
+
+</details>
+
 ## 1996
 
 ### January
@@ -227,6 +257,45 @@ _Total events: 455_
 <summary>1 mention in 1 episode</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:10:13](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-45)
+
+</details>
+
+<a id="event-1996-01-01-john-dupont-shoots-olympic-wrestler-david-schultz"></a>
+
+#### 1996-01-26: John du Pont shoots Olympic wrestler David Schultz at Foxcatcher Farm
+
+<details>
+<summary>1 mention in 1 episode</summary>
+
+- [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:00:00](/episodes/ep-a-e7HC6SeK8.md#^t-00-00-00)
+
+</details>
+
+## 1997
+
+### January
+
+<a id="event-1997-01-01-caldera-engineering-company-established"></a>
+
+#### 1997-01-01: Caldera Engineering company established
+
+<details>
+<summary>1 mention in 1 episode</summary>
+
+- [REVELATIONS: The Truth About Charlie's Medical ... @ 00:00:00](/episodes/ep-pc3pxRyNFZk.md#^t-00-00-00)
+
+</details>
+
+### June
+
+<a id="event-1997-06-01-doj-directory-lists-wilmington-resident-office-at"></a>
+
+#### 1997-06-01: DOJ directory lists Wilmington Residence Office at 920 King Street
+
+<details>
+<summary>1 mention in 1 episode</summary>
+
+- [Charlie Kirk And The Crossing Of The Delaware |... @ 00:10:15](/episodes/ep-SKGUzGHymcI.md#^t-00-09-44)
 
 </details>
 
@@ -243,6 +312,21 @@ _Total events: 455_
 
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:10:20](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-45)
 - [Turning Point Has Been Keeping A BIG Secret. Di... @ 00:10:13](/episodes/ep-a-e7HC6SeK8.md#^t-00-09-45)
+
+</details>
+
+## 1999
+
+### November
+
+<a id="event-1999-11-01-article-covers-detective-mike-mitchell-posing-onli"></a>
+
+#### 1999-11-01: Article covers Detective Mike Mitchell posing online to catch predators
+
+<details>
+<summary>1 mention in 1 episode</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:00](/episodes/ep-YA1FxrDWNIo.md#^t-00-00-01)
 
 </details>
 
@@ -1605,6 +1689,19 @@ _Total events: 455_
 
 ## 2023
 
+### January
+
+<a id="event-2023-01-01-candace-owens-tweets-no-government-has-right-to-co"></a>
+
+#### 2023-01-01: Candace Owens tweets 'no government has right to compel speech'
+
+<details>
+<summary>1 mention in 1 episode</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Canda... @ 00:00:00](/episodes/ep-ja26iltROkM.md#^t-00-00-00)
+
+</details>
+
 ### February
 
 <a id="event-2023-02-20-james-o-keefe-ousted-in-hostile-takeover-of-projec"></a>
@@ -2324,6 +2421,17 @@ _Total events: 455_
 
 </details>
 
+<a id="event-2024-03-19-candace-owens-fired-from-the-daily-wire"></a>
+
+#### 2024-03-19: Candace Owens fired from The Daily Wire
+
+<details>
+<summary>1 mention in 1 episode</summary>
+
+- [Another French Front: Did Charlie Kirk Save My ... @ 00:00:00](/episodes/ep-sImMM04XdWY.md#^t-00-00-01)
+
+</details>
+
 <a id="event-2024-01-01-candace-owens-departs-from-the-daily-wire-after-be"></a>
 
 #### 2024-03-22: Candace Owens departs from the Daily Wire after being fired.
@@ -2774,6 +2882,17 @@ _Total events: 455_
 <summary>2 mentions in 2 episodes</summary>
 
 - [Charlie Kirk And The Crossing Of The Delaware |... @ 00:12:48](/episodes/ep-SKGUzGHymcI.md#^t-00-12-23)
+- [Another French Front: Did Charlie Kirk Save My ... @ 00:09:08](/episodes/ep-sImMM04XdWY.md#^t-00-09-03)
+
+</details>
+
+<a id="event-2024-12-10-french-company-satis-announces-hangar-lease-in-wil"></a>
+
+#### 2024-12-10: French company Satys announces hangar lease in Wilmington
+
+<details>
+<summary>1 mention in 1 episode</summary>
+
 - [Another French Front: Did Charlie Kirk Save My ... @ 00:09:08](/episodes/ep-sImMM04XdWY.md#^t-00-09-03)
 
 </details>
@@ -4002,6 +4121,17 @@ _Total events: 455_
 - [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists... @ 00:08:39](/episodes/ep-K1tFD7FfoCU.md#^t-00-08-16)
 - [To My Friend, Charlie Kirk. @ 00:14:33](/episodes/ep-_dRaEO47-co.md#^t-00-14-11)
 - [Charlie Kirk Expressed Concerns About TPUSA Fin... @ 00:10:37](/episodes/ep-K5GjF53bfN4.md#^t-00-09-59)
+
+</details>
+
+<a id="event-2025-05-01-charlie-kirk-writes-and-sends-pro-israel-love-lett"></a>
+
+#### 2025-05-01: Charlie Kirk writes and sends pro-Israel love letter
+
+<details>
+<summary>1 mention in 1 episode</summary>
+
+- [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:00](/episodes/ep-YA1FxrDWNIo.md#^t-00-00-01)
 
 </details>
 
@@ -15028,7 +15158,7 @@ _Total events: 455_
 
 </details>
 
-<a id="event-2025-09-09-charlie-kirk-and-erica-consult-priest-to-counter-j"></a>
+<a id="event-2025-09-09-charlie-kirk-and-erika-consult-priest-to-counter-j"></a>
 
 #### 2025-09-09: Charlie Kirk and Erika consult priest to counter Jezebel curse.
 
@@ -35783,7 +35913,7 @@ _Total events: 455_
 
 </details>
 
-<a id="event-2025-12-02-reference-to-erica-kirk-serving-in-a-new-capacity"></a>
+<a id="event-2025-12-02-reference-to-erika-kirk-serving-in-a-new-capacity"></a>
 
 #### 2025-12-02: Reference to Erika Kirk serving in a new capacity as CEO and chairman at Turning Point.
 

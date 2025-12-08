@@ -909,7 +909,7 @@ _Verifiable statements about events, dates, people, or facts_
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:08:39](/episodes/ep-K1tFD7FfoCU.md#^t-00-08-16)
 
-> I also had a long discussion with Andrew Colvet separately, telling them both that Charlie should host Nick Fuentes on his show and debate him. I tried to make that happen. Andrew Colvet can confirm that everything that I am saying is true.
+> I also had a long discussion with Andrew Kolvet separately, telling them both that Charlie should host Nick Fuentes on his show and debate him. I tried to make that happen. Andrew Kolvet can confirm that everything that I am saying is true.
 
 **Type:** Factual
 **Veracity:** Unverified
@@ -951,7 +951,7 @@ _Verifiable statements about events, dates, people, or facts_
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:22:13](/episodes/ep-K1tFD7FfoCU.md#^t-00-21-54)
 
-> Andrew Colvet, the spokesperson for Turning Point USA, instantly came out and slapped down the rumor... 'This is the first we're hearing of this. We've reached out to the reporter at the Jerusalem Post for a correction.'
+> Andrew Kolvet, the spokesperson for Turning Point USA, instantly came out and slapped down the rumor... 'This is the first we're hearing of this. We've reached out to the reporter at the Jerusalem Post for a correction.'
 
 **Type:** Factual
 **Veracity:** Unverified
@@ -1376,14 +1376,14 @@ _Verifiable statements about events, dates, people, or facts_
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:16:05](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-57)
 
-> Alex Clark and Andrew Colvett claimed Charlie Kirk was a committed evangelical who only liked Catholic architecture
+> Alex Clark and Andrew Kolvet claimed Charlie Kirk was a committed evangelical who only liked Catholic architecture
 
 **Type:** Factual
 **Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:16:19](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-57)
 
-> Andrew Colvett claimed Charlie Kirk's neck stopped a .30-06 bullet because he ate salad and had strong bones as a miracle
+> Andrew Kolvet claimed Charlie Kirk's neck stopped a .30-06 bullet because he ate salad and had strong bones as a miracle
 
 **Type:** Factual
 **Veracity:** Unverified
@@ -3607,7 +3607,7 @@ _Verifiable statements about events, dates, people, or facts_
 
 ### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:52:15](/episodes/ep-aDlhjfW6hz8.md#^t-00-52-10)
 
-> Andrew Colvett was definitely not there in the Hamptons
+> Andrew Kolvet was definitely not there in the Hamptons
 
 **Type:** Factual
 
@@ -4893,7 +4893,7 @@ _Verifiable statements about events, dates, people, or facts_
 
 ### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Ca... @ 00:25:06](/episodes/ep-ozWJz2spBcI.md#^t-00-24-30)
 
-> I spoke to that Turning Point individual... And the answer that I was given sounded more like what Andrew Colvett said. 'You know, I was emotional. I knew that Charlie Kirk was dead. And my instinct was to make sure that I secured the footage so that Erika would not have to see it again. Like, he didn't want Erika to have to relive it.'
+> I spoke to that Turning Point individual... And the answer that I was given sounded more like what Andrew Kolvet said. 'You know, I was emotional. I knew that Charlie Kirk was dead. And my instinct was to make sure that I secured the footage so that Erika would not have to see it again. Like, he didn't want Erika to have to relive it.'
 
 **Type:** Factual
 
@@ -5497,12 +5497,12 @@ _Verifiable statements about events, dates, people, or facts_
 
 ### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:02:55](/episodes/ep-sImMM04XdWY.md#^t-00-02-44)
 
-> Andrew Colvett said, and I quote, 'Candace, it was supposed to be you'
+> Andrew Kolvet said, and I quote, 'Candace, it was supposed to be you'
 
 **Type:** Factual
 **Veracity:** Unverifiable (high)
 **Source:** ["Candace, it was supposed to be you": Candace Owens alleges Andrew Kolvet called her days after Charlie Kirk's assassination with shocking claim](https://www.sportskeeda.com/pop-culture/candace-supposed-you-candace-owens-alleges-andrew-kolvet-called-days-charlie-kirk-s-assassination-shocking-claim)
-**Verification Notes:** Multiple news outlets and posts on X report Candace Owens making this allegation in her podcast, including direct quotes matching the claim. However, the claim refers to a private phone conversation between Owens and Andrew Kolvet (likely misspelled as Colvett), with no publicly available recording, transcript, or confirmation/denial from Kolvet specifically addressing this quote. Andrew Kolvet has denied other related claims by Owens (e.g., about Israeli links) as 'laughably untrue' in sources like Hindustan Times, but not this exact statement. Verification would require a recording of the call, call logs, or a direct statement from Kolvet or witnesses confirming the quote.
+**Verification Notes:** Multiple news outlets and posts on X report Candace Owens making this allegation in her podcast, including direct quotes matching the claim. However, the claim refers to a private phone conversation between Owens and Andrew Kolvet (likely misspelled as Kolvet), with no publicly available recording, transcript, or confirmation/denial from Kolvet specifically addressing this quote. Andrew Kolvet has denied other related claims by Owens (e.g., about Israeli links) as 'laughably untrue' in sources like Hindustan Times, but not this exact statement. Verification would require a recording of the call, call logs, or a direct statement from Kolvet or witnesses confirming the quote.
 
 ### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:03:31](/episodes/ep-sImMM04XdWY.md#^t-00-03-29)
 
@@ -6586,7 +6586,7 @@ _Verifiable statements about events, dates, people, or facts_
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:55:34](/episodes/ep-tB5SXXmd9vU.md#^t-00-55-11)
 
-> Andrew Colvett called me from the hospital and basically said you and Tucker should shut up because you guys are on a list
+> Andrew Kolvet called me from the hospital and basically said you and Tucker should shut up because you guys are on a list
 
 **Type:** Factual
 
@@ -9012,12 +9012,12 @@ _Claims that cannot be verified (e.g., private conversations)_
 
 ### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:02:55](/episodes/ep-sImMM04XdWY.md#^t-00-02-44)
 
-> Andrew Colvett said, and I quote, 'Candace, it was supposed to be you'
+> Andrew Kolvet said, and I quote, 'Candace, it was supposed to be you'
 
 **Type:** Factual
 **Veracity:** Unverifiable (high)
 **Source:** ["Candace, it was supposed to be you": Candace Owens alleges Andrew Kolvet called her days after Charlie Kirk's assassination with shocking claim](https://www.sportskeeda.com/pop-culture/candace-supposed-you-candace-owens-alleges-andrew-kolvet-called-days-charlie-kirk-s-assassination-shocking-claim)
-**Verification Notes:** Multiple news outlets and posts on X report Candace Owens making this allegation in her podcast, including direct quotes matching the claim. However, the claim refers to a private phone conversation between Owens and Andrew Kolvet (likely misspelled as Colvett), with no publicly available recording, transcript, or confirmation/denial from Kolvet specifically addressing this quote. Andrew Kolvet has denied other related claims by Owens (e.g., about Israeli links) as 'laughably untrue' in sources like Hindustan Times, but not this exact statement. Verification would require a recording of the call, call logs, or a direct statement from Kolvet or witnesses confirming the quote.
+**Verification Notes:** Multiple news outlets and posts on X report Candace Owens making this allegation in her podcast, including direct quotes matching the claim. However, the claim refers to a private phone conversation between Owens and Andrew Kolvet (likely misspelled as Kolvet), with no publicly available recording, transcript, or confirmation/denial from Kolvet specifically addressing this quote. Andrew Kolvet has denied other related claims by Owens (e.g., about Israeli links) as 'laughably untrue' in sources like Hindustan Times, but not this exact statement. Verification would require a recording of the call, call logs, or a direct statement from Kolvet or witnesses confirming the quote.
 
 ### [Another French Front: Did Charlie Kirk Save My Life? | Ca... @ 00:03:31](/episodes/ep-sImMM04XdWY.md#^t-00-03-29)
 
@@ -9906,7 +9906,7 @@ _Claims not yet checked against external sources_
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:08:39](/episodes/ep-K1tFD7FfoCU.md#^t-00-08-16)
 
-> I also had a long discussion with Andrew Colvet separately, telling them both that Charlie should host Nick Fuentes on his show and debate him. I tried to make that happen. Andrew Colvet can confirm that everything that I am saying is true.
+> I also had a long discussion with Andrew Kolvet separately, telling them both that Charlie should host Nick Fuentes on his show and debate him. I tried to make that happen. Andrew Kolvet can confirm that everything that I am saying is true.
 
 **Type:** Factual
 **Veracity:** Unverified
@@ -9948,7 +9948,7 @@ _Claims not yet checked against external sources_
 
 ### [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About... @ 00:22:13](/episodes/ep-K1tFD7FfoCU.md#^t-00-21-54)
 
-> Andrew Colvet, the spokesperson for Turning Point USA, instantly came out and slapped down the rumor... 'This is the first we're hearing of this. We've reached out to the reporter at the Jerusalem Post for a correction.'
+> Andrew Kolvet, the spokesperson for Turning Point USA, instantly came out and slapped down the rumor... 'This is the first we're hearing of this. We've reached out to the reporter at the Jerusalem Post for a correction.'
 
 **Type:** Factual
 **Veracity:** Unverified
@@ -10346,14 +10346,14 @@ _Claims not yet checked against external sources_
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:16:05](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-57)
 
-> Alex Clark and Andrew Colvett claimed Charlie Kirk was a committed evangelical who only liked Catholic architecture
+> Alex Clark and Andrew Kolvet claimed Charlie Kirk was a committed evangelical who only liked Catholic architecture
 
 **Type:** Factual
 **Veracity:** Unverified
 
 ### [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Char... @ 00:16:19](/episodes/ep-MUA9ebCF4Ow.md#^t-00-15-57)
 
-> Andrew Colvett claimed Charlie Kirk's neck stopped a .30-06 bullet because he ate salad and had strong bones as a miracle
+> Andrew Kolvet claimed Charlie Kirk's neck stopped a .30-06 bullet because he ate salad and had strong bones as a miracle
 
 **Type:** Factual
 **Veracity:** Unverified
@@ -12482,7 +12482,7 @@ _Claims not yet checked against external sources_
 
 ### [Who Moved The Camera Right Above Charlie's Head? | Candac... @ 00:52:15](/episodes/ep-aDlhjfW6hz8.md#^t-00-52-10)
 
-> Andrew Colvett was definitely not there in the Hamptons
+> Andrew Kolvet was definitely not there in the Hamptons
 
 **Type:** Factual
 
@@ -13684,7 +13684,7 @@ _Claims not yet checked against external sources_
 
 ### [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Ca... @ 00:25:06](/episodes/ep-ozWJz2spBcI.md#^t-00-24-30)
 
-> I spoke to that Turning Point individual... And the answer that I was given sounded more like what Andrew Colvett said. 'You know, I was emotional. I knew that Charlie Kirk was dead. And my instinct was to make sure that I secured the footage so that Erika would not have to see it again. Like, he didn't want Erika to have to relive it.'
+> I spoke to that Turning Point individual... And the answer that I was given sounded more like what Andrew Kolvet said. 'You know, I was emotional. I knew that Charlie Kirk was dead. And my instinct was to make sure that I secured the footage so that Erika would not have to see it again. Like, he didn't want Erika to have to relive it.'
 
 **Type:** Factual
 
@@ -15119,7 +15119,7 @@ _Claims not yet checked against external sources_
 
 ### [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:55:34](/episodes/ep-tB5SXXmd9vU.md#^t-00-55-11)
 
-> Andrew Colvett called me from the hospital and basically said you and Tucker should shut up because you guys are on a list
+> Andrew Kolvet called me from the hospital and basically said you and Tucker should shut up because you guys are on a list
 
 **Type:** Factual
 

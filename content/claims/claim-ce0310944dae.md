@@ -1,5 +1,5 @@
 ---
-title: "Andrew Colvett was definitely not there in the Hamptons"
+title: "Andrew Kolvet was definitely not there in the Hamptons"
 claim_id: "claim-ce0310944dae"
 episode: "aDlhjfW6hz8"
 type: "factual"
@@ -10,7 +10,7 @@ type: "factual"
 
 ## Claim
 
-> Andrew Colvett was definitely not there in the Hamptons
+> Andrew Kolvet was definitely not there in the Hamptons
 
 ## Source
 

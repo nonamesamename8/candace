@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
 
 **Published:** 2025-12-03 | [Watch on YouTube](https://www.youtube.com/watch?v=his-JBjlkh8)
 
-**Stats:** 32 entities | 5 events | 13 claims
+**Stats:** 35 entities | 6 events | 13 claims
 
 ---
 
@@ -464,6 +464,7 @@ youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
 ## Timeline Events
 
 - **2025-09-03**: Charlie Kirk requests DOGE department at Turning Point USA.
+- **2025-09-10**: Charlie Kirk assassinated at UVU campus event
 - **2025-09-10 10:45**: Donald Trump and Emmanuel Macron hold phone call before Kirk assassination.
 - **2025-12-02**: Fortune publishes article on Candace Owens media empire and Macron lawsuit.
 - **2025-12-03**: Turning Point USA issues formal response via Blake Neff inviting Candace Owens to live stream.
@@ -481,4 +482,4 @@ youtube_url: "https://www.youtube.com/watch?v=his-JBjlkh8"
 
 **Organizations:** [Amazon](/entities/org-amazon.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Club Candace](/entities/org-club-candace.md), [DuPont family](/entities/org-dupont-family.md), [FBI](/entities/org-fbi.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Cam Higby](/entities/person-cam-higby.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Donald Trump](/entities/person-donald-trump.md), [Frank Turek](/entities/person-frank-turek.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kanye West](/entities/person-kanye-west.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Blake Lively](/entities/person-blake-lively.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Cam Higby](/entities/person-cam-higby.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kanye West](/entities/person-kanye-west.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Skylar](/entities/person-skylar.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)

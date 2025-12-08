@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 
 **Published:** 2025-12-01 | [Watch on YouTube](https://www.youtube.com/watch?v=tB5SXXmd9vU)
 
-**Stats:** 40 entities | 9 events | 80 claims
+**Stats:** 40 entities | 10 events | 80 claims
 
 ---
 
@@ -307,7 +307,7 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 | [00:41:23](/timestamps/ep-tB5SXXmd9vU/t-00-40-44.md) | factual | [-](/claims/claim-a3c3c6ce8d6c.md) | A bunch of trans surgeries for children, drag time story hour, like they're kind... |
 | [00:49:04](/timestamps/ep-tB5SXXmd9vU/t-00-48-53.md) | factual | [-](/claims/claim-0d73e82e44b6.md) | my friend Charlie Kirk just got shot in the neck |
 | [00:54:53](/timestamps/ep-tB5SXXmd9vU/t-00-54-28.md) | factual | [-](/claims/claim-7c8e6c281b92.md) | Brigitte Macron's true origins, what Brigitte Macron was involved in in the Unit... |
-| [00:55:34](/timestamps/ep-tB5SXXmd9vU/t-00-55-11.md) | factual | [-](/claims/claim-027d0f63ec4f.md) | Andrew Colvett called me from the hospital and basically said you and Tucker sho... |
+| [00:55:34](/timestamps/ep-tB5SXXmd9vU/t-00-55-11.md) | factual | [-](/claims/claim-027d0f63ec4f.md) | Andrew Kolvet called me from the hospital and basically said you and Tucker shou... |
 | [00:56:27](/timestamps/ep-tB5SXXmd9vU/t-00-55-54.md) | factual | [-](/claims/claim-c8bc8b59360a.md) | Eric Bolling sent me an email and apologized and said it was Adam's fault |
 | [00:56:53](/timestamps/ep-tB5SXXmd9vU/t-00-56-36.md) | factual | [-](/claims/claim-383d2cd8bb1f.md) | You went onto a podcast, you lied about a relationship with Charlie (Charlie Kir... |
 | [00:58:05](/timestamps/ep-tB5SXXmd9vU/t-00-57-59.md) | factual | [-](/claims/claim-c6a148eb00a8.md) | They chose to publicly execute Charlie (Charlie Kirk) and then to dare us to que... |
@@ -330,6 +330,7 @@ youtube_url: "https://www.youtube.com/watch?v=tB5SXXmd9vU"
 - **2025-08-29**: Operation Bright Star US-Egypt joint military exercise begins in Cairo until Sep 10.
 - **2025-09-04**: Brigitte Macron opens Paris Design Week.
 - **2025-09-04**: Brigitte Macron photographed with Zelenskyy during interstate meeting.
+- **2025-09-10**: Charlie Kirk assassinated at UVU campus event
 - **2025-11-25**: Candace Owens tweets warning of Macron-funded assassination plot.
 
 ## Entities Mentioned

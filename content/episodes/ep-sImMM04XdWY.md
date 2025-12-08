@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
 
 **Published:** 2025-11-20 | [Watch on YouTube](https://www.youtube.com/watch?v=sImMM04XdWY)
 
-**Stats:** 43 entities | 15 events | 16 claims
+**Stats:** 43 entities | 18 events | 16 claims
 
 ---
 
@@ -238,7 +238,7 @@ youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
 | [00:00:01](/timestamps/ep-sImMM04XdWY/t-00-00-01.md) | factual | [❓ Unverifiable](/claims/claim-62c49f0df7ae.md) | Brian Harpole lied badly to Sean Ryan in an interview |
 | [00:00:39](/timestamps/ep-sImMM04XdWY/t-00-00-01.md) | factual | [❌ False](/claims/claim-97d480f06936.md) | Satis certainly wasn't established to provide any maintenance to those Egyptian ... |
 | [00:01:02](/timestamps/ep-sImMM04XdWY/t-00-00-39.md) | factual | [❓ Unverifiable](/claims/claim-997ebec6245d.md) | Charlie Kirk called me and told me that they wanted me to stop speaking about Br... |
-| [00:02:55](/timestamps/ep-sImMM04XdWY/t-00-02-44.md) | factual | [❓ Unverifiable](/claims/claim-77cd4ea72c5e.md) | Andrew Colvett said, and I quote, 'Candace, it was supposed to be you' |
+| [00:02:55](/timestamps/ep-sImMM04XdWY/t-00-02-44.md) | factual | [❓ Unverifiable](/claims/claim-77cd4ea72c5e.md) | Andrew Kolvet said, and I quote, 'Candace, it was supposed to be you' |
 | [00:03:31](/timestamps/ep-sImMM04XdWY/t-00-03-29.md) | factual | [❓ Unverifiable](/claims/claim-e4b47b622330.md) | while the actual day on September 10th while Charlie Kirk was in the hospital, h... |
 | [00:06:12](/timestamps/ep-sImMM04XdWY/t-00-05-36.md) | factual | [❓ Unverifiable](/claims/claim-50bc5592dd4c.md) | after our Egyptian plane, tail number SUBTT, landed into this federally monitore... |
 | [00:07:51](/timestamps/ep-sImMM04XdWY/t-00-07-38.md) | factual | [❓ Unverifiable](/claims/claim-6f7f89a86644.md) | March 13th, I do that first episode regarding Brigitte Macron. March 19th, just ... |
@@ -257,7 +257,9 @@ youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
 ## Timeline Events
 
 - **2024-03-13**: Candace Owens releases first podcast episode on Brigitte Macron.
+- **2024-03-19**: Candace Owens fired from The Daily Wire
 - **2024-12-03**: Brigitte Macron lawyers send cease-and-desist letter to Candace Owens.
+- **2024-12-10**: French company Satys announces hangar lease in Wilmington
 - **2024-12-21**: Candace Owens interviews Xavier Poussard in London.
 - **2025-01-31**: Candace Owens releases first episode of Becoming Brigitte series.
 - **2025-02-17**: Candace Owens premieres sit-down interview with Xavier Poussard.
@@ -270,6 +272,7 @@ youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
 - **2025-08-05**: Turning Point USA holds Hamptons retreat described as intervention.
 - **2025-09-03**: 35 state leaders meet in Paris to discuss Ukraine security.
 - **2025-09-03**: Brigitte Macron greets President Zelensky in Paris.
+- **2025-09-10**: Charlie Kirk assassinated at UVU campus event
 - **2025-09-17**: Sheriff holds press conference on Tyler Robinson custody.
 
 ## Entities Mentioned

@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=MUA9ebCF4Ow"
 
 **Published:** 2025-11-12 | [Watch on YouTube](https://www.youtube.com/watch?v=MUA9ebCF4Ow)
 
-**Stats:** 23 entities | 4 events | 14 claims
+**Stats:** 24 entities | 4 events | 14 claims
 
 ---
 
@@ -276,8 +276,8 @@ youtube_url: "https://www.youtube.com/watch?v=MUA9ebCF4Ow"
 | [00:09:46](/timestamps/ep-MUA9ebCF4Ow/t-00-09-38.md) | factual | [⏳ Unverified](/claims/claim-de4fd9d3e0c1.md) | Charlie Kirk told Tucker Carlson backstage before July speech to 'go all the way... |
 | [00:12:06](/timestamps/ep-MUA9ebCF4Ow/t-00-11-22.md) | factual | [⏳ Unverified](/claims/claim-d404c30d1878.md) | Video shows Charlie Kirk interrupting conversation and telling Tucker Carlson 'G... |
 | [00:15:57](/timestamps/ep-MUA9ebCF4Ow/t-00-15-12.md) | factual | [⏳ Unverified](/claims/claim-782b3fbaa10e.md) | Pastor Rob McCoy claimed Mikey McCoy had blood all over him |
-| [00:16:05](/timestamps/ep-MUA9ebCF4Ow/t-00-15-57.md) | factual | [⏳ Unverified](/claims/claim-fd663066c778.md) | Alex Clark and Andrew Colvett claimed Charlie Kirk was a committed evangelical w... |
-| [00:16:19](/timestamps/ep-MUA9ebCF4Ow/t-00-15-57.md) | factual | [⏳ Unverified](/claims/claim-835e9f5a7a1d.md) | Andrew Colvett claimed Charlie Kirk's neck stopped a .30-06 bullet because he at... |
+| [00:16:05](/timestamps/ep-MUA9ebCF4Ow/t-00-15-57.md) | factual | [⏳ Unverified](/claims/claim-fd663066c778.md) | Alex Clark and Andrew Kolvet claimed Charlie Kirk was a committed evangelical wh... |
+| [00:16:19](/timestamps/ep-MUA9ebCF4Ow/t-00-15-57.md) | factual | [⏳ Unverified](/claims/claim-835e9f5a7a1d.md) | Andrew Kolvet claimed Charlie Kirk's neck stopped a .30-06 bullet because he ate... |
 | [00:16:41](/timestamps/ep-MUA9ebCF4Ow/t-00-15-57.md) | factual | [⏳ Unverified](/claims/claim-01f41bbb9cc2.md) | Rob McCoy claimed Mikey McCoy called his dad first |
 | [00:19:08](/timestamps/ep-MUA9ebCF4Ow/t-00-18-54.md) | factual | [⏳ Unverified](/claims/claim-fc5f014781fb.md) | UVU Turning Point chapter requested Charlie Kirk to speak on July 18th according... |
 | [00:19:36](/timestamps/ep-MUA9ebCF4Ow/t-00-18-54.md) | factual | [⏳ Unverified](/claims/claim-bbc2be01f22e.md) | Turning Point USA approved UVU request and sent scouts to campus within two week... |
@@ -307,4 +307,4 @@ youtube_url: "https://www.youtube.com/watch?v=MUA9ebCF4Ow"
 
 **Organizations:** [FBI](/entities/org-fbi.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kanye West](/entities/person-kanye-west.md), [Kash Patel](/entities/person-kash-patel.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kanye West](/entities/person-kanye-west.md), [Kash Patel](/entities/person-kash-patel.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)

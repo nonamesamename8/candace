@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=YFmRH8p5lt0"
 
 **Published:** 2025-10-31 | [Watch on YouTube](https://www.youtube.com/watch?v=YFmRH8p5lt0)
 
-**Stats:** 42 entities | 3 events | 12 claims
+**Stats:** 44 entities | 4 events | 12 claims
 
 ---
 
@@ -250,6 +250,7 @@ youtube_url: "https://www.youtube.com/watch?v=YFmRH8p5lt0"
 
 ## Timeline Events
 
+- **2018-11-07**: Thousand Oaks Borderline Bar shooting by Ian Long kills 12
 - **2023-02-20**: James O'Keefe ousted in hostile takeover of Project Veritas
 - **2023-03-27**: Transgender shooter kills six at Covenant Christian elementary school in Nashville
 - **2024-07-11**: Tucker Carlson criticizes Israel and Epstein at Turning Point USA event
@@ -266,4 +267,4 @@ youtube_url: "https://www.youtube.com/watch?v=YFmRH8p5lt0"
 
 **Organizations:** [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [FBI](/entities/org-fbi.md), [Project Veritas](/entities/org-project-veritas.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [James O'Keefe](/entities/person-james-o-keefe.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Sean Feucht](/entities/person-sean-feucht.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Erika Kirk](/entities/person-erika-kirk.md), [James O'Keefe](/entities/person-james-o-keefe.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Sean Feucht](/entities/person-sean-feucht.md), [Skylar](/entities/person-skylar.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md)

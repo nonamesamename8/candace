@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=LATnak75Si0"
 
 **Published:** 2025-11-05 | [Watch on YouTube](https://www.youtube.com/watch?v=LATnak75Si0)
 
-**Stats:** 35 entities | 7 events | 14 claims
+**Stats:** 38 entities | 8 events | 14 claims
 
 ---
 
@@ -380,6 +380,7 @@ youtube_url: "https://www.youtube.com/watch?v=LATnak75Si0"
 - **2024-02-01**: Candace Owens and Charlie Kirk conduct joint campus tour across US.
 - **2025-07-01**: CNN panel calls Candace Owens disgusting and anti-Semitic.
 - **2025-07-15**: UVU requests Charlie Kirk for campus event, approved quickly.
+- **2025-09-10 12:23**: Charlie Kirk shot and killed at UVU college campus event
 - **2025-11-05**: Zohran Mamdani wins New York City mayoral election against Andrew Cuomo.
 - **2025-11-05**: Brett Cooper accused of being the new Hitler by critics.
 - **2025-11-05**: Pentagon grants press pass to conservative activist Laura Loomer.
@@ -394,8 +395,8 @@ youtube_url: "https://www.youtube.com/watch?v=LATnak75Si0"
 
 **Places:** [Israel](/entities/gpe-israel.md), [New York City](/entities/gpe-new-york-city.md), [Ukraine](/entities/gpe-ukraine.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md)
 
-**Organizations:** [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+**Organizations:** [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md), [United States Pentagon](/entities/org-united-states-pentagon.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Andrew Cuomo](/entities/person-andrew-cuomo.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brett Cooper](/entities/person-brett-cooper.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Jesse Watters](/entities/person-jesse-watters.md), [Joe Gebbia](/entities/person-joe-gebbia.md), [Josh Hammer](/entities/person-josh-hammer.md), [Laura Loomer](/entities/person-laura-loomer.md), [Mamdani](/entities/person-mamdani.md), [Michael Bloomberg](/entities/person-michael-bloomberg.md), [Michael Knowles](/entities/person-michael-knowles.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Randy Fine](/entities/person-randy-fine.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Ted Cruz](/entities/person-ted-cruz.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Vivek Ramaswamy](/entities/person-vivek-ramaswamy.md)
+**People:** [Andrew Cuomo](/entities/person-andrew-cuomo.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Blake Lively](/entities/person-blake-lively.md), [Brett Cooper](/entities/person-brett-cooper.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [Jesse Watters](/entities/person-jesse-watters.md), [Joe Gebbia](/entities/person-joe-gebbia.md), [Josh Hammer](/entities/person-josh-hammer.md), [Laura Loomer](/entities/person-laura-loomer.md), [Mamdani](/entities/person-mamdani.md), [Michael Bloomberg](/entities/person-michael-bloomberg.md), [Michael Knowles](/entities/person-michael-knowles.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Randy Fine](/entities/person-randy-fine.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Ted Cruz](/entities/person-ted-cruz.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Vivek Ramaswamy](/entities/person-vivek-ramaswamy.md)
 
 **Work:** [Lady Ballers](/entities/work-lady-ballers.md)

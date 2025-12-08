@@ -1,5 +1,5 @@
 ---
-title: "Andrew Colvett claimed Charlie Kirk's neck stopped a .30-06 ..."
+title: "Andrew Kolvet claimed Charlie Kirk's neck stopped a .30-06 b..."
 claim_id: "claim-835e9f5a7a1d"
 episode: "MUA9ebCF4Ow"
 type: "factual"
@@ -11,7 +11,7 @@ veracity: "unverified"
 
 ## Claim
 
-> Andrew Colvett claimed Charlie Kirk's neck stopped a .30-06 bullet because he ate salad and had strong bones as a miracle
+> Andrew Kolvet claimed Charlie Kirk's neck stopped a .30-06 bullet because he ate salad and had strong bones as a miracle
 
 ## Source
 
@@ -27,4 +27,4 @@ veracity: "unverified"
 ## Follow-up
 
 **Status:** Open
-**Expected:** Check Andrew Colvett's statements
+**Expected:** Check Andrew Kolvet's statements

@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=a-e7HC6SeK8"
 
 **Published:** 2025-12-02 | [Watch on YouTube](https://www.youtube.com/watch?v=a-e7HC6SeK8)
 
-**Stats:** 30 entities | 4 events | 12 claims
+**Stats:** 30 entities | 5 events | 12 claims
 
 ---
 
@@ -239,6 +239,7 @@ youtube_url: "https://www.youtube.com/watch?v=a-e7HC6SeK8"
 ## Timeline Events
 
 - **1908-07-26**: Charles Joseph Bonaparte founds the FBI as Attorney General.
+- **1996-01-26**: John du Pont shoots Olympic wrestler David Schultz at Foxcatcher Farm
 - **1998-08-02**: Las Vegas prostitute murdered by DuPont family-linked hired hands, body found in motel.
 - **2009-03-30**: DuPont heir Robert Richards IV convicted of raping his three-year-old daughter.
 - **2018-04-14**: US and France conduct missile strikes on Syrian government sites after chemical attack.

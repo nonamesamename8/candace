@@ -7,7 +7,7 @@ youtube_url: "https://www.youtube.com/watch?v=SKGUzGHymcI"
 
 **Published:** 2025-11-19 | [Watch on YouTube](https://www.youtube.com/watch?v=SKGUzGHymcI)
 
-**Stats:** 25 entities | 8 events | 8 claims
+**Stats:** 26 entities | 10 events | 8 claims
 
 ---
 
@@ -276,12 +276,14 @@ youtube_url: "https://www.youtube.com/watch?v=SKGUzGHymcI"
 
 ## Timeline Events
 
+- **1997-06-01**: DOJ directory lists Wilmington Residence Office at 920 King Street
 - **2021-12-09**: Wilmington Dassault Falcon authorized center shuts down
 - **2022-11-13**: Egyptian plane SUBTT flies Cairo-Paris-Wichita-Wilmington-Cairo
 - **2022-11-17**: Egyptian plane SUBTT flies Egypt-Wilmington, stays until November 20
 - **2024-01-30**: DRBA resolution acquires rights to Dassault paint hangar for Satys lease
 - **2024-12-05**: FBI Director Christopher Wray issues press release on Wilmington partnerships
 - **2024-12-10**: Satys announces takeover of shuttered Wilmington airport hangar
+- **2025-09-10 07:14**: Egyptian military plane SUBTT departs Provo, Utah en route to Wilmington, Delaware
 - **2025-09-10 07:14**: Egyptian military plane SUBTT departs Provo, Utah en route to Wilmington, Delaware
 - **2025-09-10 12:23**: Charlie Kirk assassinated by shooting in Provo, Utah
 
@@ -295,4 +297,4 @@ youtube_url: "https://www.youtube.com/watch?v=SKGUzGHymcI"
 
 **Organizations:** [Club Candace](/entities/org-club-candace.md), [Federal Reserve](/entities/org-federal-reserve.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kash Patel](/entities/person-kash-patel.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kash Patel](/entities/person-kash-patel.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
