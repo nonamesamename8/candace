@@ -1,0 +1,910 @@
+@use "./base.scss";
+
+// ==========================================================================
+// CUSTOM STYLING - Candace Knowledge Graph
+// ==========================================================================
+
+// --------------------------------------------------------------------------
+// SUPPORT BANNER - Prominent call-to-action
+// --------------------------------------------------------------------------
+.support-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.25rem;
+  padding: 1rem 1.5rem;
+  margin: 2rem 0;
+  background: linear-gradient(135deg, var(--secondary) 0%, var(--tertiary) 100%);
+  border-radius: 12px;
+  flex-wrap: wrap;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+  position: relative;
+  overflow: hidden;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 60%);
+    animation: shimmer 3s ease-in-out infinite;
+  }
+}
+
+@keyframes shimmer {
+  0%, 100% { transform: translate(-10%, -10%); }
+  50% { transform: translate(10%, 10%); }
+}
+
+.support-banner span {
+  color: var(--light);
+  font-size: 1rem;
+  font-weight: 500;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.2);
+  position: relative;
+  z-index: 1;
+}
+
+.support-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  background: var(--light);
+  color: var(--secondary) !important;
+  text-decoration: none !important;
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  position: relative;
+  z-index: 1;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    background: var(--light);
+    color: var(--tertiary) !important;
+  }
+}
+
+// --------------------------------------------------------------------------
+// PAGE FILTER - Clean search input
+// --------------------------------------------------------------------------
+.page-filter-container {
+  position: relative;
+  margin-bottom: 1.5em;
+}
+
+.page-filter {
+  width: 100%;
+  padding: 0.75em 2.5em 0.75em 1em;
+  border: 2px solid var(--lightgray);
+  border-radius: 8px;
+  font-size: 1rem;
+  background: var(--light);
+  color: var(--darkgray);
+  transition: all 0.2s ease;
+
+  &:focus {
+    outline: none;
+    border-color: var(--secondary);
+    box-shadow: 0 0 0 3px rgba(40, 75, 99, 0.15);
+  }
+
+  &::placeholder {
+    color: var(--gray);
+  }
+}
+
+.filter-clear {
+  position: absolute;
+  right: 0.75em;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  color: var(--gray);
+  font-size: 1.25em;
+  line-height: 1;
+  padding: 0.25em;
+  opacity: 0.6;
+  transition: opacity 0.2s;
+
+  &:hover {
+    opacity: 1;
+    color: var(--dark);
+  }
+}
+
+.filter-count {
+  position: absolute;
+  right: 2.5em;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 0.85em;
+  color: var(--gray);
+}
+
+.filter-hidden {
+  display: none !important;
+}
+
+// --------------------------------------------------------------------------
+// COLLAPSIBLE SECTIONS - Enhanced details/summary
+// --------------------------------------------------------------------------
+article details {
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  margin: 1rem 0;
+  background: var(--light);
+  overflow: hidden;
+
+  &[open] {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  }
+
+  > summary {
+    padding: 0.75rem 1rem;
+    cursor: pointer;
+    background: linear-gradient(to bottom, var(--light), color-mix(in srgb, var(--lightgray) 30%, var(--light)));
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: background 0.2s;
+    list-style: none;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::before {
+      content: "▶";
+      font-size: 0.7em;
+      flex-shrink: 0;
+      transition: transform 0.2s ease;
+      color: var(--secondary);
+    }
+
+    &:hover {
+      background: var(--lightgray);
+    }
+
+    // Section title styling (replaces h2/h3 inside summary)
+    .section-title {
+      font-size: 1.25rem;
+      font-family: var(--headerFont);
+      color: var(--dark);
+      font-weight: 600;
+    }
+  }
+
+  &[open] > summary::before {
+    transform: rotate(90deg);
+  }
+
+  > *:not(summary) {
+    padding: 0 1rem;
+  }
+
+  // Nested details
+  details {
+    margin: 0.5rem 0;
+    border-color: color-mix(in srgb, var(--lightgray) 60%, var(--light));
+
+    > summary {
+      padding: 0.5rem 0.75rem;
+      font-size: 0.95rem;
+      background: transparent;
+
+      &:hover {
+        background: var(--highlight);
+      }
+    }
+  }
+}
+
+// --------------------------------------------------------------------------
+// CARDS - Content containers with visual separation
+// --------------------------------------------------------------------------
+.filter-item {
+  padding: 1rem;
+  margin: 0.75rem 0;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  background: var(--light);
+  transition: all 0.2s ease;
+
+  &:hover {
+    border-color: var(--secondary);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  }
+
+  h3, h4 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
+}
+
+// --------------------------------------------------------------------------
+// SHARE BUTTONS - Clean action buttons
+// --------------------------------------------------------------------------
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.3rem;
+  padding: 0.35rem 0.65rem;
+  background: var(--lightgray);
+  border: 1px solid transparent;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  color: var(--darkgray);
+  transition: all 0.2s ease;
+  vertical-align: middle;
+  margin-left: 0.5rem;
+
+  &:hover {
+    background: var(--secondary);
+    color: var(--light);
+    border-color: var(--secondary);
+  }
+}
+
+// --------------------------------------------------------------------------
+// SHARE MODAL - Dialog styling
+// --------------------------------------------------------------------------
+.share-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.25s, visibility 0.25s;
+}
+
+.share-modal-overlay.active {
+  opacity: 1;
+  visibility: visible;
+}
+
+.share-modal {
+  background: var(--light);
+  border-radius: 16px;
+  padding: 1.75rem;
+  max-width: 520px;
+  width: 90%;
+  max-height: 80vh;
+  overflow-y: auto;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+  transform: translateY(20px);
+  transition: transform 0.25s ease;
+}
+
+.share-modal-overlay.active .share-modal {
+  transform: translateY(0);
+}
+
+.share-modal h3 {
+  margin: 0 0 1.25rem 0;
+  font-size: 1.3rem;
+  color: var(--dark);
+}
+
+.share-modal-content {
+  background: var(--highlight);
+  border: 1px solid var(--lightgray);
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  font-family: var(--codeFont);
+  font-size: 0.9rem;
+  white-space: pre-wrap;
+  word-break: break-word;
+  color: var(--darkgray);
+  max-height: 300px;
+  overflow-y: auto;
+  line-height: 1.6;
+}
+
+.share-modal-actions {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+  flex-wrap: wrap;
+}
+
+.share-modal-btn {
+  padding: 0.65rem 1.25rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.share-modal-btn.primary {
+  background: var(--secondary);
+  color: var(--light);
+
+  &:hover {
+    background: var(--tertiary);
+    transform: translateY(-1px);
+  }
+}
+
+.share-modal-btn.secondary {
+  background: var(--lightgray);
+  color: var(--darkgray);
+
+  &:hover {
+    background: var(--gray);
+  }
+}
+
+// --------------------------------------------------------------------------
+// LISTS - Better visual hierarchy
+// --------------------------------------------------------------------------
+article ul, article ol {
+  padding-left: 1.5rem;
+
+  li {
+    padding: 0.25rem 0;
+    line-height: 1.7;
+
+    &::marker {
+      color: var(--secondary);
+    }
+  }
+}
+
+// --------------------------------------------------------------------------
+// TABLES - Clean data presentation
+// --------------------------------------------------------------------------
+.table-container > table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  overflow: hidden;
+  width: 100%;
+  margin: 1rem 0;
+
+  th {
+    background: linear-gradient(to bottom, var(--light), var(--lightgray));
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    letter-spacing: 0.03em;
+    color: var(--dark);
+    border-bottom: 2px solid var(--secondary);
+  }
+
+  tr:nth-child(even) td {
+    background: var(--highlight);
+  }
+
+  tr:hover td {
+    background: color-mix(in srgb, var(--secondary) 10%, var(--light));
+  }
+}
+
+// --------------------------------------------------------------------------
+// BADGES - Status and category indicators
+// --------------------------------------------------------------------------
+.badge {
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.badge-high {
+  background: color-mix(in srgb, #e74c3c 15%, var(--light));
+  color: #c0392b;
+}
+
+.badge-medium {
+  background: color-mix(in srgb, #f39c12 15%, var(--light));
+  color: #d68910;
+}
+
+.badge-low {
+  background: color-mix(in srgb, #3498db 15%, var(--light));
+  color: #2980b9;
+}
+
+// --------------------------------------------------------------------------
+// ENRICHMENT INDICATOR
+// --------------------------------------------------------------------------
+.enriched-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  color: var(--tertiary);
+  font-size: 0.85rem;
+  font-style: italic;
+}
+
+// --------------------------------------------------------------------------
+// BLOCKQUOTES - Styled callouts
+// --------------------------------------------------------------------------
+article blockquote {
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  background: var(--highlight);
+  border-left: 4px solid var(--secondary);
+  border-radius: 0 8px 8px 0;
+
+  p {
+    margin: 0.5rem 0;
+
+    &:first-child {
+      margin-top: 0;
+    }
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+// --------------------------------------------------------------------------
+// HORIZONTAL RULES
+// --------------------------------------------------------------------------
+article hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--lightgray), transparent);
+  margin: 2.5rem 0;
+}
+
+// --------------------------------------------------------------------------
+// NAVIGATION BREADCRUMBS - Enhanced styling
+// --------------------------------------------------------------------------
+.breadcrumb-container {
+  margin-bottom: 1rem;
+
+  .breadcrumb-element {
+    color: var(--gray);
+    font-size: 0.9rem;
+
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+}
+
+// --------------------------------------------------------------------------
+// EPISODE CARDS - Styled list items for episodes
+// --------------------------------------------------------------------------
+.episode-list li {
+  padding: 0.75rem 1rem;
+  margin: 0.5rem 0;
+  border-radius: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  transition: all 0.2s ease;
+  list-style: none;
+
+  &:hover {
+    border-color: var(--secondary);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    transform: translateX(4px);
+  }
+}
+
+// --------------------------------------------------------------------------
+// ENTITY TYPE COLORS - Visual distinction by type
+// --------------------------------------------------------------------------
+[data-entity-type="person"] {
+  border-left: 3px solid #3498db;
+}
+
+[data-entity-type="org"] {
+  border-left: 3px solid #9b59b6;
+}
+
+[data-entity-type="gpe"] {
+  border-left: 3px solid #2ecc71;
+}
+
+[data-entity-type="concept"] {
+  border-left: 3px solid #e67e22;
+}
+
+[data-entity-type="event"] {
+  border-left: 3px solid #e74c3c;
+}
+
+// --------------------------------------------------------------------------
+// TIMELINE STYLING
+// --------------------------------------------------------------------------
+.timeline-event {
+  position: relative;
+  padding-left: 2rem;
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: var(--lightgray);
+  }
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: -4px;
+    top: 0.75rem;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--secondary);
+    border: 2px solid var(--light);
+  }
+}
+
+// --------------------------------------------------------------------------
+// RESPONSIVE ADJUSTMENTS - Mobile-first optimizations
+// --------------------------------------------------------------------------
+@media (max-width: 800px) {
+  // Support banner - stack vertically, full width
+  .support-banner {
+    flex-direction: column;
+    text-align: center;
+    padding: 1rem 0.75rem;
+    margin: 1.5rem 0;
+    gap: 0.75rem;
+
+    span {
+      font-size: 0.9rem;
+    }
+  }
+
+  .support-btn {
+    padding: 0.6rem 1.25rem;
+    font-size: 0.9rem;
+    width: 100%;
+    justify-content: center;
+  }
+
+  // Page filter - better touch targets
+  .page-filter-container {
+    margin-bottom: 1rem;
+  }
+
+  .page-filter {
+    padding: 0.85rem 2.5rem 0.85rem 0.75rem;
+    font-size: 16px; // Prevents iOS zoom on focus
+  }
+
+  .filter-count {
+    font-size: 0.75rem;
+    right: 2.25rem;
+  }
+
+  .filter-clear {
+    padding: 0.5rem;
+    font-size: 1.1em;
+  }
+
+  // Collapsible sections - better touch targets
+  article details {
+    margin: 0.75rem 0;
+
+    > summary {
+      padding: 0.85rem 0.75rem;
+      min-height: 44px; // iOS recommended touch target
+      gap: 0.4rem;
+
+      .section-title {
+        font-size: 1.1rem;
+      }
+    }
+
+    > *:not(summary) {
+      padding: 0 0.75rem;
+    }
+
+    // Nested details
+    details {
+      margin: 0.4rem 0;
+
+      > summary {
+        padding: 0.65rem 0.5rem;
+        min-height: 40px;
+      }
+    }
+  }
+
+  // Cards - tighter padding
+  .filter-item {
+    padding: 0.75rem;
+    margin: 0.5rem 0;
+
+    h3, h4 {
+      font-size: 1rem;
+      margin-bottom: 0.4rem;
+    }
+
+    p {
+      font-size: 0.9rem;
+      margin: 0.25rem 0;
+    }
+  }
+
+  // Lists - tighter spacing
+  article ul, article ol {
+    padding-left: 1.25rem;
+
+    li {
+      padding: 0.2rem 0;
+      line-height: 1.5;
+    }
+  }
+
+  // Typography - slightly smaller on mobile
+  article > h1 {
+    font-size: 1.5rem !important;
+    margin-top: 0.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  article h2 {
+    font-size: 1.2rem;
+    margin-top: 1.5rem;
+  }
+
+  article h3 {
+    font-size: 1.05rem;
+    margin-top: 1.25rem;
+  }
+
+  // Blockquotes - tighter
+  article blockquote {
+    margin: 1rem 0;
+    padding: 0.75rem 1rem;
+  }
+
+  // Tables - ensure scrollability is obvious
+  .table-container {
+    margin: 0 -0.5rem;
+    padding: 0 0.5rem;
+
+    &::after {
+      content: "← Scroll →";
+      display: block;
+      text-align: center;
+      font-size: 0.75rem;
+      color: var(--gray);
+      padding: 0.25rem;
+    }
+  }
+
+  // Episode cards
+  .episode-list li {
+    padding: 0.6rem 0.75rem;
+    margin: 0.4rem 0;
+
+    &:hover {
+      transform: none; // Disable transform on touch
+    }
+  }
+
+  // Share button - larger touch target
+  .share-btn {
+    padding: 0.45rem 0.75rem;
+    font-size: 0.8rem;
+    min-height: 36px;
+  }
+
+  // Share modal - full width on mobile
+  .share-modal {
+    width: 95%;
+    max-width: none;
+    padding: 1.25rem;
+    border-radius: 12px;
+    max-height: 85vh;
+  }
+
+  .share-modal h3 {
+    font-size: 1.15rem;
+    margin-bottom: 1rem;
+  }
+
+  .share-modal-content {
+    font-size: 0.85rem;
+    padding: 0.85rem 1rem;
+    max-height: 200px;
+  }
+
+  .share-modal-actions {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .share-modal-btn {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    font-size: 0.9rem;
+    min-height: 44px;
+  }
+
+  // Timeline events - tighter
+  .timeline-event {
+    padding-left: 1.5rem;
+
+    &::after {
+      width: 8px;
+      height: 8px;
+      left: -3px;
+    }
+  }
+
+  // Badges
+  .badge {
+    font-size: 0.7rem;
+    padding: 0.15rem 0.5rem;
+  }
+
+  // Breadcrumbs - smaller on mobile
+  .breadcrumb-container .breadcrumb-element {
+    font-size: 0.8rem;
+  }
+
+  // Horizontal rules
+  article hr {
+    margin: 1.5rem 0;
+  }
+
+  // Links - ensure adequate spacing for touch
+  article p a,
+  article li a {
+    padding: 0.1rem 0;
+  }
+}
+
+// Extra small screens (phones in portrait)
+@media (max-width: 480px) {
+  .support-banner span {
+    font-size: 0.85rem;
+  }
+
+  article > h1 {
+    font-size: 1.35rem !important;
+  }
+
+  article h2 {
+    font-size: 1.1rem;
+  }
+
+  article details > summary .section-title {
+    font-size: 1rem;
+  }
+
+  .filter-item {
+    padding: 0.6rem;
+  }
+
+  // Stack filter count below on very small screens
+  .filter-count {
+    position: static;
+    display: block;
+    transform: none;
+    text-align: right;
+    margin-top: 0.25rem;
+    font-size: 0.7rem;
+  }
+}
+
+// --------------------------------------------------------------------------
+// PRINT STYLES
+// --------------------------------------------------------------------------
+@media print {
+  .support-banner,
+  .share-btn,
+  .page-filter-container {
+    display: none !important;
+  }
+}
+
+// --------------------------------------------------------------------------
+// ACCESSIBILITY - Focus states
+// --------------------------------------------------------------------------
+a:focus-visible,
+button:focus-visible,
+summary:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+}
+
+// --------------------------------------------------------------------------
+// COPY SUCCESS FEEDBACK
+// --------------------------------------------------------------------------
+.copy-success {
+  color: var(--tertiary);
+  font-size: 0.85rem;
+  margin-left: 0.5rem;
+  animation: fadeIn 0.2s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+// --------------------------------------------------------------------------
+// ANCHOR HIGHLIGHT - Flash and fade when navigating to an anchor
+// --------------------------------------------------------------------------
+.highlight-flash {
+  animation: anchor-flash-fade 2s ease-out;
+}
+
+@keyframes anchor-flash-fade {
+  0% {
+    background-color: color-mix(in srgb, var(--secondary) 40%, transparent);
+    border-radius: 4px;
+  }
+  100% {
+    background-color: transparent;
+  }
+}
+
+// Entity links in transcript - subtle blue styling
+article a[href^="/entities/"] {
+  color: var(--secondary);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--secondary);
+  transition: all 0.2s ease;
+
+  &:hover {
+    color: var(--tertiary);
+    border-bottom-style: solid;
+  }
+}
+
+// Claim indicator emoji - small link to claim page after claim text
+article .claim-indicator {
+  text-decoration: none;
+  border-bottom: none;
+  font-size: 0.85em;
+  margin-left: 0.15em;
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
+
+  &:hover {
+    opacity: 1;
+  }
+}
+
+// Event indicator emoji - small link to timeline after event text
+article .event-indicator {
+  text-decoration: none;
+  border-bottom: none;
+  font-size: 0.85em;
+  margin-left: 0.15em;
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
+
+  &:hover {
+    opacity: 1;
+  }
+}

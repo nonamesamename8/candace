@@ -1,0 +1,51 @@
+---
+title: "Breitbart News"
+description: "Breitbart News (Organizations) - 1 mention"
+id: "org-breitbart-news"
+type: "ORG"
+aliases:
+  - "Breitbart"
+---
+
+_Type: Organizations_
+
+**Also known as:** Breitbart
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details open>
+<summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
+
+**[00:46:13](/episodes/ep-Cq7nj9rxPdo.md#ent-org-breitbart-news-t-00-45-51)**
+> "Alex Marlow who runs Breitbart News"
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Employs (1)</summary>
+
+- **[Alex Marlow](/entities/person-alex-marlow.md)**
+  - [ @ 00:46:06](/timestamps//t-00-46-06.md): "Alex Marlow, who runs Breitbart News, was their guest for the day"
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Alex Marlow](/entities/person-alex-marlow.md)** works for this
+  - [ @ 00:46:06](/timestamps//t-00-46-06.md)
+
+- **[Alex Marlow](/entities/person-alex-marlow.md)** works for this
+  - [ @ 00:46:06](/timestamps//t-00-46-06.md)
+
+</details>
+
+</details>

@@ -1,0 +1,47 @@
+---
+title: "Élysée Palace"
+description: "Élysée Palace (Places) - 3 mentions"
+id: "gpe-elysee-palace"
+type: "GPE"
+aliases:
+  - "Elysee Palace"
+  - "the Élysée Palace"
+  - "the Elysee Palace"
+---
+
+_Type: Places_
+
+**Also known as:** Elysee Palace, the Élysée Palace, the Elysee Palace
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details open>
+<summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1 mentions)</summary>
+
+**[00:24:47](/episodes/ep-ZAuuSq_j2_w.md#t-00-24-47)**
+> "...'re supposed to ignore the fact that hey, isn't it kind of strange that neither the White House nor the Élysée Palace—or even the United States Pentagon—has formally denied this quote-unquote crazy claim? That's what ..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+
+**[00:08:30](/episodes/ep-tB5SXXmd9vU.md#t-00-08-30)**
+> "...'s now been a full week since I made that announcement. And here is the official response issued by the Élysée Palace. Nothing. Nothing. I want you to bear in mind that this was front-page global news from the United ..."
+
+**[00:22:30](/episodes/ep-tB5SXXmd9vU.md#t-00-22-30)**
+> "...nna speculate until we get some answers, some straight yes-or-no answers from the White House, from the Élysée Palace, or from the French security forces. Now, as it pertains to the French Legion, something else that'..."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>

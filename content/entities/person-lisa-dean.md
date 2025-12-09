@@ -1,0 +1,66 @@
+---
+title: "Lisa Dean"
+description: "Lisa Dean (People) - 1 mention"
+id: "person-lisa-dean"
+type: "PERSON"
+aliases:
+  - "Lisa Dean"
+---
+
+_Type: People_
+
+**Also known as:** Lisa Dean
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details open>
+<summary><strong class="section-title">Mentions</strong></summary>
+
+<details>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
+
+**[00:10:39](/episodes/ep-a-e7HC6SeK8.md#ent-person-lisa-dean-t-00-10-27)**
+> "...ominick Dunne reported in Vanity Fair, the money traced back to the DuPont family. It appeared that Lisa Dean—who is a DuPont—didn't approve of her drug-addicted son dating a drug-addicted Vegas sex worker. So..."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Married To (1)</summary>
+
+- **[Christopher Mosley](/entities/person-christopher-mosley.md)**
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:47](/timestamps/ep-a-e7HC6SeK8/t-00-10-47.md): "...So she and her husband, Christopher Mosley, had her killed."
+
+</details>
+
+<details>
+<summary>Member Of (1)</summary>
+
+- **[DuPont family](/entities/org-dupont-family.md)**
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/timestamps/ep-a-e7HC6SeK8/t-00-10-39.md): "...It appeared that Lisa Dean, who is a DuPont, didn't approve..."
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[DuPont family](/entities/org-dupont-family.md)** has member this
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/timestamps/ep-a-e7HC6SeK8/t-00-10-39.md)
+
+- **[Christopher Mosley](/entities/person-christopher-mosley.md)** married to this
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:47](/timestamps/ep-a-e7HC6SeK8/t-00-10-47.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Related Claims (1)</strong></summary>
+
+- ✅ **[Factual](/claims/claim-54fc9bea453b.md):** the money traced back to the DuPont family. It appeared that Lisa Dean—who is a DuPont—didn't approv...
+
+</details>
