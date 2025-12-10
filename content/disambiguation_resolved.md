@@ -1,6 +1,6 @@
 # Entity Disambiguation - Resolved Mentions
 
-Generated: 2025-12-10 17:54:25
+Generated: 2025-12-10 18:05:32
 
 **8 ambiguous mentions** were automatically resolved using context.
 
@@ -10,7 +10,7 @@ Review these to verify the disambiguation was correct.
 
 ## `Macron` (8 resolved)
 
-**Candidates:** Brigitte Macron, Emmanuel Macron
+**Candidates:** Emmanuel Macron, Brigitte Macron
 
 | Episode | Location | Resolved To | Context |
 |---------|----------|-------------|--------|
