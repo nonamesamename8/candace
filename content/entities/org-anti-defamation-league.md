@@ -1,6 +1,6 @@
 ---
 title: "Anti-Defamation League"
-description: "Anti-Defamation League (Organizations) - 33 mentions"
+description: "Anti-Defamation League (Organizations) - 68 mentions"
 id: "org-anti-defamation-league"
 type: "ORG"
 aliases:
@@ -17,7 +17,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (3 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (6 mentions)</summary>
 
 **[00:31:45](/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-31-25)**
 > "...they've already done. They're gonna censor speech. The reason that they got on board, just like the ADL spokesperson said when he was caught on the mic, was like, we need to do something about TikTok. An..."
@@ -28,18 +28,30 @@ _Type: Organizations_
 **[00:47:33](/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-47-25)**
 > "...I just cut ties with the ADL after Turning Point USA criticism. They share a building—just, FBI and ADL share a building. They're one and the same. I hope you guys know that. They share a building, I thi..."
 
+**[00:31:45](/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-31-25)**
+> "...y got on board, just like the ADL spokesperson said when he was caught on the mic, ..."
+
+**[00:47:25](/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-47-25)**
+> "...he FBI just cut ties with the ADL after Turning Point USA criticism."
+
+**[00:47:33](/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-47-25)**
+> "...hare a building—just, FBI and ADL share a building."
+
 </details>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>
 
 **[00:22:32](/episodes/ep-r1PS67aRmcA.md#ent-org-anti-defamation-league-t-00-22-18)**
 > "...out sponsors, without connections, with the entire media writing things about him, being put on the ADL's list, he has proven to be quite resilient. And it is in large part due to how hard they fight him..."
 
+**[00:22:32](/episodes/ep-r1PS67aRmcA.md#ent-org-anti-defamation-league-t-00-22-18)**
+> "...s about him, being put on the ADL's list, he has proven to be quite resilient."
+
 </details>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (29 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (60 mentions)</summary>
 
 **[00:00:25](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-00-00)**
 > "...per evil, something more sinister that sits below. So today we are going to talk about the ADL, the Anti-Defamation League, because suddenly Kash Patel wants to distance the feds from them. I don't really think that's poss..."
@@ -128,6 +140,99 @@ _Type: Organizations_
 **[00:48:43](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-48-43)**
 > "... and I know that what that means is they have to artificially knock us out of the free markets. The ADL after this episode is going to do what they do and call, use their powerful influence to call YouTu..."
 
+**[00:00:25](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-00-00)**
+> "...ng to talk about the ADL, the Anti-Defamation League, because suddenly Kash Patel wants to distance th..."
+
+**[00:00:25](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-00-00)**
+> "...e are going to talk about the ADL, the Anti-Defamation League, because suddenly Kas..."
+
+**[00:01:24](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-01-24)**
+> "...re going to cut ties with the ADL, right?"
+
+**[00:01:29](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-01-24)**
+> "You know what the ADL is?"
+
+**[00:01:30](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-01-24)**
+> "The Anti-Defamation League, and the reasons, well, because they had listed C..."
+
+**[00:01:40](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-01-24)**
+> "...an extremist according to the ADL."
+
+**[00:01:48](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-01-24)**
+> "...u need to understand that the ADL is not, nor has it ever been, what it purports to..."
+
+**[00:02:02](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-02-02)**
+> "The reality is the ADL was born out of a Jewish Freemason organization k..."
+
+**[00:03:16](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-02-47)**
+> "... was in B'nai B'rith, and the ADL was born out of B'nai B'rith."
+
+**[00:04:33](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-04-15)**
+> "..., B'nai B'rith, assembled the ADL to gaslight the public."
+
+**[00:05:14](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-04-56)**
+> "...crime, no matter how much the ADL tries to obscure that."
+
+**[00:07:16](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-07-04)**
+> "...well-documented founding, the ADL is so powerful an organization"
+
+**[00:07:54](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-07-42)**
+> "...t and the right work with the ADL, okay?"
+
+**[00:08:09](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-07-42)**
+> "...side work arm-in-arm with the ADL and feed them names, primarily of anyone, I shoul..."
+
+**[00:08:45](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-08-20)**
+> "The ADL put Charlie (Charlie Kirk) on a list."
+
+**[00:09:05](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-09-05)**
+> "The ADL must pay for that."
+
+**[00:09:14](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-09-05)**
+> "Yes, the ADL was training FBI agents and sharing intelligence ..."
+
+**[00:09:22](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-09-05)**
+> "with the FBI. The FBI and the ADL had a partnership, sharing intel."
+
+**[00:09:33](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-09-05)**
+> "...mey wrote love letters to the ADL and embedded FBI agents with them, a group that r..."
+
+**[00:09:56](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-09-50)**
+> "...maybe gonna be happy that the ADL responded very graciously to this."
+
+**[00:10:17](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-09-50)**
+> "“ADL has deep respect for the Federal Bureau of Invest..."
+
+**[00:11:02](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-10-35)**
+> "... this, you want to wake up to ADL?"
+
+**[00:11:45](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-11-19)**
+> "...e an offhand remark about the ADL and the FBI sharing an office in Connecticut."
+
+**[00:12:03](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-12-03)**
+> "... 19 different states that the ADL has a regional office established. The report rev..."
+
+**[00:12:03](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-12-03)**
+> "...the state of Connecticut, the ADL shares an office space with the FBI.”"
+
+**[00:12:37](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-12-03)**
+> "...ites, “After reviewing the 19 ADL offices, we can see an alarming trend.”"
+
+**[00:12:45](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-12-45)**
+> "63% of the ADL's regional offices are located within various ban..."
+
+**[00:14:21](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-13-54)**
+> "... strong statement against the ADL."
+
+**[00:37:16](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-37-13)**
+> "...sidered so dangerous, why the ADL creates a list that features people like Charlie ..."
+
+**[00:44:44](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-44-21)**
+> "...arned the origin story of the ADL and their relationship with the FBI, you realize ..."
+
+**[00:48:43](/episodes/ep-t1YtLS1n8Vs.md#ent-org-anti-defamation-league-t-00-48-43)**
+> "... out of the free markets. The ADL after this episode is going to do what they do an..."
+
 </details>
 
 </details>
@@ -139,7 +244,7 @@ _Type: Organizations_
 <summary>Affiliated With (1)</summary>
 
 - **[FBI](/entities/org-fbi.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:09:14](/timestamps/ep-t1YtLS1n8Vs/t-00-09-14.md): "The FBI and the ADL had a partnership, sharing intel."
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:09:14](/episodes/ep-t1YtLS1n8Vs.md#t-00-09-05): "The FBI and the ADL had a partnership, sharing intel."
 
 </details>
 
@@ -147,15 +252,15 @@ _Type: Organizations_
 <summary>Criticized (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/timestamps/ep-t1YtLS1n8Vs/t-00-01-30.md): "listed Charlie Kirk and his organization, TPUSA, to be extremist."
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/timestamps/ep-t1YtLS1n8Vs/t-00-01-30.md): "they had listed Charlie Kirk and his organization, TPUSA, to be extremist."
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "listed Charlie Kirk and his organization, TPUSA, to be extremist."
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "they had listed Charlie Kirk and his organization, TPUSA, to be extremist."
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/timestamps/ep-t1YtLS1n8Vs/t-00-01-30.md): "listed Charlie Kirk and his organization, TPUSA, to be extremist."
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/timestamps/ep-t1YtLS1n8Vs/t-00-01-30.md): "they had listed Charlie Kirk and his organization, TPUSA, to be extremist."
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "listed Charlie Kirk and his organization, TPUSA, to be extremist."
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "they had listed Charlie Kirk and his organization, TPUSA, to be extremist."
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:11:21](/timestamps/ep-t1YtLS1n8Vs/t-00-11-21.md): "Candace Owens is on there though."
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:11:21](/episodes/ep-t1YtLS1n8Vs.md#t-00-11-19): "Candace Owens is on there though."
 
 </details>
 
@@ -163,19 +268,17 @@ _Type: Organizations_
 <summary>Criticized By (1)</summary>
 
 - **[Kash Patel](/entities/person-kash-patel.md)**
-  - [ @ 00:00:48](/timestamps//t-00-00-48.md): "Kash Patel wants to distance the feds from the ADL"
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:00:48](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42): "Kash Patel wants to distance the feds from the ADL"
 
 </details>
 
 <details>
-<summary>Founded By (2)</summary>
+<summary>Founded By (1)</summary>
 
 - **[B'nai B'rith](/entities/org-b-nai-b-rith.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/timestamps/ep-t1YtLS1n8Vs/t-00-02-02.md): "the ADL was born out of a Jewish Freemason organization known as B'nai B'rith."
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/timestamps/ep-t1YtLS1n8Vs/t-00-02-02.md): "the ADL was born out of a Jewish Freemason organization known as B'nai B'rith."
-
-- **[B'nai B'rith](/entities/org-b-nai-b-rith.md)**
-  - [ @ 00:01:15](/timestamps//t-00-01-15.md): "The ADL was born out of a Jewish Freemason organization known as B'nai B'rith"
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "the ADL was born out of a Jewish Freemason organization known as B'nai B'rith."
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24): "the ADL was born out of a Jewish Freemason organization known as B'nai B'rith."
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:15](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42): "The ADL was born out of a Jewish Freemason organization known as B'nai B'rith"
 
 </details>
 
@@ -183,7 +286,7 @@ _Type: Organizations_
 <summary>Worked With (1)</summary>
 
 - **[James Comey](/entities/person-james-comey.md)**
-  - [ @ 00:02:30](/timestamps//t-00-02-30.md): "James Comey wrote love letters to the ADL and embedded FBI agents with them"
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-02-02): "James Comey wrote love letters to the ADL and embedded FBI agents with them"
 
 </details>
 
@@ -191,28 +294,28 @@ _Type: Organizations_
 <summary>Referenced By (7)</summary>
 
 - **[FBI](/entities/org-fbi.md)** affiliated with this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:09:14](/timestamps/ep-t1YtLS1n8Vs/t-00-09-14.md)
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:09:14](/episodes/ep-t1YtLS1n8Vs.md#t-00-09-05)
 
 - **[Kash Patel](/entities/person-kash-patel.md)** criticized this
-  - [ @ 00:00:48](/timestamps//t-00-00-48.md)
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:00:48](/episodes/ep-t1YtLS1n8Vs.md#t-00-00-42)
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized by this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/timestamps/ep-t1YtLS1n8Vs/t-00-01-30.md)
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/timestamps/ep-t1YtLS1n8Vs/t-00-01-30.md)
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/timestamps/ep-t1YtLS1n8Vs/t-00-01-30.md)
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/timestamps/ep-t1YtLS1n8Vs/t-00-01-30.md)
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:01:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:11:21](/timestamps/ep-t1YtLS1n8Vs/t-00-11-21.md)
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:11:21](/episodes/ep-t1YtLS1n8Vs.md#t-00-11-19)
 
 - **[B'nai B'rith](/entities/org-b-nai-b-rith.md)** founded this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/timestamps/ep-t1YtLS1n8Vs/t-00-02-02.md)
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/timestamps/ep-t1YtLS1n8Vs/t-00-02-02.md)
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:02](/episodes/ep-t1YtLS1n8Vs.md#t-00-01-24)
 
 - **[James Comey](/entities/person-james-comey.md)** worked with this
-  - [ @ 00:02:30](/timestamps//t-00-02-30.md)
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-02-02)
 
 </details>
 

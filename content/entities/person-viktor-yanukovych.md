@@ -1,6 +1,6 @@
 ---
 title: "Viktor Yanukovych"
-description: "Viktor Yanukovych (People) - 0 mentions"
+description: "Viktor Yanukovych (People) - 1 mention"
 id: "person-viktor-yanukovych"
 type: "PERSON"
 aliases:
@@ -16,7 +16,13 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
 
-_No mentions recorded._
+<details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
+
+**[00:18:15](/episodes/ep-DqGNvi36ol8.md#ent-person-viktor-yanukovych-t-00-18-15)**
+> "...st done with their president, Yanukovych."
+
+</details>
 
 </details>
 

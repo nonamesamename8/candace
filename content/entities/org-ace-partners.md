@@ -1,6 +1,6 @@
 ---
 title: "ACE Partners"
-description: "ACE Partners (Organizations) - 3 mentions"
+description: "ACE Partners (Organizations) - 6 mentions"
 id: "org-ace-partners"
 type: "ORG"
 aliases:
@@ -17,21 +17,30 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
 **[00:15:27](/episodes/ep-a-e7HC6SeK8.md#ent-org-ace-partners-t-00-15-27)**
 > "...ington." And we go, "Aha—lights on." And here we are, right? We learn about this French and Israeli ACE Partners being the second largest shareholder of Satis. They decide to lease out this hangar. We learn that ..."
 
+**[00:15:27](/episodes/ep-a-e7HC6SeK8.md#ent-org-ace-partners-t-00-15-27)**
+> "...about this French and Israeli ACE Partners being the second largest shareholder of Satis."
+
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (4 mentions)</summary>
 
 **[00:38:08](/episodes/ep-tB5SXXmd9vU.md#ent-org-ace-partners-t-00-38-00)**
 > "...second-largest shareholder for Satis is Israel. Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners. They are explicit. They only invest in companies and organizations that benefit Israel on their we..."
 
 **[00:38:46](/episodes/ep-tB5SXXmd9vU.md#ent-org-ace-partners-t-00-38-43)**
 > "...nvestments are global, with a specific focus on Israel." So I'm not being anti-Semitic. That's what ACE Partners does. They are the second-largest shareholder to Satis. Why is Israel interested in this hangar in ..."
+
+**[00:38:08](/episodes/ep-tB5SXXmd9vU.md#ent-org-ace-partners-t-00-38-00)**
+> "...firm based in Tel Aviv called ACE Partners."
+
+**[00:38:46](/episodes/ep-tB5SXXmd9vU.md#ent-org-ace-partners-t-00-38-43)**
+> "That's what ACE Partners does."
 
 </details>
 
@@ -44,7 +53,7 @@ _Type: Organizations_
 <summary>Based In (1)</summary>
 
 - **[Tel Aviv](/entities/gpe-tel-aviv.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/timestamps/ep-tB5SXXmd9vU/t-00-38-08.md): ""...it's an Israeli firm based in Tel Aviv called ACE Partners.""
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): ""...it's an Israeli firm based in Tel Aviv called ACE Partners.""
 
 </details>
 
@@ -52,8 +61,8 @@ _Type: Organizations_
 <summary>Invested In (1)</summary>
 
 - **[Satis](/entities/org-satis.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/timestamps/ep-tB5SXXmd9vU/t-00-38-08.md): "the second-largest shareholder for Satis is Israel. Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners. They are the second-largest shareholder to Satis."
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:47](/timestamps/ep-tB5SXXmd9vU/t-00-38-47.md): ""They are the second-largest shareholder to Satis.""
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): "the second-largest shareholder for Satis is Israel. Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners. They are the second-largest shareholder to Satis."
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:47](/episodes/ep-tB5SXXmd9vU.md#t-00-38-43): ""They are the second-largest shareholder to Satis.""
 
 </details>
 
@@ -61,15 +70,15 @@ _Type: Organizations_
 <summary>Referenced By (3)</summary>
 
 - **[Satis](/entities/org-satis.md)** has investor this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/timestamps/ep-tB5SXXmd9vU/t-00-38-08.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:47](/timestamps/ep-tB5SXXmd9vU/t-00-38-47.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:47](/episodes/ep-tB5SXXmd9vU.md#t-00-38-43)
 
 - **[Satis](/entities/org-satis.md)** investor includes this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/timestamps/ep-tB5SXXmd9vU/t-00-38-08.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:47](/timestamps/ep-tB5SXXmd9vU/t-00-38-47.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:47](/episodes/ep-tB5SXXmd9vU.md#t-00-38-43)
 
 - **[Tel Aviv](/entities/gpe-tel-aviv.md)** location of this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/timestamps/ep-tB5SXXmd9vU/t-00-38-08.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00)
 
 </details>
 

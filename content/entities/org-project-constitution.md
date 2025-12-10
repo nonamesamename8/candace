@@ -1,6 +1,6 @@
 ---
 title: "Project Constitution"
-description: "Project Constitution (Organizations) - 3 mentions"
+description: "Project Constitution (Organizations) - 6 mentions"
 id: "org-project-constitution"
 type: "ORG"
 ---
@@ -13,7 +13,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (6 mentions)</summary>
 
 **[00:16:42](/episodes/ep-ZAuuSq_j2_w.md#ent-org-project-constitution-t-00-16-27)**
 > "...the president of Egypt aboard. And by "once upon a time," I mean back in 2023. This tweet came from Project Constitution. I'm going to read it in its entirety, okay? "Confirmed. Candace Owens just got vindicated again. T..."
@@ -22,6 +22,15 @@ _Type: Organizations_
 > "...his is not a meritocracy. We live in a matrix. Everybody just needs to wake up right now. Oh, look: Project Constitution is in the chat. He said, "I have proof now that Tim Pool uses bots. Stay tuned. Receipts dropping i..."
 
 **[00:03:39](/episodes/ep-ZAuuSq_j2_w.md#ent-org-project-constitution-t-00-16-27)**
+> "This tweet came from Project Constitution."
+
+**[00:16:42](/episodes/ep-ZAuuSq_j2_w.md#ent-org-project-constitution-t-00-16-27)**
+> "This tweet came from Project Constitution."
+
+**[00:42:37](/episodes/ep-ZAuuSq_j2_w.md#ent-org-project-constitution-t-00-42-17)**
+> "Oh, look: Project Constitution is in the chat."
+
+**[00:16:46](/episodes/ep-ZAuuSq_j2_w.md#ent-org-project-constitution-t-00-16-27)**
 > "This tweet came from Project Constitution."
 
 </details>

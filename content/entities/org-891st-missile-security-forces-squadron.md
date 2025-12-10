@@ -1,6 +1,6 @@
 ---
 title: "891st Missile Security Forces Squadron"
-description: "891st Missile Security Forces Squadron (Organizations) - 1 mention"
+description: "891st Missile Security Forces Squadron (Organizations) - 3 mentions"
 id: "org-891st-missile-security-forces-squadron"
 type: "ORG"
 aliases:
@@ -17,10 +17,16 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
 
 **[00:06:40](/episodes/ep-mKXdKV-OBog.md#ent-org-891st-missile-security-forces-squadron-t-00-06-30)**
 > "891st Missile Security Forces Squadron from Minot Air Force Base"
+
+**[00:06:40](/episodes/ep-mKXdKV-OBog.md#ent-org-891st-missile-security-forces-squadron-t-00-06-30)**
+> "...Air Force base is home to the 891st Missile Security Forces Squadron, a combined military and civilian security force ..."
+
+**[00:08:40](/episodes/ep-mKXdKV-OBog.md#ent-org-891st-missile-security-forces-squadron-t-00-08-31)**
+> "... week-long training where the 891st Squadron from Minot Air Force Base, North Dakota, traveled..."
 
 </details>
 
@@ -30,12 +36,5 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Related Claims (1)</strong></summary>
-
-- ⚠️ **[Factual](/claims/claim-298e1f5b618b.md):** Operation Valhalla Strike took place August 24th-29th, 2024, where the 891st Squadron from Minot Air...
 
 </details>

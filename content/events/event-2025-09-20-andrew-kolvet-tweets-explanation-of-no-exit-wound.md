@@ -24,7 +24,7 @@ date: "2025-09-20"
 ### 2. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
-**Timestamp:** [00:13:03](/episodes/ep-5autG89PW6w.md#t-00-13-03) 
+**Timestamp:** [00:13:03](/episodes/ep-5autG89PW6w.md#t-00-12-28) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(783);return false;">▶️ Play</a>
 
 > essages are real." Update, says Community Notes: "Andrew Kolvet confirmed the screen grab was real." Of course it was real. I mean... I would have to be the dumbes
@@ -32,7 +32,7 @@ date: "2025-09-20"
 ### 3. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:10:48](/episodes/ep-K5GjF53bfN4.md#t-00-10-48) 
+**Timestamp:** [00:10:48](/episodes/ep-K5GjF53bfN4.md#t-00-10-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(648);return false;">▶️ Play</a>
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's s
@@ -48,7 +48,7 @@ date: "2025-09-20"
 ### 5. To My Friend, Charlie Kirk.
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
-**Timestamp:** [00:14:33](/episodes/ep-_dRaEO47-co.md#t-00-14-33) 
+**Timestamp:** [00:14:33](/episodes/ep-_dRaEO47-co.md#t-00-14-11) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(873);return false;">▶️ Play</a>
 
 > mber just being behind Charlie and Andrew Kolvet. And he just held the line. He held the line because he agreed with me, and he knew it was going to
@@ -56,7 +56,7 @@ date: "2025-09-20"
 ### 6. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-10-37) 
+**Timestamp:** [00:10:37](/episodes/ep-K5GjF53bfN4.md#t-00-09-59) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(637);return false;">▶️ Play</a>
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's show. He was already seated on Cha

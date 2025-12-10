@@ -25,7 +25,7 @@ time: "11:30"
 ### 2. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:03:37](/episodes/ep-adJ4LNGp84I.md#t-00-03-37) 
+**Timestamp:** [00:03:37](/episodes/ep-adJ4LNGp84I.md#t-00-02-54) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(217);return false;">▶️ Play</a>
 
 > more caring man with uncompromising goals to make Utah great for generations than Phil Lyman, not a politician who can be pampered. Phil has a knowledge o
@@ -33,7 +33,7 @@ time: "11:30"
 ### 3. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:03:52](/episodes/ep-adJ4LNGp84I.md#t-00-03-52) 
+**Timestamp:** [00:03:52](/episodes/ep-adJ4LNGp84I.md#t-00-03-37) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(232);return false;">▶️ Play</a>
 
 > more caring man with uncompromising goals to make Utah great for generations than Phil Lyman, not a politician who can be pampered. Phil has a knowledge o
@@ -41,7 +41,7 @@ time: "11:30"
 ### 4. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:09:40](/episodes/ep-adJ4LNGp84I.md#t-00-09-40) 
+**Timestamp:** [00:09:40](/episodes/ep-adJ4LNGp84I.md#t-00-09-08) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(580);return false;">▶️ Play</a>
 
 > more caring man with uncompromising goals to make Utah great for generations than Phil Lyman, not a politician who can be pampered. Phil has a knowledge of urban and rural
@@ -57,7 +57,7 @@ time: "11:30"
 ### 6. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:03:27](/episodes/ep-adJ4LNGp84I.md#t-00-03-27) 
+**Timestamp:** [00:03:27](/episodes/ep-adJ4LNGp84I.md#t-00-02-54) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(207);return false;">▶️ Play</a>
 
 > e was a great person. But yes, we were aware that George Zin is one of just 20 people that is a featured endorsement. He endorses Phil Lyman's character. You can
@@ -81,7 +81,7 @@ time: "11:30"
 ### 9. INSANITY! Guess Who Kash Patel Sent To Investigate Charlie K...
 
 **Episode:** [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md)
-**Timestamp:** [00:21:03](/episodes/ep-t1YtLS1n8Vs.md#t-00-21-03) 
+**Timestamp:** [00:21:03](/episodes/ep-t1YtLS1n8Vs.md#t-00-20-20) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1263);return false;">▶️ Play</a>
 
 > of course; she's with the nieces. Her sister was Phil Lyman's running mate. She spoke to Good Morning America in the wee hours of the morning after. Phil Lyman
@@ -89,7 +89,7 @@ time: "11:30"
 ### 10. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:02:07](/episodes/ep-YA1FxrDWNIo.md#t-00-02-07) 
+**Timestamp:** [00:02:07](/episodes/ep-YA1FxrDWNIo.md#t-00-01-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(127);return false;">▶️ Play</a>
 
 > asked for the public's help in identifying two individuals w
@@ -97,7 +97,7 @@ time: "11:30"
 ### 11. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
-**Timestamp:** [00:08:25](/episodes/ep-UBkFkg4UNY8.md#t-00-08-25) 
+**Timestamp:** [00:08:25](/episodes/ep-UBkFkg4UNY8.md#t-00-07-53) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(505);return false;">▶️ Play</a>
 
 > . Her sister ran as lieutenant governor alongside Phil Lyman, and actually Good Morning America reached out to Phil Lyman, and somehow that is how—instead of he
@@ -105,7 +105,7 @@ time: "11:30"
 ### 12. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:03:05](/episodes/ep-adJ4LNGp84I.md#t-00-03-05) 
+**Timestamp:** [00:03:05](/episodes/ep-adJ4LNGp84I.md#t-00-02-54) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(185);return false;">▶️ Play</a>
 
 > r thing that I came across, and this is regarding Phil Lyman's campaign website. You guys were asking me if we came across that. Yes, I did come across that, an
@@ -113,7 +113,7 @@ time: "11:30"
 ### 13. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:07:42](/episodes/ep-adJ4LNGp84I.md#t-00-07-42) 
+**Timestamp:** [00:07:42](/episodes/ep-adJ4LNGp84I.md#t-00-06-59) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(462);return false;">▶️ Play</a>
 
 > of a stronger hunch about things. We'll jump back in here re

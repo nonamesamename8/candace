@@ -1,6 +1,6 @@
 ---
 title: "Wilmington Savings Fund Society"
-description: "Wilmington Savings Fund Society (Organizations) - 2 mentions"
+description: "Wilmington Savings Fund Society (Organizations) - 4 mentions"
 id: "org-wilmington-savings-fund-society"
 type: "ORG"
 aliases:
@@ -17,13 +17,19 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (4 mentions)</summary>
 
 **[00:31:35](/episodes/ep-tB5SXXmd9vU.md#ent-org-wilmington-savings-fund-society-t-00-31-13)**
 > "...enue is a cover, because guess what that building is? It's another bank center. This time, it's the Wilmington Savings Fund Society. In 1990, nearly all of lower Delaware branches of WSFS were sold to Wilmington Trust which was fou..."
 
 **[00:31:39](/episodes/ep-tB5SXXmd9vU.md#ent-org-wilmington-savings-fund-society-t-00-31-13)**
 > "...s time, it's the Wilmington Savings Fund Society. In 1990, nearly all of lower Delaware branches of WSFS were sold to Wilmington Trust which was founded by T. Coleman du Pont, the French-American then-pre..."
+
+**[00:31:35](/episodes/ep-tB5SXXmd9vU.md#ent-org-wilmington-savings-fund-society-t-00-31-13)**
+> "This time, it's the Wilmington Savings Fund Society."
+
+**[00:31:39](/episodes/ep-tB5SXXmd9vU.md#ent-org-wilmington-savings-fund-society-t-00-31-13)**
+> "...of lower Delaware branches of WSFS were sold to Wilmington Trust"
 
 </details>
 

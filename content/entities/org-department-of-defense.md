@@ -1,6 +1,6 @@
 ---
 title: "Department of Defense"
-description: "Department of Defense (Organizations) - 6 mentions"
+description: "Department of Defense (Organizations) - 14 mentions"
 id: "org-department-of-defense"
 type: "ORG"
 aliases:
@@ -19,15 +19,18 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
 **[00:31:53](/episodes/ep-Cq7nj9rxPdo.md#ent-org-department-of-defense-t-00-31-29)**
 > "... and they tell you, "He's a genius." Then you learn that they have—I don't know—a contract with the Department of Defense. He might just be a military-grade actor meant to lead a company, because if we all looked up and r..."
 
+**[00:31:53](/episodes/ep-Cq7nj9rxPdo.md#ent-org-department-of-defense-t-00-31-29)**
+> "...on't know—a contract with the Department of Defense."
+
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (4 mentions)</summary>
 
 **[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-department-of-defense-t-00-46-55)**
 > "... here; Mamdani—there's a jihadist threat; something big is coming. And the Pentagon— like where the Department of Defense is housed—the Pentagon, which was implicated in 9/11—a lot of questions about what the Pentagon was..."
@@ -35,24 +38,45 @@ _Type: Organizations_
 **[00:48:59](/episodes/ep-LATnak75Si0.md#ent-org-department-of-defense-t-00-48-57)**
 > "...that they kicked her off. I don't agree with them kicking anybody off. But you should know that our Department of Defense—for whatever reason—is signaling that she's an okay person to be in the building. That just seems l..."
 
+**[00:47:23](/episodes/ep-LATnak75Si0.md#ent-org-department-of-defense-t-00-46-55)**
+> "like where the Department of Defense is housed—the Pentagon, which was implicated in 9..."
+
+**[00:48:59](/episodes/ep-LATnak75Si0.md#ent-org-department-of-defense-t-00-48-57)**
+> "But you should know that our Department of Defense—for whatever reason—is signaling that she's an ok..."
+
 </details>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (4 mentions)</summary>
 
 **[00:49:24](/episodes/ep-ZAuuSq_j2_w.md#ent-org-department-of-defense-t-00-49-20)**
 > "...ench and Israel were colluding and killed CK—what power do we have to fight the billionaires or the Department of Defense?" The reality is: you got to start in your home, right? There's just—it was a matrix. Take your kid..."
 
+**[00:02:46](/episodes/ep-ZAuuSq_j2_w.md#ent-org-department-of-defense-t-00-02-46)**
+> "Does the DoD have any evidence at all of a French military plo..."
+
+**[00:49:24](/episodes/ep-ZAuuSq_j2_w.md#ent-org-department-of-defense-t-00-49-20)**
+> "...fight the billionaires or the Department of Defense?""
+
+**[00:49:23](/episodes/ep-ZAuuSq_j2_w.md#ent-org-department-of-defense-t-00-49-20)**
+> "what power do we have to fight the billionaires or the Department of Defense?"
+
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (4 mentions)</summary>
 
 **[00:37:34](/episodes/ep-his-JBjlkh8.md#ent-org-department-of-defense-t-00-37-21)**
 > "...is is interesting. The United States Pentagon—in case you don't know—is the complex that houses our Department of Defense. It's a massive complex, right? There is arguably no more relevant building to communicating to the..."
 
 **[00:43:27](/episodes/ep-his-JBjlkh8.md#ent-org-department-of-defense-t-00-43-27)**
 > "... you know. I think that might be more of a law enforcement matter though." No, I think actually the Department of Defense—this would be a good matter for you guys to take up—of whether or not foreign governments are plott..."
+
+**[00:37:34](/episodes/ep-his-JBjlkh8.md#ent-org-department-of-defense-t-00-37-21)**
+> "...s the complex that houses our Department of Defense."
+
+**[00:43:27](/episodes/ep-his-JBjlkh8.md#ent-org-department-of-defense-t-00-43-27)**
+> "No, I think actually the Department of Defense—this would be a good matter for you guys to take ..."
 
 </details>
 
@@ -65,7 +89,7 @@ _Type: Organizations_
 <summary>Headquartered In (1)</summary>
 
 - **[United States Pentagon](/entities/org-united-states-pentagon.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:30](/timestamps/ep-his-JBjlkh8/t-00-01-30.md): ""The United States Pentagon, in case you don't know, is the complex that houses our Department of Defense.""
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:30](/episodes/ep-his-JBjlkh8.md#t-00-00-44): ""The United States Pentagon, in case you don't know, is the complex that houses our Department of Defense.""
 
 </details>
 
@@ -73,7 +97,7 @@ _Type: Organizations_
 <summary>Referenced By (1)</summary>
 
 - **[United States Pentagon](/entities/org-united-states-pentagon.md)** headquarters of this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:30](/timestamps/ep-his-JBjlkh8/t-00-01-30.md)
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:01:30](/episodes/ep-his-JBjlkh8.md#t-00-00-44)
 
 </details>
 

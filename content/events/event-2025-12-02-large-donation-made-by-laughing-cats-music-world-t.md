@@ -14,7 +14,7 @@ date: "2025-12-02"
 ## Mentioned In
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:55:50](/episodes/ep-a-e7HC6SeK8.md#t-00-55-50) 
+**Timestamp:** [00:55:50](/episodes/ep-a-e7HC6SeK8.md#t-00-55-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3350);return false;">▶️ Play</a>
 
 > I think it made us realize that we have to be soldiers for God. If they are going to be soldiers for darkness, then we have to be soldiers for— let me see if I c

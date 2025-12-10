@@ -1,6 +1,6 @@
 ---
 title: "Nate Brooksby"
-description: "Nate Brooksby (People) - 10 mentions"
+description: "Nate Brooksby (People) - 24 mentions"
 id: "person-nate-brooksby"
 type: "PERSON"
 aliases:
@@ -17,7 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (9 mentions)</summary>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (21 mentions)</summary>
 
 **[00:08:57](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-08-57)**
 > "...warming his home—as I said earlier—in a theatrical arrest setting. But rather confusingly, Brooksby—Nate Brooksby—tells us that Tyler is suicidal. Whatever. Let's just take a listen to what Nate Brooksby said afte..."
@@ -46,13 +46,55 @@ _Type: People_
 **[00:51:00](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-50-29)**
 > "...on the force for 24 years. Like, what? You've always been a public figure, essentially. And I think Brooksby has some nervous energy there when he's like, “Oh, he called me. That's just totally usual.” It's n..."
 
+**[00:08:57](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-08-57)**
+> "... rather confusingly, Brooksby—Nate Brooksby—tells us that Tyler is suicidal. Whatever."
+
+**[00:08:57](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-08-57)**
+> "But rather confusingly, Brooksby—Nate Brooksby—tells us that Tyler is suicidal. Wh..."
+
+**[00:08:57](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-08-57)**
+> "...er confusingly, Brooksby—Nate Brooksby—tells us that Tyler is suicidal. Whatever."
+
+**[00:09:06](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-08-57)**
+> "...'s just take a listen to what Nate Brooksby said after he had been apprehended."
+
+**[00:09:06](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-08-57)**
+> "...st take a listen to what Nate Brooksby said after he had been apprehended."
+
+**[00:10:32](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-10-22)**
+> "He then tells us—Brooksby—that he came in willingly because he didn't want ..."
+
+**[00:17:02](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-16-40)**
+> "... press conference, by the way—Brooksby—I don't like the way he's moving."
+
+**[00:17:06](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-16-40)**
+> "I don't like the way Nate Brooksby is breathing."
+
+**[00:19:44](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-19-22)**
+> "...d that again—which would mean Brooksby lied a little bit."
+
+**[00:19:59](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-19-22)**
+> "On the left, you have Brooksby."
+
+**[00:20:18](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-20-04)**
+> "Sheriff Brooksby and Detective Mitchell both had some wonderful st..."
+
+**[00:51:00](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-50-29)**
+> "And I think Brooksby has some nervous energy there when he's like, “Oh..."
+
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3 mentions)</summary>
 
 **[00:40:42](/episodes/ep-sImMM04XdWY.md#ent-person-nate-brooksby-t-00-40-42)**
 > "... TV News Investigating. (Clip from KUER TV News) On September 17th, 2025, Washington County Sheriff Nate Brooksby held a press conference. "Our job was not to interview; our job was just to get him here." After Ch..."
+
+**[00:40:42](/episodes/ep-sImMM04XdWY.md#ent-person-nate-brooksby-t-00-40-42)**
+> "...25, Washington County Sheriff Nate Brooksby held a press conference."
+
+**[00:40:42](/episodes/ep-sImMM04XdWY.md#ent-person-nate-brooksby-t-00-40-42)**
+> "...ashington County Sheriff Nate Brooksby held a press conference."
 
 </details>
 
@@ -65,7 +107,7 @@ _Type: People_
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:09](/timestamps/ep-ZGxnf5cj4Uw/t-00-17-09.md): "Brooksby, I don't like the way he's moving, I don't like the way Nate Brooksby is breathing."
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:09](/episodes/ep-ZGxnf5cj4Uw.md#t-00-16-40): "Brooksby, I don't like the way he's moving, I don't like the way Nate Brooksby is breathing."
 
 </details>
 
@@ -73,7 +115,7 @@ _Type: People_
 <summary>Employs (1)</summary>
 
 - **[Mike Mitchell](/entities/person-mike-mitchell.md)**
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:28](/timestamps/ep-ZGxnf5cj4Uw/t-00-17-28.md): "a retired detective that worked for me for many years"
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:28](/episodes/ep-ZGxnf5cj4Uw.md#t-00-17-23): "a retired detective that worked for me for many years"
 
 </details>
 
@@ -81,7 +123,7 @@ _Type: People_
 <summary>Sheriff Of (1)</summary>
 
 - **[Washington County](/entities/gpe-washington-county.md)**
-  - [ @ 00:20:18](/timestamps//t-00-20-18.md): "Sheriff Brooksby and Detective Mitchell both had some wonderful stories to share"
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:18](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04): "Sheriff Brooksby and Detective Mitchell both had some wonderful stories to share"
 
 </details>
 
@@ -89,13 +131,13 @@ _Type: People_
 <summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:09](/timestamps/ep-ZGxnf5cj4Uw/t-00-17-09.md)
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:09](/episodes/ep-ZGxnf5cj4Uw.md#t-00-16-40)
+
+- **[Washington County](/entities/gpe-washington-county.md)** has sheriff this
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:20:18](/episodes/ep-ZGxnf5cj4Uw.md#t-00-20-04)
 
 - **[Mike Mitchell](/entities/person-mike-mitchell.md)** works for this
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:28](/timestamps/ep-ZGxnf5cj4Uw/t-00-17-28.md)
-
-- **[Mike Mitchell](/entities/person-mike-mitchell.md)** works for this
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:28](/timestamps/ep-ZGxnf5cj4Uw/t-00-17-28.md)
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:28](/episodes/ep-ZGxnf5cj4Uw.md#t-00-17-23)
 
 </details>
 

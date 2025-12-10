@@ -1,6 +1,6 @@
 ---
 title: "Ashley Reinsberg"
-description: "Ashley Reinsberg (People) - 3 mentions"
+description: "Ashley Reinsberg (People) - 5 mentions"
 id: "person-ashley-reinsberg"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
 
 **[00:29:33](/episodes/ep-mKXdKV-OBog.md#ent-person-ashley-reinsberg-t-00-29-33)**
 > "...ou're gonna think this is SNL that fluttered into my inbox the other day from a writer. His name is Ashley Reinsberg. And this is—I'm just going to read you the email. This is it. It says, "Hi, Candace (Candace Owens..."
@@ -23,6 +23,12 @@ _Type: People_
 
 **[00:30:55](/episodes/ep-mKXdKV-OBog.md#ent-person-ashley-reinsberg-t-00-30-55)**
 > "Ashley Reinsberg, writer for The Free Press, lives in Tel Aviv"
+
+**[00:29:33](/episodes/ep-mKXdKV-OBog.md#ent-person-ashley-reinsberg-t-00-29-33)**
+> "His name is Ashley Reinsberg."
+
+**[00:31:34](/episodes/ep-mKXdKV-OBog.md#ent-person-ashley-reinsberg-t-00-30-55)**
+> "...ou shocked if I tell you that Ashley Reinsberg—he happens to live in Tel Aviv?"
 
 </details>
 
@@ -35,40 +41,29 @@ _Type: People_
 <summary>Lives In (1)</summary>
 
 - **[Israel](/entities/gpe-israel.md)**
-  - [ @ 00:31:40](/timestamps//t-00-31-40.md): "Ashley Reinsberg, he happens to live in Tel Aviv"
+  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:31:40](/episodes/ep-mKXdKV-OBog.md#t-00-30-55): "Ashley Reinsberg, he happens to live in Tel Aviv"
 
 </details>
 
 <details>
-<summary>Works For (2)</summary>
+<summary>Works For (1)</summary>
 
 - **[The Free Press](/entities/org-the-free-press.md)**
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:33](/timestamps/ep-mKXdKV-OBog/t-00-29-33.md): "a writer. His name is Ashley Reinsberg... reporting a piece for The Free Press"
-
-- **[The Free Press](/entities/org-the-free-press.md)**
-  - [ @ 00:30:55](/timestamps//t-00-30-55.md): "Ashley Reinsberg, a writer for The Free Press"
+  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:33](/episodes/ep-mKXdKV-OBog.md#t-00-28-48): "a writer. His name is Ashley Reinsberg... reporting a piece for The Free Press"
+  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:30:55](/episodes/ep-mKXdKV-OBog.md#t-00-30-09): "Ashley Reinsberg, a writer for The Free Press"
 
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[The Free Press](/entities/org-the-free-press.md)** employs this
-  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:33](/timestamps/ep-mKXdKV-OBog/t-00-29-33.md)
-
-- **[The Free Press](/entities/org-the-free-press.md)** employs this
-  - [ @ 00:30:55](/timestamps//t-00-30-55.md)
+  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:33](/episodes/ep-mKXdKV-OBog.md#t-00-28-48)
+  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:30:55](/episodes/ep-mKXdKV-OBog.md#t-00-30-09)
 
 - **[Israel](/entities/gpe-israel.md)** residence of this
-  - [ @ 00:31:40](/timestamps//t-00-31-40.md)
+  - [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:31:40](/episodes/ep-mKXdKV-OBog.md#t-00-30-55)
 
 </details>
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Related Claims (1)</strong></summary>
-
-- ❓ **[Factual](/claims/claim-97764e7e617c.md):** Ashley Reinsberg, a writer for The Free Press, lives in Tel Aviv
 
 </details>

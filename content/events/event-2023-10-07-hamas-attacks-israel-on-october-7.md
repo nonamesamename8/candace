@@ -24,7 +24,7 @@ date: "2023-10-07"
 ### 2. Ben Shapiro Is Crying Again. | Candace Ep 261
 
 **Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
-**Timestamp:** [00:05:23](/episodes/ep-r1PS67aRmcA.md#t-00-05-23) 
+**Timestamp:** [00:05:23](/episodes/ep-r1PS67aRmcA.md#t-00-05-14) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(323);return false;">▶️ Play</a>
 
 > eople who were just absurdly making claims that I attacked Erika. And I know what these organic movements look like. I know how they operate behind the scenes. And I know Ben plays a part in this. And
@@ -32,7 +32,7 @@ date: "2023-10-07"
 ### 3. Shocking Revelation About The Egyptian Planes... | Candace E...
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:48:37](/episodes/ep-ZAuuSq_j2_w.md#t-00-48-37) 
+**Timestamp:** [00:48:37](/episodes/ep-ZAuuSq_j2_w.md#t-00-47-54) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2917);return false;">▶️ Play</a>
 
 > el. And then he authentically had questions after October 7th. And then he was authentically angry and recognizing how much control was around him. And the infiltration happened. It's like they were p

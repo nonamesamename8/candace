@@ -1,6 +1,6 @@
 ---
 title: "Youth With A Mission"
-description: "Youth With A Mission (Organizations) - 1 mention"
+description: "Youth With A Mission (Organizations) - 2 mentions"
 id: "org-youth-with-a-mission"
 type: "ORG"
 ---
@@ -13,10 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
 
 **[00:14:09](/episodes/ep-YaZfwLQ7vrI.md#ent-org-youth-with-a-mission-t-00-13-59)**
 > "...a conversation I had in the year 2000. I had been talking to Loren Cunningham, who's the founder of Youth With A Mission, and Loren was sharing with me about a conversation he had had with Bill Bright. The two of them we..."
+
+**[00:14:09](/episodes/ep-YaZfwLQ7vrI.md#ent-org-youth-with-a-mission-t-00-13-59)**
+> "...ningham, who's the founder of Youth With A Mission, and Loren was sharing with me about a conversati..."
 
 </details>
 
@@ -29,7 +32,7 @@ _Type: Organizations_
 <summary>Founded By (1)</summary>
 
 - **[Loren Cunningham](/entities/person-loren-cunningham.md)**
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:14:09](/timestamps/ep-YaZfwLQ7vrI/t-00-14-09.md): "Loren Cunningham, who's the founder of Youth With A Mission"
+  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:14:09](/episodes/ep-YaZfwLQ7vrI.md#t-00-13-59): "Loren Cunningham, who's the founder of Youth With A Mission"
 
 </details>
 
@@ -37,7 +40,7 @@ _Type: Organizations_
 <summary>Referenced By (1)</summary>
 
 - **[Loren Cunningham](/entities/person-loren-cunningham.md)** founded this
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:14:09](/timestamps/ep-YaZfwLQ7vrI/t-00-14-09.md)
+  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:14:09](/episodes/ep-YaZfwLQ7vrI.md#t-00-13-59)
 
 </details>
 

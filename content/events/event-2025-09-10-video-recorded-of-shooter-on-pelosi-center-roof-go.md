@@ -15,7 +15,7 @@ time: "12:22"
 ## Mentioned In
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
-**Timestamp:** [00:18:05](/episodes/ep-UBkFkg4UNY8.md#t-00-18-05) 
+**Timestamp:** [00:18:05](/episodes/ep-UBkFkg4UNY8.md#t-00-17-59) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1085);return false;">▶️ Play</a>
 
 > ast week that I should maybe go back and find all of the original videos that were going viral on social media on 9/10, all the videos pertaining to the assassination, the people that were providing t

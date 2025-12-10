@@ -1,6 +1,6 @@
 ---
 title: "Richard Ramirez"
-description: "Richard Ramirez (People) - 1 mention"
+description: "Richard Ramirez (People) - 2 mentions"
 id: "person-richard-ramirez"
 type: "PERSON"
 ---
@@ -13,10 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
 
 **[00:46:37](/episodes/ep-adJ4LNGp84I.md#ent-person-richard-ramirez-t-00-46-07)**
 > "...enagerie by Jerea Lee writes, one of Tyler Robinson's lawyers, Michael Burt, previously represented Richard Ramirez, aka the Night Stalker. Ramirez was in the same jail as Sean Penn in 1987, who was serving 33 days...."
+
+**[00:46:37](/episodes/ep-adJ4LNGp84I.md#ent-person-richard-ramirez-t-00-46-07)**
+> "... Burt, previously represented Richard Ramirez, aka the Night Stalker."
 
 </details>
 

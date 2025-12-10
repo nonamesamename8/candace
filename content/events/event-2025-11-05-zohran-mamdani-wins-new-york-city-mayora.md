@@ -14,7 +14,7 @@ date: "2025-11-05"
 ## Mentioned In
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:00:06](/episodes/ep-LATnak75Si0.md#t-00-00-06) 
+**Timestamp:** [00:00:06](/episodes/ep-LATnak75Si0.md#event-event-2025-11-05-zohran-mamdani-wins-new-york-city-mayora-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(6);return false;">▶️ Play</a>
 
 > Mamdani won. Okay, that's kind of the big story.

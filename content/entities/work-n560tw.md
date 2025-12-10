@@ -1,6 +1,6 @@
 ---
 title: "N560TW"
-description: "N560TW (Work) - 2 mentions"
+description: "N560TW (Work) - 4 mentions"
 id: "work-n560tw"
 type: "WORK"
 ---
@@ -13,13 +13,19 @@ _Type: Work_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2 mentions)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (4 mentions)</summary>
 
 **[00:26:14](/episodes/ep-JQjCAsfoXEE.md#ent-work-n560tw-t-00-26-14)**
 > "... somebody somewhere knows something about this flight. So pay attention to this. The tail number is N560TW. N560TW. It departed on the morning of September 10th from Scottsdale, Arizona, and it landed into ..."
 
 **[00:26:22](/episodes/ep-JQjCAsfoXEE.md#ent-work-n560tw-t-00-26-14)**
 > "...y somewhere knows something about this flight. So pay attention to this. The tail number is N560TW. N560TW. It departed on the morning of September 10th from Scottsdale, Arizona, and it landed into Provo at..."
+
+**[00:26:14](/episodes/ep-JQjCAsfoXEE.md#ent-work-n560tw-t-00-26-14)**
+> "The tail number is N560TW."
+
+**[00:26:22](/episodes/ep-JQjCAsfoXEE.md#ent-work-n560tw-t-00-26-14)**
+> "N560TW."
 
 </details>
 

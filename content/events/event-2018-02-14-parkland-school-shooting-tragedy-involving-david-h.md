@@ -24,7 +24,7 @@ date: "2018-02-14"
 ### 2. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:33:25](/episodes/ep-his-JBjlkh8.md#t-00-33-25) 
+**Timestamp:** [00:33:25](/episodes/ep-his-JBjlkh8.md#t-00-32-55) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2005);return false;">▶️ Play</a>
 
 > And by the way, it would probably feel better to the public if you guys were the ones that were asking questions about who was there on that day. I completel

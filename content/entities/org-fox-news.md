@@ -1,6 +1,6 @@
 ---
 title: "Fox News"
-description: "Fox News (Organizations) - 40 mentions"
+description: "Fox News (Organizations) - 82 mentions"
 id: "org-fox-news"
 type: "ORG"
 aliases:
@@ -19,7 +19,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (4 mentions)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (8 mentions)</summary>
 
 **[00:13:09](/episodes/ep-2WEHTk0Xewg.md#ent-org-fox-news-t-00-13-01)**
 > "... know I speak proper here, but it's just a meme that I was writing. I wrote 'notice his bulge.'" On Fox News, I might have a stroke if they say that, right? If I see "notice his bulge" on Fox News, I might ha..."
@@ -33,10 +33,22 @@ _Type: Organizations_
 **[00:27:09](/episodes/ep-2WEHTk0Xewg.md#ent-org-fox-news-t-00-13-01)**
 > "...nald Trump) Any updates on the suspect? Yeah. Can I just say? I think just to protect us all and so Fox doesn't get sued and we all don't get sued and everything else—but I think with a high degree of ce..."
 
+**[00:13:09](/episodes/ep-2WEHTk0Xewg.md#ent-org-fox-news-t-00-13-01)**
+> "On Fox News, I might have a stroke if they say that, right?"
+
+**[00:13:12](/episodes/ep-2WEHTk0Xewg.md#ent-org-fox-news-t-00-13-01)**
+> "...f I see "notice his bulge" on Fox News, I might have a stroke."
+
+**[00:27:00](/episodes/ep-2WEHTk0Xewg.md#ent-org-fox-news-t-00-13-01)**
+> "...en to Trump (Donald Trump) on Fox & Friends. (Clip of Donald Trump)"
+
+**[00:27:09](/episodes/ep-2WEHTk0Xewg.md#ent-org-fox-news-t-00-13-01)**
+> "...just to protect us all and so Fox doesn't get sued and we all don't get sued and ev..."
+
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (6 mentions)</summary>
 
 **[00:03:19](/episodes/ep-Cq7nj9rxPdo.md#ent-org-fox-news-t-00-02-49)**
 > "...than Charlie. I was like 24 at the time, maybe even 23 years old at the time. And we were doing the Fox News gambit—every show on Fox News—but I was really just focused on BLM, Black Lives Matter. I felt they..."
@@ -47,10 +59,27 @@ _Type: Organizations_
 **[00:04:23](/episodes/ep-Cq7nj9rxPdo.md#ent-org-fox-news-t-00-02-49)**
 > "doing the Fox News gambit every show on Fox News"
 
+**[00:03:19](/episodes/ep-Cq7nj9rxPdo.md#ent-org-fox-news-t-00-02-49)**
+> "And we were doing the Fox News gambit—every show on Fox News—but I was really ju..."
+
+**[00:03:19](/episodes/ep-Cq7nj9rxPdo.md#ent-org-fox-news-t-00-02-49)**
+> "...Fox News gambit—every show on Fox News—but I was really just focused on BLM, Black Lives..."
+
+**[00:27:34](/episodes/ep-Cq7nj9rxPdo.md#ent-org-fox-news-t-00-27-09)**
+> "...doesn't she go on like CNN or Fox News?""
+
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (3 mentions)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
+
+**[00:46:03](/episodes/ep-DqGNvi36ol8.md#ent-org-fox-news-t-00-45-50)**
+> "Tucker Carlson was on Fox News."
+
+</details>
+
+<details>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (6 mentions)</summary>
 
 **[00:28:23](/episodes/ep-K1tFD7FfoCU.md#ent-org-fox-news-t-00-27-53)**
 > "...k) loved Jesse Watters (Jesse Watters). Jesse Watters (Jesse Watters) gave us the most play time on Fox News back in the beginning. That was the big show that we got to book. And so it's a good fit. It's a fi..."
@@ -61,18 +90,30 @@ _Type: Organizations_
 **[00:06:29](/episodes/ep-K1tFD7FfoCU.md#ent-org-fox-news-t-00-27-53)**
 > "... they don't like. It's that simple as to why they go after him. That's also why they fired him from Fox because he was speaking out against the Ukrainian war, and that was not allowed. They thought that ..."
 
+**[00:06:29](/episodes/ep-K1tFD7FfoCU.md#ent-org-fox-news-t-00-27-53)**
+> "... also why they fired him from Fox because he was speaking out against the Ukrainian..."
+
+**[00:28:23](/episodes/ep-K1tFD7FfoCU.md#ent-org-fox-news-t-00-27-53)**
+> "...gave us the most play time on Fox News back in the beginning."
+
+**[00:35:20](/episodes/ep-K1tFD7FfoCU.md#ent-org-fox-news-t-00-35-20)**
+> "...ng to premiere in two days on Fox News with Jesse Watters (Jesse Watters)."
+
 </details>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
 
 **[00:01:58](/episodes/ep-K5GjF53bfN4.md#ent-org-fox-news-t-00-01-58)**
 > "... and we should not forget how weird that is, especially because when he went on multiple hits doing Fox News and Greta Van Susteren's (Greta Van Susteren) show, he lied about the contents of a letter that Cha..."
 
+**[00:01:58](/episodes/ep-K5GjF53bfN4.md#ent-org-fox-news-t-00-01-58)**
+> "...e went on multiple hits doing Fox News and Greta Van Susteren's (Greta Van Susteren) sho..."
+
 </details>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (5 mentions)</summary>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (10 mentions)</summary>
 
 **[00:17:34](/episodes/ep-Qfwr08Ebczo.md#ent-org-fox-news-t-00-17-34)**
 > "...o make it his first stop, which is incredible. We can listen to a news anchor. I think this is from Fox News Salt Lake City describe exactly when that request went out—as we're telling you, on July 18th. Take..."
@@ -89,26 +130,47 @@ _Type: Organizations_
 **[00:19:04](/episodes/ep-Qfwr08Ebczo.md#ent-org-fox-news-t-00-17-34)**
 > "...l of the denial, and we are still pursuing a variety of records related to the Kirk shooting. Well, Fox 13 News, if I can be of any assistance, you just reach out to me because I've done a lot of these e..."
 
+**[00:17:34](/episodes/ep-Qfwr08Ebczo.md#ent-org-fox-news-t-00-17-34)**
+> "I think this is from Fox News Salt Lake City describe exactly when that request..."
+
+**[00:17:54](/episodes/ep-Qfwr08Ebczo.md#ent-org-fox-news-t-00-17-34)**
+> "I'm Fox 13 investigative reporter Nate Carlisle."
+
+**[00:18:29](/episodes/ep-Qfwr08Ebczo.md#ent-org-fox-news-t-00-17-34)**
+> "...ing of police, UVU has denied FOX 13 News' request for a copy of the Kirk Rally sec..."
+
+**[00:18:55](/episodes/ep-Qfwr08Ebczo.md#ent-org-fox-news-t-00-17-34)**
+> "Fox 13 plans an appeal of the denial, and we are stil..."
+
+**[00:19:04](/episodes/ep-Qfwr08Ebczo.md#ent-org-fox-news-t-00-17-34)**
+> "Well, Fox 13 News, if I can be of any assistance, you just ..."
+
 </details>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
 
 **[00:03:17](/episodes/ep-YA1FxrDWNIo.md#ent-org-fox-news-t-00-02-50)**
 > "...nd of course, the Lymans' car was in the driveway just 20 minutes before—I feel Lyman reiterated to Fox News—which is 20 minutes before I pulled into the driveway at my aunt's house, and I parked my car, and ..."
 
+**[00:03:17](/episodes/ep-YA1FxrDWNIo.md#ent-org-fox-news-t-00-02-50)**
+> "...re—I feel Lyman reiterated to Fox News—which is 20 minutes before I pulled into the driv..."
+
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
 
 **[00:38:28](/episodes/ep-YaZfwLQ7vrI.md#ent-org-fox-news-t-00-38-20)**
 > "...rlson) Carlson for years now. He was very happy when Tucker (Tucker Carlson) Carlson got fired from Fox News. They don't seem to be friends. And regarding Mark Levin (Mark Levin)—if a person was actually like..."
 
+**[00:38:28](/episodes/ep-YaZfwLQ7vrI.md#ent-org-fox-news-t-00-38-20)**
+> "...ucker Carlson) got fired from Fox News."
+
 </details>
 
 <details>
-<summary>To My Friend, Charlie Kirk. (3 mentions)</summary>
+<summary>To My Friend, Charlie Kirk. (6 mentions)</summary>
 
 **[00:03:31](/episodes/ep-_dRaEO47-co.md#ent-org-fox-news-t-00-03-31)**
 > "...e goal, and it happened. We had a bunch of rules. Charlie (Charlie Kirk)'s rule was never say no to Fox News. So even if the show was at 4 a.m. in the morning, crack of dawn, I cannot tell you guys how many h..."
@@ -119,26 +181,41 @@ _Type: Organizations_
 **[00:03:41](/episodes/ep-_dRaEO47-co.md#ent-org-fox-news-t-00-03-31)**
 > "...annot tell you guys how many hits we did on Fox News. I'm talking four hits a day, up at 4 a.m. for Fox & Friends First and then doing whatever the evening program was, because he believed this is the wa..."
 
+**[00:03:31](/episodes/ep-_dRaEO47-co.md#ent-org-fox-news-t-00-03-31)**
+> "...k)'s rule was never say no to Fox News."
+
+**[00:03:34](/episodes/ep-_dRaEO47-co.md#ent-org-fox-news-t-00-03-31)**
+> "... guys how many hits we did on Fox News."
+
+**[00:03:41](/episodes/ep-_dRaEO47-co.md#ent-org-fox-news-t-00-03-31)**
+> "... hits a day, up at 4 a.m. for Fox & Friends First and then doing whatever the eveni..."
+
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
 
 **[00:15:44](/episodes/ep-adJ4LNGp84I.md#ent-org-fox-news-t-00-15-29)**
 > "...in's house and that you hadn't seen the footage. You were watching it live with Kayleigh McEnany on Fox News. That's what you said during that segment, right? This is the first time I'm seeing this footage. S..."
 
+**[00:15:44](/episodes/ep-adJ4LNGp84I.md#ent-org-fox-news-t-00-15-29)**
+> "with Kayleigh McEnany on Fox News."
+
 </details>
 
 <details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (1 mentions)</summary>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
 
 **[00:20:54](/episodes/ep-c5BcKF91iec.md#ent-org-fox-news-t-00-20-16)**
 > "...want to see footage behind Charlie's head.'" Does it? Whatever. And then he gives the footage to... Fox News, CNN, and they play it. And what happens after that? I said to him, "Oh, I know what happens after...."
 
+**[00:20:54](/episodes/ep-c5BcKF91iec.md#ent-org-fox-news-t-00-20-16)**
+> "Fox News, CNN, and they play it."
+
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (3 mentions)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (7 mentions)</summary>
 
 **[00:06:16](/episodes/ep-czVBmqZP6Ss.md#ent-org-fox-news-t-00-06-16)**
 > "... to minute, you know, and doing hits in a foreign country, you know, like making time to do hits on Fox News, two of them. Benjamin Netanyahu is, who's fighting, I think, like an 84-front war with everyone, m..."
@@ -149,18 +226,30 @@ _Type: Organizations_
 **[00:24:31](/episodes/ep-czVBmqZP6Ss.md#ent-org-fox-news-t-00-24-03)**
 > "...usehold is when there is one lie, there's 20. There's no reason to lie. Benjamin could have gone on Fox News and he could have told the truth. He could have said truthfully that Charlie (Charlie Kirk) has alw..."
 
+**[00:01:28](/episodes/ep-czVBmqZP6Ss.md#ent-org-fox-news-t-00-06-16)**
+> "like making time to do hits on Fox News, two of them"
+
+**[00:06:16](/episodes/ep-czVBmqZP6Ss.md#ent-org-fox-news-t-00-06-16)**
+> "...ike making time to do hits on Fox News, two of them. Benjamin Netanyahu is, who's fighti..."
+
+**[00:07:12](/episodes/ep-czVBmqZP6Ss.md#ent-org-fox-news-t-00-07-02)**
+> "...jamin Netanyahu had to say on Fox News."
+
+**[00:24:31](/episodes/ep-czVBmqZP6Ss.md#ent-org-fox-news-t-00-24-03)**
+> "Benjamin could have gone on Fox News and he could have told the truth."
+
 </details>
 
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
-**[00:32:24](/episodes/ep-iHav0PPzUz8.md#t-00-32-24)**
+**[00:32:24](/episodes/ep-iHav0PPzUz8.md#t-00-32-06)**
 > "...ope to burn down MAGA and build a neo-pagan, anti-Western, anti-biblical movement in its stead. The Fox is now comfortably ensconced in the henhouse, and unless the Fox is neutralized, the victim could b..."
 
 </details>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (8 mentions)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (16 mentions)</summary>
 
 **[00:12:44](/episodes/ep-pc3pxRyNFZk.md#ent-org-fox-news-t-00-12-44)**
 > "... young man—whose name is Cooper—and I'm very comfortable telling you this because, well, he went on Fox News that very night to provide eyewitness testimony to exactly what he heard and what he saw because ap..."
@@ -186,26 +275,56 @@ _Type: Organizations_
 **[00:27:43](/episodes/ep-pc3pxRyNFZk.md#ent-org-fox-news-t-00-27-06)**
 > "...h at all, and they're just wearing black. They say that they heard two shots. They never made it to Fox News. They never made it to the mainstream media, but they too also said that they heard two shots. (Cli..."
 
+**[00:12:44](/episodes/ep-pc3pxRyNFZk.md#ent-org-fox-news-t-00-12-44)**
+> "...his because, well, he went on Fox News that very night to provide eyewitness testimony t..."
+
+**[00:14:05](/episodes/ep-pc3pxRyNFZk.md#ent-org-fox-news-t-00-14-05)**
+> "...he night of, he also spoke on Fox News the very next day, which would mean—what did Turn..."
+
+**[00:14:27](/episodes/ep-pc3pxRyNFZk.md#ent-org-fox-news-t-00-14-05)**
+> "..., sure enough, he appeared on Fox News again."
+
+**[00:15:20](/episodes/ep-pc3pxRyNFZk.md#ent-org-fox-news-t-00-15-20)**
+> "...you start doing the rounds on Fox News; you are fair game, okay?"
+
+**[00:21:50](/episodes/ep-pc3pxRyNFZk.md#ent-org-fox-news-t-00-21-29)**
+> "...was able to make his way onto Fox News immediately after to provide a description of"
+
+**[00:22:17](/episodes/ep-pc3pxRyNFZk.md#ent-org-fox-news-t-00-22-13)**
+> "... is a former politician and a Fox News contributor who was a witness to the events."
+
+**[00:24:15](/episodes/ep-pc3pxRyNFZk.md#ent-org-fox-news-t-00-24-13)**
+> "... then elsewhere, when he's on Fox News and people are saying the shot was from like the ..."
+
+**[00:27:43](/episodes/ep-pc3pxRyNFZk.md#ent-org-fox-news-t-00-27-06)**
+> "They never made it to Fox News."
+
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
 
 **[00:24:32](/episodes/ep-q7f8r-THr84.md#ent-org-fox-news-t-00-24-02)**
 > "...ber how I was engraving bullets? The effing messages are mostly a meme. If I see 'notices bulge' on Fox News, I might have a stroke. All right, I'm gonna have to leave it. That really effing sucks." Okay, so ..."
 
+**[00:24:32](/episodes/ep-q7f8r-THr84.md#ent-org-fox-news-t-00-24-02)**
+> "If I see 'notices bulge' on Fox News, I might have a stroke."
+
 </details>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
 
 **[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-org-fox-news-t-00-21-03)**
 > "...or Utah governor in 2024. He featured George Zinn on his website at that time, spoke to Alex Jones, Fox News, NewsNation, really anybody that would have him. Now we have Olivia Bishop; she works for the Orem ..."
 
+**[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-org-fox-news-t-00-21-03)**
+> "...at time, spoke to Alex Jones, Fox News, NewsNation, really anybody that would have him."
+
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3 mentions)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (7 mentions)</summary>
 
 **[00:00:51](/episodes/ep-vwG1juDCQZQ.md#ent-org-fox-news-t-00-00-45)**
 > "... top viral moments from the heavily anticipated interview with Erika Kirk (Charlie Kirk's widow) on Fox News with Jesse Watters. So let's get started. Okay, first things first. Welcome to the number one podca..."
@@ -215,6 +334,18 @@ _Type: Organizations_
 
 **[00:26:18](/episodes/ep-vwG1juDCQZQ.md#ent-org-fox-news-t-00-25-52)**
 > "...if you guys want to watch that interview in its entirety, you definitely should. It is available on Fox News, Fox News Primetime, Jesse Watters—and that's what we're going to say about that. Take a brief brea..."
+
+**[00:00:51](/episodes/ep-vwG1juDCQZQ.md#ent-org-fox-news-t-00-00-45)**
+> "...irk (Charlie Kirk's widow) on Fox News with Jesse Watters."
+
+**[00:06:30](/episodes/ep-vwG1juDCQZQ.md#ent-org-fox-news-t-00-06-26)**
+> "...hat it was about because it's Fox News, and Fox News is not going to do this like heavy ..."
+
+**[00:06:30](/episodes/ep-vwG1juDCQZQ.md#ent-org-fox-news-t-00-06-26)**
+> "...ut because it's Fox News, and Fox News is not going to do this like heavy investigation."
+
+**[00:26:18](/episodes/ep-vwG1juDCQZQ.md#ent-org-fox-news-t-00-25-52)**
+> "It is available on Fox News, Fox News Primetime, Jesse Watters—and that's wha..."
 
 </details>
 
@@ -227,7 +358,7 @@ _Type: Organizations_
 <summary>Affiliated With (1)</summary>
 
 - **[Jason Chavitz](/entities/person-jason-chavitz.md)**
-  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:22:17](/timestamps/ep-pc3pxRyNFZk/t-00-22-17.md): "Jason Chavitz is a former politician and a Fox News contributor"
+  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:22:17](/episodes/ep-pc3pxRyNFZk.md#t-00-22-13): "Jason Chavitz is a former politician and a Fox News contributor"
 
 </details>
 
@@ -235,7 +366,7 @@ _Type: Organizations_
 <summary>Employs (1)</summary>
 
 - **[Jesse Watters](/entities/person-jesse-watters.md)**
-  - [ @ 00:02:00](/timestamps//t-00-02-00.md): "Jesse Watters, who hosted this discussion on Fox News"
+  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:00](/episodes/ep-vwG1juDCQZQ.md#t-00-01-30): "Jesse Watters, who hosted this discussion on Fox News"
 
 </details>
 
@@ -243,7 +374,7 @@ _Type: Organizations_
 <summary>Interviewed (1)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
-  - [ @ 00:07:12](/timestamps//t-00-07-12.md): "what Benjamin Netanyahu had to say on Fox News"
+  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:12](/episodes/ep-czVBmqZP6Ss.md#t-00-07-02): "what Benjamin Netanyahu had to say on Fox News"
 
 </details>
 
@@ -251,13 +382,34 @@ _Type: Organizations_
 <summary>Referenced By (3)</summary>
 
 - **[Jason Chavitz](/entities/person-jason-chavitz.md)** affiliated with this
-  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:22:17](/timestamps/ep-pc3pxRyNFZk/t-00-22-17.md)
+  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:22:17](/episodes/ep-pc3pxRyNFZk.md#t-00-22-13)
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** interviewed by this
-  - [ @ 00:07:12](/timestamps//t-00-07-12.md)
+  - [They Are Lying About Charlie Kirk. | Candace Ep 235 @ 00:07:12](/episodes/ep-czVBmqZP6Ss.md#t-00-07-02)
 
 - **[Jesse Watters](/entities/person-jesse-watters.md)** works for this
-  - [ @ 00:02:00](/timestamps//t-00-02-00.md)
+  - [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 @ 00:02:00](/episodes/ep-vwG1juDCQZQ.md#t-00-01-30)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Fox News (2)</strong></summary>
+
+<details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1)</summary>
+
+- [00:10:43](/episodes/ep-DqGNvi36ol8.md#t-00-10-37) (Claim) **Candace Owens**: ["Blake Neff used to work for Tucker Carlson when Tucker Carlson was on ..."](/statements/statement-8db909ffb8cd.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+</details>
+
+<details>
+<summary>To My Friend, Charlie Kirk. (1)</summary>
+
+- [00:03:34](/episodes/ep-_dRaEO47-co.md#t-00-03-31) (Claim) **Candace Owens**: ["Charlie Kirk's rule was to never say no to Fox News, even if the show ..."](/statements/statement-76b35ead8839.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 

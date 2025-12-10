@@ -14,7 +14,7 @@ date: "2025-09-11"
 ## Mentioned In
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:17:34](/episodes/ep-2WEHTk0Xewg.md#t-00-17-34) 
+**Timestamp:** [00:17:34](/episodes/ep-2WEHTk0Xewg.md#t-00-16-59) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1054);return false;">▶️ Play</a>
 
 > suspect is wearing until 5:30 p.m., when Governor Cox—12 min

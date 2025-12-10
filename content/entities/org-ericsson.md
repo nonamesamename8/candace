@@ -1,6 +1,6 @@
 ---
 title: "Ericsson"
-description: "Ericsson (Organizations) - 0 mentions"
+description: "Ericsson (Organizations) - 5 mentions"
 id: "org-ericsson"
 type: "ORG"
 aliases:
@@ -16,7 +16,25 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
 
-_No mentions recorded._
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (5 mentions)</summary>
+
+**[00:30:00](/episodes/ep-Cq7nj9rxPdo.md#ent-org-ericsson-t-00-29-20)**
+> "She's from the Ericsson family."
+
+**[00:30:02](/episodes/ep-Cq7nj9rxPdo.md#ent-org-ericsson-t-00-30-02)**
+> "The Ericsson Boyd Corporation is her family."
+
+**[00:30:07](/episodes/ep-Cq7nj9rxPdo.md#ent-org-ericsson-t-00-30-02)**
+> "...s a direct descendant of Leif Ericsson."
+
+**[00:30:14](/episodes/ep-Cq7nj9rxPdo.md#ent-org-ericsson-t-00-30-02)**
+> "...ure—like I'm certain—she's an Ericsson—like a thousand percent certain that she is an Er..."
+
+**[00:30:14](/episodes/ep-Cq7nj9rxPdo.md#ent-org-ericsson-t-00-30-02)**
+> "...ercent certain that she is an Ericsson."
+
+</details>
 
 </details>
 

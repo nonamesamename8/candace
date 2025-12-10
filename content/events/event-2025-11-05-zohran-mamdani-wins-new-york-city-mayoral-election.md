@@ -32,7 +32,7 @@ date: "2025-11-05"
 ### 3. Ben Shapiro Is Crying Again. | Candace Ep 261
 
 **Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
-**Timestamp:** [00:06:42](/episodes/ep-r1PS67aRmcA.md#t-00-06-42) 
+**Timestamp:** [00:06:42](/episodes/ep-r1PS67aRmcA.md#t-00-05-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(402);return false;">▶️ Play</a>
 
 > sibility. Tucker doesn't live in New York City. It's not his responsibility to use his platform to speak about Mamdani 17 times. It's very strange
@@ -40,7 +40,7 @@ date: "2025-11-05"
 ### 4. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
-**Timestamp:** [00:02:37](/episodes/ep-ja26iltROkM.md#t-00-02-37) 
+**Timestamp:** [00:02:37](/episodes/ep-ja26iltROkM.md#t-00-02-10) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(157);return false;">▶️ Play</a>
 
 > cool, so he's like, "Come meet her at Del Frisco's in New Yo
@@ -48,7 +48,7 @@ date: "2025-11-05"
 ### 5. Ben Shapiro Is Crying Again. | Candace Ep 261
 
 **Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
-**Timestamp:** [00:05:30](/episodes/ep-r1PS67aRmcA.md#t-00-05-30) 
+**Timestamp:** [00:05:30](/episodes/ep-r1PS67aRmcA.md#t-00-05-14) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(330);return false;">▶️ Play</a>
 
 > on his show is once. And it was in the context of Marjorie Taylor Greene and Tucker talking about the appeal of Zohran Mamdani. Just by way of contrast, no
@@ -56,7 +56,7 @@ date: "2025-11-05"
 ### 6. Ben Shapiro Is Crying Again. | Candace Ep 261
 
 **Episode:** [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md)
-**Timestamp:** [00:05:23](/episodes/ep-r1PS67aRmcA.md#t-00-05-23) 
+**Timestamp:** [00:05:23](/episodes/ep-r1PS67aRmcA.md#t-00-05-14) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(323);return false;">▶️ Play</a>
 
 > times that Tucker has mentioned Zohran Mamdani since October 7th on his show is once. And it was in the context of Marjorie Taylor Greene and Tuck

@@ -1,6 +1,6 @@
 ---
 title: "Anthony Iglesias"
-description: "Anthony Iglesias (People) - 0 mentions"
+description: "Anthony Iglesias (People) - 1 mention"
 id: "person-anthony-iglesias"
 type: "PERSON"
 ---
@@ -12,7 +12,13 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
 
-_No mentions recorded._
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:20:40](/episodes/ep-yAIb-NuUh_U.md#ent-person-anthony-iglesias-t-00-20-23)**
+> "They hired him anyways—Anthony Iglesias—and he's currently serving time."
+
+</details>
 
 </details>
 

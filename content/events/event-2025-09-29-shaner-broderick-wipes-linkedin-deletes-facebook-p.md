@@ -32,7 +32,7 @@ date: "2025-09-29"
 ### 3. BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter ...
 
 **Episode:** [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md)
-**Timestamp:** [00:07:42](/episodes/ep-adJ4LNGp84I.md#t-00-07-42) 
+**Timestamp:** [00:07:42](/episodes/ep-adJ4LNGp84I.md#t-00-06-59) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(462);return false;">▶️ Play</a>
 
 > of a stronger hunch about things. We'll jump back in here re

@@ -1,6 +1,6 @@
 ---
 title: "MG+M"
-description: "MG+M (Organizations) - 3 mentions"
+description: "MG+M (Organizations) - 6 mentions"
 id: "org-mg-m"
 type: "ORG"
 ---
@@ -13,7 +13,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (3 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (6 mentions)</summary>
 
 **[00:32:22](/episodes/ep-tB5SXXmd9vU.md#ent-org-mg-m-t-00-31-48)**
 > "...ctually disprove anything at all. What you'll also find if you keep researching is that a law firm, MG+M, moved to 500 Delaware Avenue just a few months before Charlie (Charlie Kirk) was assassinated. Now..."
@@ -23,6 +23,15 @@ _Type: Organizations_
 
 **[00:32:41](/episodes/ep-tB5SXXmd9vU.md#ent-org-mg-m-t-00-32-32)**
 > "...either fluent in French or are connected to France altogether. The FBI apparently has Suite 300 and MG+M has Suite 200, which I believe is exactly right below where the FBI says that they are. OK, now he ..."
+
+**[00:32:22](/episodes/ep-tB5SXXmd9vU.md#ent-org-mg-m-t-00-31-48)**
+> "...searching is that a law firm, MG+M, moved to 500 Delaware Avenue just a few months b..."
+
+**[00:32:32](/episodes/ep-tB5SXXmd9vU.md#ent-org-mg-m-t-00-32-32)**
+> "...t could be a coincidence, but MG+M has many employees that are either fluent in Fren..."
+
+**[00:32:41](/episodes/ep-tB5SXXmd9vU.md#ent-org-mg-m-t-00-32-32)**
+> "... apparently has Suite 300 and MG+M has Suite 200, which I believe is exactly right b..."
 
 </details>
 
@@ -35,7 +44,7 @@ _Type: Organizations_
 <summary>Based In (1)</summary>
 
 - **[500 Delaware Avenue](/entities/gpe-500-delaware-avenue.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:22](/timestamps/ep-tB5SXXmd9vU/t-00-32-22.md): ""a law firm, MG+M, moved to 500 Delaware Avenue just a few months before Charlie...""
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:22](/episodes/ep-tB5SXXmd9vU.md#t-00-31-48): ""a law firm, MG+M, moved to 500 Delaware Avenue just a few months before Charlie...""
 
 </details>
 
@@ -43,7 +52,7 @@ _Type: Organizations_
 <summary>Referenced By (1)</summary>
 
 - **[500 Delaware Avenue](/entities/gpe-500-delaware-avenue.md)** location of this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:22](/timestamps/ep-tB5SXXmd9vU/t-00-32-22.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:22](/episodes/ep-tB5SXXmd9vU.md#t-00-31-48)
 
 </details>
 

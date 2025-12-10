@@ -16,7 +16,7 @@ date: "2025-12-03"
 ### 1. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:55:51](/episodes/ep-his-JBjlkh8.md#t-00-55-51) 
+**Timestamp:** [00:55:51](/episodes/ep-his-JBjlkh8.md#t-00-55-36) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3351);return false;">▶️ Play</a>
 
 > re going to be like, "That just happened. It was all weird.
@@ -24,7 +24,7 @@ date: "2025-12-03"
 ### 2. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:55:50](/episodes/ep-his-JBjlkh8.md#t-00-55-50) 
+**Timestamp:** [00:55:50](/episodes/ep-his-JBjlkh8.md#t-00-55-36) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3350);return false;">▶️ Play</a>
 
 > ANDICE10 at checkout. I mean, look, I'm obviously The Game's muse. I don't think that's a stretch. I'm obviously The Game's muse. I'm his muse for this upcomi

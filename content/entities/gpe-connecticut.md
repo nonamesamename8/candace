@@ -1,6 +1,6 @@
 ---
 title: "Connecticut"
-description: "Connecticut (Places) - 8 mentions"
+description: "Connecticut (Places) - 16 mentions"
 id: "gpe-connecticut"
 type: "GPE"
 ---
@@ -13,31 +13,40 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
 
 **[00:46:28](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-connecticut-t-00-45-48)**
 > "... mass shootings. I think also the one that was in—and I can't think of the guy's name—but it was in Connecticut: similar story. He somehow hacked the government system, and then the FBI showed up at his door, an..."
 
+**[00:46:28](/episodes/ep-K1tFD7FfoCU.md#ent-gpe-connecticut-t-00-45-48)**
+> "... the guy's name—but it was in Connecticut: similar story."
+
 </details>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
 
 **[00:22:25](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-connecticut-t-00-22-17)**
 > "...l cell phone accounts that were opened in Israel, okay? Like you go into Verizon in Tennessee or in Connecticut and you open your phone— I am saying that they opened their phones in Israel—those accounts in Isra..."
 
+**[00:22:25](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-connecticut-t-00-22-17)**
+> "...to Verizon in Tennessee or in Connecticut and you open your phone—"
+
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
 
 **[00:47:36](/episodes/ep-adJ4LNGp84I.md#ent-gpe-connecticut-t-00-47-25)**
 > "...a building. They're one and the same. I hope you guys know that. They share a building, I think, in Connecticut. Also, Israel is taking over ExpressVPN and other VPN websites. I always had a conspiracy about tha..."
 
+**[00:47:36](/episodes/ep-adJ4LNGp84I.md#ent-gpe-connecticut-t-00-47-25)**
+> "...share a building, I think, in Connecticut."
+
 </details>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (5 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (10 mentions)</summary>
 
 **[00:11:45](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-connecticut-t-00-11-19)**
 > "...right now? Well, yesterday, I made an offhand remark about the ADL and the FBI sharing an office in Connecticut. Now I know this because I'm from Connecticut, so there's no way to try to obscure that fact. Back ..."
@@ -53,6 +62,21 @@ _Type: Places_
 
 **[00:14:43](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-connecticut-t-00-14-39)**
 > "... Jumping back into more oddities that occurred on that day despite having these federal agents from Connecticut. Now I have presented to you just thus far, right, that a lot of these witnesses that immediately s..."
+
+**[00:11:45](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-connecticut-t-00-11-19)**
+> "... the FBI sharing an office in Connecticut."
+
+**[00:11:53](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-connecticut-t-00-11-19)**
+> "... I know this because I'm from Connecticut, so there's no way to try to obscure that fact."
+
+**[00:12:03](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-connecticut-t-00-12-03)**
+> "... reveals that in the state of Connecticut, the ADL shares an office space with the FBI.”"
+
+**[00:13:12](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-connecticut-t-00-13-12)**
+> "...us, the FBI sent the specific Connecticut bureau down to UVU after Charlie (Charlie Kirk) w..."
+
+**[00:14:43](/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-connecticut-t-00-14-39)**
+> "...ing these federal agents from Connecticut."
 
 </details>
 

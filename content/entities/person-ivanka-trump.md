@@ -1,6 +1,6 @@
 ---
 title: "Ivanka Trump"
-description: "Ivanka Trump (People) - 1 mention"
+description: "Ivanka Trump (People) - 4 mentions"
 id: "person-ivanka-trump"
 type: "PERSON"
 aliases:
@@ -17,10 +17,29 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
 **[01:06:24](/episodes/ep-Cq7nj9rxPdo.md#ent-person-ivanka-trump-t-01-06-20)**
 > "There is Ivanka, Trump couldnt do anything without getting his daughter back"
+
+**[01:06:20](/episodes/ep-Cq7nj9rxPdo.md#ent-person-ivanka-trump-t-01-06-20)**
+> "There is Ivanka."
+
+</details>
+
+<details>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (1 mentions)</summary>
+
+**[00:38:57](/episodes/ep-Qt0VHV-POCg.md#ent-person-ivanka-trump-t-00-38-57)**
+> "I understand Jared and Ivanka and their investments in Israel and the pressure ..."
+
+</details>
+
+<details>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
+
+**[00:42:28](/episodes/ep-r1PS67aRmcA.md#ent-person-ivanka-trump-t-00-41-57)**
+> "...bout Jared and his deals with Ivanka and the Middle East and how much money they're se..."
 
 </details>
 
@@ -33,7 +52,7 @@ _Type: People_
 <summary>Child Of (1)</summary>
 
 - **[Donald Trump](/entities/person-donald-trump.md)**
-  - [ @ 00:08:30](/timestamps//t-00-08-30.md): "Ivanka and the Middle East"
+  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-46): "Ivanka and the Middle East"
 
 </details>
 
@@ -41,7 +60,7 @@ _Type: People_
 <summary>Married To (1)</summary>
 
 - **[Jared Kushner](/entities/person-jared-kushner.md)**
-  - [ @ 00:08:30](/timestamps//t-00-08-30.md): "They know about Jared and his deals with Ivanka"
+  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-46): "They know about Jared and his deals with Ivanka"
 
 </details>
 
@@ -49,10 +68,10 @@ _Type: People_
 <summary>Referenced By (2)</summary>
 
 - **[Jared Kushner](/entities/person-jared-kushner.md)** married to this
-  - [ @ 00:08:30](/timestamps//t-00-08-30.md)
+  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-46)
 
 - **[Donald Trump](/entities/person-donald-trump.md)** parent of this
-  - [ @ 00:08:30](/timestamps//t-00-08-30.md)
+  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-46)
 
 </details>
 

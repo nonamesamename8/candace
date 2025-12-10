@@ -1,6 +1,6 @@
 ---
 title: "Bob Shorman"
-description: "Bob Shorman (People) - 0 mentions"
+description: "Bob Shorman (People) - 1 mention"
 id: "person-bob-shorman"
 type: "PERSON"
 ---
@@ -12,7 +12,13 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
 
-_No mentions recorded._
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:53:13](/episodes/ep-yAIb-NuUh_U.md#ent-person-bob-shorman-t-00-52-52)**
+> "...dollars from just one person, Bob Shorman?"
+
+</details>
 
 </details>
 

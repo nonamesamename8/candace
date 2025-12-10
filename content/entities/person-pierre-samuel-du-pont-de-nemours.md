@@ -1,6 +1,6 @@
 ---
 title: "Pierre Samuel du Pont de Nemours"
-description: "Pierre Samuel du Pont de Nemours (People) - 9 mentions"
+description: "Pierre Samuel du Pont de Nemours (People) - 19 mentions"
 id: "person-pierre-samuel-du-pont-de-nemours"
 type: "PERSON"
 aliases:
@@ -18,7 +18,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (7 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (14 mentions)</summary>
 
 **[00:30:53](/episodes/ep-a-e7HC6SeK8.md#ent-person-pierre-samuel-du-pont-de-nemours-t-00-30-38)**
 > "...DuPont family that it clicked. And these ladies messaged me and said, "Oh, you figured it out. It's Pierre du Pont?!?" I had mentioned Pierre du Pont on yesterday's show, and this took my breath away. I will be hon..."
@@ -41,16 +41,46 @@ _Type: People_
 **[00:34:30](/episodes/ep-a-e7HC6SeK8.md#ent-person-pierre-samuel-du-pont-de-nemours-t-00-34-06)**
 > "... working. I think— I think it's really important that we learn the truth about what happened. Who's Pierre? Is it Pierre du Pont? And has Turning Point been paid? Obviously it wouldn't be on this year's tax..."
 
+**[00:30:22](/episodes/ep-a-e7HC6SeK8.md#ent-person-pierre-samuel-du-pont-de-nemours-t-00-30-00)**
+> "...nd that this donor's name was Pierre."
+
+**[00:30:53](/episodes/ep-a-e7HC6SeK8.md#ent-person-pierre-samuel-du-pont-de-nemours-t-00-30-38)**
+> "It's Pierre du Pont?!?""
+
+**[00:31:00](/episodes/ep-a-e7HC6SeK8.md#ent-person-pierre-samuel-du-pont-de-nemours-t-00-30-38)**
+> "I had mentioned Pierre du Pont on yesterday's show, and this took my bre..."
+
+**[00:31:43](/episodes/ep-a-e7HC6SeK8.md#ent-person-pierre-samuel-du-pont-de-nemours-t-00-31-21)**
+> "about this Pierre—the billionaire French American donor."
+
+**[00:31:49](/episodes/ep-a-e7HC6SeK8.md#ent-person-pierre-samuel-du-pont-de-nemours-t-00-31-21)**
+> "...s to whether or not it is Mr. Pierre du Pont."
+
+**[00:34:30](/episodes/ep-a-e7HC6SeK8.md#ent-person-pierre-samuel-du-pont-de-nemours-t-00-34-06)**
+> "Who's Pierre?"
+
+**[00:34:31](/episodes/ep-a-e7HC6SeK8.md#ent-person-pierre-samuel-du-pont-de-nemours-t-00-34-06)**
+> "Is it Pierre du Pont?"
+
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (5 mentions)</summary>
 
 **[00:29:47](/episodes/ep-tB5SXXmd9vU.md#ent-person-pierre-samuel-du-pont-de-nemours-t-00-29-47)**
 > "...hat. Pierre S. du Pont was a member of the French-American family du Pont, which was descended from Pierre Samuel du Pont de Nemours—excuse my terrible French—a French aristocrat. DuPont also has extreme ties to both the American an..."
 
-**[00:29:28](/episodes/ep-tB5SXXmd9vU.md#ent-person-pierre-samuel-du-pont-de-nemours-t-00-29-13)**
+**[00:29:28](/episodes/ep-tB5SXXmd9vU.md#ent-person-pierre-samuel-du-pont-de-nemours-t-00-29-47)**
 > "...provide financial support to the Longwood Foundation, a philanthropic nonprofit that was founded by Pierre S. du Pont to make it function as a quote-unquote educational center. There's just one problem with..."
+
+**[00:29:28](/episodes/ep-tB5SXXmd9vU.md#ent-person-pierre-samuel-du-pont-de-nemours-t-00-29-47)**
+> "...nonprofit that was founded by Pierre S. du Pont to make it function as a quote-unquote..."
+
+**[00:29:47](/episodes/ep-tB5SXXmd9vU.md#ent-person-pierre-samuel-du-pont-de-nemours-t-00-29-47)**
+> "...ont, which was descended from Pierre Samuel du Pont de Nemours—excuse my terrible French—a French aristocrat."
+
+**[00:29:47](/episodes/ep-tB5SXXmd9vU.md#ent-person-pierre-samuel-du-pont-de-nemours-t-00-29-47)**
+> "Pierre S. du Pont was a member of the French-American fa..."
 
 </details>
 
@@ -63,8 +93,8 @@ _Type: People_
 <summary>Founded (1)</summary>
 
 - **[DuPont family](/entities/org-dupont-family.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:30:49](/timestamps/ep-a-e7HC6SeK8/t-00-30-49.md): "...at I presented to you all of this stuff about the DuPont family that it clicked. And these ladies messaged me and said, oh, you figured it out. It's Pierre du Pont..."
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:47](/timestamps/ep-tB5SXXmd9vU/t-00-29-47.md): "...American family du Pont, which was descended from Pierre Samuel du Pont de Nemours—excuse my terrible French—a French aristocrat. DuPont also has extreme ties to both the American an..."
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:30:49](/episodes/ep-a-e7HC6SeK8.md#t-00-30-38): "...at I presented to you all of this stuff about the DuPont family that it clicked. And these ladies messaged me and said, oh, you figured it out. It's Pierre du Pont..."
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:47](/episodes/ep-tB5SXXmd9vU.md#t-00-29-13): "...American family du Pont, which was descended from Pierre Samuel du Pont de Nemours—excuse my terrible French—a French aristocrat. DuPont also has extreme ties to both the American an..."
 
 </details>
 
@@ -72,8 +102,8 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[DuPont family](/entities/org-dupont-family.md)** founded by this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:30:49](/timestamps/ep-a-e7HC6SeK8/t-00-30-49.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:47](/timestamps/ep-tB5SXXmd9vU/t-00-29-47.md)
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:30:49](/episodes/ep-a-e7HC6SeK8.md#t-00-30-38)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:47](/episodes/ep-tB5SXXmd9vU.md#t-00-29-13)
 
 </details>
 

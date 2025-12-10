@@ -1,6 +1,6 @@
 ---
 title: "Doug D'Andrea"
-description: "Doug D'Andrea (People) - 0 mentions"
+description: "Doug D'Andrea (People) - 1 mention"
 id: "person-doug-dandrea"
 type: "PERSON"
 ---
@@ -12,7 +12,13 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
 
-_No mentions recorded._
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:21:25](/episodes/ep-yAIb-NuUh_U.md#ent-person-doug-dandrea-t-00-21-05)**
+> "...mer Calvary pastor's name was Doug D'Andrea."
+
+</details>
 
 </details>
 

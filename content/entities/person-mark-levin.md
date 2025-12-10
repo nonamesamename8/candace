@@ -1,6 +1,6 @@
 ---
 title: "Mark Levin"
-description: "Mark Levin (People) - 8 mentions"
+description: "Mark Levin (People) - 15 mentions"
 id: "person-mark-levin"
 type: "PERSON"
 ---
@@ -13,15 +13,18 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
 
 **[00:37:10](/episodes/ep-Qfwr08Ebczo.md#ent-person-mark-levin-t-00-37-10)**
 > "...arlson)'s perspectives and what's guiding his perspectives—and then go backwards and listen to like Mark Levin and these people that got on their platforms and call him irredeemable. And you realize there's a d..."
 
+**[00:37:10](/episodes/ep-Qfwr08Ebczo.md#ent-person-mark-levin-t-00-37-10)**
+> "... backwards and listen to like Mark Levin and these people that got on their platforms and ..."
+
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (7 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (13 mentions)</summary>
 
 **[00:38:20](/episodes/ep-YaZfwLQ7vrI.md#ent-person-mark-levin-t-00-38-20)**
 > "...planes, I think some more people are going to be on the run. Anyways, the oddest response came from Mark Levin (Mark Levin), who has been kind of psychopathically obsessed with destroying Tucker (Tucker Carlson..."
@@ -44,6 +47,24 @@ _Type: People_
 **[00:39:11](/episodes/ep-YaZfwLQ7vrI.md#ent-person-mark-levin-t-00-39-10)**
 > "Mark Levin refused to debate Tucker Carlson, called him Nazi promoter"
 
+**[00:38:20](/episodes/ep-YaZfwLQ7vrI.md#ent-person-mark-levin-t-00-38-20)**
+> "...the oddest response came from Mark Levin, who has been kind of psychopathically obsessed w..."
+
+**[00:38:34](/episodes/ep-YaZfwLQ7vrI.md#ent-person-mark-levin-t-00-38-20)**
+> "And regarding Mark Levin—if a person was actually like, "You should move t..."
+
+**[00:38:41](/episodes/ep-YaZfwLQ7vrI.md#ent-person-mark-levin-t-00-38-20)**
+> "...t was a person, that would be Mark Levin, okay?"
+
+**[00:38:54](/episodes/ep-YaZfwLQ7vrI.md#ent-person-mark-levin-t-00-38-20)**
+> "...ng, but why don't you debate, Mark Levin?"
+
+**[00:39:01](/episodes/ep-YaZfwLQ7vrI.md#ent-person-mark-levin-t-00-38-20)**
+> "And this is how Mark Levin responded."
+
+**[00:39:10](/episodes/ep-YaZfwLQ7vrI.md#ent-person-mark-levin-t-00-39-10)**
+> "*(Clip of Mark Levin reading Tucker Carlson text exchange)* I got a ve..."
+
 </details>
 
 </details>
@@ -56,8 +77,27 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Related Claims (1)</strong></summary>
+<summary><strong class="section-title">Statements by Mark Levin (1)</strong></summary>
 
-- ✅ **[Factual](/claims/claim-eac676e22d61.md):** Mark Levin called Tucker Carlson 'Nazi promoter' and 'modern-day David Duke' when invited to debate
+<details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1)</summary>
+
+- [00:39:10](/episodes/ep-YaZfwLQ7vrI.md#t-00-39-04) [○] (Accusation) ["Mark Levin called Tucker Carlson a Nazi promoter and the modern-day David Duke a..."](/statements/statement-a4f61d3f83e5.md)
+  - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Mark Levin](/entities/person-mark-levin.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Mark Levin (1)</strong></summary>
+
+<details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1)</summary>
+
+- [00:39:10](/episodes/ep-YaZfwLQ7vrI.md#t-00-39-04) (Accusation) **Mark Levin** (via quoted speech): ["Mark Levin called Tucker Carlson a Nazi promoter and the modern-day Da..."](/statements/statement-a4f61d3f83e5.md)
+  - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+</details>
 
 </details>

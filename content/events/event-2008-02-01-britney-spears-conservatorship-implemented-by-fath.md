@@ -24,7 +24,7 @@ date: "2008-02-01"
 ### 2. Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
-**Timestamp:** [00:49:39](/episodes/ep-tB5SXXmd9vU.md#t-00-49-39) 
+**Timestamp:** [00:49:39](/episodes/ep-tB5SXXmd9vU.md#t-00-49-28) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2979);return false;">▶️ Play</a>
 
 > like they did to Britney Spears, like they did to Kanye West, or they bankrupt you, right? That's also one of the mechanisms. Do you guys think that this entire

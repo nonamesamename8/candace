@@ -1,6 +1,6 @@
 ---
 title: "Freddie Ponton"
-description: "Freddie Ponton (People) - 1 mention"
+description: "Freddie Ponton (People) - 2 mentions"
 id: "person-freddie-ponton"
 type: "PERSON"
 ---
@@ -13,10 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
 **[00:11:17](/episodes/ep-tB5SXXmd9vU.md#ent-person-freddie-ponton-t-00-11-17)**
 > "...dy knows about France. Here's what he said. He said, or dropped. And I also would like to shout out Freddie Ponton, who wrote this article reminding people, and when I say reminding, I mean teaching people, if you'..."
+
+**[00:11:17](/episodes/ep-tB5SXXmd9vU.md#ent-person-freddie-ponton-t-00-11-17)**
+> "... also would like to shout out Freddie Ponton, who wrote this article reminding people, and whe..."
 
 </details>
 

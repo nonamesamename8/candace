@@ -1,6 +1,6 @@
 ---
 title: "Orlando nightclub shooting"
-description: "Orlando nightclub shooting (Events) - 1 mention"
+description: "Orlando nightclub shooting (Events) - 2 mentions"
 id: "event-orlando-nightclub-shooting"
 type: "EVENT"
 aliases:
@@ -17,10 +17,13 @@ _Type: Events_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1 mentions)</summary>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
 
 **[00:25:18](/episodes/ep-QZWSsq8ZWzw.md#ent-event-orlando-nightclub-shooting-t-00-25-18)**
 > "Orlando shooting reaction"
+
+**[00:25:18](/episodes/ep-QZWSsq8ZWzw.md#ent-event-orlando-nightclub-shooting-t-00-25-18)**
+> "...re "guns versus protesters," "Orlando shooting reaction," "cars running over protesters," "firin..."
 
 </details>
 

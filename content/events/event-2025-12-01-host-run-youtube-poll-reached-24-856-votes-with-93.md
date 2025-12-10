@@ -14,7 +14,7 @@ date: "2025-12-01"
 ## Mentioned In
 
 **Episode:** [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md)
-**Timestamp:** [00:54:23](/episodes/ep-tB5SXXmd9vU.md#t-00-54-23) 
+**Timestamp:** [00:54:23](/episodes/ep-tB5SXXmd9vU.md#t-00-53-46) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3263);return false;">▶️ Play</a>
 
 > rea, which is of interest to me. I just started a poll, by the way. We are live on YouTube. I asked a very simple question. Do you think that this lawsuit was an operation against me, that it was mean

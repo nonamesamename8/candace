@@ -1,6 +1,6 @@
 ---
 title: "August 20th"
-description: "August 20th (Dates) - 1 mention"
+description: "August 20th (Dates) - 2 mentions"
 id: "date-august-20th"
 type: "DATE"
 ---
@@ -13,10 +13,13 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
 **[00:22:52](/episodes/ep-tB5SXXmd9vU.md#ent-date-august-20th-t-00-22-30)**
 > "...tted and replaced about half of their leadership in mid-August. Check out this article published on August 20th. In 2025, a change of command took place across six regiments. Now, we researched, and look, I'm no..."
+
+**[00:22:52](/episodes/ep-tB5SXXmd9vU.md#ent-date-august-20th-t-00-22-30)**
+> "...out this article published on August 20th."
 
 </details>
 

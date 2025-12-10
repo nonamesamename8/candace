@@ -1,6 +1,6 @@
 ---
 title: "Leo Frank"
-description: "Leo Frank (People) - 7 mentions"
+description: "Leo Frank (People) - 14 mentions"
 id: "person-leo-frank"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (7 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (14 mentions)</summary>
 
 **[00:03:28](/episodes/ep-t1YtLS1n8Vs.md#ent-person-leo-frank-t-00-02-47)**
 > "... Well, because they put the organization together to defend a pedophile and a murderer. His name is Leo Frank. Leo Frank was an unbelievably wealthy Jewish factory owner down in Atlanta. And this is 1913. That..."
@@ -36,6 +36,27 @@ _Type: People_
 **[00:05:02](/episodes/ep-t1YtLS1n8Vs.md#ent-person-leo-frank-t-00-04-56)**
 > "...Like I said, to this day, they are using those mechanisms to try to gaslight us and to pretend that Leo Frank was really the victim in this tragedy. It's utterly demented. I will never let it stand. He killed ..."
 
+**[00:03:28](/episodes/ep-t1YtLS1n8Vs.md#ent-person-leo-frank-t-00-02-47)**
+> "His name is Leo Frank."
+
+**[00:03:31](/episodes/ep-t1YtLS1n8Vs.md#ent-person-leo-frank-t-00-03-31)**
+> "Leo Frank was an unbelievably wealthy Jewish factory owner ..."
+
+**[00:03:57](/episodes/ep-t1YtLS1n8Vs.md#ent-person-leo-frank-t-00-03-31)**
+> "And Leo Frank, even with all of his money, all of his connectio..."
+
+**[00:04:25](/episodes/ep-t1YtLS1n8Vs.md#ent-person-leo-frank-t-00-04-15)**
+> "They still found Leo Frank guilty, and so much has been written to try to ob..."
+
+**[00:04:30](/episodes/ep-t1YtLS1n8Vs.md#ent-person-leo-frank-t-00-04-15)**
+> "...ey are still trying to defend Leo Frank."
+
+**[00:04:41](/episodes/ep-t1YtLS1n8Vs.md#ent-person-leo-frank-t-00-04-15)**
+> "“No, Leo Frank wasn't guilty.”"
+
+**[00:05:02](/episodes/ep-t1YtLS1n8Vs.md#ent-person-leo-frank-t-00-04-56)**
+> "...slight us and to pretend that Leo Frank was really the victim in this tragedy."
+
 </details>
 
 </details>
@@ -47,27 +68,16 @@ _Type: People_
 <summary>Employs (1)</summary>
 
 - **[Mary Phagan](/entities/person-mary-phagan.md)**
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:03:44](/timestamps/ep-t1YtLS1n8Vs/t-00-03-44.md): "Mary Phagan was a 13-year-old girl who worked at his pencil factory."
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:03:44](/episodes/ep-t1YtLS1n8Vs.md#t-00-03-31): "Mary Phagan was a 13-year-old girl who worked at his pencil factory."
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (1)</summary>
 
 - **[Mary Phagan](/entities/person-mary-phagan.md)** works for this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:03:44](/timestamps/ep-t1YtLS1n8Vs/t-00-03-44.md)
-
-- **[Mary Phagan](/entities/person-mary-phagan.md)** works for this
-  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:03:44](/timestamps/ep-t1YtLS1n8Vs/t-00-03-44.md)
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:03:44](/episodes/ep-t1YtLS1n8Vs.md#t-00-03-31)
 
 </details>
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Related Claims (2)</strong></summary>
-
-- ❓ **[Factual](/claims/claim-446a076c61bd.md):** This happened in 1913.
-- ✅ **[Factual](/claims/claim-ddfa9e02f4c9.md):** Mary Phagan was a 13-year-old girl who worked at his pencil factory.
 
 </details>

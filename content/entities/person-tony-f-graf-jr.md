@@ -20,10 +20,10 @@ _Type: People_
 <details>
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
 
-**[00:06:32](/episodes/ep-adJ4LNGp84I.md#t-00-06-32)**
+**[00:06:32](/episodes/ep-adJ4LNGp84I.md#t-00-06-18)**
 > "...erseeing the case against Tyler Robinson is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox. I was a..."
 
-**[00:06:19](/episodes/ep-adJ4LNGp84I.md#t-00-06-19)**
+**[00:06:19](/episodes/ep-adJ4LNGp84I.md#t-00-06-18)**
 > "That's not it, though. There were also some other new people, and I forgot to mention the judge that is in the case that is overseeing the case against Tyler Robinson is Judge Tony F. Graf Jr. He was"
 
 </details>
@@ -34,24 +34,18 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Appointed By (2)</summary>
+<summary>Appointed By (1)</summary>
 
 - **[Governor Cox](/entities/person-governor-cox.md)**
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/timestamps/ep-adJ4LNGp84I/t-00-06-32.md): "the judge... is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox."
-
-- **[Governor Cox](/entities/person-governor-cox.md)**
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/timestamps/ep-adJ4LNGp84I/t-00-06-32.md): "Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox."
+  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#t-00-06-18): "the judge... is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox."
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (1)</summary>
 
 - **[Governor Cox](/entities/person-governor-cox.md)** appointed this
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/timestamps/ep-adJ4LNGp84I/t-00-06-32.md)
-
-- **[Governor Cox](/entities/person-governor-cox.md)** appointed this
-  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/timestamps/ep-adJ4LNGp84I/t-00-06-32.md)
+  - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:06:32](/episodes/ep-adJ4LNGp84I.md#t-00-06-18)
 
 </details>
 

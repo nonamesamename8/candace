@@ -1,6 +1,6 @@
 ---
 title: "Katie Miller"
-description: "Katie Miller (People) - 1 mention"
+description: "Katie Miller (People) - 2 mentions"
 id: "person-katie-miller"
 type: "PERSON"
 ---
@@ -13,10 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
 
 **[00:35:13](/episodes/ep-aDlhjfW6hz8.md#ent-person-katie-miller-t-00-34-55)**
 > "...oesn't want to happen. They're trying to use his death to justify. Listen to what Pam Bondi said to Katie Miller on her podcast. Take a listen. "There's free speech and then there's hate speech. No. And there is ..."
+
+**[00:35:13](/episodes/ep-aDlhjfW6hz8.md#ent-person-katie-miller-t-00-34-55)**
+> "...ten to what Pam Bondi said to Katie Miller on her podcast."
 
 </details>
 
@@ -29,7 +32,7 @@ _Type: People_
 <summary>Interviewed (1)</summary>
 
 - **[Pam Bondi](/entities/person-pam-bondi.md)**
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:35:13](/timestamps/ep-aDlhjfW6hz8/t-00-35-13.md): "Pam Bondi said to Katie Miller on her podcast"
+  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:35:13](/episodes/ep-aDlhjfW6hz8.md#t-00-34-55): "Pam Bondi said to Katie Miller on her podcast"
 
 </details>
 
@@ -37,7 +40,7 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Pam Bondi](/entities/person-pam-bondi.md)** interviewed by this
-  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:35:13](/timestamps/ep-aDlhjfW6hz8/t-00-35-13.md)
+  - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:35:13](/episodes/ep-aDlhjfW6hz8.md#t-00-34-55)
 
 </details>
 

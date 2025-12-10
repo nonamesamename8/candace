@@ -14,7 +14,7 @@ date: "2020-11-06"
 ## Mentioned In
 
 **Episode:** [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md)
-**Timestamp:** [00:12:06](/episodes/ep-YaZfwLQ7vrI.md#t-00-12-06) 
+**Timestamp:** [00:12:06](/episodes/ep-YaZfwLQ7vrI.md#event-event-2020-11-06-lance-wallnau-publishes-stop-the-steal-p-t-00-11-32) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(726);return false;">▶️ Play</a>
 
 > okay? It says, "We're going to expose the fraud and stop thi

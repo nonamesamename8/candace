@@ -14,7 +14,7 @@ date: "2025-09-03"
 ## Mentioned In
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:21:00](/episodes/ep-sImMM04XdWY.md#t-00-21-00) 
+**Timestamp:** [00:21:00](/episodes/ep-sImMM04XdWY.md#t-00-20-22) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1260);return false;">▶️ Play</a>
 
 > harlie's assassination. I was in a state of trauma, and not for a single second during that state of trauma did I believe that Turning Point USA would later be involved in what seems li

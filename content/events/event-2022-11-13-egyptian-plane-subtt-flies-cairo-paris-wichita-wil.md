@@ -14,7 +14,7 @@ date: "2022-11-13"
 ## Mentioned In
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:19:26](/episodes/ep-SKGUzGHymcI.md#t-00-19-26) 
+**Timestamp:** [00:19:26](/episodes/ep-SKGUzGHymcI.md#t-00-18-47) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1166);return false;">▶️ Play</a>
 
 > ng Charlie's assassination and the Egyptian planes. Now, what is even more compelling about this tip is that this individual who works with or for the government sent it before I had fi

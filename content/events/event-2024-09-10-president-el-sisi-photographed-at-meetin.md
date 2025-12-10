@@ -14,7 +14,7 @@ date: "2024-09-10"
 ## Mentioned In
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:03:55](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-55) 
+**Timestamp:** [00:03:55](/episodes/ep-ZAuuSq_j2_w.md#event-event-2024-09-10-president-el-sisi-photographed-at-meetin-t-00-17-47) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(235);return false;">▶️ Play</a>
 
 > he was photographed at a meeting with the Prime Minister of Tunisia, Sarah Zafrani—and it was in Egypt

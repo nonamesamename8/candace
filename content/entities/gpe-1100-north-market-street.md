@@ -1,6 +1,6 @@
 ---
 title: "1100 North Market Street"
-description: "1100 North Market Street (Places) - 2 mentions"
+description: "1100 North Market Street (Places) - 4 mentions"
 id: "gpe-1100-north-market-street"
 type: "GPE"
 ---
@@ -13,13 +13,19 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (4 mentions)</summary>
 
 **[00:32:03](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-1100-north-market-street-t-00-31-48)**
 > "...-American du Pont family. And guess where the Wilmington Trust is actually located? It's located at 1100 North Market Street, the building that is right next to 1100 North King Street, and both are on Rodney Square. So again..."
 
 **[00:34:39](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-1100-north-market-street-t-00-34-38)**
 > "...e, which is also French-aligned, connected to 1100 North King Street; DuPont, which is connected to 1100 North Market Street. And then we have 1100 North King Street itself, which is connected to 920 North King Street. And w..."
+
+**[00:32:03](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-1100-north-market-street-t-00-31-48)**
+> "It's located at 1100 North Market Street,"
+
+**[00:34:39](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-1100-north-market-street-t-00-34-38)**
+> "...DuPont, which is connected to 1100 North Market Street."
 
 </details>
 
@@ -32,10 +38,10 @@ _Type: Places_
 <summary>Headquarters Of (2)</summary>
 
 - **[Wilmington Trust](/entities/org-wilmington-trust.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:03](/timestamps/ep-tB5SXXmd9vU/t-00-32-03.md): ""And guess where the Wilmington Trust is actually located? It's located at 1100 North Market Street...""
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:03](/episodes/ep-tB5SXXmd9vU.md#t-00-31-48): ""And guess where the Wilmington Trust is actually located? It's located at 1100 North Market Street...""
 
 - **[DuPont](/entities/org-dupont-family.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/timestamps/ep-tB5SXXmd9vU/t-00-34-39.md): ""DuPont, which is connected to 1100 North Market Street.""
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/episodes/ep-tB5SXXmd9vU.md#t-00-34-38): ""DuPont, which is connected to 1100 North Market Street.""
 
 </details>
 
@@ -43,10 +49,10 @@ _Type: Places_
 <summary>Referenced By (2)</summary>
 
 - **[Wilmington Trust](/entities/org-wilmington-trust.md)** headquartered in this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:03](/timestamps/ep-tB5SXXmd9vU/t-00-32-03.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:03](/episodes/ep-tB5SXXmd9vU.md#t-00-31-48)
 
 - **[DuPont](/entities/org-dupont-family.md)** headquartered in this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/timestamps/ep-tB5SXXmd9vU/t-00-34-39.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/episodes/ep-tB5SXXmd9vU.md#t-00-34-38)
 
 </details>
 

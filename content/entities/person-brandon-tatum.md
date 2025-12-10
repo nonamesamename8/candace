@@ -1,6 +1,6 @@
 ---
 title: "Brandon Tatum"
-description: "Brandon Tatum (People) - 4 mentions"
+description: "Brandon Tatum (People) - 9 mentions"
 id: "person-brandon-tatum"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (3 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (7 mentions)</summary>
 
 **[00:44:39](/episodes/ep-adJ4LNGp84I.md#ent-person-brandon-tatum-t-00-44-06)**
 > "...Candace (Candace Owens), would you want to debate the more prominent commentators like Ben Shapiro, Brandon Tatum, and PBD on the topics of Israel, Mossad, and Palestine? They all have hinted and danced around cal..."
@@ -24,13 +24,28 @@ _Type: People_
 **[00:45:28](/episodes/ep-adJ4LNGp84I.md#ent-person-brandon-tatum-t-00-44-47)**
 > ".... And when we did disagree, we had those disagreements privately. And so I would say the same about Brandon Tatum. And I hope that clarifies, as a lot of people were asking me about Brandon. He has been there for ..."
 
+**[00:44:39](/episodes/ep-adJ4LNGp84I.md#ent-person-brandon-tatum-t-00-44-06)**
+> "...ommentators like Ben Shapiro, Brandon Tatum, and PBD"
+
+**[00:44:58](/episodes/ep-adJ4LNGp84I.md#ent-person-brandon-tatum-t-00-44-47)**
+> "I wouldn't debate Brandon Tatum because I love Brandon Tatum like a brother, and ..."
+
+**[00:44:58](/episodes/ep-adJ4LNGp84I.md#ent-person-brandon-tatum-t-00-44-47)**
+> "... Brandon Tatum because I love Brandon Tatum like a brother, and nobody wins in that scenario."
+
+**[00:45:28](/episodes/ep-adJ4LNGp84I.md#ent-person-brandon-tatum-t-00-44-47)**
+> "...so I would say the same about Brandon Tatum."
+
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
 
 **[00:58:10](/episodes/ep-q7f8r-THr84.md#ent-person-brandon-tatum-t-00-57-35)**
 > "...He was doing a ton of podcasts in America. He went on to Patrick Bet-David's podcast. He went on to Brandon Tatum's podcast. He went on to the Nelk Boys' podcast. Anybody find it weird he didn't do Charlie Kirk's ..."
+
+**[00:58:10](/episodes/ep-q7f8r-THr84.md#ent-person-brandon-tatum-t-00-57-35)**
+> "He went on to Brandon Tatum's podcast."
 
 </details>
 

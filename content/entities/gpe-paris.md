@@ -1,6 +1,6 @@
 ---
 title: "Paris"
-description: "Paris (Places) - 20 mentions"
+description: "Paris (Places) - 40 mentions"
 id: "gpe-paris"
 type: "GPE"
 ---
@@ -13,15 +13,18 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:24:13](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-paris-t-00-23-52)**
 > "...ho he was fighting owned his catalog. Actually in the news today—this is totally a God thing. I saw Paris Jackson was in the news today. She's lost in court, and she's still fighting over her father's lega..."
 
+**[00:24:13](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-paris-t-00-23-52)**
+> "I saw Paris Jackson was in the news today."
+
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (4 mentions)</summary>
 
 **[00:02:04](/episodes/ep-SKGUzGHymcI.md#ent-gpe-paris-t-00-02-04)**
 > "...s—you can just scroll through this. Like, we kept noticing that that yellow plane was going through Paris; it was going to Wichita, but very often it was stopping in Wilmington. Like, what goes on in Wilmi..."
@@ -29,10 +32,16 @@ _Type: Places_
 **[00:19:26](/episodes/ep-SKGUzGHymcI.md#ent-gpe-paris-t-00-19-26)**
 > "...is logic and ask yourself how this makes any sense. On November 13, 2022, SUBTT flies from Cairo to Paris to Wichita, Kansas, to Wilmington, Delaware, back to Cairo. That is already a four-legged two-conti..."
 
+**[00:02:04](/episodes/ep-SKGUzGHymcI.md#ent-gpe-paris-t-00-02-04)**
+> "...ellow plane was going through Paris; it was going to Wichita, but very often it was s..."
+
+**[00:19:26](/episodes/ep-SKGUzGHymcI.md#ent-gpe-paris-t-00-19-26)**
+> "...22, SUBTT flies from Cairo to Paris to Wichita, Kansas, to Wilmington, Delaware, back..."
+
 </details>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (5 mentions)</summary>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (10 mentions)</summary>
 
 **[00:10:09](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-paris-t-00-09-40)**
 > "...ary 25th, BTT comes in. And BTT—again, they're both flying from Cairo every time, typically through Paris—and it then lands in St. Louis, Missouri. And this is relevant because on February 27th, this perso..."
@@ -49,10 +58,25 @@ _Type: Places_
 **[00:40:36](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-paris-t-00-40-17)**
 > "...gh Canada, as it always does. It's going to leave Provo. That's going to go through Canada, through Paris, and back home to Cairo— three days following Charlie (Charlie Kirk)'s assassination. Did that plan..."
 
+**[00:10:09](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-paris-t-00-09-40)**
+> "...every time, typically through Paris—and it then lands in St. Louis, Missouri."
+
+**[00:17:23](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-paris-t-00-16-57)**
+> "...e flies from Cairo—always via Paris—to St. Louis again, and it lands in Missouri."
+
+**[00:24:12](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-paris-t-00-24-03)**
+> "via Paris. It makes a stop in Salt Lake City, and then goes..."
+
+**[00:24:21](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-paris-t-00-24-03)**
+> "...ing to come in from Cairo via Paris through North Dakota to Provo."
+
+**[00:40:36](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-paris-t-00-40-17)**
+> "...to go through Canada, through Paris, and back home to Cairo—"
+
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (4 mentions)</summary>
 
 **[00:18:38](/episodes/ep-iHav0PPzUz8.md#ent-gpe-paris-t-00-18-24)**
 > "...an go back as far as November and December of that year. We can see that it routinely flies through Paris. And I noticed—and you can take your time to freeze this and go through everything, as I'm not gonn..."
@@ -60,26 +84,38 @@ _Type: Places_
 **[00:19:07](/episodes/ep-iHav0PPzUz8.md#ent-gpe-paris-t-00-19-07)**
 > "...look under 2025, you will see this is what it did. It went from September 4th—it went from Cairo to Paris to France to Minot, North Dakota. On September 10th, it departed Provo—I think I'm missing one here..."
 
+**[00:18:38](/episodes/ep-iHav0PPzUz8.md#ent-gpe-paris-t-00-18-24)**
+> "...at it routinely flies through Paris."
+
+**[00:19:07](/episodes/ep-iHav0PPzUz8.md#ent-gpe-paris-t-00-19-07)**
+> "...ber 4th—it went from Cairo to Paris to France to Minot, North Dakota."
+
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:11:11](/episodes/ep-mKXdKV-OBog.md#ent-gpe-paris-t-00-10-47)**
 > "...alked about SUBTT, which came in for its longest trip—that's correct—from Cairo. It went through to Paris, and then it went to Omaha, Nebraska. I think yesterday I said that it stayed in Wilmington for six..."
 
+**[00:11:11](/episodes/ep-mKXdKV-OBog.md#ent-gpe-paris-t-00-10-47)**
+> "It went through to Paris, and then it went to Omaha, Nebraska."
+
 </details>
 
 <details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (1 mentions)</summary>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (2 mentions)</summary>
 
 **[01:01:56](/episodes/ep-ozWJz2spBcI.md#ent-gpe-paris-t-01-01-35)**
 > "...arlie Kirk) on Piers Morgan's show. Also the South African ambassador to France was found dead in a Paris hotel." Oh no, France. France. It's hot right now, France. France is... You guys already know. Look..."
 
+**[01:01:56](/episodes/ep-ozWJz2spBcI.md#ent-gpe-paris-t-01-01-35)**
+> "...to France was found dead in a Paris hotel.""
+
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (6 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (12 mentions)</summary>
 
 **[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-16-53)**
 > "...is one's happening quickly. This is really interesting because BTT then comes in from Cairo through Paris and lands in Omaha, Nebraska, and it's the longest stay actually that they have in Wilmington, okay..."
@@ -99,16 +135,40 @@ _Type: Places_
 **[00:21:44](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-21-44)**
 > "... with the Minister of Culture. And then we have this flight that leaves from Paris. BTT leaves from Paris, and it's go time, right? This plane is now going to stay for six days, and then it's gonna go to W..."
 
+**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-16-53)**
+> "...n comes in from Cairo through Paris and lands in Omaha, Nebraska, and it's the longes..."
+
+**[00:20:43](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-20-22)**
+> "...acron is basically opening up Paris Design Week, and she's photographed with the Mini..."
+
+**[00:20:51](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-20-22)**
+> "...the BTT flight departing from Paris."
+
+**[00:21:00](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-21-00)**
+> "...comes President Zelensky into Paris on September 3rd because there is this remarkable..."
+
+**[00:21:42](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-21-00)**
+> "... this flight that leaves from Paris."
+
+**[00:21:44](/episodes/ep-sImMM04XdWY.md#ent-gpe-paris-t-00-21-44)**
+> "BTT leaves from Paris, and it's go time, right?"
+
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (4 mentions)</summary>
 
-**[00:39:34](/episodes/ep-tB5SXXmd9vU.md#t-00-39-34)**
+**[00:39:34](/episodes/ep-tB5SXXmd9vU.md#t-00-39-28)**
 > "... to school. There's a lot going on. And I was very comforted to see that Brigitte Macron had opened Paris Design Week. Makes sense, right? Opened Paris Design Week on, I believe, September 4th. Very public..."
 
-**[00:39:42](/episodes/ep-tB5SXXmd9vU.md#t-00-39-42)**
+**[00:39:42](/episodes/ep-tB5SXXmd9vU.md#t-00-39-28)**
 > "...very comforted to see that Brigitte Macron had opened Paris Design Week. Makes sense, right? Opened Paris Design Week on, I believe, September 4th. Very public. Gets photographed with the culture—the Minis..."
+
+**[00:39:34](/episodes/ep-tB5SXXmd9vU.md#t-00-39-28)**
+> "...at Brigitte Macron had opened Paris Design Week."
+
+**[00:39:42](/episodes/ep-tB5SXXmd9vU.md#t-00-39-28)**
+> "Opened Paris Design Week on, I believe, September 4th."
 
 </details>
 

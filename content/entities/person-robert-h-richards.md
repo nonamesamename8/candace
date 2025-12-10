@@ -1,6 +1,6 @@
 ---
 title: "Robert H. Richards"
-description: "Robert H. Richards (People) - 1 mention"
+description: "Robert H. Richards (People) - 2 mentions"
 id: "person-robert-h-richards"
 type: "PERSON"
 aliases:
@@ -17,10 +17,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
-**[00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-08-27)**
+**[00:08:27](/episodes/ep-a-e7HC6SeK8.md#ent-person-robert-h-richards-t-00-08-27)**
 > "...lls us that his great-grandfather is the DuPont family patriarch, Irénée du Pont, and his father is Robert H. Richards, a retired partner in the Richards, Layton & Finger law firm. I already know what you're going to s..."
+
+**[00:08:27](/episodes/ep-a-e7HC6SeK8.md#ent-person-robert-h-richards-t-00-08-27)**
+> "...ée du Pont, and his father is Robert H. Richards, a retired partner in the Richards, Layton & Fing..."
 
 </details>
 
@@ -33,20 +36,17 @@ _Type: People_
 <summary>Parent Of (1)</summary>
 
 - **[Robert Richards the Fourth](/entities/person-robert-richards-the-fourth.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/timestamps/ep-a-e7HC6SeK8/t-00-08-27.md): "his father is Robert H. Richards"
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/timestamps/ep-a-e7HC6SeK8/t-00-08-27.md): "his great-grandfather is the DuPont family patriarch, Irénée du Pont, and his father is Robert H. Richards"
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/timestamps/ep-a-e7HC6SeK8/t-00-08-27.md): "...his great-grandfather is the DuPont family patriarch, Irénée du Pont, and his father is Robert H. Richards, a retired partner in the Richards, Layton & Finger law firm."
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-07-45): "his father is Robert H. Richards"
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-07-45): "his great-grandfather is the DuPont family patriarch, Irénée du Pont, and his father is Robert H. Richards"
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-07-45): "...his great-grandfather is the DuPont family patriarch, Irénée du Pont, and his father is Robert H. Richards, a retired partner in the Richards, Layton & Finger law firm."
 
 </details>
 
 <details>
-<summary>Works For (2)</summary>
+<summary>Works For (1)</summary>
 
 - **[Richards, Layton & Finger](/entities/org-richards-layton-finger.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/timestamps/ep-a-e7HC6SeK8/t-00-08-27.md): "...his father is Robert H. Richards, a retired partner in the Richards, Layton & Finger law firm."
-
-- **[Richards, Layton & Finger](/entities/org-richards-layton-finger.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/timestamps/ep-a-e7HC6SeK8/t-00-08-27.md): "...his father is Robert H. Richards, a retired partner in the Richards, Layton & Finger law firm."
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-07-45): "...his father is Robert H. Richards, a retired partner in the Richards, Layton & Finger law firm."
 
 </details>
 
@@ -54,11 +54,11 @@ _Type: People_
 <summary>Referenced By (2)</summary>
 
 - **[Robert Richards the Fourth](/entities/person-robert-richards-the-fourth.md)** child of this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/timestamps/ep-a-e7HC6SeK8/t-00-08-27.md)
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/timestamps/ep-a-e7HC6SeK8/t-00-08-27.md)
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-07-45)
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-07-45)
 
 - **[Richards, Layton & Finger](/entities/org-richards-layton-finger.md)** employs this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/timestamps/ep-a-e7HC6SeK8/t-00-08-27.md)
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:08:27](/episodes/ep-a-e7HC6SeK8.md#t-00-07-45)
 
 </details>
 

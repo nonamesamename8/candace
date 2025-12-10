@@ -1,6 +1,6 @@
 ---
 title: "Airbnb"
-description: "Airbnb (Organizations) - 1 mention"
+description: "Airbnb (Organizations) - 2 mentions"
 id: "org-airbnb"
 type: "ORG"
 ---
@@ -13,10 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
 
 **[00:10:41](/episodes/ep-LATnak75Si0.md#ent-org-airbnb-t-00-10-30)**
 > "...ey to a Cuomo-affiliated super PAC. He gave $8.3 million to stop Mamdani, and it didn't matter. The Airbnb co-founder, Joe Gebbia, gave $3.1 million. It didn't matter. The Tisch family gave $1.2 million. It..."
+
+**[00:10:41](/episodes/ep-LATnak75Si0.md#ent-org-airbnb-t-00-10-30)**
+> "The Airbnb co-founder, Joe Gebbia, gave $3.1 million."
 
 </details>
 
@@ -29,7 +32,7 @@ _Type: Organizations_
 <summary>Founded By (1)</summary>
 
 - **[Joe Gebbia](/entities/person-joe-gebbia.md)**
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:10:41](/timestamps/ep-LATnak75Si0/t-00-10-41.md): "The Airbnb co-founder, Joe Gebbia"
+  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-30): "The Airbnb co-founder, Joe Gebbia"
 
 </details>
 
@@ -37,7 +40,7 @@ _Type: Organizations_
 <summary>Referenced By (1)</summary>
 
 - **[Joe Gebbia](/entities/person-joe-gebbia.md)** founded this
-  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:10:41](/timestamps/ep-LATnak75Si0/t-00-10-41.md)
+  - [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 @ 00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-30)
 
 </details>
 

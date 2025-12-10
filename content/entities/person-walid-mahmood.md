@@ -1,6 +1,6 @@
 ---
 title: "Walid Mahmood"
-description: "Walid Mahmood (People) - 11 mentions"
+description: "Walid Mahmood (People) - 21 mentions"
 id: "person-walid-mahmood"
 type: "PERSON"
 aliases:
@@ -17,7 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (11 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (21 mentions)</summary>
 
 **[00:14:42](/episodes/ep-ZAuuSq_j2_w.md#ent-person-walid-mahmood-t-00-14-25)**
 > "...orts, okay?— These are obviously dead ends. But the name that one of those individuals was using is Walid Mahmood, okay? Walid Mahmood. So we now know that of the four people that flew to Delaware, someone flew us..."
@@ -52,6 +52,36 @@ _Type: People_
 **[00:03:14](/episodes/ep-ZAuuSq_j2_w.md#ent-person-walid-mahmood-t-00-14-25)**
 > "But the name that one of those individuals was using is Walid Mahmood, okay?"
 
+**[00:14:42](/episodes/ep-ZAuuSq_j2_w.md#ent-person-walid-mahmood-t-00-14-25)**
+> "is Walid Mahmood, okay?"
+
+**[00:14:46](/episodes/ep-ZAuuSq_j2_w.md#ent-person-walid-mahmood-t-00-14-25)**
+> "Walid Mahmood."
+
+**[00:14:47](/episodes/ep-ZAuuSq_j2_w.md#ent-person-walid-mahmood-t-00-14-25)**
+> "..., someone flew using the name Walid Mahmood, okay?"
+
+**[00:15:07](/episodes/ep-ZAuuSq_j2_w.md#ent-person-walid-mahmood-t-00-14-25)**
+> "Walid Mahmood"
+
+**[00:15:12](/episodes/ep-ZAuuSq_j2_w.md#ent-person-walid-mahmood-t-00-15-09)**
+> "Specifically, Walid Mahmood came to Provo on May 27th of this year."
+
+**[00:15:18](/episodes/ep-ZAuuSq_j2_w.md#ent-person-walid-mahmood-t-00-15-09)**
+> "Walid Mahmood came in, and we can also confirm that if you look..."
+
+**[00:16:04](/episodes/ep-ZAuuSq_j2_w.md#ent-person-walid-mahmood-t-00-15-51)**
+> "...: SUBTU flies into Provo with Walid Mahmood aboard."
+
+**[00:18:13](/episodes/ep-ZAuuSq_j2_w.md#ent-person-walid-mahmood-t-00-17-47)**
+> "...we can however deduce is that Walid Mahmoud is therefore not the president of Egypt,"
+
+**[00:18:44](/episodes/ep-ZAuuSq_j2_w.md#ent-person-walid-mahmood-t-00-18-21)**
+> "So who is Walid Mahmoud?"
+
+**[00:18:47](/episodes/ep-ZAuuSq_j2_w.md#ent-person-walid-mahmood-t-00-18-21)**
+> "... is the person using the name Walid Mahmoud?"
+
 </details>
 
 </details>
@@ -63,7 +93,7 @@ _Type: People_
 <summary>Affiliated With (1)</summary>
 
 - **[Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md)**
-  - [ @ 00:03:58](/timestamps//t-00-03-58.md): "This person is going to be well-acquainted with the president of Egypt, okay?"
+  - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:03:58](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-51): "This person is going to be well-acquainted with the president of Egypt, okay?"
 
 </details>
 
@@ -71,16 +101,27 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md)** affiliated with this
-  - [ @ 00:03:58](/timestamps//t-00-03-58.md)
+  - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:03:58](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-51)
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Related Claims (2)</strong></summary>
+<summary><strong class="section-title">Statements about Walid Mahmood (3)</strong></summary>
 
-- ❓ **[Factual](/claims/claim-c607cee1ffc8.md):** Walid Mahmood was one of four people aboard the Egyptian plane that flew from Provo to Wilmington, D...
-- ❓ **[Factual](/claims/claim-e2aed188d297.md):** Walid Mahmood came to Provo on May 27th, 2024 aboard Egyptian military plane SUBTU, departing June 2...
+<details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3)</summary>
+
+- [00:14:42](/episodes/ep-ZAuuSq_j2_w.md#t-00-14-25) (Claim) **Candace Owens**: ["One of the four passengers on the yellow plane to Delaware was using t..."](/statements/statement-e8ce61355fdf.md)
+  - Also about: [SU-BTT](/entities/work-su-btt.md)
+
+- [00:15:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-09) (Claim) **Candace Owens**: ["Walid Mahmood came to Provo on May 27th of this year aboard another Eg..."](/statements/statement-c65701d7dc38.md)
+  - Also about: [work-su-btu](/entities/work-su-btu.md)
+
+- [00:18:38](/episodes/ep-ZAuuSq_j2_w.md#t-00-18-21) (Opinion) **Candace Owens**: ["Walid Mahmood is not the president of Egypt, but is almost certainly w..."](/statements/statement-0c0772a6830c.md)
+  - Also about: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md)
+
+</details>
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Lady Ballers"
-description: "Lady Ballers (Work) - 1 mention"
+description: "Lady Ballers (Work) - 2 mentions"
 id: "work-lady-ballers"
 type: "WORK"
 ---
@@ -13,10 +13,13 @@ _Type: Work_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
 
 **[00:22:21](/episodes/ep-LATnak75Si0.md#ent-work-lady-ballers-t-00-22-10)**
 > "...ly Wire, including... You were featured in a movie that Brett Cooper starred in at the Daily Wire: "Lady Ballers." You're good friends with Michael Knowles. You know fully well who Brett Cooper is. And that was a..."
+
+**[00:22:21](/episodes/ep-LATnak75Si0.md#ent-work-lady-ballers-t-00-22-10)**
+> "...tarred in at the Daily Wire: "Lady Ballers.""
 
 </details>
 

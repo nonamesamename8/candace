@@ -24,7 +24,7 @@ date: "2024-12-10"
 ### 2. Another French Front: Did Charlie Kirk Save My Life? | Canda...
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:09:08](/episodes/ep-sImMM04XdWY.md#t-00-09-08) 
+**Timestamp:** [00:09:08](/episodes/ep-sImMM04XdWY.md#t-00-09-03) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(548);return false;">▶️ Play</a>
 
 > , I don't think we can reasonably ignore that odd French company in Delaware. Now that our source proved to us that it certainly wasn't established to provide any maintenance to those Egyptian planes,

@@ -14,7 +14,7 @@ date: "2025-09-08"
 ## Mentioned In
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:45:10](/episodes/ep-2WEHTk0Xewg.md#t-00-45-10) 
+**Timestamp:** [00:45:10](/episodes/ep-2WEHTk0Xewg.md#t-00-44-34) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2710);return false;">▶️ Play</a>
 
 > Shortly after that speech, there was a very intense attack on Charlie—and to some extent on me, not

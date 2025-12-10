@@ -24,7 +24,7 @@ date: "2025-09-14"
 ### 2. What Did Charlie Kirk Discover Near The End? | Candace Ep 26...
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
-**Timestamp:** [00:49:41](/episodes/ep-yAIb-NuUh_U.md#t-00-49-41) 
+**Timestamp:** [00:49:41](/episodes/ep-yAIb-NuUh_U.md#t-00-49-18) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2981);return false;">▶️ Play</a>
 
 > thing—and the only thing—that we have good going for us at this moment would be Tim Dillon under oath. And I strongly advise that Elijah Schaffer puts him under oath as well now that he's making these
@@ -48,7 +48,7 @@ date: "2025-09-14"
 ### 5. What Did Charlie Kirk Discover Near The End? | Candace Ep 26...
 
 **Episode:** [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md)
-**Timestamp:** [00:45:51](/episodes/ep-yAIb-NuUh_U.md#t-00-45-51) 
+**Timestamp:** [00:45:51](/episodes/ep-yAIb-NuUh_U.md#t-00-45-19) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2751);return false;">▶️ Play</a>
 
 > lawsuit—filing a lawsuit to convince yourself and backing your life partner as she files a lawsuit because somebody made a joke. Because that's what Elijah Schaffer's lawsuit is about. It's a joke. An
@@ -72,7 +72,7 @@ date: "2025-09-14"
 ### 8. From Britney To Charlie. With Pastors Like These, Who Needs ...
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:23:43](/episodes/ep-7RLtGgkTh9o.md#t-00-23-43) 
+**Timestamp:** [00:23:43](/episodes/ep-7RLtGgkTh9o.md#t-00-23-14) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1423);return false;">▶️ Play</a>
 
 > complish this is via lawfare. They will bankrupt you, okay? This is why what's happening to Elijah Schaffer—this is relevant. This is one of their strategies. When they want you to shut up, they will

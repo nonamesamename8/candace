@@ -15,7 +15,7 @@ time: "10:00"
 ## Mentioned In
 
 **Episode:** [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md)
-**Timestamp:** [00:19:25](/episodes/ep-2WEHTk0Xewg.md#t-00-19-25) 
+**Timestamp:** [00:19:25](/episodes/ep-2WEHTk0Xewg.md#t-00-18-53) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1165);return false;">▶️ Play</a>
 
 > n September 11th, we are presented with the first FBI press conference where they confirm that they have found a weapon in the woods. Let's take a listen to a bit of that. T

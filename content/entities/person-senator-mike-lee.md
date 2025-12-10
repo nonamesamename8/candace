@@ -1,6 +1,6 @@
 ---
 title: "Senator Mike Lee"
-description: "Senator Mike Lee (People) - 1 mention"
+description: "Senator Mike Lee (People) - 2 mentions"
 id: "person-senator-mike-lee"
 type: "PERSON"
 ---
@@ -13,10 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
 
 **[00:07:09](/episodes/ep-YA1FxrDWNIo.md#ent-person-senator-mike-lee-t-00-06-55)**
 > "...le. It's probably part of the reason—politically speaking—that he was chosen for an internship with Senator Mike Lee of Utah. I feel like that was a little bit of political maneuvering. So I'm not clear why he's sudd..."
+
+**[00:07:09](/episodes/ep-YA1FxrDWNIo.md#ent-person-senator-mike-lee-t-00-06-55)**
+> "...chosen for an internship with Senator Mike Lee of Utah."
 
 </details>
 
@@ -29,7 +32,7 @@ _Type: People_
 <summary>Employs (1)</summary>
 
 - **[Shaner Broderick](/entities/person-shaner-broderick.md)**
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:09](/timestamps/ep-YA1FxrDWNIo/t-00-07-09.md): "chosen for an internship with Senator Mike Lee of Utah."
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55): "chosen for an internship with Senator Mike Lee of Utah."
 
 </details>
 
@@ -37,7 +40,7 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Shaner Broderick](/entities/person-shaner-broderick.md)** works for this
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:09](/timestamps/ep-YA1FxrDWNIo/t-00-07-09.md)
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55)
 
 </details>
 

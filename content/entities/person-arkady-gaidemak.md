@@ -1,6 +1,6 @@
 ---
 title: "Arkady Gaidemak"
-description: "Arkady Gaidemak (People) - 1 mention"
+description: "Arkady Gaidemak (People) - 3 mentions"
 id: "person-arkady-gaidemak"
 type: "PERSON"
 aliases:
@@ -18,10 +18,16 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3 mentions)</summary>
 
 **[00:14:05](/episodes/ep-Kmt6HgRjckU.md#ent-person-arkady-gaidemak-t-00-14-05)**
 > "Arcady Gaidemak Israeli-Russian businessman involved in Branko International arms deals"
+
+**[00:14:05](/episodes/ep-Kmt6HgRjckU.md#ent-person-arkady-gaidemak-t-00-14-05)**
+> "... this guy, his name is Arkady Gademak."
+
+**[00:15:09](/episodes/ep-Kmt6HgRjckU.md#ent-person-arkady-gaidemak-t-00-14-48)**
+> "You have Arcady Gaidemac, who I just told you about."
 
 </details>
 
@@ -34,7 +40,7 @@ _Type: People_
 <summary>Affiliated With (1)</summary>
 
 - **[Angola Gate](/entities/concept-angola-gate.md)**
-  - [ @ 00:16:50](/timestamps//t-00-16-50.md): "and a Russian-born Israeli named Arkady Gaidemach"
+  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:16:50](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13): "and a Russian-born Israeli named Arkady Gaidemach"
 
 </details>
 
@@ -42,7 +48,7 @@ _Type: People_
 <summary>Ran Against (1)</summary>
 
 - **[Branko International](/entities/org-branko-international.md)**
-  - [ @ 00:14:12](/timestamps//t-00-14-12.md): "Now, Branko International is run by this guy, his name is Arkady Gademak."
+  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:14:12](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05): "Now, Branko International is run by this guy, his name is Arkady Gademak."
 
 </details>
 
@@ -50,26 +56,38 @@ _Type: People_
 <summary>Worked With (1)</summary>
 
 - **[Pierre Falcone](/entities/person-pierre-falcone.md)**
-  - [ @ 00:14:28](/timestamps//t-00-14-28.md): "And his partner is Pierre Falcone."
+  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:14:28](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05): "And his partner is Pierre Falcone."
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Angola Gate](/entities/concept-angola-gate.md)** affiliated with this
-  - [ @ 00:16:50](/timestamps//t-00-16-50.md)
+  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:16:50](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13)
+
+- **[Branko International](/entities/org-branko-international.md)** ran against this
+  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:14:12](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05)
 
 - **[Pierre Falcone](/entities/person-pierre-falcone.md)** worked with this
-  - [ @ 00:14:28](/timestamps//t-00-14-28.md)
+  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:14:28](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05)
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Related Claims (1)</strong></summary>
+<summary><strong class="section-title">Statements about Arkady Gaidemak (2)</strong></summary>
 
-- ⚠️ **[Factual](/claims/claim-8177c64f72fc.md):** Arkady Gaidemak was Pierre Falcone's partner in Branko International, involved in Angola arms traffi...
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2)</summary>
+
+- [00:14:10](/episodes/ep-Kmt6HgRjckU.md#t-00-14-05) (Claim) **Candace Owens**: ["Branko International is run by Arkady Gaidemak. He is Israeli, initial..."](/statements/statement-6f2c0ea955bb.md)
+  - Also about: [Pierre Falcone](/entities/person-pierre-falcone.md), [Branko International](/entities/org-branko-international.md)
+
+- [00:16:50](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13) (Citation) **Candace Owens**: ["According to a Global Witness report, Arkady Gaidemak funneled billion..."](/statements/statement-9762153ccabf.md)
+  - Also about: [Pierre Falcone](/entities/person-pierre-falcone.md), [Angola](/entities/gpe-angola.md), [Global Witness](/entities/org-global-witness.md)
+
+</details>
 
 </details>

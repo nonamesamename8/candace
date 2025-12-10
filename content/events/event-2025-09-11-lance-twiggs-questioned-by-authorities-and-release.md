@@ -41,7 +41,7 @@ time: "23:00"
 ### 4. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:00:45](/episodes/ep-q7f8r-THr84.md#t-00-00-45) 
+**Timestamp:** [00:00:45](/episodes/ep-q7f8r-THr84.md#t-00-00-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(45);return false;">▶️ Play</a>
 
 > eed to be answered regarding his trans boyfriend, Lance Twiggs. Well, I just spoke to a family member who told me a lot about Lance Twiggs because the media is ki
@@ -49,7 +49,7 @@ time: "23:00"
 ### 5. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:00:56](/episodes/ep-q7f8r-THr84.md#t-00-00-56) 
+**Timestamp:** [00:00:56](/episodes/ep-q7f8r-THr84.md#t-00-00-45) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(56);return false;">▶️ Play</a>
 
 > eed to be answered regarding his trans boyfriend, Lance Twiggs. Well, I just spoke to a family member who told me a lot about Lance Twiggs because the media is ki

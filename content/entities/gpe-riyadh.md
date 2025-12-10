@@ -1,6 +1,6 @@
 ---
 title: "Riyadh"
-description: "Riyadh (Places) - 1 mention"
+description: "Riyadh (Places) - 3 mentions"
 id: "gpe-riyadh"
 type: "GPE"
 ---
@@ -13,10 +13,16 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>
 
 **[00:17:13](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-riyadh-t-00-17-12)**
 > "...ght from the Egyptian presidency website that on April 3rd, 2023, President al-Sisi touched down in Riyadh aboard that same exact aircraft, tail number SU-BTU, for a high-level sit-down with the Saudi Crown..."
+
+**[00:17:13](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-riyadh-t-00-17-12)**
+> "...ident al-Sisi touched down in Riyadh aboard that same exact aircraft, tail number SU-B..."
+
+**[00:17:22](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-riyadh-t-00-17-12)**
+> "President al-Sisi touched down in Riyadh aboard that same exact aircraft"
 
 </details>
 

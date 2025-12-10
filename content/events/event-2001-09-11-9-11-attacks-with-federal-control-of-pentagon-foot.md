@@ -14,7 +14,7 @@ date: "2001-09-11"
 ## Mentioned In
 
 **Episode:** [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md)
-**Timestamp:** [00:04:30](/episodes/ep-sreYYcID-QY.md#t-00-04-30) 
+**Timestamp:** [00:04:30](/episodes/ep-sreYYcID-QY.md#event-event-2001-09-11-9-11-attacks-with-federal-control-of-pentagon-foot-t-00-00-33) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(270);return false;">▶️ Play</a>
 
 > narrative which, for some reason, every major publication is

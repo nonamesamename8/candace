@@ -1,6 +1,6 @@
 ---
 title: "George Santos"
-description: "George Santos (People) - 1 mention"
+description: "George Santos (People) - 2 mentions"
 id: "person-george-santos"
 type: "PERSON"
 ---
@@ -13,10 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
 
 **[00:25:53](/episodes/ep-Kmt6HgRjckU.md#ent-person-george-santos-t-00-25-47)**
 > "George Santos joins Tim Pool and Milo discussion"
+
+**[00:25:49](/episodes/ep-Kmt6HgRjckU.md#ent-person-george-santos-t-00-25-47)**
+> "... is sitting also with George (George Santos), who joined them."
 
 </details>
 
@@ -29,10 +32,21 @@ _Type: People_
 <summary>Appeared With (2)</summary>
 
 - **[Tim Pool](/entities/person-tim-pool.md)**
-  - [ @ 00:25:53](/timestamps//t-00-25-53.md): "And I will add that he is sitting also with George, who joined them."
+  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:25:53](/episodes/ep-Kmt6HgRjckU.md#t-00-25-47): "And I will add that he is sitting also with George, who joined them."
 
 - **[Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)**
-  - [ @ 00:25:53](/timestamps//t-00-25-53.md): "And I will add that he is sitting also with George, who joined them."
+  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:25:53](/episodes/ep-Kmt6HgRjckU.md#t-00-25-47): "And I will add that he is sitting also with George, who joined them."
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Tim Pool](/entities/person-tim-pool.md)** appeared with this
+  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:25:53](/episodes/ep-Kmt6HgRjckU.md#t-00-25-47)
+
+- **[Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)** appeared with this
+  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:25:53](/episodes/ep-Kmt6HgRjckU.md#t-00-25-47)
 
 </details>
 

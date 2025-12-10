@@ -1,6 +1,6 @@
 ---
 title: "Liz Lyon"
-description: "Liz Lyon (People) - 1 mention"
+description: "Liz Lyon (People) - 2 mentions"
 id: "person-liz-lyon"
 type: "PERSON"
 ---
@@ -13,10 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
 
 **[00:10:34](/episodes/ep-YaZfwLQ7vrI.md#ent-person-liz-lyon-t-00-10-09)**
 > "... like I said, this was a five-year investigation. It involved forensic analysis. A CIA spokeswoman, Liz Lyon, stated that Shawna Rae Kirkhoff, the alleged person who dropped off these pipe bombs, worked in Ca..."
+
+**[00:10:34](/episodes/ep-YaZfwLQ7vrI.md#ent-person-liz-lyon-t-00-10-09)**
+> "A CIA spokeswoman, Liz Lyon, stated that Shawna Rae Kirkhoff, the alleged per..."
 
 </details>
 
@@ -26,13 +29,10 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Works For (2)</summary>
+<summary>Works For (1)</summary>
 
 - **[CIA](/entities/org-central-intelligence-agency.md)**
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:10:34](/timestamps/ep-YaZfwLQ7vrI/t-00-10-34.md): "A CIA spokeswoman, Liz Lyon"
-
-- **[CIA](/entities/org-central-intelligence-agency.md)**
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:10:34](/timestamps/ep-YaZfwLQ7vrI/t-00-10-34.md): "A CIA spokeswoman, Liz Lyon"
+  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:10:34](/episodes/ep-YaZfwLQ7vrI.md#t-00-10-09): "A CIA spokeswoman, Liz Lyon"
 
 </details>
 
@@ -40,7 +40,7 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[CIA](/entities/org-central-intelligence-agency.md)** employs this
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:10:34](/timestamps/ep-YaZfwLQ7vrI/t-00-10-34.md)
+  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:10:34](/episodes/ep-YaZfwLQ7vrI.md#t-00-10-09)
 
 </details>
 

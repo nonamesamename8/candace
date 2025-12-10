@@ -1,6 +1,6 @@
 ---
 title: "USDA"
-description: "USDA (Organizations) - 3 mentions"
+description: "USDA (Organizations) - 6 mentions"
 id: "org-usda"
 type: "ORG"
 aliases:
@@ -17,26 +17,35 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
 
 **[00:25:27](/episodes/ep-SKGUzGHymcI.md#ent-org-usda-t-00-25-08)**
 > "...growth hormones or antibiotics. And the beef is processed right at the ranch in their award-winning USDA-inspected processing facility. So you avoid the costly middlemen because the beef is sent directly ..."
 
+**[00:25:27](/episodes/ep-SKGUzGHymcI.md#ent-org-usda-t-00-25-08)**
+> "... ranch in their award-winning USDA-inspected processing facility."
+
 </details>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
 
 **[00:21:20](/episodes/ep-ZAuuSq_j2_w.md#ent-org-usda-t-00-21-14)**
 > "...use growth hormones or antibiotics. The beef is processed right at the ranch in their award-winning USDA-inspected processing facility, so you avoid the costly middlemen because the beef is sent directly ..."
 
+**[00:21:20](/episodes/ep-ZAuuSq_j2_w.md#ent-org-usda-t-00-21-14)**
+> "... ranch in their award-winning USDA-inspected processing facility,"
+
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
 
 **[00:35:40](/episodes/ep-his-JBjlkh8.md#ent-org-usda-t-00-35-06)**
 > "...owth hormones or antibiotics. And the beef is processed right at their ranch in their award-winning USDA-inspected processing facility. So you avoid the costly middlemen because the beef is sent directly ..."
+
+**[00:35:40](/episodes/ep-his-JBjlkh8.md#ent-org-usda-t-00-35-06)**
+> "... ranch in their award-winning USDA-inspected processing facility."
 
 </details>
 

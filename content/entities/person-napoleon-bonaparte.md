@@ -1,6 +1,6 @@
 ---
 title: "Napoleon Bonaparte"
-description: "Napoleon Bonaparte (People) - 3 mentions"
+description: "Napoleon Bonaparte (People) - 6 mentions"
 id: "person-napoleon-bonaparte"
 type: "PERSON"
 aliases:
@@ -17,7 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (6 mentions)</summary>
 
 **[00:04:42](/episodes/ep-a-e7HC6SeK8.md#ent-person-napoleon-bonaparte-t-00-04-18)**
 > "...o be American ignorant, but I had no idea. And yes, that man was the founder. And yes, that is like Napoleon Bonaparte. His grandfather—Charles's grandfather—was Napoleon Bonaparte's brother. This is like—this is great..."
@@ -28,6 +28,15 @@ _Type: People_
 **[00:04:51](/episodes/ep-a-e7HC6SeK8.md#ent-person-napoleon-bonaparte-t-00-04-18)**
 > "...andfather—Charles's grandfather—was Napoleon Bonaparte's brother. This is like—this is great uncle. Napoleon Bonaparte was his great uncle, which makes it kind of hilarious, right? Because our tip yesterday from that p..."
 
+**[00:04:42](/episodes/ep-a-e7HC6SeK8.md#ent-person-napoleon-bonaparte-t-00-04-18)**
+> "And yes, that is like Napoleon Bonaparte."
+
+**[00:04:45](/episodes/ep-a-e7HC6SeK8.md#ent-person-napoleon-bonaparte-t-00-04-18)**
+> "...her—Charles's grandfather—was Napoleon Bonaparte's brother."
+
+**[00:04:51](/episodes/ep-a-e7HC6SeK8.md#ent-person-napoleon-bonaparte-t-00-04-18)**
+> "Napoleon Bonaparte was his great uncle, which makes it kind of hilar..."
+
 </details>
 
 </details>
@@ -36,12 +45,5 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Related Claims (1)</strong></summary>
-
-- ❓ **[Factual](/claims/claim-41ca55ddf235.md):** our FBI was founded by Charles Joseph Bonaparte
 
 </details>

@@ -24,7 +24,7 @@ date: "2025-11-05"
 ### 2. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
-**Timestamp:** [00:30:37](/episodes/ep-ja26iltROkM.md#t-00-30-37) 
+**Timestamp:** [00:30:37](/episodes/ep-ja26iltROkM.md#t-00-30-33) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1837);return false;">▶️ Play</a>
 
 > e-unquote federal felonies." And then he says, "F Israel-first Laura Loomer," as just a little side note. And then he shows all the T-shirts on Amazon becau
@@ -32,7 +32,7 @@ date: "2025-11-05"
 ### 3. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
-**Timestamp:** [00:35:19](/episodes/ep-ja26iltROkM.md#t-00-35-19) 
+**Timestamp:** [00:35:19](/episodes/ep-ja26iltROkM.md#t-00-34-47) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2119);return false;">▶️ Play</a>
 
 > unquote federal felonies." And then he says, "F Israel-first
@@ -40,7 +40,7 @@ date: "2025-11-05"
 ### 4. TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace E...
 
 **Episode:** [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md)
-**Timestamp:** [00:09:26](/episodes/ep-5autG89PW6w.md#t-00-09-26) 
+**Timestamp:** [00:09:26](/episodes/ep-5autG89PW6w.md#t-00-09-04) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(566);return false;">▶️ Play</a>
 
 > ill. We're on the side of truth. We are so chill. Laura Loomer, who is legally just—you know—not allowed to own a gun because she's a literal lunatic, had the ner
@@ -48,7 +48,7 @@ date: "2025-11-05"
 ### 5. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
-**Timestamp:** [00:26:54](/episodes/ep-ja26iltROkM.md#t-00-26-54) 
+**Timestamp:** [00:26:54](/episodes/ep-ja26iltROkM.md#t-00-26-14) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1614);return false;">▶️ Play</a>
 
 > weekend—this is real. A real live tweet came from Laura Loomer, our resident psycho. She tweeted this. She's been attacking me nonstop. "As p
@@ -56,7 +56,7 @@ date: "2025-11-05"
 ### 6. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-35) 
+**Timestamp:** [00:42:35](/episodes/ep-YA1FxrDWNIo.md#t-00-42-16) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2555);return false;">▶️ Play</a>
 
 > ore Charlie Kirk dies—someone like Laura Loomer is calling him anti-Semite, and she's funded by one of Charlie's donors, Bob Shill
@@ -64,7 +64,7 @@ date: "2025-11-05"
 ### 7. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:38:36](/episodes/ep-his-JBjlkh8.md#t-00-38-36) 
+**Timestamp:** [00:38:36](/episodes/ep-his-JBjlkh8.md#t-00-37-59) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2316);return false;">▶️ Play</a>
 
 > questions. And so that's why they're being let in, most nota
@@ -72,7 +72,7 @@ date: "2025-11-05"
 ### 8. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
 **Episode:** [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md)
-**Timestamp:** [00:28:34](/episodes/ep-ja26iltROkM.md#t-00-28-34) 
+**Timestamp:** [00:28:34](/episodes/ep-ja26iltROkM.md#t-00-28-21) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1714);return false;">▶️ Play</a>
 
 > irst Laura Loomer," as just a little side note. And then he shows all the T-shirts on Amazon because—like, obviously you can buy yourself an FBI costume for Halloween if you'd like to. But that wasn't

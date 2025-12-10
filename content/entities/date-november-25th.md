@@ -1,6 +1,6 @@
 ---
 title: "November 25th"
-description: "November 25th (Dates) - 1 mention"
+description: "November 25th (Dates) - 2 mentions"
 id: "date-november-25th"
 type: "DATE"
 ---
@@ -13,10 +13,13 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
 **[00:02:49](/episodes/ep-tB5SXXmd9vU.md#ent-date-november-25th-t-00-02-25)**
 > "..., what we are all learning in the wake of the last couple of months, especially. Now, going back to November 25th, I obviously tweeted exactly what I was informed, okay? I'm going to read that tweet to you in its ..."
+
+**[00:02:49](/episodes/ep-tB5SXXmd9vU.md#ent-date-november-25th-t-00-02-25)**
+> "Now, going back to November 25th, I obviously tweeted exactly what I was informed,..."
 
 </details>
 

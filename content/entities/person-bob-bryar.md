@@ -1,6 +1,6 @@
 ---
 title: "Bob Bryar"
-description: "Bob Bryar (People) - 3 mentions"
+description: "Bob Bryar (People) - 6 mentions"
 id: "person-bob-bryar"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (3 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (6 mentions)</summary>
 
 **[00:25:20](/episodes/ep-7RLtGgkTh9o.md#ent-person-bob-bryar-t-00-25-15)**
 > "...mely death. Kurt Cobain, Prince, Michael Jackson, Charlie (Charlie Kirk). And I should also mention Bob Bryar—talk about a—I don't know—timely or untimely death. My Chemical Romance. You guys remember My Chemi..."
@@ -23,6 +23,15 @@ _Type: People_
 
 **[00:26:23](/episodes/ep-7RLtGgkTh9o.md#ent-person-bob-bryar-t-00-25-55)**
 > "...he then died in a very mysterious circumstance. This is People Magazine. My Chemical Romance rocker Bob Bryar's cause of death ruled undetermined; nitrous oxide found near his body. So he died from laughing ga..."
+
+**[00:25:20](/episodes/ep-7RLtGgkTh9o.md#ent-person-bob-bryar-t-00-25-15)**
+> "And I should also mention Bob Bryar—talk about a—I don't know—timely or untimely deat..."
+
+**[00:25:48](/episodes/ep-7RLtGgkTh9o.md#ent-person-bob-bryar-t-00-25-15)**
+> "This is Bob Bryar. He writes,"
+
+**[00:26:23](/episodes/ep-7RLtGgkTh9o.md#ent-person-bob-bryar-t-00-25-55)**
+> "My Chemical Romance rocker Bob Bryar's cause of death ruled undetermined; nitrous oxide ..."
 
 </details>
 
@@ -35,18 +44,43 @@ _Type: People_
 <summary>Employs (1)</summary>
 
 - **[Lou Taylor](/entities/person-lou-taylor.md)**
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:25:51](/timestamps/ep-7RLtGgkTh9o/t-00-25-51.md): "Lou Taylor was my business manager for 18 years"
+  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:25:51](/episodes/ep-7RLtGgkTh9o.md#t-00-25-15): "Lou Taylor was my business manager for 18 years"
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (1)</summary>
 
 - **[Lou Taylor](/entities/person-lou-taylor.md)** works for this
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:25:51](/timestamps/ep-7RLtGgkTh9o/t-00-25-51.md)
+  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:25:51](/episodes/ep-7RLtGgkTh9o.md#t-00-25-15)
 
-- **[Lou Taylor](/entities/person-lou-taylor.md)** works for this
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:25:51](/timestamps/ep-7RLtGgkTh9o/t-00-25-51.md)
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Bob Bryar (1)</strong></summary>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1)</summary>
+
+- [00:25:50](/episodes/ep-7RLtGgkTh9o.md#t-00-25-15) [○] (Accusation) ["Lou Taylor was my business manager for 18 years. We separated in September becau..."](/statements/statement-488c2abc1a03.md)
+  - About: [Lou Taylor](/entities/person-lou-taylor.md), [Bob Bryar](/entities/person-bob-bryar.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Bob Bryar (2)</strong></summary>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2)</summary>
+
+- [00:25:50](/episodes/ep-7RLtGgkTh9o.md#t-00-25-15) (Accusation) **Bob Bryar** (via quoted tweet): ["Lou Taylor was my business manager for 18 years. We separated in Septe..."](/statements/statement-488c2abc1a03.md)
+  - Also about: [Lou Taylor](/entities/person-lou-taylor.md)
+
+- [00:26:23](/episodes/ep-7RLtGgkTh9o.md#t-00-25-55) (Claim) **Candace Owens**: ["Bob Bryar died in mysterious circumstances with nitrous oxide found ne..."](/statements/statement-3850684b6644.md)
 
 </details>
 

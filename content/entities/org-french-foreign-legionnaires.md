@@ -1,6 +1,6 @@
 ---
 title: "French Foreign Legionnaires"
-description: "French Foreign Legionnaires (Organizations) - 1 mention"
+description: "French Foreign Legionnaires (Organizations) - 2 mentions"
 id: "org-french-foreign-legionnaires"
 type: "ORG"
 ---
@@ -13,10 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
 **[00:59:13](/episodes/ep-tB5SXXmd9vU.md#ent-org-french-foreign-legionnaires-t-00-59-13)**
 > "... to explain later this week, I think there were some National Guard regiments that were there, some French Foreign Legionnaires that were there, and yes, some Israelis that were there, hence the 12 Israeli cell phones, and that..."
+
+**[00:59:13](/episodes/ep-tB5SXXmd9vU.md#ent-org-french-foreign-legionnaires-t-00-59-13)**
+> "...giments that were there, some French Foreign Legionnaires that were there, and yes, some Israelis that were..."
 
 </details>
 
@@ -29,7 +32,7 @@ _Type: Organizations_
 <summary>Member Of (1)</summary>
 
 - **[French Foreign Legion](/entities/org-french-foreign-legion.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/timestamps/ep-tB5SXXmd9vU/t-00-59-13.md): "...some French Foreign Legionnaires that were there..."
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#t-00-58-43): "...some French Foreign Legionnaires that were there..."
 
 </details>
 
@@ -37,7 +40,7 @@ _Type: Organizations_
 <summary>Referenced By (1)</summary>
 
 - **[French Foreign Legion](/entities/org-french-foreign-legion.md)** has member this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/timestamps/ep-tB5SXXmd9vU/t-00-59-13.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:59:13](/episodes/ep-tB5SXXmd9vU.md#t-00-58-43)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Blanding"
-description: "Blanding (Places) - 1 mention"
+description: "Blanding (Places) - 3 mentions"
 id: "gpe-blanding"
 type: "GPE"
 ---
@@ -13,10 +13,16 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (1 mentions)</summary>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (3 mentions)</summary>
 
 **[00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#ent-gpe-blanding-t-00-34-49)**
 > "... 11:30 p.m. at night. Hey, it's September 10th, 2025, and I was just heading back from Salt Lake to Blanding. I'm getting a very late start. It's about 11:30 at night, and I wanted to swing back by UVU campus..."
+
+**[00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#ent-gpe-blanding-t-00-34-49)**
+> "...eading back from Salt Lake to Blanding."
+
+**[00:34:55](/episodes/ep-ZGxnf5cj4Uw.md#ent-gpe-blanding-t-00-34-49)**
+> "Hey, it's September 10th, 2025, and I was just heading back from Salt Lake to Blanding."
 
 </details>
 
@@ -29,8 +35,8 @@ _Type: Places_
 <summary>Residence Of (1)</summary>
 
 - **[Phil Lyman](/entities/person-phil-lyman.md)**
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:49](/timestamps/ep-ZGxnf5cj4Uw/t-00-34-49.md): "heading back from Salt Lake to Blanding"
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:55](/timestamps/ep-ZGxnf5cj4Uw/t-00-34-55.md): "I was just heading back from Salt Lake to Blanding."
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#t-00-34-14): "heading back from Salt Lake to Blanding"
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:55](/episodes/ep-ZGxnf5cj4Uw.md#t-00-34-49): "I was just heading back from Salt Lake to Blanding."
 
 </details>
 
@@ -38,8 +44,8 @@ _Type: Places_
 <summary>Referenced By (1)</summary>
 
 - **[Phil Lyman](/entities/person-phil-lyman.md)** lives in this
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:49](/timestamps/ep-ZGxnf5cj4Uw/t-00-34-49.md)
-  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:55](/timestamps/ep-ZGxnf5cj4Uw/t-00-34-55.md)
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#t-00-34-14)
+  - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:34:55](/episodes/ep-ZGxnf5cj4Uw.md#t-00-34-49)
 
 </details>
 

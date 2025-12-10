@@ -24,7 +24,7 @@ date: "2017-10-01"
 ### 2. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:10:13](/episodes/ep-a-e7HC6SeK8.md#t-00-10-13) 
+**Timestamp:** [00:10:13](/episodes/ep-a-e7HC6SeK8.md#t-00-09-45) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(613);return false;">▶️ Play</a>
 
 > z dead in the driveway of the family's mansion in 1996. Two years later, the decomposing body of a Las Vegas prostitute was found stuffed in the air condi
@@ -32,7 +32,7 @@ date: "2017-10-01"
 ### 3. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:10:20](/episodes/ep-a-e7HC6SeK8.md#t-00-10-20) 
+**Timestamp:** [00:10:20](/episodes/ep-a-e7HC6SeK8.md#t-00-09-45) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(620);return false;">▶️ Play</a>
 
 > 1996. Two years later, the decomposing body of a Las Vegas prostitute was found stuffed in the air conditioner of a seedy motel. She was killed by three hired

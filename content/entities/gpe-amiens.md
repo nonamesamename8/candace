@@ -1,6 +1,6 @@
 ---
 title: "Amiens"
-description: "Amiens (Places) - 1 mention"
+description: "Amiens (Places) - 2 mentions"
 id: "gpe-amiens"
 type: "GPE"
 ---
@@ -13,10 +13,13 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
 **[01:00:14](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-amiens-t-00-59-56)**
 > "...all the way through to now—not possible. Nazis did an aerial bombardment. They occupied the city of Amiens. This seems to me to be an identity that was just created and materialized for this family and that..."
+
+**[01:00:14](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-amiens-t-00-59-56)**
+> "They occupied the city of Amiens."
 
 </details>
 

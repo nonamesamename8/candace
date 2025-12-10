@@ -1,6 +1,6 @@
 ---
 title: "Tulsi Gabbard"
-description: "Tulsi Gabbard (People) - 8 mentions"
+description: "Tulsi Gabbard (People) - 13 mentions"
 id: "person-tulsi-gabbard"
 type: "PERSON"
 aliases:
@@ -17,7 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (3 mentions)</summary>
 
 **[00:10:23](/episodes/ep-581dILVcEE4.md#ent-person-tulsi-gabbard-t-00-10-23)**
 > "...nner? I don't know, but that could be compelling. That would be something that perhaps Joe Kent and Tulsi Gabbard—who are warring, or at least that's what the press said, warring with the FBI, or warring with Kash..."
@@ -25,18 +25,21 @@ _Type: People_
 **[00:10:23](/episodes/ep-581dILVcEE4.md#ent-person-tulsi-gabbard-t-00-10-23)**
 > "Tulsi Gabbard warring with FBI could investigate"
 
+**[00:10:23](/episodes/ep-581dILVcEE4.md#ent-person-tulsi-gabbard-t-00-10-23)**
+> "...ing that perhaps Joe Kent and Tulsi Gabbard—who are warring, or at least that's what the pres..."
+
 </details>
 
 <details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1 mentions)</summary>
 
-**[00:27:49](/episodes/ep-JQjCAsfoXEE.md#t-00-27-49)**
+**[00:27:49](/episodes/ep-JQjCAsfoXEE.md#t-00-27-38)**
 > "...kay. Honestly, you guys, it brings me great pleasure to deliver this information because now surely Tulsi's office can get involved—because you know those darn Egyptians are at it again. Those darn Egyptia..."
 
 </details>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (3 mentions)</summary>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (6 mentions)</summary>
 
 **[00:20:54](/episodes/ep-Qt0VHV-POCg.md#ent-person-tulsi-gabbard-t-00-20-35)**
 > "...yesterday—pertaining to how upset Kash Patel was when he received an inquiry from Joe Kent's office—Tulsi Gabbard's office. They lead the National Counterterrorism Center—Joe Kent does—and him inquiring about deta..."
@@ -47,20 +50,32 @@ _Type: People_
 **[00:22:54](/episodes/ep-Qt0VHV-POCg.md#ent-person-tulsi-gabbard-t-00-22-39)**
 > "...hat day. And I'm getting the suspicion that there were some foreign entities involved. So Joe Kent, Tulsi Gabbard—if you guys by any chance see this episode—keep going, right? We're just going very slowly here. Se..."
 
+**[00:20:54](/episodes/ep-Qt0VHV-POCg.md#ent-person-tulsi-gabbard-t-00-20-35)**
+> "...nquiry from Joe Kent's office—Tulsi Gabbard's office."
+
+**[00:21:58](/episodes/ep-Qt0VHV-POCg.md#ent-person-tulsi-gabbard-t-00-21-58)**
+> "... Susie Wiles and Joe Kent and Tulsi Gabbard and Trump officials."
+
+**[00:22:54](/episodes/ep-Qt0VHV-POCg.md#ent-person-tulsi-gabbard-t-00-22-39)**
+> "So Joe Kent, Tulsi Gabbard—if you guys by any chance see this episode—keep g..."
+
 </details>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (1 mentions)</summary>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
 
 **[00:25:27](/episodes/ep-YFmRH8p5lt0.md#ent-person-tulsi-gabbard-t-00-25-27)**
 > "...d, right? I don't know what this plane is doing. I don't know who's on the plane. I do know that if Tulsi Gabbard or Kash Patel is potentially watching this—or if they are, as they have stated, or as the public fi..."
+
+**[00:25:27](/episodes/ep-YFmRH8p5lt0.md#ent-person-tulsi-gabbard-t-00-25-27)**
+> "I do know that if Tulsi Gabbard or Kash Patel is potentially watching this—or if ..."
 
 </details>
 
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
-**[00:51:14](/episodes/ep-sImMM04XdWY.md#t-00-51-14)**
+**[00:51:14](/episodes/ep-sImMM04XdWY.md#t-00-50-42)**
 > "... obviously be fearful. Kash? That's just corruption. I mean, once I saw the article—he was blocking Tulsi's office— I lost all faith in Kash. I think he's a part of the corruption, plain and simple. Black ..."
 
 </details>
@@ -71,5 +86,18 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Tulsi Gabbard (1)</strong></summary>
+
+<details>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (1)</summary>
+
+- [00:38:43](/episodes/ep-t4U7NjnUEgc.md#t-00-38-15) (Claim) **Candace Owens**: ["Tulsi Gabbard's office is the only government office that has responde..."](/statements/statement-006a40efdcbc.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 </details>

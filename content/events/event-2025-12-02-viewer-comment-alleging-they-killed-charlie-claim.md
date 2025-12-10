@@ -14,7 +14,7 @@ date: "2025-12-02"
 ## Mentioned In
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:56:20](/episodes/ep-a-e7HC6SeK8.md#t-00-56-20) 
+**Timestamp:** [00:56:20](/episodes/ep-a-e7HC6SeK8.md#t-00-55-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3380);return false;">▶️ Play</a>
 
 > have to be soldiers for— let me see if I can read a couple o

@@ -15,7 +15,7 @@ _Type: Organizations_
 <details>
 <summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
 
-**[00:45:35](/episodes/ep-yAIb-NuUh_U.md#t-00-45-35)**
+**[00:45:35](/episodes/ep-yAIb-NuUh_U.md#t-00-45-19)**
 > "...ves him for him and was in the right place at the right time. By the way, I should mention Alexis Wilkins is her name—Alexis Wilkins. She's also a member of the Calvary Chapel Church in California—Chi..."
 
 </details>
@@ -29,7 +29,7 @@ _Type: Organizations_
 <summary>Has Member (1)</summary>
 
 - **[Alexis Wilkins](/entities/person-alexis-wilkins.md)**
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:45:35](/timestamps/ep-yAIb-NuUh_U/t-00-45-35.md): "Alexis Wilkins is her name—Alexis Wilkins. She's also a member of the Calvary Chapel Church in California—Chino Hills."
+  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:45:35](/episodes/ep-yAIb-NuUh_U.md#t-00-45-19): "Alexis Wilkins is her name—Alexis Wilkins. She's also a member of the Calvary Chapel Church in California—Chino Hills."
 
 </details>
 
@@ -37,7 +37,7 @@ _Type: Organizations_
 <summary>Referenced By (1)</summary>
 
 - **[Alexis Wilkins](/entities/person-alexis-wilkins.md)** member of this
-  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:45:35](/timestamps/ep-yAIb-NuUh_U/t-00-45-35.md)
+  - [What Did Charlie Kirk Discover Near The End? | Candace Ep 264 @ 00:45:35](/episodes/ep-yAIb-NuUh_U.md#t-00-45-19)
 
 </details>
 

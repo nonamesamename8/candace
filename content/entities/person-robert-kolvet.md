@@ -1,6 +1,6 @@
 ---
 title: "Robert Kolvet"
-description: "Robert Kolvet (People) - 0 mentions"
+description: "Robert Kolvet (People) - 1 mention"
 id: "person-robert-kolvet"
 type: "PERSON"
 ---
@@ -12,7 +12,13 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
 
-_No mentions recorded._
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
+
+**[00:23:38](/episodes/ep-Cq7nj9rxPdo.md#ent-person-robert-kolvet-t-00-23-32)**
+> "His cousin, Captain Robert Kolvet, is high up in the military. So that's interestin..."
+
+</details>
 
 </details>
 

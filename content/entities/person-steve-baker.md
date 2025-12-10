@@ -1,6 +1,6 @@
 ---
 title: "Steve Baker"
-description: "Steve Baker (People) - 4 mentions"
+description: "Steve Baker (People) - 8 mentions"
 id: "person-steve-baker"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (4 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (8 mentions)</summary>
 
 **[00:08:30](/episodes/ep-YaZfwLQ7vrI.md#ent-person-steve-baker-t-00-08-05)**
 > "...United States Capitol Police officer named Shawna Rae Kirkhoff, right? A man named—a reporter named Steve Baker—who just deserves all of the credit on this amazing discovery. And I'm going to let you listen to G..."
@@ -27,6 +27,18 @@ _Type: People_
 **[00:08:45](/episodes/ep-YaZfwLQ7vrI.md#ent-person-steve-baker-t-00-08-45)**
 > "Steve Baker discovered the pipe bomb planter through forensic analysis"
 
+**[00:08:30](/episodes/ep-YaZfwLQ7vrI.md#ent-person-steve-baker-t-00-08-05)**
+> "A man named—a reporter named Steve Baker—who just deserves all of the credit on this amazi..."
+
+**[00:08:35](/episodes/ep-YaZfwLQ7vrI.md#ent-person-steve-baker-t-00-08-05)**
+> "...enn Beck, who is interviewing Steve Baker (Steve Baker), to tell you about how he came acro..."
+
+**[00:08:35](/episodes/ep-YaZfwLQ7vrI.md#ent-person-steve-baker-t-00-08-05)**
+> "... is interviewing Steve Baker (Steve Baker), to tell you about how he came across this foota..."
+
+**[00:08:45](/episodes/ep-YaZfwLQ7vrI.md#ent-person-steve-baker-t-00-08-45)**
+> "*(Clip from Steve Baker on Glenn Beck)* When I stumbled on what I stumble..."
+
 </details>
 
 </details>
@@ -38,8 +50,8 @@ _Type: People_
 <summary>Interviewed By (1)</summary>
 
 - **[Glenn Beck](/entities/person-glenn-beck.md)**
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:35](/timestamps/ep-YaZfwLQ7vrI/t-00-08-35.md): "listen to Glenn Beck, who is interviewing Steve Baker"
-  - [ @ 00:08:45](/timestamps//t-00-08-45.md): "Glenn Beck interviewing Steve Baker about the pipe bomb discovery"
+  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:35](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05): "listen to Glenn Beck, who is interviewing Steve Baker"
+  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:45](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05): "Glenn Beck interviewing Steve Baker about the pipe bomb discovery"
 
 </details>
 
@@ -47,7 +59,7 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Glenn Beck](/entities/person-glenn-beck.md)** interviewed this
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:35](/timestamps/ep-YaZfwLQ7vrI/t-00-08-35.md)
+  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:08:35](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05)
 
 </details>
 

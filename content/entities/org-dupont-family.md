@@ -1,6 +1,6 @@
 ---
 title: "DuPont family"
-description: "DuPont family (Organizations) - 33 mentions"
+description: "DuPont family (Organizations) - 73 mentions"
 id: "org-dupont-family"
 type: "ORG"
 aliases:
@@ -18,7 +18,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (25 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (52 mentions)</summary>
 
 **[00:04:57](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-04-57)**
 > "...nch American families who might have some conflicted interests, particularly we were discussing the DuPont family, right? Mentioning the DuPont family led to a flurry of tips coming out of Delaware. It was incredi..."
@@ -95,20 +95,104 @@ _Type: Organizations_
 **[00:56:12](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-55-43)**
 > "...trix. This person writes, "Supporting my favorite girl. My mouth was wide when you dropped the name DuPont. I cried tonight. I love you, and I love Charlie (Charlie Kirk) from the get-go. A big part of my e..."
 
+**[00:04:57](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-04-57)**
+> "...ularly we were discussing the DuPont family, right?"
+
+**[00:05:19](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-04-57)**
+> "Mentioning the DuPont family led to a flurry of tips coming out of Delaware."
+
+**[00:05:38](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-05-38)**
+> "...t of the urban legends of the DuPont family."
+
+**[00:05:42](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-05-38)**
+> "..., "Hey, I went to school with DuPonts. Like, there's a lot of stories there.""
+
+**[00:06:15](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-05-38)**
+> "... telling us, like, "Hey, this DuPont family—there's a lot going on there.""
+
+**[00:06:24](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-06-21)**
+> "Again, this was DuPont folklore, if you will."
+
+**[00:06:49](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-06-21)**
+> ""DuPont heir gets no prison time for raping three-year-ol..."
+
+**[00:07:18](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-07-02)**
+> "...who sentenced the heir to the DuPont fortune let him off with no jail time, arguing th..."
+
+**[00:08:27](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-08-27)**
+> "... his great-grandfather is the DuPont family patriarch, Irénée du Pont, and his father is Robe..."
+
+**[00:08:27](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-08-27)**
+> "...Pont family patriarch, Irénée du Pont, and his father is Robert H. Richards, a retired ..."
+
+**[00:08:51](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-08-27)**
+> "...hards didn't sound to me like DuPont."
+
+**[00:08:56](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-08-27)**
+> "...his episode talking about the DuPont family."
+
+**[00:09:06](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-09-06)**
+> "...t firm who's since retired—is DuPont."
+
+**[00:09:13](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-09-06)**
+> "It's the DuPont family."
+
+**[00:09:15](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-09-06)**
+> "...are telling us, everything is DuPont."
+
+**[00:09:20](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-09-06)**
+> "...le continues: the heir to the DuPont chemical fortune—and to be clear, that is what th..."
+
+**[00:10:02](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-09-45)**
+> "...ardly the first time that the DuPont family has found itself the focus of unsavory headlines."
+
+**[00:10:13](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-09-45)**
+> "John DuPont shot Olympic wrestler David Schultz dead in the d..."
+
+**[00:10:32](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-10-27)**
+> "... the money traced back to the DuPont family."
+
+**[00:10:39](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-10-27)**
+> "...eared that Lisa Dean—who is a DuPont—didn't approve of her drug-addicted son dating a ..."
+
+**[00:10:52](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-10-27)**
+> "Both John DuPont and Mosley died in prison."
+
+**[00:30:38](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-30-38)**
+> "...u all of this stuff about the DuPont family that it clicked."
+
+**[00:30:53](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-30-38)**
+> "It's Pierre du Pont?!?""
+
+**[00:31:00](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-30-38)**
+> "I had mentioned Pierre du Pont on yesterday's show, and this took my breath away..."
+
+**[00:31:49](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-31-21)**
+> "...ether or not it is Mr. Pierre du Pont."
+
+**[00:34:31](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-34-06)**
+> "Is it Pierre du Pont?"
+
+**[00:56:12](/episodes/ep-a-e7HC6SeK8.md#ent-org-dupont-family-t-00-55-43)**
+> "...ide when you dropped the name DuPont."
+
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
 
 **[00:49:40](/episodes/ep-his-JBjlkh8.md#ent-org-dupont-family-t-00-49-40)**
 > "...gap in Brigitte's schedule. And now, of course—especially as we have learned about Delaware and the DuPont-French connection, and the French Foreign Legion non-answer that we're getting, just gaslighting th..."
 
+**[00:49:40](/episodes/ep-his-JBjlkh8.md#ent-org-dupont-family-t-00-49-40)**
+> "...earned about Delaware and the DuPont-French connection, and the French Foreign Legion ..."
+
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (7 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (19 mentions)</summary>
 
-**[00:29:28](/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-29-13)**
+**[00:29:28](/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-29-47)**
 > "...nancial support to the Longwood Foundation, a philanthropic nonprofit that was founded by Pierre S. du Pont to make it function as a quote-unquote educational center. There's just one problem with that. Pier..."
 
 **[00:29:47](/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-29-47)**
@@ -129,6 +213,42 @@ _Type: Organizations_
 **[00:34:39](/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-34-38)**
 > "...aircraft hangar and its company Satis, which is French-aligned, connected to 920 North King Street; DuPont, the French-aligned, connected to 1100 North King Street; the biopharmaceutical company Incyte, whi..."
 
+**[00:29:28](/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-29-47)**
+> "...that was founded by Pierre S. du Pont to make it function as a quote-unquote educationa..."
+
+**[00:29:47](/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-29-47)**
+> "Pierre S. du Pont was a member of the French-American family du Pon..."
+
+**[00:29:47](/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-29-47)**
+> "...of the French-American family du Pont, which was descended from Pierre Samuel du Pont d..."
+
+**[00:29:47](/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-29-47)**
+> "... descended from Pierre Samuel du Pont de Nemours—excuse my terrible French—a French ari..."
+
+**[00:30:00](/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-29-47)**
+> "DuPont also has extreme ties to both the American and th..."
+
+**[00:31:48](/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-31-48)**
+> "...ch-American then-president of DuPont, to manage the growing fortune of the French-Amer..."
+
+**[00:31:48](/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-31-48)**
+> "...ich was founded by T. Coleman du Pont, the French-American then-president of DuPont, to..."
+
+**[00:31:48](/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-31-48)**
+> "...ortune of the French-American du Pont family."
+
+**[00:34:39](/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-34-38)**
+> "...ted to 920 North King Street; DuPont, the French-aligned, connected to 1100 North King..."
+
+**[00:34:39](/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-34-38)**
+> "...ed to 1100 North King Street; DuPont, which is connected to 1100 North Market Street."
+
+**[00:44:18](/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-44-08)**
+> "...ours, France, the home of the du Pont family."
+
+**[00:44:24](/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-44-08)**
+> "Hotel du Pont is obviously walking distance from 920 King."
+
 </details>
 
 </details>
@@ -140,10 +260,10 @@ _Type: Organizations_
 <summary>Affiliated With (2)</summary>
 
 - **[United States military](/entities/org-united-states-military.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/timestamps/ep-tB5SXXmd9vU/t-00-30-00.md): ""DuPont also has extreme ties to both the American and the French military.""
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#t-00-29-47): ""DuPont also has extreme ties to both the American and the French military.""
 
 - **[French military](/entities/org-french-military.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/timestamps/ep-tB5SXXmd9vU/t-00-30-00.md): ""DuPont also has extreme ties to both the American and the French military.""
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#t-00-29-47): ""DuPont also has extreme ties to both the American and the French military.""
 
 </details>
 
@@ -151,8 +271,8 @@ _Type: Organizations_
 <summary>Founded By (1)</summary>
 
 - **[Pierre Samuel du Pont de Nemours](/entities/person-pierre-samuel-du-pont-de-nemours.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:30:49](/timestamps/ep-a-e7HC6SeK8/t-00-30-49.md): "...at I presented to you all of this stuff about the DuPont family that it clicked. And these ladies messaged me and said, oh, you figured it out. It's Pierre du Pont..."
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:47](/timestamps/ep-tB5SXXmd9vU/t-00-29-47.md): "...American family du Pont, which was descended from Pierre Samuel du Pont de Nemours—excuse my terrible French—a French aristocrat. DuPont also has extreme ties to both the American an..."
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:30:49](/episodes/ep-a-e7HC6SeK8.md#t-00-30-38): "...at I presented to you all of this stuff about the DuPont family that it clicked. And these ladies messaged me and said, oh, you figured it out. It's Pierre du Pont..."
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:47](/episodes/ep-tB5SXXmd9vU.md#t-00-29-13): "...American family du Pont, which was descended from Pierre Samuel du Pont de Nemours—excuse my terrible French—a French aristocrat. DuPont also has extreme ties to both the American an..."
 
 </details>
 
@@ -160,7 +280,7 @@ _Type: Organizations_
 <summary>Has Member (1)</summary>
 
 - **[Lisa Dean](/entities/person-lisa-dean.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/timestamps/ep-a-e7HC6SeK8/t-00-10-39.md): "...It appeared that Lisa Dean, who is a DuPont, didn't approve..."
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27): "...It appeared that Lisa Dean, who is a DuPont, didn't approve..."
 
 </details>
 
@@ -168,7 +288,7 @@ _Type: Organizations_
 <summary>Headquartered In (1)</summary>
 
 - **[1100 North Market Street](/entities/gpe-1100-north-market-street.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/timestamps/ep-tB5SXXmd9vU/t-00-34-39.md): ""DuPont, which is connected to 1100 North Market Street.""
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/episodes/ep-tB5SXXmd9vU.md#t-00-34-38): ""DuPont, which is connected to 1100 North Market Street.""
 
 </details>
 
@@ -176,30 +296,21 @@ _Type: Organizations_
 <summary>Referenced By (5)</summary>
 
 - **[United States military](/entities/org-united-states-military.md)** affiliated with this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/timestamps/ep-tB5SXXmd9vU/t-00-30-00.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#t-00-29-47)
 
 - **[French military](/entities/org-french-military.md)** affiliated with this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/timestamps/ep-tB5SXXmd9vU/t-00-30-00.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:30:00](/episodes/ep-tB5SXXmd9vU.md#t-00-29-47)
 
 - **[Pierre Samuel du Pont de Nemours](/entities/person-pierre-samuel-du-pont-de-nemours.md)** founded this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:30:49](/timestamps/ep-a-e7HC6SeK8/t-00-30-49.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:47](/timestamps/ep-tB5SXXmd9vU/t-00-29-47.md)
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:30:49](/episodes/ep-a-e7HC6SeK8.md#t-00-30-38)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:29:47](/episodes/ep-tB5SXXmd9vU.md#t-00-29-13)
 
 - **[1100 North Market Street](/entities/gpe-1100-north-market-street.md)** headquarters of this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/timestamps/ep-tB5SXXmd9vU/t-00-34-39.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:39](/episodes/ep-tB5SXXmd9vU.md#t-00-34-38)
 
 - **[Lisa Dean](/entities/person-lisa-dean.md)** member of this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/timestamps/ep-a-e7HC6SeK8/t-00-10-39.md)
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:10:39](/episodes/ep-a-e7HC6SeK8.md#t-00-10-27)
 
 </details>
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Related Claims (3)</strong></summary>
-
-- ❓ **[Factual](/claims/claim-9d9053c06fed.md):** Robert Richards the Fourth was in 2009 convicted of raping his three-year-old daughter
-- ❓ **[Factual](/claims/claim-643de8bab4b6.md):** John DuPont shot Olympic wrestler David Schultz dead in the driveway of the family's mansion in 1996
-- ✅ **[Factual](/claims/claim-54fc9bea453b.md):** the money traced back to the DuPont family. It appeared that Lisa Dean—who is a DuPont—didn't approv...
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Bob Evnen"
-description: "Bob Evnen (People) - 5 mentions"
+description: "Bob Evnen (People) - 9 mentions"
 id: "person-bob-evnen"
 type: "PERSON"
 aliases:
@@ -17,15 +17,18 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
 **[00:18:16](/episodes/ep-a-e7HC6SeK8.md#ent-person-bob-evnen-t-00-17-39)**
 > "...s that were there, per the media. But who were these professionals that met with Secretary of State Bob Evnen? Why is this meeting somehow off-record? And when people—and they have done that—have requested inf..."
 
+**[00:18:16](/episodes/ep-a-e7HC6SeK8.md#ent-person-bob-evnen-t-00-17-39)**
+> "...t met with Secretary of State Bob Evnen?"
+
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (7 mentions)</summary>
 
 **[00:11:30](/episodes/ep-mKXdKV-OBog.md#ent-person-bob-evnen-t-00-11-30)**
 > "...y might offer us a clue because during this stretch, on July 22nd, the Nebraska Secretary of State, Bob Evnen, announced that they were going to put together a trade and investment delegation to Cairo, Egypt. ..."
@@ -39,6 +42,15 @@ _Type: People_
 **[00:11:53](/episodes/ep-mKXdKV-OBog.md#ent-person-bob-evnen-t-00-11-30)**
 > "Nebraska Secretary of State Bob Evnen announced trade delegation to Cairo"
 
+**[00:11:30](/episodes/ep-mKXdKV-OBog.md#ent-person-bob-evnen-t-00-11-30)**
+> "... Nebraska Secretary of State, Bob Evnen, announced that they were going to put together a..."
+
+**[00:11:57](/episodes/ep-mKXdKV-OBog.md#ent-person-bob-evnen-t-00-11-30)**
+> "...d suddenly, you got this guy, Bob Evnen, and he says, "You know what? Let's plan a trip t..."
+
+**[00:12:13](/episodes/ep-mKXdKV-OBog.md#ent-person-bob-evnen-t-00-12-13)**
+> "...) Nebraska Secretary of State Bob Evnen is inviting business and industry leaders to take..."
+
 </details>
 
 </details>
@@ -47,12 +59,5 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Related Claims (1)</strong></summary>
-
-- ⚠️ **[Factual](/claims/claim-07defd5bd828.md):** On July 22nd, the Nebraska Secretary of State, Bob Evnen, announced a trade and investment delegatio...
 
 </details>

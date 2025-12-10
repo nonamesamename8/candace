@@ -16,7 +16,7 @@ date: "2024-05-01"
 ### 1. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:11:37](/episodes/ep-YA1FxrDWNIo.md#t-00-11-37) 
+**Timestamp:** [00:11:37](/episodes/ep-YA1FxrDWNIo.md#t-00-11-29) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(697);return false;">▶️ Play</a>
 
 > doing? How did we get here? Anyways, his name is Gernot Omer, and we were able to find that his face matched with photos from a blog post that was written in German that was basically entitled “Anniv
@@ -24,7 +24,7 @@ date: "2024-05-01"
 ### 2. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:10:16](/episodes/ep-YA1FxrDWNIo.md#t-00-10-16) 
+**Timestamp:** [00:10:16](/episodes/ep-YA1FxrDWNIo.md#t-00-09-32) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(616);return false;">▶️ Play</a>
 
 > doing? How did we get here? Anyways, his name is Gernot Omer, and we were able to find that his face matched with photos from a blog post that was written in Ge

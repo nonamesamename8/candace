@@ -1,6 +1,6 @@
 ---
 title: "Ami Kozak"
-description: "Ami Kozak (People) - 1 mention"
+description: "Ami Kozak (People) - 2 mentions"
 id: "person-ami-kozak"
 type: "PERSON"
 ---
@@ -13,10 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1 mentions)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
 
 **[00:32:42](/episodes/ep-ja26iltROkM.md#ent-person-ami-kozak-t-00-32-41)**
 > "...y who was a Zionist on my show, and that's what he's referring to: the conversation that I had with Ami Kozak. And clearly Charlie (Charlie Kirk) probably said to him, "You can watch this to get her viewpoints..."
+
+**[00:32:42](/episodes/ep-ja26iltROkM.md#ent-person-ami-kozak-t-00-32-41)**
+> "... conversation that I had with Ami Kozak. And clearly Charlie (Charlie Kirk) probably said..."
 
 </details>
 
@@ -29,7 +32,7 @@ _Type: People_
 <summary>Interviewed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:42](/timestamps/ep-ja26iltROkM/t-00-32-42.md): "the conversation that I had with Ami Kozak"
+  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:42](/episodes/ep-ja26iltROkM.md#t-00-32-41): "the conversation that I had with Ami Kozak"
 
 </details>
 
@@ -37,8 +40,8 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:42](/timestamps/ep-ja26iltROkM/t-00-32-42.md)
-  - [ @ 00:32:42](/timestamps//t-00-32-42.md)
+  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:42](/episodes/ep-ja26iltROkM.md#t-00-32-41)
+  - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:42](/episodes/ep-ja26iltROkM.md#t-00-32-41)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Jared Kushner"
-description: "Jared Kushner (People) - 4 mentions"
+description: "Jared Kushner (People) - 11 mentions"
 id: "person-jared-kushner"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (4 mentions)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (11 mentions)</summary>
 
 **[00:47:28](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-46-58)**
 > "...they're going to try to tell us that we've reached peace. At the center of it was Steve Witkoff and Jared Kushner (Jared Kushner). They arrived on Wednesday morning to represent the US negotiators from Israel and ..."
@@ -27,6 +27,27 @@ _Type: People_
 **[00:49:02](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-49-02)**
 > "... partners playing a role, convinced that we're all so stupid. I mean, let's roll the clip back from Jared Kushner (Jared Kushner) when he sat down at Harvard, Assad operation, to speak about their aim. (Clip: Jare..."
 
+**[00:47:28](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-46-58)**
+> "...r of it was Steve Witkoff and Jared Kushner (Jared Kushner)."
+
+**[00:47:28](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-46-58)**
+> "...ve Witkoff and Jared Kushner (Jared Kushner)."
+
+**[00:48:24](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-48-17)**
+> "Jared Kushner (Jared Kushner) is involved in—he will financiall..."
+
+**[00:48:53](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-48-17)**
+> "Thank you to Jared Kushner (Jared Kushner) and Donald Trump (Donald Trump) a..."
+
+**[00:49:02](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-49-02)**
+> "...let's roll the clip back from Jared Kushner (Jared Kushner) when he sat down at Harvard, Assa..."
+
+**[00:49:02](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-49-02)**
+> "...clip back from Jared Kushner (Jared Kushner) when he sat down at Harvard, Assad operation, to..."
+
+**[00:49:02](/episodes/ep-pc3pxRyNFZk.md#ent-person-jared-kushner-t-00-49-02)**
+> "...speak about their aim. (Clip: Jared Kushner)"
+
 </details>
 
 </details>
@@ -38,7 +59,7 @@ _Type: People_
 <summary>Married To (1)</summary>
 
 - **[Ivanka Trump](/entities/person-ivanka-trump.md)**
-  - [ @ 00:08:30](/timestamps//t-00-08-30.md): "They know about Jared and his deals with Ivanka"
+  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-46): "They know about Jared and his deals with Ivanka"
 
 </details>
 
@@ -46,7 +67,7 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Ivanka Trump](/entities/person-ivanka-trump.md)** married to this
-  - [ @ 00:08:30](/timestamps//t-00-08-30.md)
+  - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:08:30](/episodes/ep-r1PS67aRmcA.md#t-00-07-46)
 
 </details>
 

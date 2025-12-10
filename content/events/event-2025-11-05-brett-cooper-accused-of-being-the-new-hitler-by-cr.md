@@ -64,7 +64,7 @@ date: "2025-11-05"
 ### 7. From Britney To Charlie. With Pastors Like These, Who Needs ...
 
 **Episode:** [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md)
-**Timestamp:** [00:06:01](/episodes/ep-7RLtGgkTh9o.md#t-00-06-01) 
+**Timestamp:** [00:06:01](/episodes/ep-7RLtGgkTh9o.md#t-00-05-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(361);return false;">▶️ Play</a>
 
 > That is what has been alleged. I'm going to allow Brett Cooper—I'm just gonna rip this content from her show, hopefully she doesn't mind—to explain how Britney Sp

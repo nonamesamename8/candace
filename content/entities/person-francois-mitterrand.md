@@ -1,6 +1,6 @@
 ---
 title: "François Mitterrand"
-description: "François Mitterrand (People) - 0 mentions"
+description: "François Mitterrand (People) - 3 mentions"
 id: "person-francois-mitterrand"
 type: "PERSON"
 aliases:
@@ -16,7 +16,19 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
 
-_No mentions recorded._
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3 mentions)</summary>
+
+**[00:15:25](/episodes/ep-Kmt6HgRjckU.md#ent-person-francois-mitterrand-t-00-14-48)**
+> "You also have Francois Mitterrand, the French president's son that was implicated i..."
+
+**[00:16:39](/episodes/ep-Kmt6HgRjckU.md#ent-person-francois-mitterrand-t-00-14-48)**
+> "...his colleague Jean-Christophe Mitterrand, the son of the former French president, and a Ru..."
+
+**[00:17:08](/episodes/ep-Kmt6HgRjckU.md#ent-person-francois-mitterrand-t-00-16-50)**
+> "...ng on the special access that Mitterrand had to the Angolan government managed to transfer..."
+
+</details>
 
 </details>
 
@@ -27,7 +39,7 @@ _No mentions recorded._
 <summary>Parent Of (1)</summary>
 
 - **[Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md)**
-  - [ @ 00:16:50](/timestamps//t-00-16-50.md): "his colleague Jean-Christophe Mitterrand, the son of the former French president"
+  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:16:50](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13): "his colleague Jean-Christophe Mitterrand, the son of the former French president"
 
 </details>
 
@@ -35,15 +47,21 @@ _No mentions recorded._
 <summary>Referenced By (1)</summary>
 
 - **[Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md)** child of this
-  - [ @ 00:16:50](/timestamps//t-00-16-50.md)
+  - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:16:50](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13)
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Related Claims (1)</strong></summary>
+<summary><strong class="section-title">Statements about François Mitterrand (1)</strong></summary>
 
-- ✅ **[Factual](/claims/claim-b9c3b05e87fd.md):** Jean-Christophe Mitterrand, son of French President François Mitterrand, was implicated in the Angol...
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1)</summary>
+
+- [00:15:25](/episodes/ep-Kmt6HgRjckU.md#t-00-14-48) (Claim) **Candace Owens**: ["Francois Mitterrand, the French president's son, was implicated in the..."](/statements/statement-4feac2591c94.md)
+  - Also about: [Jean-Christophe Mitterrand](/entities/person-jean-christophe-mitterrand.md), [Angola Gate](/entities/concept-angola-gate.md)
+
+</details>
 
 </details>

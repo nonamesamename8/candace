@@ -1,6 +1,6 @@
 ---
 title: "Wisconsin"
-description: "Wisconsin (Places) - 0 mentions"
+description: "Wisconsin (Places) - 1 mention"
 id: "gpe-wisconsin"
 type: "GPE"
 ---
@@ -12,7 +12,13 @@ _Type: Places_
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
 
-_No mentions recorded._
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:20:03](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-wisconsin-t-00-19-42)**
+> "... lead pastor on the border of Wisconsin, by the way."
+
+</details>
 
 </details>
 

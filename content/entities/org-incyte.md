@@ -1,6 +1,6 @@
 ---
 title: "Incyte"
-description: "Incyte (Organizations) - 4 mentions"
+description: "Incyte (Organizations) - 8 mentions"
 id: "org-incyte"
 type: "ORG"
 ---
@@ -13,7 +13,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (4 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (8 mentions)</summary>
 
 **[00:32:55](/episodes/ep-tB5SXXmd9vU.md#ent-org-incyte-t-00-32-32)**
 > "... is happening online, except for the fact that apparently a global biopharmaceutical company called Incyte owns it, okay? If they're using this construction site, it seems to me that they're doing it to buy..."
@@ -27,6 +27,18 @@ _Type: Organizations_
 **[00:34:39](/episodes/ep-tB5SXXmd9vU.md#ent-org-incyte-t-00-34-38)**
 > "...eet; DuPont, the French-aligned, connected to 1100 North King Street; the biopharmaceutical company Incyte, which is also French-aligned, connected to 1100 North King Street; DuPont, which is connected to 1..."
 
+**[00:32:55](/episodes/ep-tB5SXXmd9vU.md#ent-org-incyte-t-00-32-32)**
+> "...pharmaceutical company called Incyte owns it, okay?"
+
+**[00:33:39](/episodes/ep-tB5SXXmd9vU.md#ent-org-incyte-t-00-33-10)**
+> "...hat biopharmaceutical company Incyte was?"
+
+**[00:34:23](/episodes/ep-tB5SXXmd9vU.md#ent-org-incyte-t-00-33-53)**
+> "Incyte—that's the biopharmaceutical company that he runs..."
+
+**[00:34:39](/episodes/ep-tB5SXXmd9vU.md#ent-org-incyte-t-00-34-38)**
+> "...the biopharmaceutical company Incyte, which is also French-aligned, connected to 1100 ..."
+
 </details>
 
 </details>
@@ -38,7 +50,7 @@ _Type: Organizations_
 <summary>Advised By (1)</summary>
 
 - **[Hervé Hoppenot](/entities/person-herve-hoppenot.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:53](/timestamps/ep-tB5SXXmd9vU/t-00-33-53.md): ""He seems to have just exited as the CEO, but he is still running the company under the role of advisor to the CEO.""
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:53](/episodes/ep-tB5SXXmd9vU.md#t-00-33-10): ""He seems to have just exited as the CEO, but he is still running the company under the role of advisor to the CEO.""
 
 </details>
 
@@ -46,7 +58,7 @@ _Type: Organizations_
 <summary>Affiliated With (1)</summary>
 
 - **[Department of Veterans Affairs](/entities/org-va.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:23](/timestamps/ep-tB5SXXmd9vU/t-00-34-23.md): ""Incyte... is also plugged directly into the federal medical supply chains, which include our VA systems...""
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:23](/episodes/ep-tB5SXXmd9vU.md#t-00-33-53): ""Incyte... is also plugged directly into the federal medical supply chains, which include our VA systems...""
 
 </details>
 
@@ -54,8 +66,8 @@ _Type: Organizations_
 <summary>Has Ceo (1)</summary>
 
 - **[Hervé Hoppenot](/entities/person-herve-hoppenot.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:39](/timestamps/ep-tB5SXXmd9vU/t-00-33-39.md): "the longtime CEO of that biopharmaceutical company Incyte was? Hervé Hoppenot."
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:45](/timestamps/ep-tB5SXXmd9vU/t-00-33-45.md): ""...the longtime CEO of that biopharmaceutical company Incyte was? Hervé Hoppenot.""
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:39](/episodes/ep-tB5SXXmd9vU.md#t-00-33-10): "the longtime CEO of that biopharmaceutical company Incyte was? Hervé Hoppenot."
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:45](/episodes/ep-tB5SXXmd9vU.md#t-00-33-10): ""...the longtime CEO of that biopharmaceutical company Incyte was? Hervé Hoppenot.""
 
 </details>
 
@@ -63,7 +75,7 @@ _Type: Organizations_
 <summary>Owns (1)</summary>
 
 - **[Bracebridge Complex](/entities/org-bracebridge-complex.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:55](/timestamps/ep-tB5SXXmd9vU/t-00-32-55.md): ""...apparently a global biopharmaceutical company called Incyte owns it...""
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:55](/episodes/ep-tB5SXXmd9vU.md#t-00-32-32): ""...apparently a global biopharmaceutical company called Incyte owns it...""
 
 </details>
 
@@ -71,17 +83,17 @@ _Type: Organizations_
 <summary>Referenced By (4)</summary>
 
 - **[Hervé Hoppenot](/entities/person-herve-hoppenot.md)** CEO of this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:39](/timestamps/ep-tB5SXXmd9vU/t-00-33-39.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:45](/timestamps/ep-tB5SXXmd9vU/t-00-33-45.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:39](/episodes/ep-tB5SXXmd9vU.md#t-00-33-10)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:45](/episodes/ep-tB5SXXmd9vU.md#t-00-33-10)
 
 - **[Hervé Hoppenot](/entities/person-herve-hoppenot.md)** advisor to this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:53](/timestamps/ep-tB5SXXmd9vU/t-00-33-53.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:33:53](/episodes/ep-tB5SXXmd9vU.md#t-00-33-10)
 
 - **[Department of Veterans Affairs](/entities/org-va.md)** affiliated with this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:23](/timestamps/ep-tB5SXXmd9vU/t-00-34-23.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:34:23](/episodes/ep-tB5SXXmd9vU.md#t-00-33-53)
 
 - **[Bracebridge Complex](/entities/org-bracebridge-complex.md)** owned by this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:55](/timestamps/ep-tB5SXXmd9vU/t-00-32-55.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:55](/episodes/ep-tB5SXXmd9vU.md#t-00-32-32)
 
 </details>
 

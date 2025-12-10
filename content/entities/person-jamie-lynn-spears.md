@@ -1,6 +1,6 @@
 ---
 title: "Jamie Lynn Spears"
-description: "Jamie Lynn Spears (People) - 1 mention"
+description: "Jamie Lynn Spears (People) - 2 mentions"
 id: "person-jamie-lynn-spears"
 type: "PERSON"
 ---
@@ -13,10 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
 
 **[00:06:16](/episodes/ep-7RLtGgkTh9o.md#ent-person-jamie-lynn-spears-t-00-06-14)**
 > "...story. So Lou Taylor became involved with Britney Spears in 2007 after she was hired to help manage Jamie Lynn Spears. And this was right around the time that Jamie got pregnant. Now, somehow—no one really knows. I me..."
+
+**[00:06:16](/episodes/ep-7RLtGgkTh9o.md#ent-person-jamie-lynn-spears-t-00-06-14)**
+> "... she was hired to help manage Jamie Lynn Spears."
 
 </details>
 
@@ -29,7 +32,7 @@ _Type: People_
 <summary>Sibling Of (1)</summary>
 
 - **[Britney Spears](/entities/person-britney-spears.md)**
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/timestamps/ep-7RLtGgkTh9o/t-00-06-40.md): "younger sister, Jamie Lynn"
+  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14): "younger sister, Jamie Lynn"
 
 </details>
 
@@ -37,7 +40,20 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Britney Spears](/entities/person-britney-spears.md)** sibling of this
-  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/timestamps/ep-7RLtGgkTh9o/t-00-06-40.md)
+  - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:06:40](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Jamie Lynn Spears (1)</strong></summary>
+
+<details>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1)</summary>
+
+- [00:06:16](/episodes/ep-7RLtGgkTh9o.md#t-00-06-14) (Claim) **Brett Cooper** (via quoted speech): ["Lou Taylor became involved with Britney Spears in 2007 after she was h..."](/statements/statement-7d0fcf657936.md)
+  - Also about: [Lou Taylor](/entities/person-lou-taylor.md), [Britney Spears](/entities/person-britney-spears.md)
 
 </details>
 

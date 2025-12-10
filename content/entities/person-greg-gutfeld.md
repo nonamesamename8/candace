@@ -1,6 +1,6 @@
 ---
 title: "Greg Gutfeld"
-description: "Greg Gutfeld (People) - 4 mentions"
+description: "Greg Gutfeld (People) - 9 mentions"
 id: "person-greg-gutfeld"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (4 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (9 mentions)</summary>
 
 **[00:25:28](/episodes/ep-ZAuuSq_j2_w.md#ent-person-greg-gutfeld-t-00-25-13)**
 > "...en Shapiro) is trying his luck at humor as well. Regarding my assassination attempt, he appeared on Greg Gutfeld's show, and he decided to promote his appearance with a little jab. Take a listen to Ben (Ben Shapi..."
@@ -27,6 +27,21 @@ _Type: People_
 **[00:26:06](/episodes/ep-ZAuuSq_j2_w.md#ent-person-greg-gutfeld-t-00-25-52)**
 > ".... So long as it comes through in the context of humor, you know—all is fair in love and laughs. And Greg Gutfeld, after all, is a comedian. So they're not being tribal at all. They're just being funny. Remember, ..."
 
+**[00:25:28](/episodes/ep-ZAuuSq_j2_w.md#ent-person-greg-gutfeld-t-00-25-13)**
+> "...ation attempt, he appeared on Greg Gutfeld's show, and he decided to promote his appearance wi..."
+
+**[00:25:39](/episodes/ep-ZAuuSq_j2_w.md#ent-person-greg-gutfeld-t-00-25-13)**
+> "...Clip: Ben Shapiro speaking on Greg Gutfeld’s show)"
+
+**[00:25:41](/episodes/ep-ZAuuSq_j2_w.md#ent-person-greg-gutfeld-t-00-25-41)**
+> "...s you can see, I'm sitting in Greg Gutfeld's seat."
+
+**[00:26:06](/episodes/ep-ZAuuSq_j2_w.md#ent-person-greg-gutfeld-t-00-25-52)**
+> "And Greg Gutfeld, after all, is a comedian."
+
+**[00:25:28](/episodes/ep-ZAuuSq_j2_w.md#ent-person-greg-gutfeld-t-00-25-13)**
+> "Regarding my assassination attempt, he appeared on Greg Gutfeld's show, and he decided to promote his appearance with a little jab."
+
 </details>
 
 </details>
@@ -35,5 +50,18 @@ _Type: People_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Greg Gutfeld (1)</strong></summary>
+
+<details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1)</summary>
+
+- [00:25:45](/episodes/ep-ZAuuSq_j2_w.md#t-00-25-41) (Opinion) **Ben Shapiro** (via quoted speech): ["I called French intelligence, and something may or may not have happen..."](/statements/statement-52293953468a.md)
+  - Also about: [France](/entities/gpe-france.md)
+
+</details>
 
 </details>

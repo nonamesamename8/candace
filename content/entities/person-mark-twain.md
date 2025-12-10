@@ -1,6 +1,6 @@
 ---
 title: "Mark Twain"
-description: "Mark Twain (People) - 0 mentions"
+description: "Mark Twain (People) - 1 mention"
 id: "person-mark-twain"
 type: "PERSON"
 ---
@@ -12,7 +12,13 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
 
-_No mentions recorded._
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:54:17](/episodes/ep-yAIb-NuUh_U.md#ent-person-mark-twain-t-00-54-14)**
+> "Yep, Mark Twain—that is very true."
+
+</details>
 
 </details>
 

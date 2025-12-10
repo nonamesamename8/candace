@@ -14,7 +14,7 @@ date: "2025-12-05"
 ## Mentioned In
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:44:20](/episodes/ep-ZAuuSq_j2_w.md#t-00-44-20) 
+**Timestamp:** [00:44:20](/episodes/ep-ZAuuSq_j2_w.md#t-00-43-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2660);return false;">▶️ Play</a>
 
 > dryness, no cracking—just rich moisture that lasts all day.

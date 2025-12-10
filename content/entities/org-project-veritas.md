@@ -1,6 +1,6 @@
 ---
 title: "Project Veritas"
-description: "Project Veritas (Organizations) - 3 mentions"
+description: "Project Veritas (Organizations) - 6 mentions"
 id: "org-project-veritas"
 type: "ORG"
 ---
@@ -13,7 +13,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (4 mentions)</summary>
 
 **[00:09:07](/episodes/ep-YFmRH8p5lt0.md#ent-org-project-veritas-t-00-08-56)**
 > "...es O'Keefe were involved with Turning Point USA. James O'Keefe was the founder and the president of Project Veritas, and he and Charlie (Charlie Kirk) and myself all met at the same time in November at that David Ho..."
@@ -21,13 +21,22 @@ _Type: Organizations_
 **[00:09:34](/episodes/ep-YFmRH8p5lt0.md#ent-org-project-veritas-t-00-08-56)**
 > "... there's this like hostile takeover— what appears to the public, at least, is a hostile takeover of Project Veritas. James O'Keefe gets pushed out. He's ousted from the board of his own company. And Charlie (Charlie..."
 
+**[00:09:07](/episodes/ep-YFmRH8p5lt0.md#ent-org-project-veritas-t-00-08-56)**
+> "... founder and the president of Project Veritas, and he and Charlie (Charlie Kirk) and myself all..."
+
+**[00:09:34](/episodes/ep-YFmRH8p5lt0.md#ent-org-project-veritas-t-00-08-56)**
+> "...ast, is a hostile takeover of Project Veritas."
+
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
 
 **[00:38:14](/episodes/ep-his-JBjlkh8.md#ent-org-project-veritas-t-00-37-59)**
 > "...ependent, more trusted journalists. And some of them are, okay. James O'Keefe—obviously formerly of Project Veritas—he's very much trusted. Matt Gaetz—I like him very much. But some of the people that they let in ar..."
+
+**[00:38:14](/episodes/ep-his-JBjlkh8.md#ent-org-project-veritas-t-00-37-59)**
+> "...O'Keefe—obviously formerly of Project Veritas—he's very much trusted."
 
 </details>
 
@@ -40,7 +49,7 @@ _Type: Organizations_
 <summary>Fired By (1)</summary>
 
 - **[James O'Keefe](/entities/person-james-o-keefe.md)**
-  - [ @ 00:09:38](/timestamps//t-00-09-38.md): "James O'Keefe gets pushed out. He's ousted from the board of his own company"
+  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:09:38](/episodes/ep-YFmRH8p5lt0.md#t-00-08-56): "James O'Keefe gets pushed out. He's ousted from the board of his own company"
 
 </details>
 
@@ -48,7 +57,7 @@ _Type: Organizations_
 <summary>Founded By (1)</summary>
 
 - **[James O'Keefe](/entities/person-james-o-keefe.md)**
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:09:07](/timestamps/ep-YFmRH8p5lt0/t-00-09-07.md): "James O'Keefe was the founder and the president of Project Veritas"
+  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:09:07](/episodes/ep-YFmRH8p5lt0.md#t-00-08-56): "James O'Keefe was the founder and the president of Project Veritas"
 
 </details>
 
@@ -56,7 +65,7 @@ _Type: Organizations_
 <summary>Supported By (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-  - [ @ 00:09:42](/timestamps//t-00-09-42.md): "Charlie publicly announces his support for what he perceives—like the rest of the world perceived—was a bit of a hostile takeover"
+  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:09:42](/episodes/ep-YFmRH8p5lt0.md#t-00-09-40): "Charlie publicly announces his support for what he perceives—like the rest of the world perceived—was a bit of a hostile takeover"
 
 </details>
 
@@ -64,14 +73,14 @@ _Type: Organizations_
 <summary>Referenced By (3)</summary>
 
 - **[James O'Keefe](/entities/person-james-o-keefe.md)** fired this
-  - [ @ 00:09:38](/timestamps//t-00-09-38.md)
+  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:09:38](/episodes/ep-YFmRH8p5lt0.md#t-00-08-56)
 
 - **[James O'Keefe](/entities/person-james-o-keefe.md)** founded this
-  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:09:07](/timestamps/ep-YFmRH8p5lt0/t-00-09-07.md)
-  - [ @ 00:09:30](/timestamps//t-00-09-30.md)
+  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:09:07](/episodes/ep-YFmRH8p5lt0.md#t-00-08-56)
+  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:09:30](/episodes/ep-YFmRH8p5lt0.md#t-00-08-56)
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** supporter of this
-  - [ @ 00:09:42](/timestamps//t-00-09-42.md)
+  - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:09:42](/episodes/ep-YFmRH8p5lt0.md#t-00-09-40)
 
 </details>
 

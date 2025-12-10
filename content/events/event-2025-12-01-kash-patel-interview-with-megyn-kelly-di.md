@@ -14,7 +14,7 @@ date: "2025-12-01"
 ## Mentioned In
 
 **Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
-**Timestamp:** [00:07:19](/episodes/ep-Kmt6HgRjckU.md#t-00-07-19) 
+**Timestamp:** [00:07:19](/episodes/ep-Kmt6HgRjckU.md#t-00-07-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(439);return false;">▶️ Play</a>
 
 > Megyn asked him directly about the Macron couple and about the allegation that they attempted to

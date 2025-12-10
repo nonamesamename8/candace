@@ -1,6 +1,6 @@
 ---
 title: "Costa Rica"
-description: "Costa Rica (Places) - 0 mentions"
+description: "Costa Rica (Places) - 1 mention"
 id: "gpe-costa-rica"
 type: "GPE"
 ---
@@ -12,7 +12,13 @@ _Type: Places_
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
 
-_No mentions recorded._
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:25:03](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-costa-rica-t-00-24-32)**
+> "...en in Uganda, in Cambodia, in Costa Rica, in Guatemala."
+
+</details>
 
 </details>
 

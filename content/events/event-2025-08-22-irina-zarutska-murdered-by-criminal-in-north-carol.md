@@ -32,7 +32,7 @@ date: "2025-08-22"
 ### 3. To My Friend, Charlie Kirk.
 
 **Episode:** [To My Friend, Charlie Kirk.](/episodes/ep-_dRaEO47-co.md)
-**Timestamp:** [00:12:27](/episodes/ep-_dRaEO47-co.md#t-00-12-27) 
+**Timestamp:** [00:12:27](/episodes/ep-_dRaEO47-co.md#t-00-12-10) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(747);return false;">▶️ Play</a>
 
 > y a hurricane. I think we were in North Carolina, South Carolina at the time. I don't remember, but all the flights got canceled, and we needed to be in D.C. by mor

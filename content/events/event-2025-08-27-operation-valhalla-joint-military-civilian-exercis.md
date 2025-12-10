@@ -24,7 +24,7 @@ date: "2025-08-27"
 ### 2. Operation: “See you in Valhalla, Charlie”. | Candace Ep 270
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
-**Timestamp:** [00:06:55](/episodes/ep-mKXdKV-OBog.md#t-00-06-55) 
+**Timestamp:** [00:06:55](/episodes/ep-mKXdKV-OBog.md#t-00-06-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(415);return false;">▶️ Play</a>
 
 > off of Operation Valhalla, a training exercise in Minnesota from the 24th to the 29th of August, where the security forces practice long-range shooting practic
@@ -40,7 +40,7 @@ date: "2025-08-27"
 ### 4. Operation: “See you in Valhalla, Charlie”. | Candace Ep 270
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
-**Timestamp:** [00:06:40](/episodes/ep-mKXdKV-OBog.md#t-00-06-40) 
+**Timestamp:** [00:06:40](/episodes/ep-mKXdKV-OBog.md#t-00-06-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(400);return false;">▶️ Play</a>
 
 > civilian security force that had just come off of Operation Valhalla, a training exercise in Minnesota from the 24th to the 29th of August, where the security forces pr
@@ -48,7 +48,7 @@ date: "2025-08-27"
 ### 5. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:23:52](/episodes/ep-a-e7HC6SeK8.md#t-00-23-52) 
+**Timestamp:** [00:23:52](/episodes/ep-a-e7HC6SeK8.md#t-00-23-23) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1432);return false;">▶️ Play</a>
 
 > ompleted their training. And on August 24th–27th, Operation Valhalla takes place between civilians and military men in Minnesota at Camp Ripley. Then we have the first
@@ -56,7 +56,7 @@ date: "2025-08-27"
 ### 6. Operation: “See you in Valhalla, Charlie”. | Candace Ep 270
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
-**Timestamp:** [00:07:43](/episodes/ep-mKXdKV-OBog.md#t-00-07-43) 
+**Timestamp:** [00:07:43](/episodes/ep-mKXdKV-OBog.md#t-00-07-13) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(463);return false;">▶️ Play</a>
 
 > t they were training for, okay? So this is on the Minot Air Force Base website. It says Operation Valhalla Strike was a week-long training where the 891st Squadron from M
@@ -64,7 +64,7 @@ date: "2025-08-27"
 ### 7. Operation: “See you in Valhalla, Charlie”. | Candace Ep 270
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
-**Timestamp:** [00:08:36](/episodes/ep-mKXdKV-OBog.md#t-00-08-36) 
+**Timestamp:** [00:08:36](/episodes/ep-mKXdKV-OBog.md#t-00-08-31) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(516);return false;">▶️ Play</a>
 
 > s told about what they were training for, okay? So this is on the Minot Air Force Base website. It says Operation Valhalla Strike was a week-long training where the 891st Squadron from Minot Air Force
@@ -80,7 +80,7 @@ date: "2025-08-27"
 ### 9. Operation: “See you in Valhalla, Charlie”. | Candace Ep 270
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
-**Timestamp:** [00:06:34](/episodes/ep-mKXdKV-OBog.md#t-00-06-34) 
+**Timestamp:** [00:06:34](/episodes/ep-mKXdKV-OBog.md#t-00-06-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(394);return false;">▶️ Play</a>
 
 > ong other tenants. That Air Force base is home to the 891st Missile Security Forces Squadron, a combined military and civilian security force that had just come off of Operation Valhalla, a training e

@@ -14,7 +14,7 @@ date: "2025-09-10"
 ## Mentioned In
 
 **Episode:** [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md)
-**Timestamp:** [00:07:53](/episodes/ep-LATnak75Si0.md#t-00-07-53) 
+**Timestamp:** [00:07:53](/episodes/ep-LATnak75Si0.md#t-00-07-48) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(473);return false;">▶️ Play</a>
 
 > The fact that Charlie was slated to speak in Utah on September 10th

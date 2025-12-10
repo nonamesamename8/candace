@@ -14,7 +14,7 @@ date: "2025-09-04"
 ## Mentioned In
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:04:04](/episodes/ep-581dILVcEE4.md#t-00-04-04) 
+**Timestamp:** [00:04:04](/episodes/ep-581dILVcEE4.md#t-00-03-33) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(244);return false;">▶️ Play</a>
 
 > referring to SU-BTT—landed in Utah six days before Charlie's

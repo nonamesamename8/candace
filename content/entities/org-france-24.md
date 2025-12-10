@@ -1,6 +1,6 @@
 ---
 title: "France 24"
-description: "France 24 (Organizations) - 1 mention"
+description: "France 24 (Organizations) - 2 mentions"
 id: "org-france-24"
 type: "ORG"
 ---
@@ -13,10 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
 **[00:20:07](/episodes/ep-tB5SXXmd9vU.md#ent-org-france-24-t-00-19-45)**
 > "...e French government. Yes-or-no questions are not their thing. Elsewhere in the article, and this is France 24 that reported this, it tells us that, quote, "The Ministry of the Armed Forces confirms that a trai..."
+
+**[00:20:07](/episodes/ep-tB5SXXmd9vU.md#ent-org-france-24-t-00-19-45)**
+> "...e in the article, and this is France 24 that reported this, it tells us that, quote, "The..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Gernot Omer"
-description: "Gernot Omer (People) - 1 mention"
+description: "Gernot Omer (People) - 2 mentions"
 id: "person-gernot-omer"
 type: "PERSON"
 ---
@@ -13,10 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
 
 **[00:10:16](/episodes/ep-YA1FxrDWNIo.md#ent-person-gernot-omer-t-00-10-16)**
 > ".... I mean, what? Austrian? What's this Austrian guy doing? How did we get here? Anyways, his name is Gernot Omer, and we were able to find that his face matched with photos from a blog post that was written in Ge..."
+
+**[00:10:16](/episodes/ep-YA1FxrDWNIo.md#ent-person-gernot-omer-t-00-10-16)**
+> "Anyways, his name is Gernot Omer, and we were able"
 
 </details>
 
@@ -29,49 +32,53 @@ _Type: People_
 <summary>Lives In (1)</summary>
 
 - **[Utah](/entities/gpe-utah.md)**
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:29](/timestamps/ep-YA1FxrDWNIo/t-00-11-29.md): "Very recently, he moved to Utah"
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:11](/timestamps/ep-YA1FxrDWNIo/t-00-00-11.md): "Very recently, he moved to Utah"
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:29](/episodes/ep-YA1FxrDWNIo.md#t-00-11-12): "Very recently, he moved to Utah"
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:11](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): "Very recently, he moved to Utah"
 
 </details>
 
 <details>
-<summary>Works For (4)</summary>
+<summary>Works For (2)</summary>
 
 - **[BearingPoint](/entities/org-bearingpoint.md)**
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:12](/timestamps/ep-YA1FxrDWNIo/t-00-11-12.md): "introduced as one of their software development teams."
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:10](/timestamps/ep-YA1FxrDWNIo/t-00-00-10.md): "his face also matched up in a YouTube video for a company called BearingPoint, where he is seen... as one of their software development teams"
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:12](/episodes/ep-YA1FxrDWNIo.md#t-00-10-52): "introduced as one of their software development teams."
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:10](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): "his face also matched up in a YouTube video for a company called BearingPoint, where he is seen... as one of their software development teams"
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:10:52](/episodes/ep-YA1FxrDWNIo.md#t-00-10-16): "We were able to find his face also matched up in a YouTube video for a company called BearingPoint, where he is seen with a group of people and is introduced as one of their software development teams"
 
 - **[JPMorgan Chase](/entities/org-jpmorgan-chase.md)**
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:37](/timestamps/ep-YA1FxrDWNIo/t-00-11-37.md): "to become a software engineer for JPMorgan Chase."
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:11](/timestamps/ep-YA1FxrDWNIo/t-00-00-11.md): "he moved to Utah to become a software engineer for JPMorgan Chase."
-
-- **[JPMorgan Chase](/entities/org-jpmorgan-chase.md)**
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:37](/timestamps/ep-YA1FxrDWNIo/t-00-11-37.md): "to become a software engineer for JPMorgan Chase."
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:11](/timestamps/ep-YA1FxrDWNIo/t-00-00-11.md): "he moved to Utah to become a software engineer for JPMorgan Chase."
-  - [ @ 00:11:33](/timestamps//t-00-11-33.md): "In May of 2024, he moved to Utah to become a software engineer for JPMorgan Chase"
-
-- **[BearingPoint](/entities/org-bearingpoint.md)**
-  - [ @ 00:10:52](/timestamps//t-00-10-52.md): "We were able to find his face also matched up in a YouTube video for a company called BearingPoint, where he is seen with a group of people and is introduced as one of their software development teams"
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:37](/episodes/ep-YA1FxrDWNIo.md#t-00-11-29): "to become a software engineer for JPMorgan Chase."
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:11](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): "he moved to Utah to become a software engineer for JPMorgan Chase."
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:33](/episodes/ep-YA1FxrDWNIo.md#t-00-11-29): "In May of 2024, he moved to Utah to become a software engineer for JPMorgan Chase"
 
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[BearingPoint](/entities/org-bearingpoint.md)** employs this
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:12](/timestamps/ep-YA1FxrDWNIo/t-00-11-12.md)
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:10](/timestamps/ep-YA1FxrDWNIo/t-00-00-10.md)
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:12](/episodes/ep-YA1FxrDWNIo.md#t-00-10-52)
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:10](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01)
 
 - **[JPMorgan Chase](/entities/org-jpmorgan-chase.md)** employs this
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:37](/timestamps/ep-YA1FxrDWNIo/t-00-11-37.md)
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:11](/timestamps/ep-YA1FxrDWNIo/t-00-00-11.md)
-
-- **[BearingPoint](/entities/org-bearingpoint.md)** employs this
-  - [ @ 00:10:52](/timestamps//t-00-10-52.md)
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:37](/episodes/ep-YA1FxrDWNIo.md#t-00-11-29)
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:11](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01)
 
 - **[Utah](/entities/gpe-utah.md)** residence of this
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:29](/timestamps/ep-YA1FxrDWNIo/t-00-11-29.md)
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:11](/timestamps/ep-YA1FxrDWNIo/t-00-00-11.md)
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:29](/episodes/ep-YA1FxrDWNIo.md#t-00-11-12)
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:11](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Gernot Omer (1)</strong></summary>
+
+<details>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1)</summary>
+
+- [00:10:00](/episodes/ep-YA1FxrDWNIo.md#t-00-09-32) (Claim) **Candace Owens**: ["One of the individuals in the photo with Shaner Broderick is Gernot Om..."](/statements/statement-d9365027ae64.md)
+  - Also about: [Shaner Broderick](/entities/person-shaner-broderick.md)
 
 </details>
 

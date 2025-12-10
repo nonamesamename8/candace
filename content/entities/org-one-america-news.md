@@ -1,6 +1,6 @@
 ---
 title: "One America News"
-description: "One America News (Organizations) - 1 mention"
+description: "One America News (Organizations) - 2 mentions"
 id: "org-one-america-news"
 type: "ORG"
 ---
@@ -13,10 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
 
 **[00:23:59](/episodes/ep-2Riv3I7D0Yk.md#ent-org-one-america-news-t-00-23-56)**
 > "...t Gaetz. Okay." Matt Gaetz was a former Republican congressman from Florida. Now he hosts a show on One America News. Matt Gaetz and I were very friendly for a while. He had me on his show back in March when my book ..."
+
+**[00:23:59](/episodes/ep-2Riv3I7D0Yk.md#ent-org-one-america-news-t-00-23-56)**
+> "Now he hosts a show on One America News."
 
 </details>
 
@@ -29,7 +32,7 @@ _Type: Organizations_
 <summary>Employs (1)</summary>
 
 - **[Matt Gaetz](/entities/person-matt-gaetz.md)**
-  - [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:24:01](/timestamps/ep-2Riv3I7D0Yk/t-00-24-01.md): "Now he hosts a show on One America News"
+  - [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:24:01](/episodes/ep-2Riv3I7D0Yk.md#t-00-23-56): "Now he hosts a show on One America News"
 
 </details>
 
@@ -37,7 +40,7 @@ _Type: Organizations_
 <summary>Referenced By (1)</summary>
 
 - **[Matt Gaetz](/entities/person-matt-gaetz.md)** works for this
-  - [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:24:01](/timestamps/ep-2Riv3I7D0Yk/t-00-24-01.md)
+  - [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 @ 00:24:01](/episodes/ep-2Riv3I7D0Yk.md#t-00-23-56)
 
 </details>
 

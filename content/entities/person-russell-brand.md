@@ -1,6 +1,6 @@
 ---
 title: "Russell Brand"
-description: "Russell Brand (People) - 1 mention"
+description: "Russell Brand (People) - 2 mentions"
 id: "person-russell-brand"
 type: "PERSON"
 ---
@@ -13,10 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
 
 **[00:57:53](/episodes/ep-his-JBjlkh8.md#ent-person-russell-brand-t-00-57-46)**
 > "...h is guiding that movement— it's guiding that theology rather. I spoke about it more at length with Russell Brand on his show, so that should be coming out soon. But we have to become educated about where it stems..."
+
+**[00:57:53](/episodes/ep-his-JBjlkh8.md#ent-person-russell-brand-t-00-57-46)**
+> "... about it more at length with Russell Brand on his show, so that should be coming out soon. B..."
 
 </details>
 
@@ -29,7 +32,7 @@ _Type: People_
 <summary>Interviewed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:56](/timestamps/ep-his-JBjlkh8/t-00-03-56.md): "[00:57:53] I spoke about it more at length with Russell Brand on his show, so that should be coming out soon."
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:56](/episodes/ep-his-JBjlkh8.md#t-00-03-40): "[00:57:53] I spoke about it more at length with Russell Brand on his show, so that should be coming out soon."
 
 </details>
 
@@ -37,15 +40,8 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:56](/timestamps/ep-his-JBjlkh8/t-00-03-56.md)
+  - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:03:56](/episodes/ep-his-JBjlkh8.md#t-00-03-40)
 
 </details>
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Related Claims (1)</strong></summary>
-
-- ✅ **[Factual](/claims/claim-8475814af243.md):** Candace Owens appeared on Russell Brand's show to discuss evil indoctrination and theology
 
 </details>

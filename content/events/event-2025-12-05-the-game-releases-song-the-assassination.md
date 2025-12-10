@@ -14,7 +14,7 @@ date: "2025-12-05"
 ## Mentioned In
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
-**Timestamp:** [00:00:04](/episodes/ep-DqGNvi36ol8.md#t-00-00-04) 
+**Timestamp:** [00:00:04](/episodes/ep-DqGNvi36ol8.md#event-event-2025-12-05-the-game-releases-song-the-assassination-t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(4);return false;">▶️ Play</a>
 
 > the rapper, the game has dropped his song entitled The Assassination of Candace Owens

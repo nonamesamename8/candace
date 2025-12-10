@@ -1,6 +1,6 @@
 ---
 title: "Sara Zaafarani Zenzari"
-description: "Sara Zaafarani Zenzari (People) - 2 mentions"
+description: "Sara Zaafarani Zenzari (People) - 5 mentions"
 id: "person-sarah-zafrani"
 type: "PERSON"
 aliases:
@@ -18,13 +18,22 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (5 mentions)</summary>
 
 **[00:17:47](/episodes/ep-ZAuuSq_j2_w.md#ent-person-sarah-zafrani-t-00-17-47)**
 > "...al-Sisi that was aboard the jet on September 10th because he was photographed at a meeting with the Prime Minister of Tunisia, Sarah Zafrani—and it was in Egypt. We can also rule him out as having been the individual that was..."
 
 **[00:03:55](/episodes/ep-ZAuuSq_j2_w.md#ent-person-sarah-zafrani-t-00-17-47)**
 > "he was photographed at a meeting with the Prime Minister of Tunisia, Sarah Zafrani—and it was in Egypt."
+
+**[00:17:47](/episodes/ep-ZAuuSq_j2_w.md#ent-person-sarah-zafrani-t-00-17-47)**
+> "...graphed at a meeting with the Prime Minister of Tunisia, Sarah Zafrani—and it was in Egypt."
+
+**[00:17:47](/episodes/ep-ZAuuSq_j2_w.md#ent-person-sarah-zafrani-t-00-17-47)**
+> "...he Prime Minister of Tunisia, Sarah Zafrani—and it was in Egypt."
+
+**[00:17:55](/episodes/ep-ZAuuSq_j2_w.md#ent-person-sarah-zafrani-t-00-17-47)**
+> "We could actually officially rule out that it was President al-Sisi that was aboard the jet on September 10th because he was photographed at a meeting with the Prime Minister of Tunisia, Sarah Zafrani—and it was in Egypt."
 
 </details>
 
@@ -38,8 +47,14 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Related Claims (1)</strong></summary>
+<summary><strong class="section-title">Statements about Sara Zaafarani Zenzari (1)</strong></summary>
 
-- ⚠️ **[Factual](/claims/claim-282e491095d6.md):** it was President al-Sisi that was aboard the jet on September 10th because he was photographed at a ...
+<details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1)</summary>
+
+- [00:17:47](/episodes/ep-ZAuuSq_j2_w.md#t-00-17-12) (Claim) **Candace Owens**: ["President al-Sisi can be ruled out as being aboard the jet on Septembe..."](/statements/statement-7eb3c0a74fc0.md)
+  - Also about: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md)
+
+</details>
 
 </details>

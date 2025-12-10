@@ -24,7 +24,7 @@ date: "2025-01-15"
 ### 2. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:07:05](/episodes/ep-q7f8r-THr84.md#t-00-07-05) 
+**Timestamp:** [00:07:05](/episodes/ep-q7f8r-THr84.md#t-00-06-59) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(425);return false;">▶️ Play</a>
 
 > they keep signaling that to us. On September 11, 2025, when Tyler James Robinson surrendered to police at Washington County Sheriff's Office... That was

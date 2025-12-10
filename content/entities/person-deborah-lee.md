@@ -1,6 +1,6 @@
 ---
 title: "Deborah Lee"
-description: "Deborah Lee (People) - 2 mentions"
+description: "Deborah Lee (People) - 4 mentions"
 id: "person-deborah-lee"
 type: "PERSON"
 ---
@@ -13,13 +13,19 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (4 mentions)</summary>
 
 **[00:26:44](/episodes/ep-adJ4LNGp84I.md#ent-person-deborah-lee-t-00-26-38)**
 > "...onna beat out all of these independent voices who are winning because they're telling the truth? So Deborah Lee asked Benjamin Netanyahu specifically about Charlie (Charlie Kirk)'s assassination and the potentia..."
 
 **[00:27:05](/episodes/ep-adJ4LNGp84I.md#ent-person-deborah-lee-t-00-26-38)**
 > "...he died and it pissed me off. Okay. Take a listen to what Deborah asks. (Following question is from Deborah Lee to Benjamin Netanyahu.) SPEAKER_4: So something I would like to raise, which was actually my first ..."
+
+**[00:26:44](/episodes/ep-adJ4LNGp84I.md#ent-person-deborah-lee-t-00-26-38)**
+> "So Deborah Lee asked Benjamin Netanyahu specifically about Charl..."
+
+**[00:27:05](/episodes/ep-adJ4LNGp84I.md#ent-person-deborah-lee-t-00-26-38)**
+> ".... (Following question is from Deborah Lee to Benjamin Netanyahu.)"
 
 </details>
 

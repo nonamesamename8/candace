@@ -1,6 +1,6 @@
 ---
 title: "Algeria"
-description: "Algeria (Places) - 0 mentions"
+description: "Algeria (Places) - 1 mention"
 id: "gpe-algeria"
 type: "GPE"
 ---
@@ -12,7 +12,13 @@ _Type: Places_
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
 
-_No mentions recorded._
+<details>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
+
+**[00:14:30](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-algeria-t-00-14-05)**
+> "Pierre Falcone is born in Algeria."
+
+</details>
 
 </details>
 

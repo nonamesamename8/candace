@@ -24,7 +24,7 @@ date: "2025-09-10"
 ### 2. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:02:13](/episodes/ep-YA1FxrDWNIo.md#t-00-02-13) 
+**Timestamp:** [00:02:13](/episodes/ep-YA1FxrDWNIo.md#t-00-01-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(133);return false;">▶️ Play</a>
 
 > much, and his energy was weird, and the energy of Tiffany Barker was weird. And we were clear that's potentially just because, you know, he's a politician, an aspiring polit
@@ -32,7 +32,7 @@ date: "2025-09-10"
 ### 3. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
 
 **Episode:** [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md)
-**Timestamp:** [00:02:58](/episodes/ep-UBkFkg4UNY8.md#t-00-02-58) 
+**Timestamp:** [00:02:58](/episodes/ep-UBkFkg4UNY8.md#t-00-02-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(178);return false;">▶️ Play</a>
 
 > dental. Just to go back, we had already discussed Tiffany Barker and that early morning GMA interview—Good Morning America interview—that she did with her nieces. So I'm gon

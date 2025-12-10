@@ -1,6 +1,6 @@
 ---
 title: "Delaware"
-description: "Delaware (Places) - 80 mentions"
+description: "Delaware (Places) - 166 mentions"
 id: "gpe-delaware"
 type: "GPE"
 aliases:
@@ -17,15 +17,18 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1 mentions)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2 mentions)</summary>
 
 **[00:17:22](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-delaware-t-00-16-57)**
 > "...rlie Kirk) is?" The flights were majority clustered within five states: Kansas, Missouri, Nebraska, Delaware, and Utah. And it's a pattern that she believes is statistically not random. I'm telling you, this ..."
 
+**[00:17:22](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-delaware-t-00-16-57)**
+> "...: Kansas, Missouri, Nebraska, Delaware, and Utah."
+
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (17 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (35 mentions)</summary>
 
 **[00:00:33](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-00-00)**
 > "...military plane, which left Provo on the morning of Charlie (Charlie Kirk)'s assassination, doing in Delaware? Actually, we should figure that out. Welcome back to Candace (Candace Owens). There are so many el..."
@@ -78,18 +81,75 @@ _Type: Places_
 **[00:19:26](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-19-26)**
 > "...any sense. On November 13, 2022, SUBTT flies from Cairo to Paris to Wichita, Kansas, to Wilmington, Delaware, back to Cairo. That is already a four-legged two-continent hop that ends in Wilmington before goin..."
 
+**[00:00:33](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-00-00)**
+> "...rk)'s assassination, doing in Delaware?"
+
+**[00:01:48](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-01-26)**
+> "..., sometimes even for days, in Delaware—why would they do that?"
+
+**[00:02:16](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-02-04)**
+> "..., what goes on in Wilmington, Delaware, actually?"
+
+**[00:03:40](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-03-23)**
+> "...nd it's headed to Wilmington, Delaware."
+
+**[00:03:43](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-03-23)**
+> "It arrived in Wilmington, Delaware at 11:51 a.m. Eastern."
+
+**[00:04:06](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-04-06)**
+> "...ecided to stay in Wilmington, Delaware for a night until the following day."
+
+**[00:04:20](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-04-06)**
+> "..., what goes on in Wilmington, Delaware?"
+
+**[00:05:59](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-05-33)**
+> "...so many visits to Wilmington, Delaware out of all places.""
+
+**[00:06:48](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-06-15)**
+> "...r SUBTT came into Wilmington, Delaware.""
+
+**[00:10:15](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-10-15)**
+> "... 920 King Street, Wilmington, Delaware, 19801.""
+
+**[00:11:00](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-11-00)**
+> "...orth King Street, Wilmington, Delaware, 19801."
+
+**[00:11:24](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-11-00)**
+> "... list still shows Wilmington, Delaware."
+
+**[00:13:05](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-12-23)**
+> "And every Delaware outlet said the same thing."
+
+**[00:13:22](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-13-08)**
+> "The Delaware River and Bay Authority is the one that is making..."
+
+**[00:15:43](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-15-37)**
+> "...lic FBI address that's at 500 Delaware Avenue, Suite 300, which is just a bank tower, yo..."
+
+**[00:15:43](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-15-37)**
+> "...wer, you can confirm that 500 Delaware Ave is the borough's public-facing spot, but Goog..."
+
+**[00:18:21](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-18-04)**
+> "...nited States lands at a small Delaware airport under a French company maintenance pretex..."
+
+**[00:19:26](/episodes/ep-SKGUzGHymcI.md#ent-gpe-delaware-t-00-19-26)**
+> "...chita, Kansas, to Wilmington, Delaware, back to Cairo."
+
 </details>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (1 mentions)</summary>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
 
 **[00:17:59](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-delaware-t-00-17-41)**
 > "... this plane is here. Okay. Let's keep going. Okay. April 6th, it leaves, and it always goes through Delaware when it leaves and goes back to Cairo. Okay. Now I am just kind of putting down for you here again ..."
 
+**[00:17:59](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-delaware-t-00-17-41)**
+> "...s, and it always goes through Delaware when it leaves and goes back to Cairo."
+
 </details>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (7 mentions)</summary>
 
 **[00:13:56](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-delaware-t-00-13-44)**
 > "...n, but it did not go anywhere. And then of course, our now infamous yellow plane that carried on to Delaware—Wilmington, Delaware—that morning, and has seemingly panicked the world, right? I'm reminding you t..."
@@ -100,10 +160,22 @@ _Type: Places_
 **[00:14:47](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-delaware-t-00-14-25)**
 > "...as using is Walid Mahmood, okay? Walid Mahmood. So we now know that of the four people that flew to Delaware, someone flew using the name Walid Mahmood, okay? Here is where it's going to get interesting. And ..."
 
+**[00:13:56](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-delaware-t-00-13-44)**
+> "...llow plane that carried on to Delaware—Wilmington, Delaware—that morning, and has seemin..."
+
+**[00:13:56](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-delaware-t-00-13-44)**
+> "...ed on to Delaware—Wilmington, Delaware—that morning, and has seemingly panicked the worl..."
+
+**[00:14:06](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-delaware-t-00-13-44)**
+> "...hat that flight from Provo to Delaware on the yellow plane had only four people on board..."
+
+**[00:14:47](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-delaware-t-00-14-25)**
+> "... the four people that flew to Delaware, someone flew using the name Walid Mahmood, okay?"
+
 </details>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (11 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (23 mentions)</summary>
 
 **[00:04:57](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-04-57)**
 > "... which makes it kind of hilarious, right? Because our tip yesterday from that person in Wilmington, Delaware, was asserting that the FBI had these offices—these kind of hidden offices—maybe kind of in buildin..."
@@ -138,26 +210,68 @@ _Type: Places_
 **[00:33:21](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-32-45)**
 > "... very, very dark. It's too French, right? It's just too French. We just can't all be hanging out in Delaware. And there's one more thing that came in regarding Andrew Kolvet. A very close family friend of And..."
 
+**[00:04:57](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-04-57)**
+> "...om that person in Wilmington, Delaware, was asserting that the FBI had these offices—the..."
+
+**[00:05:19](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-04-57)**
+> "... flurry of tips coming out of Delaware."
+
+**[00:07:30](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-07-02)**
+> "...awyer made, and the courts in Delaware found that to be valid."
+
+**[00:09:15](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-09-06)**
+> "...nse because, as the people in Delaware are telling us, everything is DuPont."
+
+**[00:11:41](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-11-12)**
+> "...little squishy in Wilmington, Delaware."
+
+**[00:11:48](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-11-12)**
+> "...claustrophobic in Wilmington, Delaware—and I've never even been there, okay?"
+
+**[00:11:53](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-11-12)**
+> "...y the Wilmington Trust at 500 Delaware"
+
+**[00:12:41](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-12-37)**
+> "... having a registered agent in Delaware is—when you have an LLC, you're supposed to have ..."
+
+**[00:12:41](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-12-37)**
+> "...to choose between Wyoming and Delaware, sometimes Las Vegas, to form their own corporati..."
+
+**[00:13:00](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-12-37)**
+> "...ve LLCs, and I've got LLCs in Delaware, and I'm not—"
+
+**[00:15:57](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-15-27)**
+> "...y are we all just chilling in Delaware?"
+
+**[00:33:21](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-delaware-t-00-32-45)**
+> "...t can't all be hanging out in Delaware."
+
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
 
 **[00:49:40](/episodes/ep-his-JBjlkh8.md#ent-gpe-delaware-t-00-49-40)**
 > "...t like a six-day gap in Brigitte's schedule. And now, of course—especially as we have learned about Delaware and the DuPont-French connection, and the French Foreign Legion non-answer that we're getting, just..."
 
+**[00:49:40](/episodes/ep-his-JBjlkh8.md#ent-gpe-delaware-t-00-49-40)**
+> "...ally as we have learned about Delaware and the DuPont-French connection, and the French ..."
+
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
 **[00:16:16](/episodes/ep-iHav0PPzUz8.md#ent-gpe-delaware-t-00-15-42)**
 > "...owed you—I showed you—the plane left. They left on September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those p..."
 
+**[00:16:16](/episodes/ep-iHav0PPzUz8.md#ent-gpe-delaware-t-00-15-42)**
+> "...then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th."
+
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
 
 **[00:05:25](/episodes/ep-mKXdKV-OBog.md#ent-gpe-delaware-t-00-05-02)**
 > "...e morning of Charlie (Charlie Kirk)'s assassination—who flew from Provo and landed into Wilmington, Delaware, on the morning of Charlie (Charlie Kirk)'s assassination. It is a very important question that nee..."
@@ -165,10 +279,16 @@ _Type: Places_
 **[00:44:16](/episodes/ep-mKXdKV-OBog.md#ent-gpe-delaware-t-00-43-34)**
 > "...ay that lawsuits work is state by state; they have different laws. And so when we oddly got sued in Delaware, we have to—Noah then has to attach his license, meaning he's my lawyer on this case, but he has to..."
 
+**[00:05:25](/episodes/ep-mKXdKV-OBog.md#ent-gpe-delaware-t-00-05-02)**
+> "...o and landed into Wilmington, Delaware, on the morning of Charlie (Charlie Kirk)'s assas..."
+
+**[00:44:16](/episodes/ep-mKXdKV-OBog.md#ent-gpe-delaware-t-00-43-34)**
+> "... so when we oddly got sued in Delaware,"
+
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (23 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (48 mentions)</summary>
 
 **[00:00:34](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-00-01)**
 > "...ng they've told us is real. Plus, I don't think we can reasonably ignore that odd French company in Delaware. Now that our source proved to us that it certainly wasn't established to provide any maintenance t..."
@@ -239,10 +359,85 @@ _Type: Places_
 **[00:54:09](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-53-35)**
 > "...there in Delaware, where we know that Biden was living in Delaware. He lives in Delaware. He's from Delaware. But I have, I do not think that Trump would have been described as a dignitary. Certainly would no..."
 
+**[00:00:34](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-00-01)**
+> "...re that odd French company in Delaware."
+
+**[00:05:43](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-05-36)**
+> "... going to land in Wilmington, Delaware, not to get service."
+
+**[00:09:08](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-09-03)**
+> "...s inked a deal in Wilmington, Delaware, for a hangar."
+
+**[00:17:22](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-16-53)**
+> "...s that they are suing me in a Delaware court, right?"
+
+**[00:18:30](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-13)**
+> "...is lawsuit was being filed in Delaware."
+
+**[00:18:41](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-13)**
+> "...s inconvenient to litigate in Delaware because you're in Tennessee."
+
+**[00:18:45](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-13)**
+> "Your companies in Delaware do not defame anyone."
+
+**[00:18:51](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-13)**
+> "...e Macrons are not citizens of Delaware."
+
+**[00:18:54](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-13)**
+> "...hus, there's no connection to Delaware."
+
+**[00:18:58](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-58)**
+> "Like, what are we doing in Delaware?"
+
+**[00:18:59](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-58)**
+> "We should dismiss in Delaware and say that they have to file where you are—like..."
+
+**[00:19:06](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-18-58)**
+> "...and why this was happening in Delaware."
+
+**[00:22:01](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-21-44)**
+> "... it's gonna go to Wilmington, Delaware."
+
+**[00:22:04](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-21-44)**
+> "...t's gonna stay in Wilmington, Delaware, before departing on September 11th after Charlie..."
+
+**[00:24:22](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-23-52)**
+> "...lease a hangar in Wilmington, Delaware, for two years to paint planes ostensibly?"
+
+**[00:24:43](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-24-24)**
+> "...l making stops in Wilmington, Delaware, and there was no lease to that."
+
+**[00:29:44](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-29-11)**
+> "in Wilmington, Delaware, and we're shuttled over to 920 King? I think tha..."
+
+**[00:51:58](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-51-25)**
+> "...'s plane ever landed there in Delaware, where we know that Biden was living in Delaware...."
+
+**[00:51:58](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-51-25)**
+> "...know that Biden was living in Delaware.""
+
+**[00:52:00](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-51-25)**
+> "He lives in Delaware."
+
+**[00:52:03](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-51-25)**
+> "He's from Delaware."
+
+**[00:54:01](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-53-35)**
+> "...'s plane ever landed there in Delaware, where we know that Biden was living in Delaware."
+
+**[00:54:01](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-53-35)**
+> "...know that Biden was living in Delaware."
+
+**[00:54:08](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-53-35)**
+> "He lives in Delaware."
+
+**[00:54:09](/episodes/ep-sImMM04XdWY.md#ent-gpe-delaware-t-00-53-35)**
+> "He's from Delaware."
+
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (20 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (41 mentions)</summary>
 
 **[00:23:24](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-23-12)**
 > "...hem at UVU would not have been on my radar at all until we learned about that weird hangar lease in Delaware and we were trying to track the Egyptian plane, SU-BTT, our yellow plane, which departed on the mor..."
@@ -304,6 +499,69 @@ _Type: Places_
 **[00:54:37](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-54-28)**
 > "...just making sure that you're all having the same gut instinct as me of why the heck did they sue in Delaware? What is this never-before-seen lawsuit? It is a consequence from The Matrix for me discussing a mu..."
 
+**[00:23:24](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-23-12)**
+> "...ut that weird hangar lease in Delaware and we were trying to track the Egyptian plane, S..."
+
+**[00:23:42](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-23-42)**
+> "went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, wh..."
+
+**[00:23:42](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-23-42)**
+> "... planes, okay, in Wilmington, Delaware, a lease that is way too short for that, whatever..."
+
+**[00:24:24](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-24-24)**
+> "...th King Street in Wilmington, Delaware, a place that we learned and confirmed had three ..."
+
+**[00:24:54](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-24-24)**
+> "I explained this: Delaware has a particular legal stipulation that even if y..."
+
+**[00:25:43](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-25-43)**
+> "...ng the streets in Wilmington, Delaware since, like, before the Revolutionary War."
+
+**[00:26:00](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-25-43)**
+> "...in here regarding Wilmington, Delaware."
+
+**[00:30:58](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-25-43)**
+> "...id the FBI is actually at 500 Delaware Avenue, right?"
+
+**[00:31:08](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-25-43)**
+> "And 500 Delaware Avenue is a couple of blocks over."
+
+**[00:31:13](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-31-13)**
+> "Can you pull up 500 North Delaware?"
+
+**[00:31:26](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-31-13)**
+> "He says that 500 North Delaware Avenue is a cover, because guess what that buildi..."
+
+**[00:31:39](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-31-13)**
+> "In 1990, nearly all of lower Delaware branches of WSFS were sold to Wilmington Trust"
+
+**[00:32:22](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-31-13)**
+> "... law firm, MG+M, moved to 500 Delaware Avenue just a few months before Charlie (Charlie ..."
+
+**[00:38:51](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-38-43)**
+> "...in this hangar in Wilmington, Delaware,"
+
+**[00:41:05](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-40-44)**
+> "...go on, by the way—Wilmington, Delaware also being the hub for MKUltra is especially swee..."
+
+**[00:41:23](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-41-23)**
+> "Wilmington, Delaware, that congressional district. A bunch of trans su..."
+
+**[00:41:33](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-41-23)**
+> "...t what goes on in Wilmington, Delaware, but I think that's probably enough for right now..."
+
+**[00:43:50](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-43-28)**
+> "...ade me aware that Wilmington, Delaware is just very French."
+
+**[00:45:00](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-43-28)**
+> "...rams for kids, and Transition Delaware LLC, which offers counseling, etc.,"
+
+**[00:54:22](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-53-46)**
+> "in this corner of Wilmington, Delaware."
+
+**[00:54:37](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-delaware-t-00-54-28)**
+> "... why the heck did they sue in Delaware?"
+
 </details>
 
 </details>
@@ -315,30 +573,19 @@ _Type: Places_
 <summary>Location Of (1)</summary>
 
 - **[Wilmington](/entities/gpe-wilmington.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:24](/timestamps/ep-tB5SXXmd9vU/t-00-23-24.md): "...harlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French..."
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/timestamps/ep-tB5SXXmd9vU/t-00-23-42.md): "...harlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French..."
-  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:16:16](/timestamps/ep-iHav0PPzUz8/t-00-16-16.md): "... September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those p..."
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:24](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): "...harlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French..."
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12): "...harlie Kirk's (Charlie Kirk's) assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French..."
+  - [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 @ 00:16:16](/episodes/ep-iHav0PPzUz8.md#t-00-15-42): "... September 10th. It then laid over in Wilmington, Delaware, and departed back for Cairo on the 11th. I am telling you that when that plane left, okay, those p..."
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (1)</summary>
 
 - **[Wilmington](/entities/gpe-wilmington.md)** based in this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:24](/timestamps/ep-tB5SXXmd9vU/t-00-23-24.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/timestamps/ep-tB5SXXmd9vU/t-00-23-42.md)
-
-- **[Wilmington](/entities/gpe-wilmington.md)** based in this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:24](/timestamps/ep-tB5SXXmd9vU/t-00-23-24.md)
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/timestamps/ep-tB5SXXmd9vU/t-00-23-42.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:24](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-12)
 
 </details>
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Related Claims (1)</strong></summary>
-
-- ❓ **[Factual](/claims/claim-ea735ff2410c.md):** The flights were majority clustered within five states: Kansas, Missouri, Nebraska, Delaware, and Ut...
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Carrie Smith"
-description: "Carrie Smith (People) - 6 mentions"
+description: "Carrie Smith (People) - 13 mentions"
 id: "person-carrie-smith"
 type: "PERSON"
 aliases:
@@ -17,7 +17,21 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (3 mentions)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (3 mentions)</summary>
+
+**[00:27:39](/episodes/ep-DqGNvi36ol8.md#ent-person-carrie-smith-t-00-27-39)**
+> "When I learned by accident that his wife was there, his wife Carrie was there"
+
+**[00:27:39](/episodes/ep-DqGNvi36ol8.md#ent-person-carrie-smith-t-00-27-39)**
+> "... his wife was there, his wife Carrie was there, and she was standing by the bush, actu..."
+
+**[00:27:57](/episodes/ep-DqGNvi36ol8.md#ent-person-carrie-smith-t-00-27-39)**
+> "Where's Carrie?"
+
+</details>
+
+<details>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (7 mentions)</summary>
 
 **[00:44:20](/episodes/ep-YaZfwLQ7vrI.md#ent-person-carrie-smith-t-00-44-20)**
 > "... out who killed Charlie (Charlie Kirk) Kirk. That's all. I want to know who killed my friend. Well, Carrie Smith, who is the host of the podcast "Deprogrammed with Carrie Smith," says that she was formerly of a c..."
@@ -28,15 +42,27 @@ _Type: People_
 **[00:44:50](/episodes/ep-YaZfwLQ7vrI.md#ent-person-carrie-smith-t-00-44-50)**
 > "...ssassination, then you—you at home— are in a cult. Take it away, Carrie (Carrie Smith). *(Clip from Carrie Smith)* I do think it's a cult. I think she is exhibiting several cult tactics. She's demonstrating sever..."
 
+**[00:44:20](/episodes/ep-YaZfwLQ7vrI.md#ent-person-carrie-smith-t-00-44-20)**
+> "Well, Carrie Smith, who is the host of the podcast "Deprogrammed wit..."
+
+**[00:44:20](/episodes/ep-YaZfwLQ7vrI.md#ent-person-carrie-smith-t-00-44-20)**
+> "...he podcast "Deprogrammed with Carrie Smith," says that she was formerly of a cult mindset."
+
+**[00:44:48](/episodes/ep-YaZfwLQ7vrI.md#ent-person-carrie-smith-t-00-44-20)**
+> "Take it away, Carrie (Carrie Smith)."
+
+**[00:44:50](/episodes/ep-YaZfwLQ7vrI.md#ent-person-carrie-smith-t-00-44-50)**
+> "*(Clip from Carrie Smith)* I do think it's a cult."
+
 </details>
 
 <details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
-**[00:55:34](/episodes/ep-iHav0PPzUz8.md#t-00-55-34)**
+**[00:55:34](/episodes/ep-iHav0PPzUz8.md#t-00-55-12)**
 > "... say that, right? And then there's the other element of who actually killed Charlie (Charlie Kirk). Carrie Jean writes: "Charlie (Charlie Kirk) saw you as his David. And one Samuel: Jonathan loved David lik..."
 
-**[00:55:54](/episodes/ep-iHav0PPzUz8.md#t-00-55-54)**
+**[00:55:54](/episodes/ep-iHav0PPzUz8.md#t-00-55-12)**
 > "... think you might have been the person that wrote me the email yesterday. I can't remember if it was Carrie. Obsessed with sports rights: Egypt's tail numbers SUBND and SUBTT were at peace 2025. What is that..."
 
 </details>
@@ -44,7 +70,7 @@ _Type: People_
 <details>
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1 mentions)</summary>
 
-**[00:14:52](/episodes/ep-sreYYcID-QY.md#t-00-14-52)**
+**[00:14:52](/episodes/ep-sreYYcID-QY.md#t-00-14-12)**
 > "...n just that one house on the street with somebody else named Samuel Steele, but Samuel and his wife Carrie are the ones that own the house that gave the footage, not Erwin. But Erwin is saying that he lives..."
 
 </details>

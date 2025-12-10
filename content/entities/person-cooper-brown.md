@@ -1,6 +1,6 @@
 ---
 title: "Cooper Brown"
-description: "Cooper Brown (People) - 5 mentions"
+description: "Cooper Brown (People) - 10 mentions"
 id: "person-cooper-brown"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (5 mentions)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (10 mentions)</summary>
 
 **[00:13:01](/episodes/ep-pc3pxRyNFZk.md#ent-person-cooper-brown-t-00-12-44)**
 > "... shot rang out. Take a listen to what he told Jesse Watters (Jesse Watters) on the night of. (Clip: Cooper Brown) Cooper Brown was an event volunteer who was just feet away from Charlie (Charlie Kirk) when he got..."
@@ -30,6 +30,21 @@ _Type: People_
 **[00:17:24](/episodes/ep-pc3pxRyNFZk.md#ent-person-cooper-brown-t-00-17-22)**
 > "...t know, but I'm going to find out, so... If you went to Southern New Hampshire University with this Cooper Brown and you majored with him in politics and you can provide some insight, I'd like to hear from you. I..."
 
+**[00:13:01](/episodes/ep-pc3pxRyNFZk.md#ent-person-cooper-brown-t-00-12-44)**
+> "...ters) on the night of. (Clip: Cooper Brown)"
+
+**[00:13:06](/episodes/ep-pc3pxRyNFZk.md#ent-person-cooper-brown-t-00-12-44)**
+> "Cooper Brown was an event volunteer who was just feet away fro..."
+
+**[00:14:31](/episodes/ep-pc3pxRyNFZk.md#ent-person-cooper-brown-t-00-14-05)**
+> "... we do, let's roll it. (Clip: Cooper Brown)"
+
+**[00:15:16](/episodes/ep-pc3pxRyNFZk.md#ent-person-cooper-brown-t-00-14-36)**
+> "Couple of things about Cooper Brown that to me is a bit of a mystery at this moment."
+
+**[00:17:24](/episodes/ep-pc3pxRyNFZk.md#ent-person-cooper-brown-t-00-17-22)**
+> "...ampshire University with this Cooper Brown and you majored with him in politics and you can ..."
+
 </details>
 
 </details>
@@ -41,7 +56,7 @@ _Type: People_
 <summary>Works For (1)</summary>
 
 - **[Leadership Institute](/entities/org-leadership-institute.md)**
-  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:13:20](/timestamps/ep-pc3pxRyNFZk/t-00-13-20.md): "So I work for an organization called Leadership Institute."
+  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:13:20](/episodes/ep-pc3pxRyNFZk.md#t-00-13-12): "So I work for an organization called Leadership Institute."
 
 </details>
 
@@ -49,7 +64,19 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Leadership Institute](/entities/org-leadership-institute.md)** employs this
-  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:13:20](/timestamps/ep-pc3pxRyNFZk/t-00-13-20.md)
+  - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:13:20](/episodes/ep-pc3pxRyNFZk.md#t-00-13-12)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Cooper Brown (1)</strong></summary>
+
+<details>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1)</summary>
+
+- [00:11:36](/episodes/ep-pc3pxRyNFZk.md#t-00-11-28) (Claim) **Candace Owens**: ["Cooper Brown is not a Turning Point USA employee, not a UVU student, a..."](/statements/statement-4ccac6921223.md)
 
 </details>
 

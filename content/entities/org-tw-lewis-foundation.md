@@ -32,8 +32,8 @@ _Type: Organizations_
 <summary>Affiliated With (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:28:18](/timestamps/ep-SKGUzGHymcI/t-00-28-18.md): "Turning Point USA is featured on T.W. Lewis's foundation website. They are partners. They have given to Turning Point USA"
-  - [ @ 00:20:40](/timestamps//t-00-20-40.md): "Turning Point USA is featured on T.W. Lewis's foundation website as someone that they fund"
+  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:28:18](/episodes/ep-SKGUzGHymcI.md#t-00-27-51): "Turning Point USA is featured on T.W. Lewis's foundation website. They are partners. They have given to Turning Point USA"
+  - [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 @ 00:20:40](/episodes/ep-581dILVcEE4.md#t-00-20-39): "Turning Point USA is featured on T.W. Lewis's foundation website as someone that they fund"
 
 </details>
 
@@ -48,7 +48,7 @@ _Type: Organizations_
 <summary>Referenced By (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
-  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:28:18](/timestamps/ep-SKGUzGHymcI/t-00-28-18.md)
+  - [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 @ 00:28:18](/episodes/ep-SKGUzGHymcI.md#t-00-27-51)
 
 - **[N560TW](/entities/work-n560tw.md)** owned by this
 
@@ -57,8 +57,14 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Related Claims (1)</strong></summary>
+<summary><strong class="section-title">Statements about T.W. Lewis Foundation (1)</strong></summary>
 
-- ❓ **[Factual](/claims/claim-c48e68bbbf16.md):** T.W. Lewis Foundation plane departed Scottsdale at 8 AM and landed in Provo at 10 AM local time on t...
+<details>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
+
+- [00:20:20](/episodes/ep-581dILVcEE4.md#t-00-19-55) (Claim) **Candace Owens**: ["A plane owned by T.W. Lewis Foundation, a Turning Point USA donor, dep..."](/statements/statement-fe34067004e8.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Provo](/entities/gpe-provo.md)
+
+</details>
 
 </details>

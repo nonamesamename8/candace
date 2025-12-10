@@ -1,6 +1,6 @@
 ---
 title: "end of May"
-description: "end of May (Dates) - 2 mentions"
+description: "end of May (Dates) - 4 mentions"
 id: "date-end-of-may"
 type: "DATE"
 ---
@@ -13,13 +13,19 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (4 mentions)</summary>
 
 **[00:15:51](/episodes/ep-ZAuuSq_j2_w.md#ent-date-end-of-may-t-00-15-51)**
 > "...arlie (Charlie Kirk)'s assassination, but we now have a person that was on that purple plane at the end of May, and then he is going to be on that yellow plane again on the day of Charlie (Charlie Kirk)'s assas..."
 
 **[00:18:57](/episodes/ep-ZAuuSq_j2_w.md#ent-date-end-of-may-t-00-18-21)**
 > "...gain, maybe Walid is the pilot. That could make sense. But what was he or she doing in Provo at the end of May and into early June? These are questions—and honestly concerns—that shouldn't be expressed by me. I..."
+
+**[00:15:51](/episodes/ep-ZAuuSq_j2_w.md#ent-date-end-of-may-t-00-15-51)**
+> "at the end of May, and then he is going to be on that yellow plane ..."
+
+**[00:18:57](/episodes/ep-ZAuuSq_j2_w.md#ent-date-end-of-may-t-00-18-21)**
+> "... or she doing in Provo at the end of May and into early June?"
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Alexandria, Virginia"
-description: "Alexandria, Virginia (Places) - 1 mention"
+description: "Alexandria, Virginia (Places) - 2 mentions"
 id: "gpe-alexandria-virginia"
 type: "GPE"
 ---
@@ -13,10 +13,13 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
 
 **[00:10:44](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-alexandria-virginia-t-00-10-09)**
 > "...ged person who dropped off these pipe bombs, worked in Capitol Police Campus Security. She lives in Alexandria, Virginia. She is apparently now under the watch of law enforcement officers because the Blaze News editor-in..."
+
+**[00:10:44](/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-alexandria-virginia-t-00-10-09)**
+> "She lives in Alexandria, Virginia."
 
 </details>
 
@@ -29,7 +32,7 @@ _Type: Places_
 <summary>Residence Of (1)</summary>
 
 - **[Shawna Rae Kirkhoff](/entities/person-shawna-rae-kirkhoff.md)**
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:10:46](/timestamps/ep-YaZfwLQ7vrI/t-00-10-46.md): "She lives in Alexandria, Virginia"
+  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:10:46](/episodes/ep-YaZfwLQ7vrI.md#t-00-10-09): "She lives in Alexandria, Virginia"
 
 </details>
 
@@ -37,7 +40,7 @@ _Type: Places_
 <summary>Referenced By (1)</summary>
 
 - **[Shawna Rae Kirkhoff](/entities/person-shawna-rae-kirkhoff.md)** lives in this
-  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:10:46](/timestamps/ep-YaZfwLQ7vrI/t-00-10-46.md)
+  - [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 @ 00:10:46](/episodes/ep-YaZfwLQ7vrI.md#t-00-10-09)
 
 </details>
 

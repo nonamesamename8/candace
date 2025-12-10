@@ -1,6 +1,6 @@
 ---
 title: "The Game"
-description: "The Game (People) - 5 mentions"
+description: "The Game (People) - 18 mentions"
 id: "person-the-game"
 type: "PERSON"
 ---
@@ -13,15 +13,30 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (6 mentions)</summary>
 
 **[00:00:04](/episodes/ep-DqGNvi36ol8.md#ent-person-the-game-t-00-00-00)**
 > "The rapper The Game dropped song The Assassination of Candace Owens"
 
+**[00:00:04](/episodes/ep-DqGNvi36ol8.md#ent-person-the-game-t-00-00-00)**
+> "...t excited because the rapper, the game has dropped his song entitled The Assassination o..."
+
+**[00:34:19](/episodes/ep-DqGNvi36ol8.md#ent-person-the-game-t-00-33-47)**
+> "...ays, you guys, in other news, The Game dropped his album, his mixtape, with the song, Th..."
+
+**[00:39:43](/episodes/ep-DqGNvi36ol8.md#ent-person-the-game-t-00-39-15)**
+> "...rializing him in that song to the game."
+
+**[00:43:03](/episodes/ep-DqGNvi36ol8.md#ent-person-the-game-t-00-42-55)**
+> "I'm actually going to get the game to sign it for me."
+
+**[00:44:10](/episodes/ep-DqGNvi36ol8.md#ent-person-the-game-t-00-43-37)**
+> "... said, did I collaborate with the game to do the song?"
+
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (4 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (12 mentions)</summary>
 
 **[00:01:00](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-00-44)**
 > "...those things. So major, major win. I am excited. Also, later on in the show, what I have for you is The Game, whose rapper is releasing a song that is entitled "The Assassination of Candace Owens." And I have..."
@@ -35,6 +50,30 @@ _Type: People_
 **[00:01:00](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-00-44)**
 > "The Game, who is releasing a song that is entitled 'The Assassination of Candace Owens.'"
 
+**[00:01:00](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-00-44)**
+> "... show, what I have for you is The Game (rapper), who is releasing a song that is entitle..."
+
+**[00:51:11](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-50-53)**
+> "...wanted to mention to you that The Game—who is a hip-hop rapper—is releasing an album, an..."
+
+**[00:51:20](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-50-53)**
+> "Why, The Game?"
+
+**[00:51:35](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-51-35)**
+> "...ve an answer, and here's what The Game had to say. [Clip now attributed to The Game.]"
+
+**[00:51:35](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-51-35)**
+> "... say. [Clip now attributed to The Game.]"
+
+**[00:55:50](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-55-36)**
+> "I mean, look, I'm obviously The Game's muse."
+
+**[00:55:52](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-55-36)**
+> "I'm obviously The Game's muse."
+
+**[00:56:43](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-56-18)**
+> "...have to send something out to The Game."
+
 </details>
 
 </details>
@@ -47,9 +86,26 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Related Claims (2)</strong></summary>
+<summary><strong class="section-title">Statements by The Game (5)</strong></summary>
 
-- ✅ **[Factual](/claims/claim-9e32dc4f1dfd.md):** The Game is releasing a song titled 'The Assassination of Candace Owens'
-- ✅ **[Factual](/claims/claim-fa567dbd4181.md):** The Game released a song called The Assassination of Candace Owens questioning who killed Charlie Ki...
+<details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5)</summary>
+
+- [00:07:31](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) [○] (Claim) ["Let that woman speak her truth and I will love her like my mama, love her like K..."](/statements/statement-49e7a6ef279b.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:07:35](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) [○] (Accusation) ["His body is not yet settled in the dirt. Why are you carrying on like that? Are ..."](/statements/statement-1aae547d563c.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:22:26](/episodes/ep-DqGNvi36ol8.md#t-00-22-18) [○] (Opinion) ["Let that woman speak her truth and I will love her like my mama"](/statements/statement-a752144f6f41.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:22:34](/episodes/ep-DqGNvi36ol8.md#t-00-22-18) [○] (Opinion) ["Truth is, truth hurts, it's like a neck shot who really killed Charlie Kirk"](/statements/statement-84457ea67d41.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:22:49](/episodes/ep-DqGNvi36ol8.md#t-00-22-18) [○] (Accusation) ["His body is not yet settled in the dirt, why are you carrying on like that"](/statements/statement-c7cf4004e277.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 </details>

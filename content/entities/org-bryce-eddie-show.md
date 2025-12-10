@@ -1,6 +1,6 @@
 ---
 title: "Bryce Eddie Show"
-description: "Bryce Eddie Show (Organizations) - 0 mentions"
+description: "Bryce Eddie Show (Organizations) - 1 mention"
 id: "org-bryce-eddie-show"
 type: "ORG"
 ---
@@ -12,7 +12,13 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
 
-_No mentions recorded._
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:12:24](/episodes/ep-yAIb-NuUh_U.md#ent-org-bryce-eddie-show-t-00-12-06)**
+> "... for a podcast episode on the Bryce Eddie Show."
+
+</details>
 
 </details>
 

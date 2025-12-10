@@ -1,6 +1,6 @@
 ---
 title: "BearingPoint"
-description: "BearingPoint (Organizations) - 8 mentions"
+description: "BearingPoint (Organizations) - 18 mentions"
 id: "org-bearingpoint"
 type: "ORG"
 ---
@@ -13,7 +13,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (8 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (18 mentions)</summary>
 
 **[00:10:52](/episodes/ep-YA1FxrDWNIo.md#ent-org-bearingpoint-t-00-10-52)**
 > "...re available. We were able to find his face also matched up in a YouTube video for a company called BearingPoint, where he is seen with a group of people and is introduced as one of their software development tea..."
@@ -39,6 +39,36 @@ _Type: Organizations_
 **[00:11:25](/episodes/ep-YA1FxrDWNIo.md#ent-org-bearingpoint-t-00-11-12)**
 > "...Some people are managers, and some are not. [Clip: BearingPoint narrator] It doesn't matter. [Clip: BearingPoint narrator] It's all one team. Very recently, he moved to Utah—according to his LinkedIn, which I hop..."
 
+**[00:10:52](/episodes/ep-YA1FxrDWNIo.md#ent-org-bearingpoint-t-00-10-52)**
+> "...be video for a company called BearingPoint, where he is seen with a group of people and is i..."
+
+**[00:11:09](/episodes/ep-YA1FxrDWNIo.md#ent-org-bearingpoint-t-00-10-52)**
+> "...m YouTube. [Clip attribution: BearingPoint narrator]"
+
+**[00:11:12](/episodes/ep-YA1FxrDWNIo.md#ent-org-bearingpoint-t-00-11-12)**
+> "[Clip: BearingPoint narrator] This is the BearingPoint office in Graz..."
+
+**[00:11:12](/episodes/ep-YA1FxrDWNIo.md#ent-org-bearingpoint-t-00-11-12)**
+> "...ngPoint narrator] This is the BearingPoint office in Graz."
+
+**[00:11:15](/episodes/ep-YA1FxrDWNIo.md#ent-org-bearingpoint-t-00-11-12)**
+> "[Clip: BearingPoint narrator] This is where BearingPoint's key techno..."
+
+**[00:11:15](/episodes/ep-YA1FxrDWNIo.md#ent-org-bearingpoint-t-00-11-12)**
+> "...Point narrator] This is where BearingPoint's key technology competencies are concentrated."
+
+**[00:11:19](/episodes/ep-YA1FxrDWNIo.md#ent-org-bearingpoint-t-00-11-12)**
+> "[Clip: BearingPoint narrator] This is one of our software development..."
+
+**[00:11:22](/episodes/ep-YA1FxrDWNIo.md#ent-org-bearingpoint-t-00-11-12)**
+> "[Clip: BearingPoint narrator] Some people are managers, and some are ..."
+
+**[00:11:24](/episodes/ep-YA1FxrDWNIo.md#ent-org-bearingpoint-t-00-11-12)**
+> "[Clip: BearingPoint narrator] It doesn't matter."
+
+**[00:11:25](/episodes/ep-YA1FxrDWNIo.md#ent-org-bearingpoint-t-00-11-12)**
+> "[Clip: BearingPoint narrator] It's all one team."
+
 </details>
 
 </details>
@@ -47,26 +77,21 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Employs (2)</summary>
+<summary>Employs (1)</summary>
 
 - **[Gernot Omer](/entities/person-gernot-omer.md)**
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:12](/timestamps/ep-YA1FxrDWNIo/t-00-11-12.md): "introduced as one of their software development teams."
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:10](/timestamps/ep-YA1FxrDWNIo/t-00-00-10.md): "his face also matched up in a YouTube video for a company called BearingPoint, where he is seen... as one of their software development teams"
-
-- **[Gernot Omer](/entities/person-gernot-omer.md)**
-  - [ @ 00:10:52](/timestamps//t-00-10-52.md): "We were able to find his face also matched up in a YouTube video for a company called BearingPoint, where he is seen with a group of people and is introduced as one of their software development teams"
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:12](/episodes/ep-YA1FxrDWNIo.md#t-00-10-52): "introduced as one of their software development teams."
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:10](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01): "his face also matched up in a YouTube video for a company called BearingPoint, where he is seen... as one of their software development teams"
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:10:52](/episodes/ep-YA1FxrDWNIo.md#t-00-10-16): "We were able to find his face also matched up in a YouTube video for a company called BearingPoint, where he is seen with a group of people and is introduced as one of their software development teams"
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (1)</summary>
 
 - **[Gernot Omer](/entities/person-gernot-omer.md)** works for this
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:12](/timestamps/ep-YA1FxrDWNIo/t-00-11-12.md)
-  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:10](/timestamps/ep-YA1FxrDWNIo/t-00-00-10.md)
-
-- **[Gernot Omer](/entities/person-gernot-omer.md)** works for this
-  - [ @ 00:10:52](/timestamps//t-00-10-52.md)
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:11:12](/episodes/ep-YA1FxrDWNIo.md#t-00-10-52)
+  - [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 @ 00:00:10](/episodes/ep-YA1FxrDWNIo.md#t-00-00-01)
 
 </details>
 

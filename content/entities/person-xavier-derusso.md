@@ -1,6 +1,6 @@
 ---
 title: "Xavier DeRusso"
-description: "Xavier DeRusso (People) - 17 mentions"
+description: "Xavier DeRusso (People) - 25 mentions"
 id: "person-xavier-derusso"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (17 mentions)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (25 mentions)</summary>
 
 **[00:03:47](/episodes/ep-K5GjF53bfN4.md#ent-person-xavier-derusso-t-00-03-26)**
 > "... of a PR crisis going on, the response tweets that were fashioned, they were sort of getting funny. Xavier DeRusso was there. I had reached out to him. He had, rather than answering me, messaged me to say, "I am sp..."
@@ -66,6 +66,30 @@ _Type: People_
 **[00:06:39](/episodes/ep-K5GjF53bfN4.md#ent-person-xavier-derusso-t-00-06-27)**
 > "...(Xavier DeRusso): The reason we didn't post that in the real time was because of safety. SPEAKER_2 (Xavier DeRusso): Do you know how many people would have loved to come and slaughter that whole hotel? Feeling like..."
 
+**[00:03:47](/episodes/ep-K5GjF53bfN4.md#ent-person-xavier-derusso-t-00-03-26)**
+> "Xavier DeRusso was there."
+
+**[00:04:19](/episodes/ep-K5GjF53bfN4.md#ent-person-xavier-derusso-t-00-04-07)**
+> "We can take a listen to Xavier DeRusso (Xavier DeRusso) in his own words."
+
+**[00:04:19](/episodes/ep-K5GjF53bfN4.md#ent-person-xavier-derusso-t-00-04-07)**
+> "...e a listen to Xavier DeRusso (Xavier DeRusso) in his own words."
+
+**[00:06:17](/episodes/ep-K5GjF53bfN4.md#ent-person-xavier-derusso-t-00-06-17)**
+> "And Xavier (Xavier DeRusso) offered this explanation for why they didn't pos..."
+
+**[00:06:27](/episodes/ep-K5GjF53bfN4.md#ent-person-xavier-derusso-t-00-06-27)**
+> "SPEAKER_2 (Xavier DeRusso): And then you have the people who are trying to ..."
+
+**[00:06:33](/episodes/ep-K5GjF53bfN4.md#ent-person-xavier-derusso-t-00-06-27)**
+> "SPEAKER_2 (Xavier DeRusso): The photos were already on my Instagram."
+
+**[00:06:35](/episodes/ep-K5GjF53bfN4.md#ent-person-xavier-derusso-t-00-06-27)**
+> "SPEAKER_2 (Xavier DeRusso): The reason we didn't post that in the real time..."
+
+**[00:06:39](/episodes/ep-K5GjF53bfN4.md#ent-person-xavier-derusso-t-00-06-27)**
+> "SPEAKER_2 (Xavier DeRusso): Do you know how many people would have loved to..."
+
 </details>
 
 </details>
@@ -77,10 +101,10 @@ _Type: People_
 <summary>Affiliated With (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [ @ 00:03:47](/timestamps//t-00-03-47.md): "Xavier DeRusso was there. I had reached out to him."
+  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:03:47](/episodes/ep-K5GjF53bfN4.md#t-00-03-26): "Xavier DeRusso was there. I had reached out to him."
 
 - **[PragerU](/entities/org-prageru.md)**
-  - [ @ 00:08:19](/timestamps//t-00-08-19.md): "And I also love the context of him doing this on PragerU's platform."
+  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#t-00-08-02): "And I also love the context of him doing this on PragerU's platform."
 
 </details>
 
@@ -88,10 +112,22 @@ _Type: People_
 <summary>Referenced By (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
-  - [ @ 00:03:47](/timestamps//t-00-03-47.md)
+  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:03:47](/episodes/ep-K5GjF53bfN4.md#t-00-03-26)
 
 - **[PragerU](/entities/org-prageru.md)** affiliated with this
-  - [ @ 00:08:19](/timestamps//t-00-08-19.md)
+  - [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 @ 00:08:19](/episodes/ep-K5GjF53bfN4.md#t-00-08-02)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Xavier DeRusso (1)</strong></summary>
+
+<details>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1)</summary>
+
+- [00:04:02](/episodes/ep-K5GjF53bfN4.md#t-00-03-26) (Claim) **Candace Owens** (via paraphrase): ["Xavier DeRusso was at the weekend meeting in the Hamptons and said Cha..."](/statements/statement-f5903981266a.md)
 
 </details>
 

@@ -14,7 +14,7 @@ date: "2025-08-06"
 ## Mentioned In
 
 **Episode:** [Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236](/episodes/ep-q7f8r-THr84.md)
-**Timestamp:** [00:50:30](/episodes/ep-q7f8r-THr84.md#t-00-50-30) 
+**Timestamp:** [00:50:30](/episodes/ep-q7f8r-THr84.md#t-00-49-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3030);return false;">▶️ Play</a>
 
 > Here's Charlie talking to Megyn Kelly the very next day on August 6th.

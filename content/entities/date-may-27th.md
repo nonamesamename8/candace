@@ -1,6 +1,6 @@
 ---
 title: "May 27th"
-description: "May 27th (Dates) - 2 mentions"
+description: "May 27th (Dates) - 4 mentions"
 id: "date-may-27th"
 type: "DATE"
 ---
@@ -13,13 +13,19 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (4 mentions)</summary>
 
 **[00:15:12](/episodes/ep-ZAuuSq_j2_w.md#ent-date-may-27th-t-00-15-09)**
 > "...g, okay? Walid Mahmood had been in Provo before, okay? Specifically, Walid Mahmood came to Provo on May 27th of this year. Walid Mahmood came in, and we can also confirm that if you look up the plane that he ..."
 
 **[00:16:04](/episodes/ep-ZAuuSq_j2_w.md#ent-date-may-27th-t-00-15-51)**
 > "...harlie Kirk)'s assassination—both times in Provo. And we can drop that now into our timeline, okay? May 27th: SUBTU flies into Provo with Walid Mahmood aboard. Maybe it's a pilot. I don't know. Then we've got..."
+
+**[00:15:12](/episodes/ep-ZAuuSq_j2_w.md#ent-date-may-27th-t-00-15-09)**
+> "...alid Mahmood came to Provo on May 27th of this year."
+
+**[00:16:04](/episodes/ep-ZAuuSq_j2_w.md#ent-date-may-27th-t-00-15-51)**
+> "May 27th: SUBTU flies into Provo with Walid Mahmood aboard..."
 
 </details>
 

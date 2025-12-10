@@ -1,6 +1,6 @@
 ---
 title: "Irénée du Pont"
-description: "Irénée du Pont (People) - 1 mention"
+description: "Irénée du Pont (People) - 2 mentions"
 id: "person-irenee-du-pont"
 type: "PERSON"
 aliases:
@@ -17,10 +17,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
 **[00:08:27](/episodes/ep-a-e7HC6SeK8.md#ent-person-irenee-du-pont-t-00-08-27)**
 > "...the state's sex abuse registry. Tells us that his great-grandfather is the DuPont family patriarch, Irénée du Pont, and his father is Robert H. Richards, a retired partner in the Richards, Layton & Finger law firm...."
+
+**[00:08:27](/episodes/ep-a-e7HC6SeK8.md#ent-person-irenee-du-pont-t-00-08-27)**
+> "... the DuPont family patriarch, Irénée du Pont, and his father is Robert H. Richards, a retired ..."
 
 </details>
 

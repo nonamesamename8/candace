@@ -1,6 +1,6 @@
 ---
 title: "Tim Dillon"
-description: "Tim Dillon (People) - 19 mentions"
+description: "Tim Dillon (People) - 36 mentions"
 id: "person-tim-dillon"
 type: "PERSON"
 ---
@@ -13,15 +13,18 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
 
 **[00:53:09](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-dillon-t-00-52-35)**
 > "...ht claim for her sensational music. And so we might have to trim out that sensational song from the Tim Dillon clip that we showed of him listening to it. So. Oh, sorry. I said Charlie (Charlie Kirk)'s girlfrie..."
 
+**[00:53:09](/episodes/ep-SKGUzGHymcI.md#ent-person-tim-dillon-t-00-52-35)**
+> "...hat sensational song from the Tim Dillon clip that we showed of him listening to it."
+
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (8 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (15 mentions)</summary>
 
 **[00:28:35](/episodes/ep-mKXdKV-OBog.md#ent-person-tim-dillon-t-00-28-14)**
 > "...been ordained by God to murder. And yeah, I don't know. There is some comedic relief coming though. Tim Dillon covering anything is always hilarious, and he is covering the occupation of our media because it's ..."
@@ -47,10 +50,31 @@ _Type: People_
 **[00:28:45](/episodes/ep-mKXdKV-OBog.md#ent-person-tim-dillon-t-00-28-14)**
 > "Tim Dillon covering the occupation of our media"
 
+**[00:28:35](/episodes/ep-mKXdKV-OBog.md#ent-person-tim-dillon-t-00-28-14)**
+> "Tim Dillon covering anything is always hilarious, and he is ..."
+
+**[00:32:12](/episodes/ep-mKXdKV-OBog.md#ent-person-tim-dillon-t-00-31-40)**
+> "Further to that commentary, Tim Dillon—who always gets me in trouble."
+
+**[00:32:20](/episodes/ep-mKXdKV-OBog.md#ent-person-tim-dillon-t-00-32-20)**
+> "...t Alexis Wilkins referring to Tim Dillon's content, and us getting a strike."
+
+**[00:32:29](/episodes/ep-mKXdKV-OBog.md#ent-person-tim-dillon-t-00-32-20)**
+> "...a rant against me—not against Tim Dillon, okay?"
+
+**[00:32:36](/episodes/ep-mKXdKV-OBog.md#ent-person-tim-dillon-t-00-32-20)**
+> "Brigitte sues me—not Tim Dillon—who she mentions in the lawsuit."
+
+**[00:32:41](/episodes/ep-mKXdKV-OBog.md#ent-person-tim-dillon-t-00-32-20)**
+> "...sking if anybody wants to sue Tim Dillon."
+
+**[00:32:58](/episodes/ep-mKXdKV-OBog.md#ent-person-tim-dillon-t-00-32-58)**
+> "(Tim Dillon clip) Bari Weiss is basically telling people, "Wh..."
+
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (10 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (19 mentions)</summary>
 
 **[00:46:17](/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-46-02)**
 > "...usly this has backfired—the lawsuit. People are now making jokes. They're making songs. And I adore Tim Dillon. He's very funny. He's very much needed humor. And he decided to look into this lawsuit and to see ..."
@@ -81,6 +105,33 @@ _Type: People_
 
 **[00:58:00](/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-57-52)**
 > "Did you see L. Reeves attempting at interviewing Tim Dillon?"
+
+**[00:46:17](/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-46-02)**
+> "And I adore Tim Dillon."
+
+**[00:46:22](/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-46-02)**
+> "...cessarily emotional. (clip of Tim Dillon)"
+
+**[00:46:36](/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-46-02)**
+> "Anyways, take it away, Tim Dillon."
+
+**[00:49:18](/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-49-18)**
+> "Tim Dillon's already included in my lawsuit with Brigitte Macr..."
+
+**[00:49:22](/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-49-18)**
+> "...e president of France watches Tim Dillon, and we talked about the Brigitte case, and so he..."
+
+**[00:49:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-49-18)**
+> "to them putting Tim Dillon under oath."
+
+**[00:49:36](/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-49-18)**
+> "...or us at this moment would be Tim Dillon under oath."
+
+**[00:49:47](/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-49-18)**
+> "...atel should sue—obviously sue Tim Dillon."
+
+**[00:57:56](/episodes/ep-yAIb-NuUh_U.md#ent-person-tim-dillon-t-00-57-52)**
+> "...es attempting at interviewing Tim Dillon?""
 
 </details>
 

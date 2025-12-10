@@ -1,6 +1,6 @@
 ---
 title: "Breitbart News"
-description: "Breitbart News (Organizations) - 1 mention"
+description: "Breitbart News (Organizations) - 2 mentions"
 id: "org-breitbart-news"
 type: "ORG"
 aliases:
@@ -17,10 +17,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
 **[00:46:13](/episodes/ep-Cq7nj9rxPdo.md#ent-org-breitbart-news-t-00-45-51)**
 > "Alex Marlow who runs Breitbart News"
+
+**[00:46:06](/episodes/ep-Cq7nj9rxPdo.md#ent-org-breitbart-news-t-00-45-51)**
+> "...ex Marlow speaking), who runs Breitbart News, was their guest for the day on the show."
 
 </details>
 
@@ -33,18 +36,15 @@ _Type: Organizations_
 <summary>Employs (1)</summary>
 
 - **[Alex Marlow](/entities/person-alex-marlow.md)**
-  - [ @ 00:46:06](/timestamps//t-00-46-06.md): "Alex Marlow, who runs Breitbart News, was their guest for the day"
+  - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:46:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-45-51): "Alex Marlow, who runs Breitbart News, was their guest for the day"
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (1)</summary>
 
 - **[Alex Marlow](/entities/person-alex-marlow.md)** works for this
-  - [ @ 00:46:06](/timestamps//t-00-46-06.md)
-
-- **[Alex Marlow](/entities/person-alex-marlow.md)** works for this
-  - [ @ 00:46:06](/timestamps//t-00-46-06.md)
+  - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:46:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-45-51)
 
 </details>
 

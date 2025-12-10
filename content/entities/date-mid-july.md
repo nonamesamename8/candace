@@ -1,6 +1,6 @@
 ---
 title: "mid-July"
-description: "mid-July (Dates) - 7 mentions"
+description: "mid-July (Dates) - 14 mentions"
 id: "date-mid-july"
 type: "DATE"
 ---
@@ -13,7 +13,7 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (3 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (6 mentions)</summary>
 
 **[00:02:39](/episodes/ep-LATnak75Si0.md#ent-date-mid-july-t-00-02-10)**
 > "...om Charlie (Charlie Kirk)—I'm sorry—from UVU for Charlie (Charlie Kirk) to speak on their campus in mid-July, okay? Just a few weeks before he dies. In mid-July, they get a request. "Can Charlie (Charlie Kirk..."
@@ -24,10 +24,19 @@ _Type: Dates_
 **[00:04:37](/episodes/ep-LATnak75Si0.md#ent-date-mid-july-t-00-04-23)**
 > "...ling you guys, when we go back and we look at the calendar and we see that that request went out in mid-July, it drives me insane. It just screams at me that this was an inside job, okay? This was always a ci..."
 
+**[00:02:39](/episodes/ep-LATnak75Si0.md#ent-date-mid-july-t-00-02-10)**
+> "...) to speak on their campus in mid-July, okay?"
+
+**[00:02:55](/episodes/ep-LATnak75Si0.md#ent-date-mid-july-t-00-02-55)**
+> "In mid-July, they get a request."
+
+**[00:04:37](/episodes/ep-LATnak75Si0.md#ent-date-mid-july-t-00-04-23)**
+> "...that that request went out in mid-July, it drives me insane."
+
 </details>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (4 mentions)</summary>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (8 mentions)</summary>
 
 **[00:12:57](/episodes/ep-Qfwr08Ebczo.md#ent-date-mid-july-t-00-12-45)**
 > "...hat's because they're filming each other. But thankfully the McCoys were on hand in what looks like mid-July or early August into early August. According to my sources, we will nail down these specific dates ..."
@@ -40,6 +49,18 @@ _Type: Dates_
 
 **[00:18:05](/episodes/ep-Qfwr08Ebczo.md#ent-date-mid-july-t-00-17-43)**
 > "...irk rally. After about six weeks, this is the first record provided. It's the application submitted mid-July by the UVU chapter of Kirk's Turning Point USA. The applicants answer standard questions about time..."
+
+**[00:12:57](/episodes/ep-Qfwr08Ebczo.md#ent-date-mid-july-t-00-12-45)**
+> "...re on hand in what looks like mid-July or early August into early August."
+
+**[00:14:58](/episodes/ep-Qfwr08Ebczo.md#ent-date-mid-july-t-00-14-54)**
+> "...hat transition took effect in mid-July of this year."
+
+**[00:15:02](/episodes/ep-Qfwr08Ebczo.md#ent-date-mid-july-t-00-14-54)**
+> "Mid-July of this year is when he officially steps down fro..."
+
+**[00:18:05](/episodes/ep-Qfwr08Ebczo.md#ent-date-mid-july-t-00-17-43)**
+> "...t's the application submitted mid-July by the UVU chapter of Kirk's Turning Point USA."
 
 </details>
 

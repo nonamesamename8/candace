@@ -1,6 +1,6 @@
 ---
 title: "Kurt Kolvet"
-description: "Kurt Kolvet (People) - 0 mentions"
+description: "Kurt Kolvet (People) - 1 mention"
 id: "person-kurt-kolvet"
 type: "PERSON"
 ---
@@ -12,7 +12,13 @@ _Type: People_
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
 
-_No mentions recorded._
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
+
+**[00:23:35](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kurt-kolvet-t-00-23-32)**
+> "His brother, Captain Kurt Kolvet, is in the military."
+
+</details>
 
 </details>
 
@@ -23,7 +29,7 @@ _No mentions recorded._
 <summary>Sibling Of (1)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-  - [ @ 00:23:38](/timestamps//t-00-23-38.md): "His brother, Captain Kurt Kolvet, is in the military"
+  - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:38](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): "His brother, Captain Kurt Kolvet, is in the military"
 
 </details>
 
@@ -31,15 +37,8 @@ _No mentions recorded._
 <summary>Referenced By (1)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** sibling of this
-  - [ @ 00:23:38](/timestamps//t-00-23-38.md)
+  - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:38](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32)
 
 </details>
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Related Claims (1)</strong></summary>
-
-- ❓ **[Factual](/claims/claim-39c2c58e1bce.md):** Andrew Kolvet's brother, Captain Kurt Kolvet, is in the military. His cousin, Captain Robert Kolvet,...
 
 </details>

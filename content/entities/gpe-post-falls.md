@@ -1,6 +1,6 @@
 ---
 title: "Post Falls"
-description: "Post Falls (Places) - 0 mentions"
+description: "Post Falls (Places) - 1 mention"
 id: "gpe-post-falls"
 type: "GPE"
 ---
@@ -12,7 +12,13 @@ _Type: Places_
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
 
-_No mentions recorded._
+<details>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
+
+**[00:20:23](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-post-falls-t-00-20-23)**
+> "...ho—the North County Chapel in Post Falls, Idaho."
+
+</details>
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Nemours"
-description: "Nemours (Places) - 3 mentions"
+description: "Nemours (Places) - 7 mentions"
 id: "gpe-nemours"
 type: "GPE"
 aliases:
@@ -17,7 +17,7 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (3 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (7 mentions)</summary>
 
 **[00:44:18](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-nemours-t-00-44-08)**
 > "...ansgender surgeries or yes, they do transgender, rather. Nemours Children's Hospitals are named for Nemours, France, the home of the du Pont family. Hotel du Pont is obviously walking distance from 920 King. First a..."
@@ -27,6 +27,18 @@ _Type: Places_
 
 **[00:44:08](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-nemours-t-00-44-08)**
 > "...writes to me, "Hey, you should also know that area is transgender central. There are five different Nemours Children Hospital centers nearby. Yes, they perform transgender surgeries or yes, they do transgend..."
+
+**[00:29:47](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-nemours-t-00-44-08)**
+> "...from Pierre Samuel du Pont de Nemours—excuse my terrible French—a French aristocrat."
+
+**[00:44:08](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-nemours-t-00-44-08)**
+> "There are five different Nemours Children Hospital centers nearby."
+
+**[00:44:18](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-nemours-t-00-44-08)**
+> "Nemours Children's Hospitals are named for Nemours, Franc..."
+
+**[00:44:18](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-nemours-t-00-44-08)**
+> "...ren's Hospitals are named for Nemours, France, the home of the du Pont family."
 
 </details>
 

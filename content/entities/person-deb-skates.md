@@ -1,6 +1,6 @@
 ---
 title: "Deb Skates"
-description: "Deb Skates (People) - 1 mention"
+description: "Deb Skates (People) - 3 mentions"
 id: "person-deb-skates"
 type: "PERSON"
 ---
@@ -13,10 +13,16 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>
 
 **[00:40:05](/episodes/ep-ZAuuSq_j2_w.md#ent-person-deb-skates-t-00-39-23)**
 > "... up to how it works. How the whole system works—how the whole matrix works. Okay, comments. We have Deb Skates. That is a massive donation. Thank you so much, Deb. She wrote: "You may need some help with legal ..."
+
+**[00:40:05](/episodes/ep-ZAuuSq_j2_w.md#ent-person-deb-skates-t-00-39-23)**
+> "We have Deb Skates."
+
+**[00:40:05](/episodes/ep-ZAuuSq_j2_w.md#ent-person-deb-skates-t-00-39-23)**
+> "We have Deb Skates. That is a massive donation."
 
 </details>
 

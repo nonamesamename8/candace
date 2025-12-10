@@ -14,7 +14,7 @@ date: "2025-05-01"
 ## Mentioned In
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:01:30](/episodes/ep-YA1FxrDWNIo.md#t-00-01-30) 
+**Timestamp:** [00:01:30](/episodes/ep-YA1FxrDWNIo.md#event-event-2025-05-01-charlie-kirk-writes-and-sends-pro-israel-love-lett-t-00-01-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(90);return false;">▶️ Play</a>
 
 > It took him a little over two weeks, but now Benjamin Netanyahu, with maybe a little help from

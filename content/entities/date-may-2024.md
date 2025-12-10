@@ -1,6 +1,6 @@
 ---
 title: "May 2024"
-description: "May 2024 (Dates) - 1 mention"
+description: "May 2024 (Dates) - 2 mentions"
 id: "date-may-2024"
 type: "DATE"
 ---
@@ -13,10 +13,13 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
 **[00:33:22](/episodes/ep-tB5SXXmd9vU.md#ent-date-may-2024-t-00-33-10)**
 > "...lly know they're using it to buy time because they claim that it's construction in this article. On May 2024, they say that construction is expected to take about a year. Well, it's been over a year. It's bee..."
+
+**[00:33:22](/episodes/ep-tB5SXXmd9vU.md#ent-date-may-2024-t-00-33-10)**
+> "On May 2024, they say that construction is expected to take a..."
 
 </details>
 

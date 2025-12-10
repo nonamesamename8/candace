@@ -1,6 +1,6 @@
 ---
 title: "Dominick Dunne"
-description: "Dominick Dunne (People) - 1 mention"
+description: "Dominick Dunne (People) - 2 mentions"
 id: "person-dominick-dunne"
 type: "PERSON"
 aliases:
@@ -17,10 +17,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
 **[00:10:32](/episodes/ep-a-e7HC6SeK8.md#ent-person-dominick-dunne-t-00-10-27)**
 > "... found stuffed in the air conditioner of a seedy motel. She was killed by three hired hands. And as Dominick Dunne reported in Vanity Fair, the money traced back to the DuPont family. It appeared that Lisa Dean—who..."
+
+**[00:10:32](/episodes/ep-a-e7HC6SeK8.md#ent-person-dominick-dunne-t-00-10-27)**
+> "And as Dominick Dunne reported in Vanity Fair, the money traced back to..."
 
 </details>
 

@@ -14,7 +14,7 @@ date: "2025-09-10"
 ## Mentioned In
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:13:44](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) 
+**Timestamp:** [00:13:44](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-04) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(824);return false;">▶️ Play</a>
 
 > survive being this disingenuous. We also are going to get ba

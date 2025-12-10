@@ -1,6 +1,6 @@
 ---
 title: "Simon Wiesenthal Center"
-description: "Simon Wiesenthal Center (Organizations) - 4 mentions"
+description: "Simon Wiesenthal Center (Organizations) - 9 mentions"
 id: "org-simon-wiesenthal-center"
 type: "ORG"
 aliases:
@@ -17,7 +17,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (9 mentions)</summary>
 
 **[00:19:56](/episodes/ep-Cq7nj9rxPdo.md#ent-org-simon-wiesenthal-center-t-00-19-21)**
 > "...nd going, "Why do people want to destroy us? We don't know what this is." And at the same time, the Simon Wiesenthal Center—and this is again another interesting piece of this—put me—like, issued a statement against my comm..."
@@ -31,6 +31,21 @@ _Type: Organizations_
 **[00:19:37](/episodes/ep-Cq7nj9rxPdo.md#ent-org-simon-wiesenthal-center-t-00-19-21)**
 > "Simon Wiesenthal Center issued a statement"
 
+**[00:19:56](/episodes/ep-Cq7nj9rxPdo.md#ent-org-simon-wiesenthal-center-t-00-19-21)**
+> "And at the same time, the Simon Wiesenthal Center—and this is again another interesting piece of th..."
+
+**[00:19:56](/episodes/ep-Cq7nj9rxPdo.md#ent-org-simon-wiesenthal-center-t-00-19-21)**
+> "...d at the same time, the Simon Wiesenthal Center—and this is again another interesting piece of th..."
+
+**[00:19:58](/episodes/ep-Cq7nj9rxPdo.md#ent-org-simon-wiesenthal-center-t-00-19-58)**
+> "Simon Wiesenthal Center—we're like the official Holocaust people—and "thi..."
+
+**[00:21:19](/episodes/ep-Cq7nj9rxPdo.md#ent-org-simon-wiesenthal-center-t-00-20-40)**
+> "...o"—was Marissa took me to the Simon Wiesenthal Center."
+
+**[00:21:19](/episodes/ep-Cq7nj9rxPdo.md#ent-org-simon-wiesenthal-center-t-00-20-40)**
+> "... Marissa took me to the Simon Wiesenthal Center."
+
 </details>
 
 </details>
@@ -39,13 +54,5 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Related Claims (2)</strong></summary>
-
-- ❓ **[Factual](/claims/claim-aca0464aefc0.md):** Marissa Streit took Candace Owens to the Simon Wiesenthal Center after the Hitler clip controversy, ...
-- ✅ **[Factual](/claims/claim-1b3de9aae01d.md):** The Simon Wiesenthal Center issued a statement against Candace Owens's comments regarding the 2018 H...
 
 </details>

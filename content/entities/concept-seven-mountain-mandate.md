@@ -1,6 +1,6 @@
 ---
 title: "Seven Mountain Mandate"
-description: "Seven Mountain Mandate (Concepts) - 6 mentions"
+description: "Seven Mountain Mandate (Concepts) - 12 mentions"
 id: "concept-seven-mountain-mandate"
 type: "CONCEPT"
 ---
@@ -13,7 +13,7 @@ _Type: Concepts_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (6 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (12 mentions)</summary>
 
 **[00:13:32](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-seven-mountain-mandate-t-00-13-01)**
 > "... Wallnau (Lance Wallnau)? Well, he is one of these NAR preachers—like I said—who came up with their Seven Mountain Mandate, okay? Charlie (Charlie Kirk) began to become very interested in the Seven Mountain Mandate. I woul..."
@@ -32,6 +32,24 @@ _Type: Concepts_
 
 **[00:55:04](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-seven-mountain-mandate-t-00-54-47)**
 > "...now what? Go tell that to cult lady. She's going to be really upset about that. Aries Girl writes, "Seven Mountain Mandate—you're referring to." Makes me think of Satan tempting Christ in the quote from Elder Ephraim: "The..."
+
+**[00:13:32](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-seven-mountain-mandate-t-00-13-01)**
+> "...I said—who came up with their Seven Mountain Mandate, okay?"
+
+**[00:13:41](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-seven-mountain-mandate-t-00-13-01)**
+> "...become very interested in the Seven Mountain Mandate."
+
+**[00:13:45](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-seven-mountain-mandate-t-00-13-45)**
+> "...e he became mesmerized by the Seven Mountain Mandate."
+
+**[00:13:51](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-seven-mountain-mandate-t-00-13-45)**
+> "...allnau) himself describe this Seven Mountain Mandate in his own words."
+
+**[00:16:02](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-seven-mountain-mandate-t-00-16-02)**
+> "...e new apostles. They have the Seven Mountain Mandate, and when he is speaking about covertly, he means..."
+
+**[00:55:04](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-seven-mountain-mandate-t-00-54-47)**
+> "Aries Girl writes, "Seven Mountain Mandate—you're referring to.""
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "TP Action"
-description: "TP Action (Organizations) - 1 mention"
+description: "TP Action (Organizations) - 2 mentions"
 id: "org-tp-action"
 type: "ORG"
 ---
@@ -13,10 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (1 mentions)</summary>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (2 mentions)</summary>
 
 **[00:00:27](/episodes/ep-ozWJz2spBcI.md#ent-org-tp-action-t-00-00-00)**
 > "...nipulative, and I've really had enough of it. Frankly, what happened over the weekend is that their TP Action COO, Tyler Bowyer, went on a little bit of an X binge. I don't recommend it, which was then highlig..."
+
+**[00:00:27](/episodes/ep-ozWJz2spBcI.md#ent-org-tp-action-t-00-00-00)**
+> "...ver the weekend is that their TP Action COO, Tyler (Tyler Robinson) Bowyer, went on a lit..."
 
 </details>
 
@@ -29,18 +32,15 @@ _Type: Organizations_
 <summary>Employs (1)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/timestamps/ep-ozWJz2spBcI/t-00-00-27.md): "their TP Action COO, Tyler Boyer"
+  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): "their TP Action COO, Tyler Boyer"
 
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (1)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** works for this
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/timestamps/ep-ozWJz2spBcI/t-00-00-27.md)
-
-- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** works for this
-  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/timestamps/ep-ozWJz2spBcI/t-00-00-27.md)
+  - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#t-00-00-00)
 
 </details>
 

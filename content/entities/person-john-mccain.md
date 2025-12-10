@@ -1,6 +1,6 @@
 ---
 title: "John McCain"
-description: "John McCain (People) - 1 mention"
+description: "John McCain (People) - 5 mentions"
 id: "person-john-mccain"
 type: "PERSON"
 aliases:
@@ -17,10 +17,22 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1 mentions)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5 mentions)</summary>
 
 **[00:18:18](/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15)**
 > "John McCain leading protesters in Ukraine 2014 color revolution"
+
+**[00:18:21](/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15)**
+> "And when John McCain went over there and led the protesters in the str..."
+
+**[00:18:37](/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15)**
+> "John McCain addressing protesters in Ukraine before we overth..."
+
+**[00:19:34](/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-19-27)**
+> "...ation was about as organic as John McCain, he rest in peace, leading the people of Ukraine."
+
+**[00:19:34](/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-19-27)**
+> "... was about as organic as John McCain, he rest in peace, leading the people of Ukraine."
 
 </details>
 
@@ -34,8 +46,17 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Related Claims (1)</strong></summary>
+<summary><strong class="section-title">Statements about John McCain (2)</strong></summary>
 
-- ⚠️ **[Factual](/claims/claim-ab6d2e2462b0.md):** John McCain addressed protesters in Ukraine in 2014 as part of what Candace calls a US-backed color ...
+<details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2)</summary>
+
+- [00:03:38](/episodes/ep-DqGNvi36ol8.md#t-00-02-57) (Claim) **Candace Owens**: ["In 2014, John McCain went over to Ukraine and led the protesters in th..."](/statements/statement-2657ec89fb0f.md)
+  - Also about: [Ukraine](/entities/gpe-ukraine.md)
+
+- [00:11:35](/episodes/ep-DqGNvi36ol8.md#t-00-11-19) (Accusation) **Candace Owens**: ["Charlie Kirk's assassination was about as organic as John McCain leadi..."](/statements/statement-6873b7794fe9.md)
+  - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</details>
 
 </details>

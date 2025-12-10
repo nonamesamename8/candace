@@ -1,6 +1,6 @@
 ---
 title: "Macy Crofts"
-description: "Macy Crofts (People) - 1 mention"
+description: "Macy Crofts (People) - 3 mentions"
 id: "person-macy-crofts"
 type: "PERSON"
 aliases:
@@ -17,10 +17,16 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3 mentions)</summary>
 
 **[00:21:16](/episodes/ep-a-e7HC6SeK8.md#ent-person-macy-crofts-t-00-21-13)**
 > "... know that Turning Point USA insisted upon that. The person that was orchestrating that event—Macy, Macy Crofts—was saying, like, "This is what Charlie (Charlie Kirk) wants," and that could be true. August 2nd i..."
+
+**[00:21:16](/episodes/ep-a-e7HC6SeK8.md#ent-person-macy-crofts-t-00-21-13)**
+> "...rchestrating that event—Macy, Macy Crofts—was saying, like, "This is what Charlie (Charlie ..."
+
+**[00:21:16](/episodes/ep-a-e7HC6SeK8.md#ent-person-macy-crofts-t-00-21-13)**
+> "... was orchestrating that event—Macy, Macy Crofts—was saying, like, "This is what Char..."
 
 </details>
 

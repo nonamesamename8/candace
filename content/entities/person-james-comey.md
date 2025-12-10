@@ -1,6 +1,6 @@
 ---
 title: "James Comey"
-description: "James Comey (People) - 1 mention"
+description: "James Comey (People) - 2 mentions"
 id: "person-james-comey"
 type: "PERSON"
 ---
@@ -13,10 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
 
 **[00:09:33](/episodes/ep-t1YtLS1n8Vs.md#ent-person-james-comey-t-00-09-05)**
 > "...ip, sharing intel. They were training agents. And he says, no more. Okay, he wrote this in a tweet. James Comey wrote love letters to the ADL and embedded FBI agents with them, a group that ran disgraceful ops s..."
+
+**[00:09:33](/episodes/ep-t1YtLS1n8Vs.md#ent-person-james-comey-t-00-09-05)**
+> "James Comey wrote love letters to the ADL and embedded FBI ag..."
 
 </details>
 
@@ -29,7 +32,7 @@ _Type: People_
 <summary>Worked With (1)</summary>
 
 - **[Anti-Defamation League](/entities/org-anti-defamation-league.md)**
-  - [ @ 00:02:30](/timestamps//t-00-02-30.md): "James Comey wrote love letters to the ADL and embedded FBI agents with them"
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-02-02): "James Comey wrote love letters to the ADL and embedded FBI agents with them"
 
 </details>
 
@@ -37,7 +40,7 @@ _Type: People_
 <summary>Referenced By (1)</summary>
 
 - **[Anti-Defamation League](/entities/org-anti-defamation-league.md)** worked with this
-  - [ @ 00:02:30](/timestamps//t-00-02-30.md)
+  - [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 @ 00:02:30](/episodes/ep-t1YtLS1n8Vs.md#t-00-02-02)
 
 </details>
 

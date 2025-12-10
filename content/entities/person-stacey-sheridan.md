@@ -1,6 +1,6 @@
 ---
 title: "Stacey Sheridan"
-description: "Stacey Sheridan (People) - 12 mentions"
+description: "Stacey Sheridan (People) - 27 mentions"
 id: "person-stacey-sheridan"
 type: "PERSON"
 aliases:
@@ -19,21 +19,24 @@ _Type: People_
 <details>
 <summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
 
-**[00:44:46](/episodes/ep-K1tFD7FfoCU.md#t-00-44-46)**
+**[00:44:46](/episodes/ep-K1tFD7FfoCU.md#t-00-44-24)**
 > "... from Australia, but you know me—I'm a super bad criminal, bad to the bone. I won't worship Israel. Stacey Massey (Stacey Massey) writes: "So many trolls in the chat, yet by being here they are supporting G..."
 
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
 
 **[00:29:49](/episodes/ep-SKGUzGHymcI.md#ent-person-stacey-sheridan-t-00-29-09)**
 > "...izona and potentially Santa Barbara. Andrew Kolvet, Andrew Kolvet's wife. We have a priest. We have Stacey Sheridan, who's the chief finance person. We have, I mean, fundraiser over there. We have Elizabeth McCoy, t..."
 
+**[00:29:49](/episodes/ep-SKGUzGHymcI.md#ent-person-stacey-sheridan-t-00-29-09)**
+> "We have Stacey Sheridan, who's the chief finance person."
+
 </details>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (8 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (20 mentions)</summary>
 
 **[00:12:08](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-11-53)**
 > "...venue. We've got Brigitte's lawyers at 919 North Market Street. Also in that building happens to be Stacey Sheridan's registered agent. That's Stacey Sheridan of Turning Point USA. We're going to talk about her in a..."
@@ -59,16 +62,58 @@ _Type: People_
 **[00:14:22](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-14-05)**
 > "...like, "Who's filming his casket," as it's being escorted off of Air Force Two, crying, holding that—Stacey. Like I said, I just felt spiritually that Charlie (Charlie Kirk) hiring her was a mistake. She did..."
 
+**[00:12:08](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-11-53)**
+> "...n that building happens to be Stacey Sheridan's (Stacey Sheridan's) registered agent."
+
+**[00:12:08](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-11-53)**
+> "...pens to be Stacey Sheridan's (Stacey Sheridan's) registered agent."
+
+**[00:12:14](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-11-53)**
+> "That's Stacey Sheridan (Stacey Sheridan) of Turning Point USA."
+
+**[00:12:53](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-12-37)**
+> "...wow—what are the chances that Stacey Sheridan (Stacey Sheridan) has a registered agent that's i..."
+
+**[00:12:53](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-12-37)**
+> "...chances that Stacey Sheridan (Stacey Sheridan) has a registered agent that's in that building t..."
+
+**[00:13:09](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-12-37)**
+> "But Stacey Sheridan's (Stacey Sheridan's) registered agent is there too..."
+
+**[00:13:23](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-13-20)**
+> "Stacey (Stacey Sheridan), by the way, is the senior advancement director ..."
+
+**[00:13:50](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-13-20)**
+> "And he brings in this Stacey Sheridan (Stacey Sheridan). I gotta tell you, I did not li..."
+
+**[00:13:50](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-13-20)**
+> "...ings in this Stacey Sheridan (Stacey Sheridan). I gotta tell you, I did not like her at all. Ju..."
+
+**[00:14:17](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-14-05)**
+> "Stacey Sheridan (Stacey Sheridan) is the one that was filming."
+
+**[00:14:22](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-14-05)**
+> "... crying, holding that—Stacey (Stacey Sheridan)."
+
+**[00:14:22](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-14-05)**
+> "...rce Two, crying, holding that—Stacey (Stacey Sheridan)."
+
 </details>
 
 <details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (4 mentions)</summary>
 
 **[00:04:23](/episodes/ep-c5BcKF91iec.md#ent-person-stacey-sheridan-t-00-03-48)**
 > "... get back together. We were all going to maybe be on a group chat: me, Tyler Bowyer, Andrew Kolvet, Stacey Sheridan even. If you're wondering who Stacey Sheridan is, by the way, she's the one who's holding the camer..."
 
 **[00:04:27](/episodes/ep-c5BcKF91iec.md#ent-person-stacey-sheridan-t-00-04-27)**
 > "... be on a group chat: me, Tyler Bowyer, Andrew Kolvet, Stacey Sheridan even. If you're wondering who Stacey Sheridan is, by the way, she's the one who's holding the camera when Charlie's casket is being escorted off ..."
+
+**[00:04:23](/episodes/ep-c5BcKF91iec.md#ent-person-stacey-sheridan-t-00-03-48)**
+> "... Tyler Bowyer, Andrew Kolvet, Stacey Sheridan even."
+
+**[00:04:27](/episodes/ep-c5BcKF91iec.md#ent-person-stacey-sheridan-t-00-04-27)**
+> "If you're wondering who Stacey Sheridan is, by the way, she's the one who's holding the c..."
 
 </details>
 
@@ -81,7 +126,7 @@ _Type: People_
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:50](/timestamps/ep-a-e7HC6SeK8/t-00-13-50.md): "...I did not like her at all, just the vibe was off. I did not like her, and I expressed that to Charlie to his face when she was hired."
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:50](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "...I did not like her at all, just the vibe was off. I did not like her, and I expressed that to Charlie to his face when she was hired."
 
 </details>
 
@@ -89,52 +134,48 @@ _Type: People_
 <summary>Hired By (1)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/timestamps/ep-c5BcKF91iec/t-00-04-43.md): "All of those people, by the way, were actually brought in by Tyler Boyer."
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/timestamps/ep-a-e7HC6SeK8/t-00-13-27.md): "She was brought in specifically by Tyler Boyer"
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/timestamps/ep-a-e7HC6SeK8/t-00-13-27.md): "She was brought in specifically by Tyler Boyer to raise money"
+  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27): "All of those people, by the way, were actually brought in by Tyler Boyer."
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "She was brought in specifically by Tyler Boyer"
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "She was brought in specifically by Tyler Boyer to raise money"
 
 </details>
 
 <details>
-<summary>Works For (3)</summary>
+<summary>Works For (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:35](/timestamps/ep-c5BcKF91iec/t-00-04-35.md): "She's like the chief money person, essentially, at Turning Point USA."
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:23](/timestamps/ep-a-e7HC6SeK8/t-00-13-23.md): "Stacey, by the way, is the senior advancement director at Turning Point USA"
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:23](/timestamps/ep-a-e7HC6SeK8/t-00-13-23.md): "Stacey, by the way, is the senior advancement director at Turning Point USA"
-
-- **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [ @ 00:01:07](/timestamps//t-00-01-07.md): "She's like the chief money person, essentially, at Turning Point USA."
-
-- **[Turning Point USA](/entities/org-turning-point-usa.md)**
-  - [ @ 00:01:07](/timestamps//t-00-01-07.md): "She's like the chief money person, essentially, at Turning Point USA."
+  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:35](/episodes/ep-c5BcKF91iec.md#t-00-04-27): "She's like the chief money person, essentially, at Turning Point USA."
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:23](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "Stacey, by the way, is the senior advancement director at Turning Point USA"
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:23](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): "Stacey, by the way, is the senior advancement director at Turning Point USA"
 
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:50](/timestamps/ep-a-e7HC6SeK8/t-00-13-50.md)
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:50](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20)
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:35](/timestamps/ep-c5BcKF91iec/t-00-04-35.md)
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:23](/timestamps/ep-a-e7HC6SeK8/t-00-13-23.md)
-
-- **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-  - [ @ 00:01:07](/timestamps//t-00-01-07.md)
+  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:35](/episodes/ep-c5BcKF91iec.md#t-00-04-27)
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:23](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20)
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** hired this
-  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/timestamps/ep-c5BcKF91iec/t-00-04-43.md)
-  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/timestamps/ep-a-e7HC6SeK8/t-00-13-27.md)
+  - [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 @ 00:04:43](/episodes/ep-c5BcKF91iec.md#t-00-04-27)
+  - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:27](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20)
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Related Claims (1)</strong></summary>
+<summary><strong class="section-title">Statements about Stacey Sheridan (1)</strong></summary>
 
-- ❓ **[Factual](/claims/claim-6a93c6e66a4a.md):** Stacey Sheridan's registered agent for Cloverstone Ventures is in the same building as Brigitte Macr...
+<details>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (1)</summary>
+
+- [00:04:35](/episodes/ep-c5BcKF91iec.md#t-00-04-27) (Claim) **Candace Owens**: ["Stacey Sheridan is the chief money person at Turning Point USA who was..."](/statements/statement-39d6a206ca65.md)
+
+</details>
 
 </details>

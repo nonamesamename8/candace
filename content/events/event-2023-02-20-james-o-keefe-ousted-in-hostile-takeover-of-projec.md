@@ -32,7 +32,7 @@ date: "2023-02-20"
 ### 3. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:38:14](/episodes/ep-his-JBjlkh8.md#t-00-38-14) 
+**Timestamp:** [00:38:14](/episodes/ep-his-JBjlkh8.md#t-00-37-59) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2294);return false;">▶️ Play</a>
 
 > independent, more trusted journalists. And some of them are,
@@ -48,7 +48,7 @@ date: "2023-02-20"
 ### 5. BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites M...
 
 **Episode:** [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md)
-**Timestamp:** [00:38:19](/episodes/ep-his-JBjlkh8.md#t-00-38-19) 
+**Timestamp:** [00:38:19](/episodes/ep-his-JBjlkh8.md#t-00-37-59) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2299);return false;">▶️ Play</a>
 
 > formerly of Project Veritas—he's very much trusted. Matt Gae

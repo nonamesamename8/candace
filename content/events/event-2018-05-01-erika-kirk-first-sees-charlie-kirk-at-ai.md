@@ -14,7 +14,7 @@ date: "2018-05-01"
 ## Mentioned In
 
 **Episode:** [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md)
-**Timestamp:** [01:00:09](/episodes/ep-vwG1juDCQZQ.md#t-01-00-09) 
+**Timestamp:** [01:00:09](/episodes/ep-vwG1juDCQZQ.md#t-00-59-48) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3609);return false;">▶️ Play</a>
 
 > Erika first saw Charlie at an airport in Israel in May of 2018 with her mom.

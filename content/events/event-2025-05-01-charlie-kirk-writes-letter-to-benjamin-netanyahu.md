@@ -16,7 +16,7 @@ date: "2025-05-01"
 ### 1. Charlie Kirk Expressed Concerns About TPUSA Finances | Canda...
 
 **Episode:** [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md)
-**Timestamp:** [00:01:58](/episodes/ep-K5GjF53bfN4.md#t-00-01-58) 
+**Timestamp:** [00:01:58](/episodes/ep-K5GjF53bfN4.md#t-00-01-27) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(118);return false;">▶️ Play</a>
 
 > All right, you guys. So a week before Charlie lost his life, he expressed some concerns about the finances at Turning Point USA. In fact, he wanted to put together an entire
@@ -24,7 +24,7 @@ date: "2025-05-01"
 ### 2. DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245
 
 **Episode:** [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md)
-**Timestamp:** [00:01:30](/episodes/ep-YA1FxrDWNIo.md#t-00-01-30) 
+**Timestamp:** [00:01:30](/episodes/ep-YA1FxrDWNIo.md#t-00-00-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(90);return false;">▶️ Play</a>
 
 > there are a lot of little lies being told. Right? Charlie gets assassinated, and the very people who were threatening him reputationally and financially are now trying to memorialize hi

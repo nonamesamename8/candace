@@ -1,6 +1,6 @@
 ---
 title: "December 3rd"
-description: "December 3rd (Dates) - 3 mentions"
+description: "December 3rd (Dates) - 6 mentions"
 id: "date-december-3rd"
 type: "DATE"
 ---
@@ -13,7 +13,7 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (6 mentions)</summary>
 
 **[00:08:25](/episodes/ep-sImMM04XdWY.md#ent-date-december-3rd-t-00-08-18)**
 > "...t, and I still believe that Brigitte Macron was born a man named Jean-Michel Trogneux. Suddenly, on December 3rd, before I interview him, I receive the first ever cease-and-desist letter from Brigitte Macron and ..."
@@ -23,6 +23,15 @@ _Type: Dates_
 
 **[00:09:07](/episodes/ep-sImMM04XdWY.md#ent-date-december-3rd-t-00-09-03)**
 > "...info. I was totally—a random box sent it to—so we didn't get it. We go back to our timeline. That's December 3rd. And seven days later is when it's announced that Satis—that's when it's publicly announced that Sa..."
+
+**[00:08:25](/episodes/ep-sImMM04XdWY.md#ent-date-december-3rd-t-00-08-18)**
+> "Suddenly, on December 3rd, before I interview him, I receive the first ever..."
+
+**[00:08:43](/episodes/ep-sImMM04XdWY.md#ent-date-december-3rd-t-00-08-18)**
+> "This is only—and this is on December 3rd—you can see, please see attached the time-sensiti..."
+
+**[00:09:07](/episodes/ep-sImMM04XdWY.md#ent-date-december-3rd-t-00-09-03)**
+> "That's December 3rd."
 
 </details>
 

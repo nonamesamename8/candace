@@ -19,7 +19,7 @@ _Type: Organizations_
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
 
-**[00:56:13](/episodes/ep-Cq7nj9rxPdo.md#t-00-56-13)**
+**[00:56:13](/episodes/ep-Cq7nj9rxPdo.md#t-00-55-46)**
 > "Emmanuel Macron is a Rothschild creation"
 
 </details>

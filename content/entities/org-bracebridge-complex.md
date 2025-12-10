@@ -1,6 +1,6 @@
 ---
 title: "Bracebridge Complex"
-description: "Bracebridge Complex (Organizations) - 1 mention"
+description: "Bracebridge Complex (Organizations) - 2 mentions"
 id: "org-bracebridge-complex"
 type: "ORG"
 ---
@@ -13,10 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
 **[00:28:46](/episodes/ep-tB5SXXmd9vU.md#ent-org-bracebridge-complex-t-00-28-30)**
 > "... here, okay? What I found on 1100, 1100 North King Street is big. The actual building is called the Bracebridge Complex. It spans over 1 million square feet. It seems it was originally built for the Maryland Bank as the..."
+
+**[00:28:46](/episodes/ep-tB5SXXmd9vU.md#ent-org-bracebridge-complex-t-00-28-30)**
+> "...actual building is called the Bracebridge Complex."
 
 </details>
 
@@ -29,7 +32,7 @@ _Type: Organizations_
 <summary>Acquired By (1)</summary>
 
 - **[Bank of America](/entities/org-bank-of-america.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:28:53](/timestamps/ep-tB5SXXmd9vU/t-00-28-53.md): ""...from 1995 until 2006, when Bank of America acquired it.""
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:28:53](/episodes/ep-tB5SXXmd9vU.md#t-00-28-30): ""...from 1995 until 2006, when Bank of America acquired it.""
 
 </details>
 
@@ -37,7 +40,7 @@ _Type: Organizations_
 <summary>Headquartered In (1)</summary>
 
 - **[1100 North King Street](/entities/gpe-1100-north-king-street.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:28:41](/timestamps/ep-tB5SXXmd9vU/t-00-28-41.md): ""What I found on 1100, 1100 North King Street is big. The actual building is called the Bracebridge Complex.""
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:28:41](/episodes/ep-tB5SXXmd9vU.md#t-00-28-30): ""What I found on 1100, 1100 North King Street is big. The actual building is called the Bracebridge Complex.""
 
 </details>
 
@@ -45,7 +48,7 @@ _Type: Organizations_
 <summary>Owned By (1)</summary>
 
 - **[Incyte](/entities/org-incyte.md)**
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:55](/timestamps/ep-tB5SXXmd9vU/t-00-32-55.md): ""...apparently a global biopharmaceutical company called Incyte owns it...""
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:55](/episodes/ep-tB5SXXmd9vU.md#t-00-32-32): ""...apparently a global biopharmaceutical company called Incyte owns it...""
 
 </details>
 
@@ -53,13 +56,13 @@ _Type: Organizations_
 <summary>Referenced By (3)</summary>
 
 - **[Bank of America](/entities/org-bank-of-america.md)** acquired this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:28:53](/timestamps/ep-tB5SXXmd9vU/t-00-28-53.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:28:53](/episodes/ep-tB5SXXmd9vU.md#t-00-28-30)
 
 - **[1100 North King Street](/entities/gpe-1100-north-king-street.md)** headquarters of this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:28:41](/timestamps/ep-tB5SXXmd9vU/t-00-28-41.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:28:41](/episodes/ep-tB5SXXmd9vU.md#t-00-28-30)
 
 - **[Incyte](/entities/org-incyte.md)** owns this
-  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:55](/timestamps/ep-tB5SXXmd9vU/t-00-32-55.md)
+  - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:32:55](/episodes/ep-tB5SXXmd9vU.md#t-00-32-32)
 
 </details>
 

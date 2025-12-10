@@ -16,7 +16,7 @@ date: "2025-07-22"
 ### 1. Operation: “See you in Valhalla, Charlie”. | Candace Ep 270
 
 **Episode:** [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md)
-**Timestamp:** [00:11:30](/episodes/ep-mKXdKV-OBog.md#t-00-11-30) 
+**Timestamp:** [00:11:30](/episodes/ep-mKXdKV-OBog.md#t-00-10-47) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(690);return false;">▶️ Play</a>
 
 > y—the Satis angle has opened up a whole new level of possibilities here in this Charlie assassination story. And I have to tell you, I do not think that they were just painting planes t
@@ -24,7 +24,7 @@ date: "2025-07-22"
 ### 2. Turning Point Has Been Keeping A BIG Secret. Did Charlie Kno...
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:18:16](/episodes/ep-a-e7HC6SeK8.md#t-00-18-16) 
+**Timestamp:** [00:18:16](/episodes/ep-a-e7HC6SeK8.md#t-00-17-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1096);return false;">▶️ Play</a>
 
 > se professionals that met with Secretary of State Bob Evnen? Why is this meeting somehow off-record? And when people—and they have done that—have requested inf

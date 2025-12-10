@@ -1,6 +1,6 @@
 ---
 title: "Eric Weinstein"
-description: "Eric Weinstein (People) - 1 mention"
+description: "Eric Weinstein (People) - 2 mentions"
 id: "person-eric-weinstein"
 type: "PERSON"
 ---
@@ -13,10 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
 **[00:12:02](/episodes/ep-Cq7nj9rxPdo.md#ent-person-eric-weinstein-t-00-11-30)**
 > "Eric Weinstein reaches out and pretends he wants to be a friend"
+
+**[00:12:02](/episodes/ep-Cq7nj9rxPdo.md#ent-person-eric-weinstein-t-00-11-30)**
+> "Suddenly they get Eric Weinstein involved, and he reaches out and he pretends that..."
 
 </details>
 
@@ -30,8 +33,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Related Claims (1)</strong></summary>
+<summary><strong class="section-title">Statements about Eric Weinstein (2)</strong></summary>
 
-- ❓ **[Factual](/claims/claim-15ad8235cd35.md):** Eric Weinstein reached out to Candace Owens after the Kanye tweet in April 2018 pretending to be a f...
+<details>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2)</summary>
+
+- [00:12:02](/episodes/ep-Cq7nj9rxPdo.md#t-00-11-30) (Opinion) **Candace Owens**: ["Eric Weinstein is a bad person"](/statements/statement-924dfdddc22d.md)
+
+- [00:12:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-11-30) (Opinion) **Candace Owens**: ["Eric Weinstein is a bad person"](/statements/statement-a21bb7757e62.md)
+
+</details>
 
 </details>

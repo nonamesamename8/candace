@@ -14,7 +14,7 @@ date: "2025-09-01"
 ## Mentioned In
 
 **Episode:** [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md)
-**Timestamp:** [00:08:02](/episodes/ep-czVBmqZP6Ss.md#t-00-08-02) 
+**Timestamp:** [00:08:02](/episodes/ep-czVBmqZP6Ss.md#t-00-07-17) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(482);return false;">▶️ Play</a>
 
 > and foremost, to let you know, last week was not a dream. Ch
