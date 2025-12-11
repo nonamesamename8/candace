@@ -181,19 +181,19 @@ _Type: People_
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (5 mentions)</summary>
 
-**[00:03:48](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-00-59-48)**
+**[00:03:48](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-00-21-29)**
 > "Andrew Klavan: Christ is King."
 
-**[00:22:05](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-00-59-48)**
+**[00:22:05](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-00-21-29)**
 > "Andrew's going to talk about it."
 
 **[00:59:59](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-00-59-48)**
 > "... have seen has just been—I don't know—it's just—it's been one big nothing burger. Tom Paul writes: "Andrew Kolvet on Alex Clark show discussed how Charlie's (Charlie Kirk's) heart was still beating. How did Charli..."
 
-**[01:00:41](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-00-59-48)**
+**[01:00:41](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-01-00-33)**
 > "Didn't Andrew offer up an explanation?"
 
-**[01:00:58](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-00-59-48)**
+**[01:00:58](/episodes/ep-vwG1juDCQZQ.md#ent-person-andrew-kolvet-t-01-00-33)**
 > "...g—since they mentioned it—for Andrew or Frank Turek to respond to."
 
 </details>

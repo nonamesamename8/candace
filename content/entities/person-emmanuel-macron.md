@@ -74,16 +74,16 @@ _Type: People_
 <details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (22 mentions)</summary>
 
-**[00:03:17](/episodes/ep-tB5SXXmd9vU.md#ent-person-emmanuel-macron-t-00-12-02)**
+**[00:03:17](/episodes/ep-tB5SXXmd9vU.md#ent-person-emmanuel-macron-t-00-04-29)**
 > "...short, this person claims the Macrons have executed upon and paid for my assassination."
 
-**[00:04:32](/episodes/ep-tB5SXXmd9vU.md#ent-person-emmanuel-macron-t-00-12-02)**
+**[00:04:32](/episodes/ep-tB5SXXmd9vU.md#ent-person-emmanuel-macron-t-00-04-29)**
 > "... you truly. Let all be revealed. Now, I got even more specific. I said there was a paper trail that Macron allegedly paid $1.5 million. And I am saying allegedly because until I can physically see with my o..."
 
-**[00:05:28](/episodes/ep-tB5SXXmd9vU.md#ent-person-emmanuel-macron-t-00-12-02)**
+**[00:05:28](/episodes/ep-tB5SXXmd9vU.md#ent-person-emmanuel-macron-t-00-04-29)**
 > "...Now, if you are, in fact, currently at this moment, the first man of France, that would be Brigitte Macron, and you are currently suing a podcaster in America named Candace (Candace Owens) for defamation, f..."
 
-**[00:08:08](/episodes/ep-tB5SXXmd9vU.md#ent-person-emmanuel-macron-t-00-12-02)**
+**[00:08:08](/episodes/ep-tB5SXXmd9vU.md#ent-person-emmanuel-macron-t-00-04-29)**
 > "...this. We are always doing this every week. Oh, Trump (Donald Trump) never called her about Brigitte Macron. She's making that up for attention. Oh, she's lying. Charlie (Charlie Kirk) never changes his mind..."
 
 **[00:12:30](/episodes/ep-tB5SXXmd9vU.md#ent-person-emmanuel-macron-t-00-12-02)**
@@ -95,7 +95,7 @@ _Type: People_
 **[00:17:47](/episodes/ep-tB5SXXmd9vU.md#ent-person-emmanuel-macron-t-00-12-02)**
 > "...ay get wrong. That's how they've gone after every journalist who has covered the fact that Brigitte Macron was born a male, right? Oopsies, you messed up on this one detail and now we're gonna sue you for d..."
 
-**[00:29:03](/episodes/ep-tB5SXXmd9vU.md#ent-person-emmanuel-macron-t-00-12-02)**
+**[00:29:03](/episodes/ep-tB5SXXmd9vU.md#ent-person-emmanuel-macron-t-00-28-30)**
 > "...95 until 2006, when Bank of America acquired it. In 2018—remember, that's going to be the year that Macron comes to power—Bank of America pulled out of a few of the buildings and they left it completely emp..."
 
 **[00:36:08](/episodes/ep-tB5SXXmd9vU.md#ent-person-emmanuel-macron-t-00-36-03)**
