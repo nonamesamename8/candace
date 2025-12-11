@@ -1,14 +1,14 @@
 ---
 id: "YA1FxrDWNIo"
 title: "DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245"
-description: "DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 - 65 entities, 6 events, 0 claims"
+description: "DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 - 66 entities, 6 events, 0 claims"
 published: "2025-09-30"
 youtube_url: "https://www.youtube.com/watch?v=YA1FxrDWNIo"
 ---
 
 **Published:** 2025-09-30 | [Watch on YouTube](https://www.youtube.com/watch?v=YA1FxrDWNIo)
 
-**Stats:** 65 entities | 6 events | 0 claims
+**Stats:** 66 entities | 6 events | 0 claims
 
 ---
 
@@ -149,7 +149,7 @@ youtube_url: "https://www.youtube.com/watch?v=YA1FxrDWNIo"
 
 **<a href="/timestamps/ep-YA1FxrDWNIo/t-00-36-52.md" class="timestamp-link">00:36:52</a> <a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=2212" target="_blank" title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Let's—like—explicitly. I want to hear from <span id="ent-org-turning-point-usa-t-00-36-52"><a href="/entities/org-turning-point-usa.md">Turning Point USA</a></span> that I'm lying about that. I want you to say, "No, no, it was just, you know, he was feeling a little bit of pressure." No, I want you to literally answer what I have just said. It either happened or it didn't. I'm either making it all up, or it happened exactly as I'm saying. And while we're at it, may I ask, what is the name of the Jewish donor who sponsored the <span id="ent-gpe-hamptons-t-00-36-52"><a href="/entities/gpe-hamptons.md">Hamptons</a></span> weekend? Okay. And to Pastor <span id="ent-person-rob-mccoy-t-00-36-52"><a href="/entities/person-rob-mccoy.md">Rob McCoy</a></span>, were there any LLCs that you or your son were being paid through that sat outside of <a href="/entities/org-turning-point-usa.md">Turning Point</a>? I'm asking that question genuinely. ^t-00-36-52
 
-**<a href="/timestamps/ep-YA1FxrDWNIo/t-00-37-35.md" class="timestamp-link">00:37:35</a> <a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=2255" target="_blank" title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Yeah, I'm putting the fire here right at the feet of <span id="ent-org-turning-point-usa-t-00-37-35"><a href="/entities/org-turning-point-usa.md">Turning Point</a></span> because I am disgusted. I am genuinely disgusted. I am looking around and wondering whether <a href="/entities/person-charlie-kirk.md">Charlie</a>'s (<span id="ent-person-charlie-kirk-t-00-37-35"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span>'s) entire life was The Truman Show. None of you guys are behaving in the way that you should be behaving, okay? There is no way you are letting these lies fly unless—as I am hearing— unless it is true that there was a big, big, big payday that was on the line. ^t-00-37-35
+**<a href="/timestamps/ep-YA1FxrDWNIo/t-00-37-35.md" class="timestamp-link">00:37:35</a> <a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=2255" target="_blank" title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** Yeah, I'm putting the fire here right at the feet of <span id="ent-org-turning-point-usa-t-00-37-35"><a href="/entities/org-turning-point-usa.md">Turning Point</a></span> because I am disgusted. I am genuinely disgusted. I am looking around and wondering whether <a href="/entities/person-charlie-kirk.md">Charlie</a>'s (<span id="ent-person-charlie-kirk-t-00-37-35"><a href="/entities/person-charlie-kirk.md">Charlie Kirk</a></span>'s) entire life was <span id="ent-work-the-truman-show-t-00-37-35"><a href="/entities/work-the-truman-show.md">The Truman Show</a></span>. None of you guys are behaving in the way that you should be behaving, okay? There is no way you are letting these lies fly unless—as I am hearing— unless it is true that there was a big, big, big payday that was on the line. ^t-00-37-35
 
 **<a href="/timestamps/ep-YA1FxrDWNIo/t-00-38-04.md" class="timestamp-link">00:38:04</a> <a href="https://www.youtube.com/watch?v=YA1FxrDWNIo&t=2284" target="_blank" title="Watch on YouTube at this timestamp">▶️</a> Candace Owens:** And if <span id="ent-person-charlie-kirk-t-00-38-04"><a href="/entities/person-charlie-kirk.md">Charlie</a></span> radically stated that he was done with <span id="ent-gpe-israel-t-00-38-04"><a href="/entities/gpe-israel.md">Israel</a></span>—if <a href="/entities/person-charlie-kirk.md">Charlie</a> said he had no choice but to abandon the pro-<a href="/entities/gpe-israel.md">Israel</a> cause because of—and I quote—"Jewish donors," the behavior of Jewish donors—if he said that, yes or no—well then, I don't know, maybe some people didn't want to take that risk that he was kind of—what— become <a href="/entities/person-candace-owens.md">Candace</a> <span id="ent-person-candace-owens-t-00-38-04"><a href="/entities/person-candace-owens.md">Owens</a></span> and <a href="/entities/person-tucker-carlson.md">Tucker</a> <span id="ent-person-tucker-carlson-t-00-38-04"><a href="/entities/person-tucker-carlson.md">Carlson</a></span> at <span id="ent-org-turning-point-usa-t-00-38-04"><a href="/entities/org-turning-point-usa.md">Turning Point USA</a></span>—with all of those presences, so much presence across college campuses. Maybe they didn't want to take the chance. You see, I'm just one person. So it's easy to just try to cancel my life and lie on me every second of every day. ^t-00-38-04
 
@@ -202,7 +202,7 @@ youtube_url: "https://www.youtube.com/watch?v=YA1FxrDWNIo"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (65)</strong></summary>
+<summary><strong>Entities Mentioned (66)</strong></summary>
 
 **Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md)
 
@@ -216,7 +216,7 @@ youtube_url: "https://www.youtube.com/watch?v=YA1FxrDWNIo"
 
 **People:** [Alex Jones](/entities/person-alex-jones.md), [Andrew Zenger](/entities/person-andrew-zenger.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bob Shillman](/entities/person-bob-shillman.md), [Candace Owens](/entities/person-candace-owens.md), [Cardi B](/entities/person-cardi-b.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [George Farmer](/entities/person-george-farmer.md), [George Zinn](/entities/person-george-zinn.md), [Gernot Omer](/entities/person-gernot-omer.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Kash Patel](/entities/person-kash-patel.md), [Laura Loomer](/entities/person-laura-loomer.md), [Mike Mitchell](/entities/person-mike-mitchell.md), [Phil Lyman](/entities/person-phil-lyman.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Robert Bowles](/entities/person-robert-bowles.md), [Senator Mike Lee](/entities/person-senator-mike-lee.md), [Shaner Broderick](/entities/person-shaner-broderick.md), [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md), [Tim Ballard](/entities/person-tim-ballard.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-**Works & Media:** [Chaos](/entities/work-chaos.md)
+**Works & Media:** [Chaos](/entities/work-chaos.md), [The Truman Show](/entities/work-the-truman-show.md)
 
 </details>
 

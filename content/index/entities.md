@@ -2,7 +2,7 @@
 title: "Entities"
 ---
 
-_Total entities: 1014_
+_Total entities: 1015_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -44,7 +44,7 @@ _Total entities: 1014_
   <label for="tab-concept" class="tab-btn">Concepts (23)</label>
   <label for="tab-date" class="tab-btn">Dates (54)</label>
   <label for="tab-vehicle" class="tab-btn">Vehicles (5)</label>
-  <label for="tab-work" class="tab-btn">Works & Media (33)</label>
+  <label for="tab-work" class="tab-btn">Works & Media (34)</label>
   <label for="tab-law" class="tab-btn">Laws & Legislation (2)</label>
   <label for="tab-anonymous_source" class="tab-btn">Anonymous Sources (23)</label>
 </div>
@@ -4908,7 +4908,7 @@ _5 vehicles sorted by most mentioned_
 
 <div class="tab-content tab-content-work">
 
-_33 works & medias sorted by most mentioned_
+_34 works & medias sorted by most mentioned_
 
 <div class="filter-item">
 
@@ -5018,6 +5018,11 @@ _33 works & medias sorted by most mentioned_
 <div class="filter-item">
 
 - [The Five](/entities/work-the-five.md) (2 mentions)
+
+</div>
+<div class="filter-item">
+
+- [The Truman Show](/entities/work-the-truman-show.md) (2 mentions)
 
 </div>
 <div class="filter-item">
