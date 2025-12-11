@@ -1517,7 +1517,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Erika Kirk (15)</strong></summary>
+<summary><strong class="section-title">Statements by Erika Kirk (12)</strong></summary>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (7)</summary>
@@ -1568,23 +1568,9 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (3)</summary>
-
-- [00:03:46](/episodes/ep-ja26iltROkM.md#t-00-03-22) [○] (Opinion) ["Charlie Kirk did not suffer - he blinked and saw his Savior in paradise"](/statements/statement-8e4b54b0582f.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:03:46](/episodes/ep-ja26iltROkM.md#t-00-03-22) [○] (Claim) ["Charlie blinked and saw his Savior in paradise - he did not suffer"](/statements/statement-62ba626a4aaa.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1)</summary>
 
 - [00:03:46](/episodes/ep-ja26iltROkM.md#t-00-03-22) [○] (Claim) ["Charlie Kirk did not suffer when he was assassinated - he blinked and saw his Sa..."](/statements/statement-fd1d06081253.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</details>
-
-<details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1)</summary>
-
-- [00:01:36](/episodes/ep-czVBmqZP6Ss.md#t-00-01-09) [○] (Promise) ["The movement my husband built will not die"](/statements/statement-e12131758c34.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

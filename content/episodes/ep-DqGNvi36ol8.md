@@ -283,7 +283,7 @@ youtube_url: "https://www.youtube.com/watch?v=DqGNvi36ol8"
 </details>
 
 <details>
-<summary><strong>Statements (53)</strong></summary>
+<summary><strong>Statements (47)</strong></summary>
 
 - [00:00:25](#t-00-00-00) [○] (Claim) **Candace Owens**: ["TPUSA confirmed that the debate request came from Erika Kirk"](/statements/statement-1d1f4bad48c8.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
@@ -303,7 +303,6 @@ youtube_url: "https://www.youtube.com/watch?v=DqGNvi36ol8"
 - [00:01:59](#t-00-01-33) [○] (Claim) **Candace Owens**: ["My most contentious and my most viral debates have never been in person"](/statements/statement-548b50cc3d8c.md)
 - [00:02:43](#t-00-02-12) [○] (Claim) **Candace Owens**: ["The Charlie Kirk show has crashed in the rankings falling to number 94 on Apple ..."](/statements/statement-3f9689e26a17.md)
   - About: [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
-- [00:03:05](#t-00-02-57) [○] (Claim) **Candace Owens**: ["George cannot make the 15th work. He shut it down immediately for a very valid r..."](/statements/statement-043da8124ed7.md)
 - [00:03:09](#t-00-02-57) [○] (Promise) **Candace Owens**: ["I will raise it with the Supreme Court of George Farmer if Turning Point USA con..."](/statements/statement-e25f90a72814.md)
 - [00:03:26](#t-00-02-57) [○] (Claim) **Candace Owens**: ["A weird amount of young men were alone at the September 10th event wearing maroo..."](/statements/statement-0e148ae5cb18.md)
 - [00:03:38](#t-00-02-57) [○] (Claim) **Candace Owens**: ["In 2014, John McCain went over to Ukraine and led the protesters in the streets"](/statements/statement-2657ec89fb0f.md)
@@ -324,12 +323,6 @@ youtube_url: "https://www.youtube.com/watch?v=DqGNvi36ol8"
   - About: [Emmanuel Behrer](/entities/person-emmanuel-behrer.md), [Oracle](/entities/org-oracle.md)
 - [00:07:00](#t-00-06-55) [○] (Claim) **Candace Owens**: ["Emmanuel Behrer was plucked from obscurity by the mainstream media as an eyewitn..."](/statements/statement-bd8cb82db858.md)
   - About: [Emmanuel Behrer](/entities/person-emmanuel-behrer.md)
-- [00:07:07](#t-00-06-55) [○] (Opinion) **Blake Neff**: ["It's intuitive that it is critical to be in person if you want to be authentic"](/statements/statement-382e0aa2dd7a.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md)
-- [00:07:31](#t-00-06-55) [○] (Claim) **The Game**: ["Let that woman speak her truth and I will love her like my mama, love her like K..."](/statements/statement-49e7a6ef279b.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:07:35](#t-00-06-55) [○] (Accusation) **The Game**: ["His body is not yet settled in the dirt. Why are you carrying on like that? Are ..."](/statements/statement-1aae547d563c.md)
-  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:10:20](#t-00-09-58) [○] (Claim) **Candace Owens**: ["The videographer who captured footage of someone on the roof at 12:23 said he ne..."](/statements/statement-d729fc3ff3cf.md)
 - [00:10:32](#t-00-09-58) [○] (Citation) **Candace Owens**: ["When police are in undercover units, the FBI, et cetera, and they are not in the..."](/statements/statement-a3b288bf6380.md)
   - About: [FBI](/entities/org-fbi.md)
@@ -360,10 +353,6 @@ youtube_url: "https://www.youtube.com/watch?v=DqGNvi36ol8"
   - About: [Emmanuel Behrer](/entities/person-emmanuel-behrer.md)
 - [00:17:01](#t-00-16-48) [○] (Claim) **Candace Owens**: ["He's a former employee of Oracle, he's in engineering, I believe he's from Germa..."](/statements/statement-3d47d03dc8b1.md)
   - About: [Emmanuel Behrer](/entities/person-emmanuel-behrer.md), [Oracle](/entities/org-oracle.md)
-- [00:22:26](#t-00-22-18) [○] (Opinion) **The Game**: ["Let that woman speak her truth and I will love her like my mama"](/statements/statement-a752144f6f41.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md)
-- [00:22:34](#t-00-22-18) [○] (Opinion) **The Game**: ["Truth is, truth hurts, it's like a neck shot who really killed Charlie Kirk"](/statements/statement-84457ea67d41.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:22:49](#t-00-22-18) [○] (Accusation) **The Game**: ["His body is not yet settled in the dirt, why are you carrying on like that"](/statements/statement-c7cf4004e277.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:27:07](#t-00-27-00) [○] (Claim) **Candace Owens**: ["Adam Bartholomew did not stop live streaming to run down and ensure that his wif..."](/statements/statement-413d905b5063.md)

@@ -352,11 +352,9 @@ youtube_url: "https://www.youtube.com/watch?v=czVBmqZP6Ss"
 </details>
 
 <details>
-<summary><strong>Statements (28)</strong></summary>
+<summary><strong>Statements (27)</strong></summary>
 
 - [00:00:27](#t-00-00-00) [○] (Accusation) **Candace Owens**: ["Charlie was publicly executed before the world"](/statements/statement-b1337a03eb04.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:01:36](#t-00-01-09) [○] (Promise) **Erika Kirk**: ["The movement my husband built will not die"](/statements/statement-e12131758c34.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:06:03](#t-00-05-37) [○] (Opinion) **Candace Owens**: ["Towards the end, Charlie was fighting for custody of himself"](/statements/statement-2dfac75191ef.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)

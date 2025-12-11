@@ -56,15 +56,3 @@ _Type: People_
 _No relationships extracted yet._
 
 </details>
-
-<details open>
-<summary><strong class="section-title">Statements by Mike Cernovich (1)</strong></summary>
-
-<details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
-
-- [00:05:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-05-36) [○] (Claim) ["Several high consciousness people told me they felt an energy shift about two to..."](/statements/statement-21966393b8a9.md)
-
-</details>
-
-</details>

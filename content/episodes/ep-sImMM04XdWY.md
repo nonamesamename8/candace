@@ -278,7 +278,7 @@ youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
 </details>
 
 <details>
-<summary><strong>Statements (38)</strong></summary>
+<summary><strong>Statements (37)</strong></summary>
 
 - [00:00:01](#t-00-00-01) [○] (Accusation) **Candace Owens**: ["Brian Harpole lied badly to Sean Ryan in an interview"](/statements/statement-bf4a6840e928.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md)
@@ -340,8 +340,6 @@ youtube_url: "https://www.youtube.com/watch?v=sImMM04XdWY"
   - About: [Brigitte Macron](/entities/person-brigitte-macron.md)
 - [00:33:53](#t-00-33-24) [○] (Accusation) **Candace Owens**: ["Brian Harpole presented a text message between Dan Flood and Chief Long, not his..."](/statements/statement-01b7ecb55bfa.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md)
-- [00:34:39](#t-00-33-57) [○] (Claim) **Jeff Long**: ["I got you covered"](/statements/statement-aa862991c6fe.md)
-  - About: [Jeff Long](/entities/person-jeff-long.md)
 - [00:34:56](#t-00-34-49) [○] (Accusation) **Candace Owens**: ["Turning Point security never did a walkthrough of the campus when they arrived"](/statements/statement-01c9f9d86a84.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:37:10](#t-00-36-51) [○] (Claim) **Candace Owens**: ["Dan Flood was primarily and only concerned with the Hall of Flags behind Charlie..."](/statements/statement-37bf53db249d.md)

@@ -392,7 +392,7 @@ youtube_url: "https://www.youtube.com/watch?v=LATnak75Si0"
 </details>
 
 <details>
-<summary><strong>Statements (25)</strong></summary>
+<summary><strong>Statements (24)</strong></summary>
 
 - [00:00:05](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Mamdani won the New York City mayoral election"](/statements/statement-70d16cea31e1.md)
   - About: [Mamdani](/entities/person-mamdani.md)
@@ -412,8 +412,6 @@ youtube_url: "https://www.youtube.com/watch?v=LATnak75Si0"
   - About: [Michael Bloomberg](/entities/person-michael-bloomberg.md), [Mamdani](/entities/person-mamdani.md), [Andrew Cuomo](/entities/person-andrew-cuomo.md)
 - [00:10:41](#t-00-10-30) [○] (Claim) **Candace Owens**: ["Airbnb co-founder Joe Gebbia gave .1 million to stop Mamdani"](/statements/statement-6d90401f55f6.md)
   - About: [Joe Gebbia](/entities/person-joe-gebbia.md), [Mamdani](/entities/person-mamdani.md)
-- [00:12:08](#t-00-12-06) [○] (Opinion) **Mamdani**: ["I would stay in New York City as my first foreign visit priority as mayor"](/statements/statement-a0c47b143e5b.md)
-  - About: [Mamdani](/entities/person-mamdani.md)
 - [00:12:35](#t-00-12-33) [○] (Opinion) **Mamdani**: ["I believe Israel has the right to exist, but not as a Jewish state—as a state wi..."](/statements/statement-d23013945481.md)
   - About: [Mamdani](/entities/person-mamdani.md)
 - [00:14:26](#t-00-13-49) [○] (Claim) **Candace Owens**: ["New York has the largest population of Jewish people of any city in the world ne..."](/statements/statement-f894364f670d.md)

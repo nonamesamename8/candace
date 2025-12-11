@@ -299,7 +299,7 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
 </details>
 
 <details>
-<summary><strong>Statements (70)</strong></summary>
+<summary><strong>Statements (67)</strong></summary>
 
 - [00:00:31](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Erika Kirk gave a speech calling for forgiveness instead of calling for war"](/statements/statement-0d027080c33e.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -312,10 +312,6 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
 - [00:01:12](#t-00-00-44) [○] (Accusation) **Candace Owens**: ["Kash Patel has issued a statement fully capitulating to the public insistence th..."](/statements/statement-4d89c4fd78af.md)
   - About: [Kash Patel](/entities/person-kash-patel.md)
 - [00:01:18](#t-00-00-44) [○] (Accusation) **Candace Owens**: ["They are clearly lying to us about what happened on the day that Charlie Kirk lo..."](/statements/statement-4f6e06ede836.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:03:46](#t-00-03-22) [○] (Opinion) **Erika Kirk**: ["Charlie Kirk did not suffer - he blinked and saw his Savior in paradise"](/statements/statement-8e4b54b0582f.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:03:46](#t-00-03-22) [○] (Claim) **Erika Kirk**: ["Charlie blinked and saw his Savior in paradise - he did not suffer"](/statements/statement-62ba626a4aaa.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:03:46](#t-00-03-22) [○] (Claim) **Erika Kirk**: ["Charlie Kirk did not suffer when he was assassinated - he blinked and saw his Sa..."](/statements/statement-fd1d06081253.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -413,8 +409,6 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 - [00:41:54](#t-00-41-21) [○] (Claim) **Candace Owens**: ["There was a president who suggested the precursor to AIPAC should register under..."](/statements/statement-f6dbcf4df47a.md)
   - About: [AIPAC](/entities/org-aipac.md)
-- [00:44:12](#t-00-43-32) [○] (Opinion) **Tucker Carlson**: ["The only real solution is Jesus - politics can't answer the deepest questions"](/statements/statement-94578efe4f7c.md)
-  - About: [Tucker Carlson](/entities/person-tucker-carlson.md)
 - [00:45:16](#t-00-45-12) [○] (Opinion) **Tucker Carlson**: ["Politics is not the final answer - the only real solution is Jesus. Christianity..."](/statements/statement-5c8bc3a34740.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:45:17](#t-00-45-12) [○] (Promise) **Candace Owens**: ["I will not stop investigating what happened to Charlie Kirk unless Erika Kirk, m..."](/statements/statement-faa9a0283c31.md)

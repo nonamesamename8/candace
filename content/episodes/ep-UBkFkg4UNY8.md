@@ -364,9 +364,8 @@ youtube_url: "https://www.youtube.com/watch?v=UBkFkg4UNY8"
 </details>
 
 <details>
-<summary><strong>Statements (20)</strong></summary>
+<summary><strong>Statements (19)</strong></summary>
 
-- [00:00:01](#t-00-00-00) [○] (Opinion) **Candace Owens**: ["Test statement"](/statements/statement-fea7ba9a6a59.md)
 - [00:00:32](#t-00-00-32) [○] (Claim) **Candace Owens**: ["A lot of the eyewitnesses and people sharing videos weren't random UVU college s..."](/statements/statement-dd94fb9aba56.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:01:40](#t-00-01-13) [○] (Claim) **Candace Owens**: ["Charlie Kirk was not wearing an earpiece"](/statements/statement-1a21857d4610.md)

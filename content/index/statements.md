@@ -1,11 +1,11 @@
 ---
 title: "Statements Index"
-description: "Browse 1186 statements extracted from podcast episodes"
+description: "Browse 1162 statements extracted from podcast episodes"
 ---
 
 # Statements
 
-_1186 statements extracted from podcast episodes._
+_1162 statements extracted from podcast episodes._
 
 > **Note:** Statements are extracted from podcast transcripts using AI analysis.
 > Speaker attribution and content may contain errors. Always verify against primary sources.
@@ -51,7 +51,7 @@ _1186 statements extracted from podcast episodes._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Accusations (224)</strong></summary>
+<summary><strong class="section-title">Accusations (223)</strong></summary>
 
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (6)</summary>
@@ -1125,14 +1125,8 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (7)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (6)</summary>
 
-<div class="filter-item">
-
-- [00:07:35](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) [○] **The Game**: ["His body is not yet settled in the dirt. Why are you carrying on like that? Are ..."](/statements/statement-1aae547d563c.md)
-  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
 <div class="filter-item">
 
 - [00:10:59](/episodes/ep-DqGNvi36ol8.md#t-00-10-37) [○] **Blake Neff**: ["We are not booking a guest and never said that we were. We are delivering a resp..."](/statements/statement-201657009b78.md)
@@ -1549,7 +1543,7 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details open>
-<summary><strong class="section-title">Factual Claims (772)</strong></summary>
+<summary><strong class="section-title">Factual Claims (765)</strong></summary>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (10)</summary>
@@ -1795,18 +1789,12 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (42)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (41)</summary>
 
 <div class="filter-item">
 
 - [00:00:31](/episodes/ep-ja26iltROkM.md#t-00-00-00) [○] **Candace Owens**: ["Erika Kirk gave a speech calling for forgiveness instead of calling for war"](/statements/statement-0d027080c33e.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:03:46](/episodes/ep-ja26iltROkM.md#t-00-03-22) [○] **Erika Kirk**: ["Charlie blinked and saw his Savior in paradise - he did not suffer"](/statements/statement-62ba626a4aaa.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
@@ -3305,7 +3293,7 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (33)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (32)</summary>
 
 <div class="filter-item">
 
@@ -3461,12 +3449,6 @@ _1186 statements extracted from podcast episodes._
 
 - [00:23:11](/episodes/ep-sImMM04XdWY.md#t-00-23-08) [○] **Candace Owens**: ["Candace started Becoming Brigitte season two on September 8th, discussing the MK..."](/statements/statement-fe66cc7c572f.md)
   - About: [Brigitte Macron](/entities/person-brigitte-macron.md)
-
-</div>
-<div class="filter-item">
-
-- [00:34:39](/episodes/ep-sImMM04XdWY.md#t-00-33-57) [○] **Jeff Long**: ["I got you covered"](/statements/statement-aa862991c6fe.md)
-  - About: [Jeff Long](/entities/person-jeff-long.md)
 
 </div>
 <div class="filter-item">
@@ -3983,41 +3965,6 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (5)</summary>
-
-<div class="filter-item">
-
-- [00:04:03](/episodes/ep-5autG89PW6w.md#t-00-03-30) [○] **Candace Owens**: ["In a vivid dream over the weekend, Charlie Kirk came to me and told me that he w..."](/statements/statement-68e2b4f91fe3.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:14:31](/episodes/ep-5autG89PW6w.md#t-00-14-17) [○] **Andrew Kolvet**: ["The text message screen grab shared by Candace Owens is authentic"](/statements/statement-7d45ee3d3772.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md)
-
-</div>
-<div class="filter-item">
-
-- [00:17:34](/episodes/ep-5autG89PW6w.md#t-00-17-07) [○] **Andrew Kolvet**: ["Charlie Kirk's position on Israel was complicated and nuanced and was a wrestle ..."](/statements/statement-84a0458139cf.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:21:25](/episodes/ep-5autG89PW6w.md#t-00-20-43) [○] **Candace Owens**: ["Three people told me that the very day before Charlie Kirk died, he expressed th..."](/statements/statement-8bfba37e9a51.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:24:14](/episodes/ep-5autG89PW6w.md#t-00-24-12) [○] **Josh Hammer**: ["I spoke with Charlie Kirk literally the night before his tragic death, on a smal..."](/statements/statement-99f2324b8ed4.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-</details>
-
-<details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (6)</summary>
 
 <div class="filter-item">
@@ -4054,6 +4001,35 @@ _1186 statements extracted from podcast episodes._
 
 - [00:19:53](/episodes/ep-MUA9ebCF4Ow.md#t-00-19-36) [○] **Candace Owens**: ["UVU recommended to Turning Point that they not hold the event in the outdoor amp..."](/statements/statement-70516c3a9100.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</div>
+</details>
+
+<details>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (4)</summary>
+
+<div class="filter-item">
+
+- [00:14:31](/episodes/ep-5autG89PW6w.md#t-00-14-17) [○] **Andrew Kolvet**: ["The text message screen grab shared by Candace Owens is authentic"](/statements/statement-7d45ee3d3772.md)
+  - About: [Candace Owens](/entities/person-candace-owens.md)
+
+</div>
+<div class="filter-item">
+
+- [00:17:34](/episodes/ep-5autG89PW6w.md#t-00-17-07) [○] **Andrew Kolvet**: ["Charlie Kirk's position on Israel was complicated and nuanced and was a wrestle ..."](/statements/statement-84a0458139cf.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:21:25](/episodes/ep-5autG89PW6w.md#t-00-20-43) [○] **Candace Owens**: ["Three people told me that the very day before Charlie Kirk died, he expressed th..."](/statements/statement-8bfba37e9a51.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:24:14](/episodes/ep-5autG89PW6w.md#t-00-24-12) [○] **Josh Hammer**: ["I spoke with Charlie Kirk literally the night before his tragic death, on a smal..."](/statements/statement-99f2324b8ed4.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 </details>
@@ -4169,7 +4145,7 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (36)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (35)</summary>
 
 <div class="filter-item">
 
@@ -4381,16 +4357,10 @@ _1186 statements extracted from podcast episodes._
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
-<div class="filter-item">
-
-- [00:56:09](/episodes/ep-JQjCAsfoXEE.md#t-00-55-58) [○] **Candace Owens**: ["Charlie Kirk told me he was betrayed in a dream"](/statements/statement-04bf3eb76977.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (35)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (34)</summary>
 
 <div class="filter-item">
 
@@ -4432,11 +4402,6 @@ _1186 statements extracted from podcast episodes._
 
 - [00:04:27](/episodes/ep-Cq7nj9rxPdo.md#t-00-04-13) [○] **Candace Owens**: ["On April 13th 2018, Candace told Charlie that Kanye West was writing a philosoph..."](/statements/statement-19b05c92f8e5.md)
   - About: [Kanye West](/entities/person-kanye-west.md), [April 13th](/entities/date-april-13th.md)
-
-</div>
-<div class="filter-item">
-
-- [00:05:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-05-36) [○] **Mike Cernovich**: ["Several high consciousness people told me they felt an energy shift about two to..."](/statements/statement-21966393b8a9.md)
 
 </div>
 <div class="filter-item">
@@ -4604,7 +4569,7 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (34)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (32)</summary>
 
 <div class="filter-item">
 
@@ -4650,11 +4615,6 @@ _1186 statements extracted from podcast episodes._
 
 - [00:02:43](/episodes/ep-DqGNvi36ol8.md#t-00-02-12) [○] **Candace Owens**: ["The Charlie Kirk show has crashed in the rankings falling to number 94 on Apple ..."](/statements/statement-3f9689e26a17.md)
   - About: [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
-
-</div>
-<div class="filter-item">
-
-- [00:03:05](/episodes/ep-DqGNvi36ol8.md#t-00-02-57) [○] **Candace Owens**: ["George cannot make the 15th work. He shut it down immediately for a very valid r..."](/statements/statement-043da8124ed7.md)
 
 </div>
 <div class="filter-item">
@@ -4707,12 +4667,6 @@ _1186 statements extracted from podcast episodes._
 
 - [00:07:00](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) [○] **Candace Owens**: ["Emmanuel Behrer was plucked from obscurity by the mainstream media as an eyewitn..."](/statements/statement-bd8cb82db858.md)
   - About: [Emmanuel Behrer](/entities/person-emmanuel-behrer.md)
-
-</div>
-<div class="filter-item">
-
-- [00:07:31](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) [○] **The Game**: ["Let that woman speak her truth and I will love her like my mama, love her like K..."](/statements/statement-49e7a6ef279b.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
@@ -6450,17 +6404,11 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details open>
-<summary><strong class="section-title">Promises (16)</strong></summary>
+<summary><strong class="section-title">Promises (14)</strong></summary>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (2)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (1)</summary>
 
-<div class="filter-item">
-
-- [00:01:36](/episodes/ep-czVBmqZP6Ss.md#t-00-01-09) [○] **Erika Kirk**: ["The movement my husband built will not die"](/statements/statement-e12131758c34.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
 <div class="filter-item">
 
 - [00:32:05](/episodes/ep-czVBmqZP6Ss.md#t-00-31-46) [○] **Candace Owens**: ["If you put a shill in Charlie's chair, in Charlie's company, and try to tell us ..."](/statements/statement-a2a9f8c9ec96.md)
@@ -6543,17 +6491,6 @@ _1186 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:03:09](/episodes/ep-DqGNvi36ol8.md#t-00-02-57) [○] **Candace Owens**: ["I will raise it with the Supreme Court of George Farmer if Turning Point USA con..."](/statements/statement-e25f90a72814.md)
-
-</div>
-</details>
-
-<details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
-
-<div class="filter-item">
-
-- [00:04:43](/episodes/ep-Cq7nj9rxPdo.md#t-00-04-13) [○] **Charlie Kirk**: ["I love Kanye. He's my soul brother. I will find a way to him. I promise we have ..."](/statements/statement-c7c0451e0fd2.md)
-  - About: [Kanye West](/entities/person-kanye-west.md)
 
 </div>
 </details>
@@ -6793,7 +6730,7 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details open>
-<summary><strong class="section-title">Opinions (142)</strong></summary>
+<summary><strong class="section-title">Opinions (128)</strong></summary>
 
 <details>
 <summary>To My Friend, Charlie Kirk. (2)</summary>
@@ -6836,7 +6773,7 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (11)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (9)</summary>
 
 <div class="filter-item">
 
@@ -6848,12 +6785,6 @@ _1186 statements extracted from podcast episodes._
 
 - [00:00:48](/episodes/ep-ja26iltROkM.md#t-00-00-44) [○] **Candace Owens**: ["Erika Kirk's memorial speech was the most consequential speech in American histo..."](/statements/statement-0da3b8dfe41a.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:03:46](/episodes/ep-ja26iltROkM.md#t-00-03-22) [○] **Erika Kirk**: ["Charlie Kirk did not suffer - he blinked and saw his Savior in paradise"](/statements/statement-8e4b54b0582f.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
@@ -6884,12 +6815,6 @@ _1186 statements extracted from podcast episodes._
 
 - [00:40:05](/episodes/ep-ja26iltROkM.md#t-00-39-59) [○] **Charlie Kirk**: ["If you call everyone an anti-Semite for not taking a puritanical view of the Net..."](/statements/statement-46d3e292d339.md)
   - About: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
-
-</div>
-<div class="filter-item">
-
-- [00:44:12](/episodes/ep-ja26iltROkM.md#t-00-43-32) [○] **Tucker Carlson**: ["The only real solution is Jesus - politics can't answer the deepest questions"](/statements/statement-94578efe4f7c.md)
-  - About: [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 </div>
 <div class="filter-item">
@@ -7248,35 +7173,12 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (12)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (8)</summary>
 
-<div class="filter-item">
-
-- [00:00:01](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-00) [○] **Candace Owens**: ["Test statement"](/statements/statement-a6afd483b15c.md)
-
-</div>
 <div class="filter-item">
 
 - [00:00:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-43) [○] **Frank Turek**: ["Frank Turek is telling conspiracy theorists to shut up unless we have the facts"](/statements/statement-4ce88ad25cfc.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
-
-</div>
-<div class="filter-item">
-
-- [00:08:37](/episodes/ep-Cq7nj9rxPdo.md#t-00-08-30) [○] **Scott Adams**: ["Kanye ripped a hole in reality with seven words when he tweeted 'I like the way ..."](/statements/statement-8e4613c3a063.md)
-  - About: [Kanye West](/entities/person-kanye-west.md), [Candace Owens](/entities/person-candace-owens.md)
-
-</div>
-<div class="filter-item">
-
-- [00:09:53](/episodes/ep-Cq7nj9rxPdo.md#t-00-09-14) [○] **Scott Adams**: ["Kanye actually just altered reality and freed a lot of people from a mental pris..."](/statements/statement-d4d62056b77c.md)
-  - About: [Kanye West](/entities/person-kanye-west.md)
-
-</div>
-<div class="filter-item">
-
-- [00:10:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-09-58) [○] **Scott Adams**: ["Kanye West altered reality and freed a lot of people from a mental prison"](/statements/statement-a537f43ef900.md)
-  - About: [Kanye West](/entities/person-kanye-west.md)
 
 </div>
 <div class="filter-item">
@@ -7323,65 +7225,7 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (9)</summary>
-
-<div class="filter-item">
-
-- [00:00:53](/episodes/ep-DqGNvi36ol8.md#t-00-00-41) [○] **Candace Owens**: ["I have probably looked at more footage from September 10th than any human being ..."](/statements/statement-4133530415b2.md)
-  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
-
-</div>
-<div class="filter-item">
-
-- [00:01:15](/episodes/ep-DqGNvi36ol8.md#t-00-00-41) [○] **Candace Owens**: ["The public is more perceptive and capable than our FBI"](/statements/statement-0d8760c22327.md)
-  - About: [FBI](/entities/org-fbi.md)
-
-</div>
-<div class="filter-item">
-
-- [00:03:55](/episodes/ep-DqGNvi36ol8.md#t-00-03-41) [○] **Candace Owens**: ["I believe in my heart and in my rational mind that Charlie Kirk's assassination ..."](/statements/statement-e054d5b0731f.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
-
-</div>
-<div class="filter-item">
-
-- [00:05:30](/episodes/ep-DqGNvi36ol8.md#t-00-05-13) [○] **Candace Owens**: ["I suspect that our maroon boys in general were tasked with taking footage from p..."](/statements/statement-fb9d542b32d5.md)
-
-</div>
-<div class="filter-item">
-
-- [00:07:07](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) [○] **Blake Neff**: ["It's intuitive that it is critical to be in person if you want to be authentic"](/statements/statement-382e0aa2dd7a.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md)
-
-</div>
-<div class="filter-item">
-
-- [00:15:02](/episodes/ep-DqGNvi36ol8.md#t-00-14-37) [○] **Candace Owens**: ["I do not think Jacob Kasparian shot Charlie Kirk"](/statements/statement-55127cb10cf9.md)
-  - About: [Jacob Kasparian](/entities/person-jacob-kasparian.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:22:26](/episodes/ep-DqGNvi36ol8.md#t-00-22-18) [○] **The Game**: ["Let that woman speak her truth and I will love her like my mama"](/statements/statement-a752144f6f41.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md)
-
-</div>
-<div class="filter-item">
-
-- [00:22:34](/episodes/ep-DqGNvi36ol8.md#t-00-22-18) [○] **The Game**: ["Truth is, truth hurts, it's like a neck shot who really killed Charlie Kirk"](/statements/statement-84457ea67d41.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:48:01](/episodes/ep-DqGNvi36ol8.md#t-00-47-19) [○] **Candace Owens**: ["I do think it would be one of the dumbest moves ever if they coordinated my assa..."](/statements/statement-b0d91024c825.md)
-  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
-
-</div>
-</details>
-
-<details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (11)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (9)</summary>
 
 <div class="filter-item">
 
@@ -7430,20 +7274,48 @@ _1186 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:38:09](/episodes/ep-7RLtGgkTh9o.md#t-00-38-05) [○] **Charlie Kirk**: ["When you're in a foxhole you want someone who will tell you where the bullets ar..."](/statements/statement-67f2081739a5.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:38:59](/episodes/ep-7RLtGgkTh9o.md#t-00-38-49) [○] **Charlie Kirk**: ["We definitely know who our allies are"](/statements/statement-eae5ef4dabb8.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
-
-</div>
-<div class="filter-item">
-
 - [00:58:38](/episodes/ep-7RLtGgkTh9o.md#t-00-58-06) [○] **Candace Owens**: ["Do not let your sons fight in the military - we are just sending our sons over t..."](/statements/statement-c1757961f142.md)
   - About: [Israel](/entities/gpe-israel.md)
+
+</div>
+</details>
+
+<details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (6)</summary>
+
+<div class="filter-item">
+
+- [00:00:53](/episodes/ep-DqGNvi36ol8.md#t-00-00-41) [○] **Candace Owens**: ["I have probably looked at more footage from September 10th than any human being ..."](/statements/statement-4133530415b2.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item">
+
+- [00:01:15](/episodes/ep-DqGNvi36ol8.md#t-00-00-41) [○] **Candace Owens**: ["The public is more perceptive and capable than our FBI"](/statements/statement-0d8760c22327.md)
+  - About: [FBI](/entities/org-fbi.md)
+
+</div>
+<div class="filter-item">
+
+- [00:03:55](/episodes/ep-DqGNvi36ol8.md#t-00-03-41) [○] **Candace Owens**: ["I believe in my heart and in my rational mind that Charlie Kirk's assassination ..."](/statements/statement-e054d5b0731f.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</div>
+<div class="filter-item">
+
+- [00:05:30](/episodes/ep-DqGNvi36ol8.md#t-00-05-13) [○] **Candace Owens**: ["I suspect that our maroon boys in general were tasked with taking footage from p..."](/statements/statement-fb9d542b32d5.md)
+
+</div>
+<div class="filter-item">
+
+- [00:15:02](/episodes/ep-DqGNvi36ol8.md#t-00-14-37) [○] **Candace Owens**: ["I do not think Jacob Kasparian shot Charlie Kirk"](/statements/statement-55127cb10cf9.md)
+  - About: [Jacob Kasparian](/entities/person-jacob-kasparian.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:48:01](/episodes/ep-DqGNvi36ol8.md#t-00-47-19) [○] **Candace Owens**: ["I do think it would be one of the dumbest moves ever if they coordinated my assa..."](/statements/statement-b0d91024c825.md)
+  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 </details>
@@ -7611,14 +7483,8 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (5)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (4)</summary>
 
-<div class="filter-item">
-
-- [00:12:08](/episodes/ep-LATnak75Si0.md#t-00-12-06) [○] **Mamdani**: ["I would stay in New York City as my first foreign visit priority as mayor"](/statements/statement-a0c47b143e5b.md)
-  - About: [Mamdani](/entities/person-mamdani.md)
-
-</div>
 <div class="filter-item">
 
 - [00:12:35](/episodes/ep-LATnak75Si0.md#t-00-12-33) [○] **Mamdani**: ["I believe Israel has the right to exist, but not as a Jewish state—as a state wi..."](/statements/statement-d23013945481.md)
@@ -7646,13 +7512,8 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (2)</summary>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1)</summary>
 
-<div class="filter-item">
-
-- [00:00:01](/episodes/ep-UBkFkg4UNY8.md#t-00-00-00) [○] **Candace Owens**: ["Test statement"](/statements/statement-fea7ba9a6a59.md)
-
-</div>
 <div class="filter-item">
 
 - [00:23:47](/episodes/ep-UBkFkg4UNY8.md#t-00-23-23) [○] **Anonymous Source #1 (Ep UBkFkg4UNY8)**: ["The shooter looked like a foreign agent - highly trained and skilled"](/statements/statement-09eff96da597.md)
@@ -7714,18 +7575,12 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2)</summary>
 
 <div class="filter-item">
 
 - [00:18:38](/episodes/ep-ZAuuSq_j2_w.md#t-00-18-21) [○] **Candace Owens**: ["Walid Mahmood is not the president of Egypt, but is almost certainly well-acquai..."](/statements/statement-0c0772a6830c.md)
   - About: [Walid Mahmood](/entities/person-walid-mahmood.md), [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md)
-
-</div>
-<div class="filter-item">
-
-- [00:25:45](/episodes/ep-ZAuuSq_j2_w.md#t-00-25-41) [○] **Ben Shapiro**: ["I called French intelligence, and something may or may not have happened to Greg"](/statements/statement-52293953468a.md)
-  - About: [Greg Gutfeld](/entities/person-greg-gutfeld.md), [France](/entities/gpe-france.md)
 
 </div>
 <div class="filter-item">
@@ -7861,17 +7716,11 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>They Are Lying About Charlie Kirk. | Candace Ep 235</strong> (28)</summary>
+<summary><strong>They Are Lying About Charlie Kirk. | Candace Ep 235</strong> (27)</summary>
 
 <div class="filter-item">
 
 - [00:00:27](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00) [○] (Accusation) **Candace Owens**: ["Charlie was publicly executed before the world"](/statements/statement-b1337a03eb04.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:01:36](/episodes/ep-czVBmqZP6Ss.md#t-00-01-09) [○] (Promise) **Erika Kirk**: ["The movement my husband built will not die"](/statements/statement-e12131758c34.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
@@ -8147,7 +7996,7 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240</strong> (70)</summary>
+<summary><strong>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240</strong> (67)</summary>
 
 <div class="filter-item">
 
@@ -8182,18 +8031,6 @@ _1186 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:01:18](/episodes/ep-ja26iltROkM.md#t-00-00-44) [○] (Accusation) **Candace Owens**: ["They are clearly lying to us about what happened on the day that Charlie Kirk lo..."](/statements/statement-4f6e06ede836.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:03:46](/episodes/ep-ja26iltROkM.md#t-00-03-22) [○] (Opinion) **Erika Kirk**: ["Charlie Kirk did not suffer - he blinked and saw his Savior in paradise"](/statements/statement-8e4b54b0582f.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:03:46](/episodes/ep-ja26iltROkM.md#t-00-03-22) [○] (Claim) **Erika Kirk**: ["Charlie blinked and saw his Savior in paradise - he did not suffer"](/statements/statement-62ba626a4aaa.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
@@ -8487,12 +8324,6 @@ _1186 statements extracted from podcast episodes._
 
 - [00:41:54](/episodes/ep-ja26iltROkM.md#t-00-41-21) [○] (Claim) **Candace Owens**: ["There was a president who suggested the precursor to AIPAC should register under..."](/statements/statement-f6dbcf4df47a.md)
   - About: [AIPAC](/entities/org-aipac.md)
-
-</div>
-<div class="filter-item">
-
-- [00:44:12](/episodes/ep-ja26iltROkM.md#t-00-43-32) [○] (Opinion) **Tucker Carlson**: ["The only real solution is Jesus - politics can't answer the deepest questions"](/statements/statement-94578efe4f7c.md)
-  - About: [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 </div>
 <div class="filter-item">
@@ -10419,7 +10250,7 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269</strong> (38)</summary>
+<summary><strong>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269</strong> (37)</summary>
 
 <div class="filter-item">
 
@@ -10599,12 +10430,6 @@ _1186 statements extracted from podcast episodes._
 
 - [00:33:53](/episodes/ep-sImMM04XdWY.md#t-00-33-24) [○] (Accusation) **Candace Owens**: ["Brian Harpole presented a text message between Dan Flood and Chief Long, not his..."](/statements/statement-01b7ecb55bfa.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md)
-
-</div>
-<div class="filter-item">
-
-- [00:34:39](/episodes/ep-sImMM04XdWY.md#t-00-33-57) [○] (Claim) **Jeff Long**: ["I got you covered"](/statements/statement-aa862991c6fe.md)
-  - About: [Jeff Long](/entities/person-jeff-long.md)
 
 </div>
 <div class="filter-item">
@@ -11213,18 +11038,12 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249</strong> (9)</summary>
+<summary><strong>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249</strong> (8)</summary>
 
 <div class="filter-item">
 
 - [00:00:07](/episodes/ep-5autG89PW6w.md#t-00-00-00) [○] (Accusation) **Candace Owens**: ["Elon Musk clearly gave Twitter/X away to the military, and we now have to suffer..."](/statements/statement-8a2b992f4e8b.md)
   - About: [Elon Musk](/entities/person-elon-musk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:04:03](/episodes/ep-5autG89PW6w.md#t-00-03-30) [○] (Claim) **Candace Owens**: ["In a vivid dream over the weekend, Charlie Kirk came to me and told me that he w..."](/statements/statement-68e2b4f91fe3.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
@@ -11577,7 +11396,7 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266</strong> (51)</summary>
+<summary><strong>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266</strong> (50)</summary>
 
 <div class="filter-item">
 
@@ -11879,22 +11698,11 @@ _1186 statements extracted from podcast episodes._
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
-<div class="filter-item">
-
-- [00:56:09](/episodes/ep-JQjCAsfoXEE.md#t-00-55-58) [○] (Claim) **Candace Owens**: ["Charlie Kirk told me he was betrayed in a dream"](/statements/statement-04bf3eb76977.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
 </details>
 
 <details>
-<summary><strong>Charlie Ripped A Hole In Reality | Candace Ep 253</strong> (63)</summary>
+<summary><strong>Charlie Ripped A Hole In Reality | Candace Ep 253</strong> (57)</summary>
 
-<div class="filter-item">
-
-- [00:00:01](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-00) [○] (Opinion) **Candace Owens**: ["Test statement"](/statements/statement-a6afd483b15c.md)
-
-</div>
 <div class="filter-item">
 
 - [00:00:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-00) [○] (Claim) **Turning Point USA**: ["Charlie Kirk told Mikey McCoy exactly what he should do in the circumstance of b..."](/statements/statement-6f894cffc27b.md)
@@ -11945,36 +11753,7 @@ _1186 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:04:43](/episodes/ep-Cq7nj9rxPdo.md#t-00-04-13) [○] (Promise) **Charlie Kirk**: ["I love Kanye. He's my soul brother. I will find a way to him. I promise we have ..."](/statements/statement-c7c0451e0fd2.md)
-  - About: [Kanye West](/entities/person-kanye-west.md)
-
-</div>
-<div class="filter-item">
-
-- [00:05:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-05-36) [○] (Claim) **Mike Cernovich**: ["Several high consciousness people told me they felt an energy shift about two to..."](/statements/statement-21966393b8a9.md)
-
-</div>
-<div class="filter-item">
-
 - [00:06:59](/episodes/ep-Cq7nj9rxPdo.md#t-00-06-20) [○] (Prediction) **Charlie Kirk**: ["I'm listening to Kanye and just running my streets. Are you ready for the war th..."](/statements/statement-121946f7b4bc.md)
-  - About: [Kanye West](/entities/person-kanye-west.md)
-
-</div>
-<div class="filter-item">
-
-- [00:08:37](/episodes/ep-Cq7nj9rxPdo.md#t-00-08-30) [○] (Opinion) **Scott Adams**: ["Kanye ripped a hole in reality with seven words when he tweeted 'I like the way ..."](/statements/statement-8e4613c3a063.md)
-  - About: [Kanye West](/entities/person-kanye-west.md), [Candace Owens](/entities/person-candace-owens.md)
-
-</div>
-<div class="filter-item">
-
-- [00:09:53](/episodes/ep-Cq7nj9rxPdo.md#t-00-09-14) [○] (Opinion) **Scott Adams**: ["Kanye actually just altered reality and freed a lot of people from a mental pris..."](/statements/statement-d4d62056b77c.md)
-  - About: [Kanye West](/entities/person-kanye-west.md)
-
-</div>
-<div class="filter-item">
-
-- [00:10:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-09-58) [○] (Opinion) **Scott Adams**: ["Kanye West altered reality and freed a lot of people from a mental prison"](/statements/statement-a537f43ef900.md)
   - About: [Kanye West](/entities/person-kanye-west.md)
 
 </div>
@@ -12268,7 +12047,7 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275</strong> (53)</summary>
+<summary><strong>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275</strong> (47)</summary>
 
 <div class="filter-item">
 
@@ -12326,11 +12105,6 @@ _1186 statements extracted from podcast episodes._
 
 - [00:02:43](/episodes/ep-DqGNvi36ol8.md#t-00-02-12) [○] (Claim) **Candace Owens**: ["The Charlie Kirk show has crashed in the rankings falling to number 94 on Apple ..."](/statements/statement-3f9689e26a17.md)
   - About: [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
-
-</div>
-<div class="filter-item">
-
-- [00:03:05](/episodes/ep-DqGNvi36ol8.md#t-00-02-57) [○] (Claim) **Candace Owens**: ["George cannot make the 15th work. He shut it down immediately for a very valid r..."](/statements/statement-043da8124ed7.md)
 
 </div>
 <div class="filter-item">
@@ -12399,24 +12173,6 @@ _1186 statements extracted from podcast episodes._
 
 - [00:07:00](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) [○] (Claim) **Candace Owens**: ["Emmanuel Behrer was plucked from obscurity by the mainstream media as an eyewitn..."](/statements/statement-bd8cb82db858.md)
   - About: [Emmanuel Behrer](/entities/person-emmanuel-behrer.md)
-
-</div>
-<div class="filter-item">
-
-- [00:07:07](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) [○] (Opinion) **Blake Neff**: ["It's intuitive that it is critical to be in person if you want to be authentic"](/statements/statement-382e0aa2dd7a.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md)
-
-</div>
-<div class="filter-item">
-
-- [00:07:31](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) [○] (Claim) **The Game**: ["Let that woman speak her truth and I will love her like my mama, love her like K..."](/statements/statement-49e7a6ef279b.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:07:35](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) [○] (Accusation) **The Game**: ["His body is not yet settled in the dirt. Why are you carrying on like that? Are ..."](/statements/statement-1aae547d563c.md)
-  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
@@ -12515,18 +12271,6 @@ _1186 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:22:26](/episodes/ep-DqGNvi36ol8.md#t-00-22-18) [○] (Opinion) **The Game**: ["Let that woman speak her truth and I will love her like my mama"](/statements/statement-a752144f6f41.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md)
-
-</div>
-<div class="filter-item">
-
-- [00:22:34](/episodes/ep-DqGNvi36ol8.md#t-00-22-18) [○] (Opinion) **The Game**: ["Truth is, truth hurts, it's like a neck shot who really killed Charlie Kirk"](/statements/statement-84457ea67d41.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
 - [00:22:49](/episodes/ep-DqGNvi36ol8.md#t-00-22-18) [○] (Accusation) **The Game**: ["His body is not yet settled in the dirt, why are you carrying on like that"](/statements/statement-c7cf4004e277.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 
@@ -12582,7 +12326,7 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</strong> (76)</summary>
+<summary><strong>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</strong> (74)</summary>
 
 <div class="filter-item">
 
@@ -13005,18 +12749,6 @@ _1186 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:36:49](/episodes/ep-7RLtGgkTh9o.md#t-00-36-14) [○] (Opinion) **Candace Owens**: ["Our government is evil - terrible people who do terrible things are protected by..."](/statements/statement-aed525446d9c.md)
-
-</div>
-<div class="filter-item">
-
-- [00:38:09](/episodes/ep-7RLtGgkTh9o.md#t-00-38-05) [○] (Opinion) **Charlie Kirk**: ["When you're in a foxhole you want someone who will tell you where the bullets ar..."](/statements/statement-67f2081739a5.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:38:59](/episodes/ep-7RLtGgkTh9o.md#t-00-38-49) [○] (Opinion) **Charlie Kirk**: ["We definitely know who our allies are"](/statements/statement-eae5ef4dabb8.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
@@ -13923,7 +13655,7 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259</strong> (25)</summary>
+<summary><strong>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259</strong> (24)</summary>
 
 <div class="filter-item">
 
@@ -13977,12 +13709,6 @@ _1186 statements extracted from podcast episodes._
 
 - [00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-30) [○] (Claim) **Candace Owens**: ["Airbnb co-founder Joe Gebbia gave .1 million to stop Mamdani"](/statements/statement-6d90401f55f6.md)
   - About: [Joe Gebbia](/entities/person-joe-gebbia.md), [Mamdani](/entities/person-mamdani.md)
-
-</div>
-<div class="filter-item">
-
-- [00:12:08](/episodes/ep-LATnak75Si0.md#t-00-12-06) [○] (Opinion) **Mamdani**: ["I would stay in New York City as my first foreign visit priority as mayor"](/statements/statement-a0c47b143e5b.md)
-  - About: [Mamdani](/entities/person-mamdani.md)
 
 </div>
 <div class="filter-item">
@@ -14327,13 +14053,8 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241</strong> (20)</summary>
+<summary><strong>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241</strong> (19)</summary>
 
-<div class="filter-item">
-
-- [00:00:01](/episodes/ep-UBkFkg4UNY8.md#t-00-00-00) [○] (Opinion) **Candace Owens**: ["Test statement"](/statements/statement-fea7ba9a6a59.md)
-
-</div>
 <div class="filter-item">
 
 - [00:00:32](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32) [○] (Claim) **Candace Owens**: ["A lot of the eyewitnesses and people sharing videos weren't random UVU college s..."](/statements/statement-dd94fb9aba56.md)
@@ -14636,7 +14357,7 @@ _1186 statements extracted from podcast episodes._
 </details>
 
 <details>
-<summary><strong>Shocking Revelation About The Egyptian Planes... | Candace Ep 274</strong> (23)</summary>
+<summary><strong>Shocking Revelation About The Egyptian Planes... | Candace Ep 274</strong> (22)</summary>
 
 <div class="filter-item">
 
@@ -14738,12 +14459,6 @@ _1186 statements extracted from podcast episodes._
 
 - [00:24:47](/episodes/ep-ZAuuSq_j2_w.md#t-00-24-28) [○] (Claim) **Candace Owens**: ["Neither the White House nor the Élysée Palace nor the United States Pentagon has..."](/statements/statement-762a0183a31f.md)
   - About: [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md), [United States Pentagon](/entities/org-united-states-pentagon.md)
-
-</div>
-<div class="filter-item">
-
-- [00:25:45](/episodes/ep-ZAuuSq_j2_w.md#t-00-25-41) [○] (Opinion) **Ben Shapiro**: ["I called French intelligence, and something may or may not have happened to Greg"](/statements/statement-52293953468a.md)
-  - About: [Greg Gutfeld](/entities/person-greg-gutfeld.md), [France](/entities/gpe-france.md)
 
 </div>
 <div class="filter-item">
@@ -15051,4 +14766,4 @@ _1186 statements extracted from podcast episodes._
 
 ---
 
-*Generated: 2025-12-11 12:09:12*
+*Generated: 2025-12-11 12:21:55*

@@ -509,10 +509,10 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Blake Neff (5)</strong></summary>
+<summary><strong class="section-title">Statements by Blake Neff (4)</strong></summary>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (4)</summary>
 
 - [00:01:08](/episodes/ep-DqGNvi36ol8.md#t-00-00-41) [○] (Claim) ["I made the initial statement at the request of Erika. All of this has been at th..."](/statements/statement-5d921b2d7320.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -522,9 +522,6 @@ _Type: People_
 
 - [00:05:47](/episodes/ep-DqGNvi36ol8.md#t-00-05-37) [○] (Claim) ["All of this has been at the direction and approval of Erika because she heads th..."](/statements/statement-4c707e5d4f97.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:07:07](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) [○] (Opinion) ["It's intuitive that it is critical to be in person if you want to be authentic"](/statements/statement-382e0aa2dd7a.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:10:59](/episodes/ep-DqGNvi36ol8.md#t-00-10-37) [○] (Accusation) ["We are not booking a guest and never said that we were. We are delivering a resp..."](/statements/statement-201657009b78.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)

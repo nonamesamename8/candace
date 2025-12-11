@@ -947,7 +947,7 @@ _Type: Places_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about France (11)</strong></summary>
+<summary><strong class="section-title">Statements about France (10)</strong></summary>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (1)</summary>
@@ -984,16 +984,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2)</summary>
 
 - [00:02:46](/episodes/ep-ZAuuSq_j2_w.md#t-00-02-41) (Claim) **Cam Higby** (via quoted speech): ["Does the DoD have any evidence at all of a French military plot to ass..."](/statements/statement-a333ab862f94.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:24:47](/episodes/ep-ZAuuSq_j2_w.md#t-00-24-28) (Claim) **Candace Owens**: ["Neither the White House nor the Élysée Palace nor the United States Pe..."](/statements/statement-762a0183a31f.md)
   - Also about: [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md), [United States Pentagon](/entities/org-united-states-pentagon.md)
-
-- [00:25:45](/episodes/ep-ZAuuSq_j2_w.md#t-00-25-41) (Opinion) **Ben Shapiro** (via quoted speech): ["I called French intelligence, and something may or may not have happen..."](/statements/statement-52293953468a.md)
-  - Also about: [Greg Gutfeld](/entities/person-greg-gutfeld.md)
 
 </details>
 

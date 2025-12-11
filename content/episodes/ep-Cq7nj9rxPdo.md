@@ -336,9 +336,8 @@ youtube_url: "https://www.youtube.com/watch?v=Cq7nj9rxPdo"
 </details>
 
 <details>
-<summary><strong>Statements (63)</strong></summary>
+<summary><strong>Statements (57)</strong></summary>
 
-- [00:00:01](#t-00-00-00) [○] (Opinion) **Candace Owens**: ["Test statement"](/statements/statement-a6afd483b15c.md)
 - [00:00:07](#t-00-00-00) [○] (Claim) **Turning Point USA**: ["Charlie Kirk told Mikey McCoy exactly what he should do in the circumstance of b..."](/statements/statement-6f894cffc27b.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Mikey McCoy](/entities/person-mikey-mccoy.md)
 - [00:00:07](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Turning Point USA says Charlie Kirk told Mikey McCoy to walk away after being sh..."](/statements/statement-676915e9616c.md)
@@ -355,16 +354,7 @@ youtube_url: "https://www.youtube.com/watch?v=Cq7nj9rxPdo"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
 - [00:04:27](#t-00-04-13) [○] (Claim) **Candace Owens**: ["On April 13th 2018, Candace told Charlie that Kanye West was writing a philosoph..."](/statements/statement-19b05c92f8e5.md)
   - About: [Kanye West](/entities/person-kanye-west.md), [April 13th](/entities/date-april-13th.md)
-- [00:04:43](#t-00-04-13) [○] (Promise) **Charlie Kirk**: ["I love Kanye. He's my soul brother. I will find a way to him. I promise we have ..."](/statements/statement-c7c0451e0fd2.md)
-  - About: [Kanye West](/entities/person-kanye-west.md)
-- [00:05:51](#t-00-05-36) [○] (Claim) **Mike Cernovich**: ["Several high consciousness people told me they felt an energy shift about two to..."](/statements/statement-21966393b8a9.md)
 - [00:06:59](#t-00-06-20) [○] (Prediction) **Charlie Kirk**: ["I'm listening to Kanye and just running my streets. Are you ready for the war th..."](/statements/statement-121946f7b4bc.md)
-  - About: [Kanye West](/entities/person-kanye-west.md)
-- [00:08:37](#t-00-08-30) [○] (Opinion) **Scott Adams**: ["Kanye ripped a hole in reality with seven words when he tweeted 'I like the way ..."](/statements/statement-8e4613c3a063.md)
-  - About: [Kanye West](/entities/person-kanye-west.md), [Candace Owens](/entities/person-candace-owens.md)
-- [00:09:53](#t-00-09-14) [○] (Opinion) **Scott Adams**: ["Kanye actually just altered reality and freed a lot of people from a mental pris..."](/statements/statement-d4d62056b77c.md)
-  - About: [Kanye West](/entities/person-kanye-west.md)
-- [00:10:24](#t-00-09-58) [○] (Opinion) **Scott Adams**: ["Kanye West altered reality and freed a lot of people from a mental prison"](/statements/statement-a537f43ef900.md)
   - About: [Kanye West](/entities/person-kanye-west.md)
 - [00:11:07](#t-00-10-48) [○] (Accusation) **Candace Owens**: ["From the moment of the Kanye tweet onward, Charlie Kirk and Candace Owens were a..."](/statements/statement-2685f32f2368.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)

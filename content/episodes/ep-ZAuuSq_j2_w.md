@@ -279,7 +279,7 @@ youtube_url: "https://www.youtube.com/watch?v=ZAuuSq_j2_w"
 </details>
 
 <details>
-<summary><strong>Statements (23)</strong></summary>
+<summary><strong>Statements (22)</strong></summary>
 
 - [00:00:14](#t-00-00-00) [○] (Claim) **Candace Owens**: ["Turning Point USA issued a debate confirmation and ultimatum at midnight with a ..."](/statements/statement-10acdc02b44e.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -315,8 +315,6 @@ youtube_url: "https://www.youtube.com/watch?v=ZAuuSq_j2_w"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:24:47](#t-00-24-28) [○] (Claim) **Candace Owens**: ["Neither the White House nor the Élysée Palace nor the United States Pentagon has..."](/statements/statement-762a0183a31f.md)
   - About: [White House](/entities/org-white-house.md), [Élysée Palace](/entities/gpe-elysee-palace.md), [United States Pentagon](/entities/org-united-states-pentagon.md)
-- [00:25:45](#t-00-25-41) [○] (Opinion) **Ben Shapiro**: ["I called French intelligence, and something may or may not have happened to Greg"](/statements/statement-52293953468a.md)
-  - About: [Greg Gutfeld](/entities/person-greg-gutfeld.md), [France](/entities/gpe-france.md)
 - [00:28:05](#t-00-27-46) [○] (Claim) **Frank Turek**: ["The night before Charlie Kirk was murdered, Charlie told me 'Blake is my secret ..."](/statements/statement-2200d966c588.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Blake Neff](/entities/person-blake-neff.md), [Frank Turek](/entities/person-frank-turek.md)
 - [00:28:32](#t-00-28-05) [○] (Opinion) **Frank Turek**: ["To suggest that anyone within TPUSA was complicit in Charlie Kirk's murder is to..."](/statements/statement-19b1c7431d4a.md)

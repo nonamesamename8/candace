@@ -52,16 +52,3 @@ _Type: People_
 _No relationships extracted yet._
 
 </details>
-
-<details open>
-<summary><strong class="section-title">Statements about Greg Gutfeld (1)</strong></summary>
-
-<details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1)</summary>
-
-- [00:25:45](/episodes/ep-ZAuuSq_j2_w.md#t-00-25-41) (Opinion) **Ben Shapiro** (via quoted speech): ["I called French intelligence, and something may or may not have happen..."](/statements/statement-52293953468a.md)
-  - Also about: [France](/entities/gpe-france.md)
-
-</details>
-
-</details>

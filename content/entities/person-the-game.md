@@ -86,22 +86,10 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by The Game (5)</strong></summary>
+<summary><strong class="section-title">Statements by The Game (1)</strong></summary>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5)</summary>
-
-- [00:07:31](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) [○] (Claim) ["Let that woman speak her truth and I will love her like my mama, love her like K..."](/statements/statement-49e7a6ef279b.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:07:35](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) [○] (Accusation) ["His body is not yet settled in the dirt. Why are you carrying on like that? Are ..."](/statements/statement-1aae547d563c.md)
-  - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:22:26](/episodes/ep-DqGNvi36ol8.md#t-00-22-18) [○] (Opinion) ["Let that woman speak her truth and I will love her like my mama"](/statements/statement-a752144f6f41.md)
-  - About: [Candace Owens](/entities/person-candace-owens.md)
-
-- [00:22:34](/episodes/ep-DqGNvi36ol8.md#t-00-22-18) [○] (Opinion) ["Truth is, truth hurts, it's like a neck shot who really killed Charlie Kirk"](/statements/statement-84457ea67d41.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (1)</summary>
 
 - [00:22:49](/episodes/ep-DqGNvi36ol8.md#t-00-22-18) [○] (Accusation) ["His body is not yet settled in the dirt, why are you carrying on like that"](/statements/statement-c7cf4004e277.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)

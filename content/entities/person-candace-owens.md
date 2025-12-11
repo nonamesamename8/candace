@@ -5852,7 +5852,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (868)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (863)</strong></summary>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (28)</summary>
@@ -6095,7 +6095,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (42)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (41)</summary>
 
 - [00:00:25](/episodes/ep-DqGNvi36ol8.md#t-00-00-00) [○] (Claim) ["TPUSA confirmed that the debate request came from Erika Kirk"](/statements/statement-1d1f4bad48c8.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
@@ -6121,8 +6121,6 @@ _Type: People_
 
 - [00:02:43](/episodes/ep-DqGNvi36ol8.md#t-00-02-12) [○] (Claim) ["The Charlie Kirk show has crashed in the rankings falling to number 94 on Apple ..."](/statements/statement-3f9689e26a17.md)
   - About: [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
-
-- [00:03:05](/episodes/ep-DqGNvi36ol8.md#t-00-02-57) [○] (Claim) ["George cannot make the 15th work. He shut it down immediately for a very valid r..."](/statements/statement-043da8124ed7.md)
 
 - [00:03:09](/episodes/ep-DqGNvi36ol8.md#t-00-02-57) [○] (Promise) ["I will raise it with the Supreme Court of George Farmer if Turning Point USA con..."](/statements/statement-e25f90a72814.md)
 
@@ -6509,7 +6507,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (42)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (41)</summary>
 
 - [00:00:02](/episodes/ep-JQjCAsfoXEE.md#t-00-00-00) [○] (Claim) ["The CIA established Operation Mockingbird after the public execution of JFK in 1..."](/statements/statement-b6c4b6edb33f.md)
   - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [JFK assassination](/entities/event-jfk-assassination.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
@@ -6633,9 +6631,6 @@ _Type: People_
 
 - [00:33:24](/episodes/ep-JQjCAsfoXEE.md#t-00-32-54) [○] (Claim) ["Turning Point USA missed their tax deadline for the first time"](/statements/statement-5ee97da9f2d4.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:56:09](/episodes/ep-JQjCAsfoXEE.md#t-00-55-58) [○] (Claim) ["Charlie Kirk told me he was betrayed in a dream"](/statements/statement-04bf3eb76977.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
 
@@ -7133,9 +7128,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (51)</summary>
-
-- [00:00:01](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-00) [○] (Opinion) ["Test statement"](/statements/statement-a6afd483b15c.md)
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (50)</summary>
 
 - [00:00:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-00) [○] (Claim) ["Turning Point USA says Charlie Kirk told Mikey McCoy to walk away after being sh..."](/statements/statement-676915e9616c.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Mikey McCoy](/entities/person-mikey-mccoy.md)
@@ -7494,13 +7487,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (5)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (4)</summary>
 
 - [00:00:07](/episodes/ep-5autG89PW6w.md#t-00-00-00) [○] (Accusation) ["Elon Musk clearly gave Twitter/X away to the military, and we now have to suffer..."](/statements/statement-8a2b992f4e8b.md)
   - About: [Elon Musk](/entities/person-elon-musk.md)
-
-- [00:04:03](/episodes/ep-5autG89PW6w.md#t-00-03-30) [○] (Claim) ["In a vivid dream over the weekend, Charlie Kirk came to me and told me that he w..."](/statements/statement-68e2b4f91fe3.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:04:11](/episodes/ep-5autG89PW6w.md#t-00-03-30) [○] (Prediction) ["It is soon going to be revealed that someone betrayed Charlie Kirk, and it is go..."](/statements/statement-d77228b7f3de.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -7702,9 +7692,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (12)</summary>
-
-- [00:00:01](/episodes/ep-UBkFkg4UNY8.md#t-00-00-00) [○] (Opinion) ["Test statement"](/statements/statement-fea7ba9a6a59.md)
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (11)</summary>
 
 - [00:00:32](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32) [○] (Claim) ["A lot of the eyewitnesses and people sharing videos weren't random UVU college s..."](/statements/statement-dd94fb9aba56.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -8615,7 +8603,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Candace Owens (102)</strong></summary>
+<summary><strong class="section-title">Statements about Candace Owens (97)</strong></summary>
 
 <details>
 <summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (3)</summary>
@@ -8645,17 +8633,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5)</summary>
-
-- [00:07:07](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) (Opinion) **Blake Neff** (via quoted speech): ["It's intuitive that it is critical to be in person if you want to be a..."](/statements/statement-382e0aa2dd7a.md)
-
-- [00:07:31](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) (Claim) **The Game** (via quoted speech): ["Let that woman speak her truth and I will love her like my mama, love ..."](/statements/statement-49e7a6ef279b.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2)</summary>
 
 - [00:10:59](/episodes/ep-DqGNvi36ol8.md#t-00-10-37) (Accusation) **Blake Neff** (via quoted tweet): ["We are not booking a guest and never said that we were. We are deliver..."](/statements/statement-201657009b78.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
-
-- [00:22:26](/episodes/ep-DqGNvi36ol8.md#t-00-22-18) (Opinion) **The Game** (via quoted speech): ["Let that woman speak her truth and I will love her like my mama"](/statements/statement-a752144f6f41.md)
 
 - [00:48:01](/episodes/ep-DqGNvi36ol8.md#t-00-47-19) (Opinion) **Candace Owens**: ["I do think it would be one of the dumbest moves ever if they coordinat..."](/statements/statement-b0d91024c825.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
@@ -8727,14 +8708,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1)</summary>
-
-- [00:38:59](/episodes/ep-7RLtGgkTh9o.md#t-00-38-49) (Opinion) **Charlie Kirk** (via quoted speech): ["We definitely know who our allies are"](/statements/statement-eae5ef4dabb8.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</details>
-
-<details>
 <summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1)</summary>
 
 - [00:02:06](/episodes/ep-yAIb-NuUh_U.md#t-00-01-23) (Opinion) **Frank Turek** (via quoted speech): ["Frank Turek said: 'I have not followed Candace closely. I know she was..."](/statements/statement-3692fac75b18.md)
@@ -8782,15 +8755,12 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (11)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (10)</summary>
 
 - [00:00:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-00-43) (Opinion) **Frank Turek** (via paraphrase): ["Frank Turek is telling conspiracy theorists to shut up unless we have ..."](/statements/statement-4ce88ad25cfc.md)
 
 - [00:03:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-02-49) (Claim) **Candace Owens**: ["Charlie Kirk and Candace Owens were convinced they could manifest Kany..."](/statements/statement-829000f44845.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Kanye West](/entities/person-kanye-west.md)
-
-- [00:08:37](/episodes/ep-Cq7nj9rxPdo.md#t-00-08-30) (Opinion) **Scott Adams** (via quoted speech): ["Kanye ripped a hole in reality with seven words when he tweeted 'I lik..."](/statements/statement-8e4613c3a063.md)
-  - Also about: [Kanye West](/entities/person-kanye-west.md)
 
 - [00:11:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-10-48) (Accusation) **Candace Owens**: ["From the moment of the Kanye tweet onward, Charlie Kirk and Candace Ow..."](/statements/statement-2685f32f2368.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)

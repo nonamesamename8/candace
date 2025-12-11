@@ -19676,7 +19676,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Charlie Kirk (31)</strong></summary>
+<summary><strong class="section-title">Statements by Charlie Kirk (28)</strong></summary>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (8)</summary>
@@ -19708,17 +19708,6 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2)</summary>
-
-- [00:38:09](/episodes/ep-7RLtGgkTh9o.md#t-00-38-05) [○] (Opinion) ["When you're in a foxhole you want someone who will tell you where the bullets ar..."](/statements/statement-67f2081739a5.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:38:59](/episodes/ep-7RLtGgkTh9o.md#t-00-38-49) [○] (Opinion) ["We definitely know who our allies are"](/statements/statement-eae5ef4dabb8.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
-
-</details>
-
-<details>
 <summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2)</summary>
 
 - [00:41:54](/episodes/ep-iHav0PPzUz8.md#t-00-41-45) [○] (Claim) ["Charlie Kirk lost another huge Jewish donor—two million a year—because TPUSA won..."](/statements/statement-b3fbb3776817.md)
@@ -19730,10 +19719,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2)</summary>
-
-- [00:04:43](/episodes/ep-Cq7nj9rxPdo.md#t-00-04-13) [○] (Promise) ["I love Kanye. He's my soul brother. I will find a way to him. I promise we have ..."](/statements/statement-c7c0451e0fd2.md)
-  - About: [Kanye West](/entities/person-kanye-west.md)
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
 - [00:06:59](/episodes/ep-Cq7nj9rxPdo.md#t-00-06-20) [○] (Prediction) ["I'm listening to Kanye and just running my streets. Are you ready for the war th..."](/statements/statement-121946f7b4bc.md)
   - About: [Kanye West](/entities/person-kanye-west.md)
@@ -19813,7 +19799,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk (341)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk (331)</strong></summary>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (25)</summary>
@@ -19916,21 +19902,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2)</summary>
 
 - [00:03:55](/episodes/ep-DqGNvi36ol8.md#t-00-03-41) (Opinion) **Candace Owens**: ["I believe in my heart and in my rational mind that Charlie Kirk's assa..."](/statements/statement-e054d5b0731f.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-- [00:07:31](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) (Claim) **The Game** (via quoted speech): ["Let that woman speak her truth and I will love her like my mama, love ..."](/statements/statement-49e7a6ef279b.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md)
-
-- [00:07:35](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) (Accusation) **The Game** (via quoted speech): ["His body is not yet settled in the dirt. Why are you carrying on like ..."](/statements/statement-1aae547d563c.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
-
 - [00:15:02](/episodes/ep-DqGNvi36ol8.md#t-00-14-37) (Opinion) **Candace Owens**: ["I do not think Jacob Kasparian shot Charlie Kirk"](/statements/statement-55127cb10cf9.md)
   - Also about: [Jacob Kasparian](/entities/person-jacob-kasparian.md)
-
-- [00:22:34](/episodes/ep-DqGNvi36ol8.md#t-00-22-18) (Opinion) **The Game** (via quoted speech): ["Truth is, truth hurts, it's like a neck shot who really killed Charlie..."](/statements/statement-84457ea67d41.md)
 
 </details>
 
@@ -20011,7 +19989,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (16)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (15)</summary>
 
 - [00:00:54](/episodes/ep-JQjCAsfoXEE.md#t-00-00-41) (Claim) **Candace Owens**: ["Charlie Kirk was assassinated in broad daylight"](/statements/statement-92dc62419c9a.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -20053,23 +20031,16 @@ _Type: People_
 - [00:21:35](/episodes/ep-JQjCAsfoXEE.md#t-00-21-01) (Claim) **Candace Owens**: ["On September 10th, the blue Egyptian plane transponded from 9:05 AM un..."](/statements/statement-1a13936259ea.md)
   - Also about: [Egyptian Air Force](/entities/org-egyptian-air-force.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-- [00:56:09](/episodes/ep-JQjCAsfoXEE.md#t-00-55-58) (Claim) **Candace Owens**: ["Charlie Kirk told me he was betrayed in a dream"](/statements/statement-04bf3eb76977.md)
-
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2)</summary>
 
 - [00:00:01](/episodes/ep-7RLtGgkTh9o.md#t-00-00-00) (Claim) **Candace Owens**: ["All of my investigations are converging - the Chaos book, the Brigitte..."](/statements/statement-1492732e1321.md)
   - Also about: [Kanye West](/entities/person-kanye-west.md)
 
 - [00:35:53](/episodes/ep-7RLtGgkTh9o.md#t-00-35-35) (Claim) **Candace Owens**: ["Bill Ackman gave a presentation in the Hamptons before Charlie Kirk di..."](/statements/statement-35f44de97890.md)
   - Also about: [Bill Ackman](/entities/person-bill-ackman.md)
-
-- [00:38:09](/episodes/ep-7RLtGgkTh9o.md#t-00-38-05) (Opinion) **Charlie Kirk** (via quoted speech): ["When you're in a foxhole you want someone who will tell you where the ..."](/statements/statement-67f2081739a5.md)
-
-- [00:38:59](/episodes/ep-7RLtGgkTh9o.md#t-00-38-49) (Opinion) **Charlie Kirk** (via quoted speech): ["We definitely know who our allies are"](/statements/statement-eae5ef4dabb8.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 
@@ -20377,9 +20348,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (6)</summary>
-
-- [00:04:03](/episodes/ep-5autG89PW6w.md#t-00-03-30) (Claim) **Candace Owens**: ["In a vivid dream over the weekend, Charlie Kirk came to me and told me..."](/statements/statement-68e2b4f91fe3.md)
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (5)</summary>
 
 - [00:04:11](/episodes/ep-5autG89PW6w.md#t-00-03-30) (Prediction) **Candace Owens**: ["It is soon going to be revealed that someone betrayed Charlie Kirk, an..."](/statements/statement-d77228b7f3de.md)
 
@@ -20485,13 +20454,9 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (39)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (37)</summary>
 
 - [00:01:18](/episodes/ep-ja26iltROkM.md#t-00-00-44) (Accusation) **Candace Owens**: ["They are clearly lying to us about what happened on the day that Charl..."](/statements/statement-4f6e06ede836.md)
-
-- [00:03:46](/episodes/ep-ja26iltROkM.md#t-00-03-22) (Opinion) **Erika Kirk** (via quoted speech): ["Charlie Kirk did not suffer - he blinked and saw his Savior in paradis..."](/statements/statement-8e4b54b0582f.md)
-
-- [00:03:46](/episodes/ep-ja26iltROkM.md#t-00-03-22) (Claim) **Erika Kirk** (via quoted speech): ["Charlie blinked and saw his Savior in paradise - he did not suffer"](/statements/statement-62ba626a4aaa.md)
 
 - [00:03:46](/episodes/ep-ja26iltROkM.md#t-00-03-22) (Claim) **Erika Kirk** (via quoted speech): ["Charlie Kirk did not suffer when he was assassinated - he blinked and ..."](/statements/statement-fd1d06081253.md)
 
@@ -20759,11 +20724,9 @@ _Type: People_
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (19)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (18)</summary>
 
 - [00:00:27](/episodes/ep-czVBmqZP6Ss.md#t-00-00-00) (Accusation) **Candace Owens**: ["Charlie was publicly executed before the world"](/statements/statement-b1337a03eb04.md)
-
-- [00:01:36](/episodes/ep-czVBmqZP6Ss.md#t-00-01-09) (Promise) **Erika Kirk** (via quoted speech): ["The movement my husband built will not die"](/statements/statement-e12131758c34.md)
 
 - [00:06:03](/episodes/ep-czVBmqZP6Ss.md#t-00-05-37) (Opinion) **Candace Owens**: ["Towards the end, Charlie was fighting for custody of himself"](/statements/statement-2dfac75191ef.md)
 

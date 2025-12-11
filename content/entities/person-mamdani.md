@@ -224,13 +224,10 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Mamdani (2)</strong></summary>
+<summary><strong class="section-title">Statements by Mamdani (1)</strong></summary>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2)</summary>
-
-- [00:12:08](/episodes/ep-LATnak75Si0.md#t-00-12-06) [○] (Opinion) ["I would stay in New York City as my first foreign visit priority as mayor"](/statements/statement-a0c47b143e5b.md)
-  - About: [Mamdani](/entities/person-mamdani.md)
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1)</summary>
 
 - [00:12:35](/episodes/ep-LATnak75Si0.md#t-00-12-33) [○] (Opinion) ["I believe Israel has the right to exist, but not as a Jewish state—as a state wi..."](/statements/statement-d23013945481.md)
   - About: [Mamdani](/entities/person-mamdani.md)
@@ -240,10 +237,10 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mamdani (8)</strong></summary>
+<summary><strong class="section-title">Statements about Mamdani (7)</strong></summary>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (8)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (7)</summary>
 
 - [00:00:05](/episodes/ep-LATnak75Si0.md#t-00-00-00) (Claim) **Candace Owens**: ["Mamdani won the New York City mayoral election"](/statements/statement-70d16cea31e1.md)
 
@@ -255,8 +252,6 @@ _No relationships extracted yet._
 
 - [00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-30) (Claim) **Candace Owens**: ["Airbnb co-founder Joe Gebbia gave .1 million to stop Mamdani"](/statements/statement-6d90401f55f6.md)
   - Also about: [Joe Gebbia](/entities/person-joe-gebbia.md)
-
-- [00:12:08](/episodes/ep-LATnak75Si0.md#t-00-12-06) (Opinion) **Mamdani** (via quoted speech): ["I would stay in New York City as my first foreign visit priority as ma..."](/statements/statement-a0c47b143e5b.md)
 
 - [00:12:35](/episodes/ep-LATnak75Si0.md#t-00-12-33) (Opinion) **Mamdani** (via quoted speech): ["I believe Israel has the right to exist, but not as a Jewish state—as ..."](/statements/statement-d23013945481.md)
 

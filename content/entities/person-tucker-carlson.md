@@ -3691,7 +3691,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tucker Carlson (31)</strong></summary>
+<summary><strong class="section-title">Statements by Tucker Carlson (30)</strong></summary>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (9)</summary>
@@ -3770,10 +3770,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2)</summary>
-
-- [00:44:12](/episodes/ep-ja26iltROkM.md#t-00-43-32) [○] (Opinion) ["The only real solution is Jesus - politics can't answer the deepest questions"](/statements/statement-94578efe4f7c.md)
-  - About: [Tucker Carlson](/entities/person-tucker-carlson.md)
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1)</summary>
 
 - [00:45:16](/episodes/ep-ja26iltROkM.md#t-00-45-12) [○] (Opinion) ["Politics is not the final answer - the only real solution is Jesus. Christianity..."](/statements/statement-5c8bc3a34740.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
@@ -3824,7 +3821,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tucker Carlson (32)</strong></summary>
+<summary><strong class="section-title">Statements about Tucker Carlson (31)</strong></summary>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2)</summary>
@@ -3947,9 +3944,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (3)</summary>
-
-- [00:44:12](/episodes/ep-ja26iltROkM.md#t-00-43-32) (Opinion) **Tucker Carlson** (via quoted speech): ["The only real solution is Jesus - politics can't answer the deepest qu..."](/statements/statement-94578efe4f7c.md)
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2)</summary>
 
 - [00:58:02](/episodes/ep-ja26iltROkM.md#t-00-57-53) (Claim) **Candace Owens**: ["Benjamin Netanyahu gave 150 million dollars for Operation Mockingpasto..."](/statements/statement-1585cafed12f.md)
   - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md)

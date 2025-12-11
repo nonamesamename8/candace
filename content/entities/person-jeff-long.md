@@ -74,27 +74,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Jeff Long (1)</strong></summary>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
-
-- [00:34:39](/episodes/ep-sImMM04XdWY.md#t-00-33-57) [○] (Claim) ["I got you covered"](/statements/statement-aa862991c6fe.md)
-  - About: [Jeff Long](/entities/person-jeff-long.md)
-
-</details>
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Statements about Jeff Long (3)</strong></summary>
-
-<details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
-
-- [00:34:39](/episodes/ep-sImMM04XdWY.md#t-00-33-57) (Claim) **Jeff Long** (via quoted speech): ["I got you covered"](/statements/statement-aa862991c6fe.md)
-
-</details>
+<summary><strong class="section-title">Statements about Jeff Long (2)</strong></summary>
 
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2)</summary>

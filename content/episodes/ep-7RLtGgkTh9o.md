@@ -294,7 +294,7 @@ youtube_url: "https://www.youtube.com/watch?v=7RLtGgkTh9o"
 </details>
 
 <details>
-<summary><strong>Statements (76)</strong></summary>
+<summary><strong>Statements (74)</strong></summary>
 
 - [00:00:01](#t-00-00-00) [○] (Claim) **Candace Owens**: ["All of my investigations are converging - the Chaos book, the Brigitte Macron ca..."](/statements/statement-1492732e1321.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Kanye West](/entities/person-kanye-west.md)
@@ -435,10 +435,6 @@ youtube_url: "https://www.youtube.com/watch?v=7RLtGgkTh9o"
 - [00:36:49](#t-00-36-14) [○] (Opinion) **Candace Owens**: ["Our government is evil. Terrible people who do terrible things are protected by ..."](/statements/statement-a11b3bd8e799.md)
   - About: [the federal government](/entities/org-the-federal-government.md)
 - [00:36:49](#t-00-36-14) [○] (Opinion) **Candace Owens**: ["Our government is evil - terrible people who do terrible things are protected by..."](/statements/statement-aed525446d9c.md)
-- [00:38:09](#t-00-38-05) [○] (Opinion) **Charlie Kirk**: ["When you're in a foxhole you want someone who will tell you where the bullets ar..."](/statements/statement-67f2081739a5.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:38:59](#t-00-38-49) [○] (Opinion) **Charlie Kirk**: ["We definitely know who our allies are"](/statements/statement-eae5ef4dabb8.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 - [00:50:30](#t-00-50-11) [○] (Promise) **Candace Owens**: ["The Egyptian plane information is positively explosive and I had to get it to th..."](/statements/statement-2eeaf3bf8e1b.md)
   - About: [Egyptian Air Force](/entities/org-egyptian-air-force.md)
 - [00:58:19](#t-00-58-06) [○] (Accusation) **Candace Owens**: ["Our boys were guarding the poppy fields in Afghanistan and then we got an opioid..."](/statements/statement-b47022f013d2.md)

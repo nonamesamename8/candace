@@ -279,7 +279,7 @@ youtube_url: "https://www.youtube.com/watch?v=JQjCAsfoXEE"
 </details>
 
 <details>
-<summary><strong>Statements (51)</strong></summary>
+<summary><strong>Statements (50)</strong></summary>
 
 - [00:00:02](#t-00-00-00) [○] (Claim) **Candace Owens**: ["The CIA established Operation Mockingbird after the public execution of JFK in 1..."](/statements/statement-b6c4b6edb33f.md)
   - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [JFK assassination](/entities/event-jfk-assassination.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
@@ -381,7 +381,5 @@ youtube_url: "https://www.youtube.com/watch?v=JQjCAsfoXEE"
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:40:18](#t-00-39-46) [○] (Accusation) **Anonymous Source #1 (Ep JQjCAsfoXEE)**: ["I think there are fake people on the payroll at America's Turning Point, paychec..."](/statements/statement-55019ede2600.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
-- [00:56:09](#t-00-55-58) [○] (Claim) **Candace Owens**: ["Charlie Kirk told me he was betrayed in a dream"](/statements/statement-04bf3eb76977.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

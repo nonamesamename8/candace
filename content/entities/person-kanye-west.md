@@ -761,7 +761,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kanye West (16)</strong></summary>
+<summary><strong class="section-title">Statements about Kanye West (12)</strong></summary>
 
 <details>
 <summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (6)</summary>
@@ -784,7 +784,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (9)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (5)</summary>
 
 - [00:03:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-02-49) (Claim) **Candace Owens**: ["Charlie Kirk and Candace Owens were convinced they could manifest Kany..."](/statements/statement-829000f44845.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -792,16 +792,7 @@ _Type: People_
 - [00:04:27](/episodes/ep-Cq7nj9rxPdo.md#t-00-04-13) (Claim) **Candace Owens**: ["On April 13th 2018, Candace told Charlie that Kanye West was writing a..."](/statements/statement-19b05c92f8e5.md)
   - Also about: [April 13th](/entities/date-april-13th.md)
 
-- [00:04:43](/episodes/ep-Cq7nj9rxPdo.md#t-00-04-13) (Promise) **Charlie Kirk** (via read message): ["I love Kanye. He's my soul brother. I will find a way to him. I promis..."](/statements/statement-c7c0451e0fd2.md)
-
 - [00:06:59](/episodes/ep-Cq7nj9rxPdo.md#t-00-06-20) (Prediction) **Charlie Kirk** (via read message): ["I'm listening to Kanye and just running my streets. Are you ready for ..."](/statements/statement-121946f7b4bc.md)
-
-- [00:08:37](/episodes/ep-Cq7nj9rxPdo.md#t-00-08-30) (Opinion) **Scott Adams** (via quoted speech): ["Kanye ripped a hole in reality with seven words when he tweeted 'I lik..."](/statements/statement-8e4613c3a063.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md)
-
-- [00:09:53](/episodes/ep-Cq7nj9rxPdo.md#t-00-09-14) (Opinion) **Scott Adams** (via quoted speech): ["Kanye actually just altered reality and freed a lot of people from a m..."](/statements/statement-d4d62056b77c.md)
-
-- [00:10:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-09-58) (Opinion) **Scott Adams** (via quoted speech): ["Kanye West altered reality and freed a lot of people from a mental pri..."](/statements/statement-a537f43ef900.md)
 
 - [00:14:17](/episodes/ep-Cq7nj9rxPdo.md#t-00-14-16) (Claim) **Candace Owens**: ["Kanye West's handlers told him he would lose everything if he didn't a..."](/statements/statement-1312ea6aaf18.md)
 

@@ -321,12 +321,10 @@ youtube_url: "https://www.youtube.com/watch?v=5autG89PW6w"
 </details>
 
 <details>
-<summary><strong>Statements (9)</strong></summary>
+<summary><strong>Statements (8)</strong></summary>
 
 - [00:00:07](#t-00-00-00) [○] (Accusation) **Candace Owens**: ["Elon Musk clearly gave Twitter/X away to the military, and we now have to suffer..."](/statements/statement-8a2b992f4e8b.md)
   - About: [Elon Musk](/entities/person-elon-musk.md)
-- [00:04:03](#t-00-03-30) [○] (Claim) **Candace Owens**: ["In a vivid dream over the weekend, Charlie Kirk came to me and told me that he w..."](/statements/statement-68e2b4f91fe3.md)
-  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:04:11](#t-00-03-30) [○] (Prediction) **Candace Owens**: ["It is soon going to be revealed that someone betrayed Charlie Kirk, and it is go..."](/statements/statement-d77228b7f3de.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:14:31](#t-00-14-17) [○] (Claim) **Andrew Kolvet**: ["The text message screen grab shared by Candace Owens is authentic"](/statements/statement-7d45ee3d3772.md)

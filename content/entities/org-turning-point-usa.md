@@ -4813,7 +4813,7 @@ _Type: Organizations_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Turning Point USA (99)</strong></summary>
+<summary><strong class="section-title">Statements about Turning Point USA (98)</strong></summary>
 
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (7)</summary>
@@ -4850,7 +4850,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (11)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (10)</summary>
 
 - [00:00:25](/episodes/ep-DqGNvi36ol8.md#t-00-00-00) (Claim) **Candace Owens**: ["TPUSA confirmed that the debate request came from Erika Kirk"](/statements/statement-1d1f4bad48c8.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
@@ -4865,9 +4865,6 @@ _Type: Organizations_
 
 - [00:05:47](/episodes/ep-DqGNvi36ol8.md#t-00-05-37) (Claim) **Blake Neff** (via quoted speech): ["All of this has been at the direction and approval of Erika because sh..."](/statements/statement-4c707e5d4f97.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
-
-- [00:07:35](/episodes/ep-DqGNvi36ol8.md#t-00-06-55) (Accusation) **The Game** (via quoted speech): ["His body is not yet settled in the dirt. Why are you carrying on like ..."](/statements/statement-1aae547d563c.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:10:59](/episodes/ep-DqGNvi36ol8.md#t-00-10-37) (Accusation) **Blake Neff** (via quoted tweet): ["We are not booking a guest and never said that we were. We are deliver..."](/statements/statement-201657009b78.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)

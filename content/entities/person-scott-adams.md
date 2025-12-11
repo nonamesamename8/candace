@@ -64,25 +64,6 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Scott Adams (3)</strong></summary>
-
-<details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3)</summary>
-
-- [00:08:37](/episodes/ep-Cq7nj9rxPdo.md#t-00-08-30) [○] (Opinion) ["Kanye ripped a hole in reality with seven words when he tweeted 'I like the way ..."](/statements/statement-8e4613c3a063.md)
-  - About: [Kanye West](/entities/person-kanye-west.md), [Candace Owens](/entities/person-candace-owens.md)
-
-- [00:09:53](/episodes/ep-Cq7nj9rxPdo.md#t-00-09-14) [○] (Opinion) ["Kanye actually just altered reality and freed a lot of people from a mental pris..."](/statements/statement-d4d62056b77c.md)
-  - About: [Kanye West](/entities/person-kanye-west.md)
-
-- [00:10:24](/episodes/ep-Cq7nj9rxPdo.md#t-00-09-58) [○] (Opinion) ["Kanye West altered reality and freed a lot of people from a mental prison"](/statements/statement-a537f43ef900.md)
-  - About: [Kanye West](/entities/person-kanye-west.md)
-
-</details>
-
-</details>
-
-<details open>
 <summary><strong class="section-title">Statements about Scott Adams (1)</strong></summary>
 
 <details>
