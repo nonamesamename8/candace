@@ -3,13 +3,9 @@ title: "Adam Bartholomew"
 description: "Adam Bartholomew (People) - 6 mentions"
 id: "person-adam-bartholomew"
 type: "PERSON"
-aliases:
-  - "Adam"
 ---
 
 _Type: People_
-
-**Also known as:** Adam
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

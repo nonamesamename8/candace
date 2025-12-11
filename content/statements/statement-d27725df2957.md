@@ -1,8 +1,8 @@
 ---
 title: "Governor Cox stated at a press conference that Tyler Robinso..."
-description: "\"Governor Cox stated at a press conference that Tyler Robinson was observed in consistent clothing with surveillance images from 8:29am when he was enc...\" — Governor Cox"
+description: "\"Governor Cox stated at a press conference that Tyler Robinson was observed in consistent clothing with surveillance images from 8:29am when he was enc...\" — person-governor-cox"
 statement_id: "statement-d27725df2957"
-speaker: "Governor Cox"
+speaker: "person-governor-cox"
 type: "factual_claim"
 ---
 
@@ -14,7 +14,7 @@ type: "factual_claim"
 
 ## Attribution
 
-**Speaker:** [Governor Cox](/entities/person-governor-cox.md) (Quoted)
+**Speaker:** [person-governor-cox](/entities/person-governor-cox.md) (Quoted)
 
 **Delivery:** Quoted from speech/interview
 **Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)

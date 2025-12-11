@@ -2,7 +2,7 @@
 title: "Entities"
 ---
 
-_Total entities: 1018_
+_Total entities: 1014_
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -37,7 +37,7 @@ _Total entities: 1018_
 <input type="radio" id="tab-anonymous_source" name="entity-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-person" class="tab-btn">People (438)</label>
+  <label for="tab-person" class="tab-btn">People (434)</label>
   <label for="tab-org" class="tab-btn">Organizations (269)</label>
   <label for="tab-gpe" class="tab-btn">Places (152)</label>
   <label for="tab-event" class="tab-btn">Events (19)</label>
@@ -79,7 +79,7 @@ _Total entities: 1018_
 
 <div class="tab-content tab-content-person">
 
-_438 peoples sorted by most mentioned_
+_434 peoples sorted by most mentioned_
 
 <div class="filter-item">
 
@@ -243,7 +243,12 @@ _438 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Governor Cox](/entities/person-governor-cox.md) (34 mentions)
+- [Zohran Mamdani](/entities/person-zohran-mamdani.md) (36 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Spencer Cox](/entities/person-spencer-cox.md) (35 mentions)
 
 </div>
 <div class="filter-item">
@@ -269,11 +274,6 @@ _438 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Lou Taylor](/entities/person-lou-taylor.md) (28 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Mamdani](/entities/person-mamdani.md) (27 mentions)
 
 </div>
 <div class="filter-item">
@@ -319,6 +319,11 @@ _438 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Jack Hibbs](/entities/person-jack-hibbs.md) (19 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md) (19 mentions)
 
 </div>
 <div class="filter-item">
@@ -403,11 +408,6 @@ _438 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md) (14 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Cam Higby](/entities/person-cam-higby.md) (13 mentions)
 
 </div>
@@ -488,11 +488,6 @@ _438 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Thomas Crooks](/entities/person-thomas-crooks.md) (11 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Walid Mahmood](/entities/person-walid-mahmood.md) (11 mentions)
 
 </div>
@@ -564,11 +559,6 @@ _438 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Taylor Swift](/entities/person-taylor-swift.md) (9 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Zohran Mamdani](/entities/person-zohran-mamdani.md) (9 mentions)
 
 </div>
 <div class="filter-item">
@@ -858,11 +848,6 @@ _438 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Harry](/entities/person-harry.md) (5 mentions)
-
-</div>
-<div class="filter-item">
-
 - [Jacob Kasparian](/entities/person-jacob-kasparian.md) (5 mentions)
 
 </div>
@@ -943,7 +928,7 @@ _438 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Amir](/entities/person-amir.md) (4 mentions)
+- [Amir Odom](/entities/person-amir.md) (4 mentions)
 
 </div>
 <div class="filter-item">
@@ -1178,7 +1163,7 @@ _438 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Cassie](/entities/person-cassie.md) (3 mentions)
+- [Cassie Ventura](/entities/person-cassie.md) (3 mentions)
 
 </div>
 <div class="filter-item">
@@ -1249,6 +1234,16 @@ _438 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Glenn Beck](/entities/person-glenn-beck.md) (3 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Greg Skordas](/entities/person-skordas.md) (3 mentions)
+
+</div>
+<div class="filter-item">
+
+- [Harry](/entities/person-harry.md) (3 mentions)
 
 </div>
 <div class="filter-item">
@@ -1354,11 +1349,6 @@ _438 peoples sorted by most mentioned_
 <div class="filter-item">
 
 - [Shumway](/entities/person-shumway.md) (3 mentions)
-
-</div>
-<div class="filter-item">
-
-- [Skordas](/entities/person-skordas.md) (3 mentions)
 
 </div>
 <div class="filter-item">
@@ -1793,6 +1783,11 @@ _438 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
+- [Senator Mike Lee](/entities/person-senator-mike-lee.md) (2 mentions)
+
+</div>
+<div class="filter-item">
+
 - [Steve Witkoff](/entities/person-steve-witkoff.md) (2 mentions)
 
 </div>
@@ -2128,11 +2123,6 @@ _438 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Mike Lee](/entities/person-mike-lee.md) (1 mention)
-
-</div>
-<div class="filter-item">
-
 - [Milton Friedman](/entities/person-milton-friedman.md) (1 mention)
 
 </div>
@@ -2223,17 +2213,7 @@ _438 peoples sorted by most mentioned_
 </div>
 <div class="filter-item">
 
-- [Senator Mike Lee](/entities/person-senator-mike-lee.md) (1 mention)
-
-</div>
-<div class="filter-item">
-
 - [Sergio Gor](/entities/person-sergio-gor.md) (1 mention)
-
-</div>
-<div class="filter-item">
-
-- [Spencer Cox](/entities/person-spencer-cox.md) (1 mention)
 
 </div>
 <div class="filter-item">

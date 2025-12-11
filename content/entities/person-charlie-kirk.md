@@ -8587,7 +8587,7 @@ _Type: People_
 - [00:06:42](/episodes/ep-LATnak75Si0.md#t-00-06-20) (Accusation) **Candace Owens**: ["The plan was to assassinate Charlie Kirk after he faltered on the pro-..."](/statements/statement-10e98b7cc902.md)
 
 - [00:20:44](/episodes/ep-LATnak75Si0.md#t-00-20-09) (Claim) **Candace Owens**: ["Donald Trump dedicated 900% more Truth Social posts to ensuring Mamdan..."](/statements/statement-08b3721de5cf.md)
-  - Also about: [Donald Trump](/entities/person-donald-trump.md), [Mamdani](/entities/person-mamdani.md)
+  - Also about: [Donald Trump](/entities/person-donald-trump.md), [person-mamdani](/entities/person-mamdani.md)
 
 - [00:28:23](/episodes/ep-LATnak75Si0.md#t-00-28-06) (Claim) **Candace Owens**: ["Bob Shulman took  million away from Charlie Kirk because he let Tucker..."](/statements/statement-15d3386acf60.md)
   - Also about: [Bob Schulman](/entities/person-bob-schulman.md), [Tucker Carlson](/entities/person-tucker-carlson.md)

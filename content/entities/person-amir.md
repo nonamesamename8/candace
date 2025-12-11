@@ -1,11 +1,15 @@
 ---
-title: "Amir"
-description: "Amir (People) - 4 mentions"
+title: "Amir Odom"
+description: "Amir Odom (People) - 4 mentions"
 id: "person-amir"
 type: "PERSON"
+aliases:
+  - "Amir"
 ---
 
 _Type: People_
+
+**Also known as:** Amir
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -15,7 +19,7 @@ _Type: People_
 <details>
 <summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
-**[00:58:20](/episodes/ep-a-e7HC6SeK8.md#ent-person-amir-t-00-57-57)**
+**[00:58:20](/episodes/ep-a-e7HC6SeK8.md#t-00-57-57)**
 > "...—"America is something you can move very easily with money." Not this American—so there's that. And Amir writes, "I voted for my taxpayer funds to go from the CIA towards the Candace (Candace Owens) Intel..."
 
 </details>

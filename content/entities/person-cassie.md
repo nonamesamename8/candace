@@ -1,11 +1,15 @@
 ---
-title: "Cassie"
-description: "Cassie (People) - 3 mentions"
+title: "Cassie Ventura"
+description: "Cassie Ventura (People) - 3 mentions"
 id: "person-cassie"
 type: "PERSON"
+aliases:
+  - "Cassie"
 ---
 
 _Type: People_
+
+**Also known as:** Cassie
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

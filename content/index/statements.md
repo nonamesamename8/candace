@@ -437,13 +437,13 @@ _1162 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:29:06](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) [○] **Anonymous Source #4 (Ep 2WEHTk0Xewg)**: ["An anonymous source told Candace that Governor Cox lied about Tyler Robinson bei..."](/statements/statement-fbb0b0aeeeaf.md)
-  - About: [Governor Cox](/entities/person-governor-cox.md)
+  - About: [person-governor-cox](/entities/person-governor-cox.md)
 
 </div>
 <div class="filter-item">
 
 - [00:31:35](/episodes/ep-2WEHTk0Xewg.md#t-00-31-15) [○] **Candace Owens**: ["Governor Cox announced 'We got him' and declared closure on the investigation de..."](/statements/statement-43fc6b3e60d3.md)
-  - About: [Governor Cox](/entities/person-governor-cox.md)
+  - About: [person-governor-cox](/entities/person-governor-cox.md)
 
 </div>
 <div class="filter-item">
@@ -2732,13 +2732,13 @@ _1162 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:07:51](/episodes/ep-2WEHTk0Xewg.md#t-00-07-18) [○] **Candace Owens**: ["Governor Cox mentioned in a press conference at 5:30pm that a second person of i..."](/statements/statement-782382f1bca7.md)
-  - About: [Governor Cox](/entities/person-governor-cox.md)
+  - About: [person-governor-cox](/entities/person-governor-cox.md)
 
 </div>
 <div class="filter-item">
 
 - [00:07:58](/episodes/ep-2WEHTk0Xewg.md#t-00-07-18) [○] **Candace Owens**: ["Governor Cox mentioned at 5:30 PM during a press conference that a second suspec..."](/statements/statement-4f2ff6f7a5e5.md)
-  - About: [Governor Cox](/entities/person-governor-cox.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - About: [person-governor-cox](/entities/person-governor-cox.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </div>
 <div class="filter-item">
@@ -2762,7 +2762,7 @@ _1162 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:15:20](/episodes/ep-2WEHTk0Xewg.md#t-00-15-06) [○] **Candace Owens**: ["Governor Cox confirmed that the person in TMZ footage is Tyler Robinson"](/statements/statement-2de6d8874914.md)
-  - About: [Governor Cox](/entities/person-governor-cox.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+  - About: [person-governor-cox](/entities/person-governor-cox.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </div>
 <div class="filter-item">
@@ -2851,20 +2851,20 @@ _1162 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:28:30](/episodes/ep-2WEHTk0Xewg.md#t-00-27-57) [○] **Governor Cox**: ["Governor Cox stated at a press conference that Tyler Robinson was observed in co..."](/statements/statement-d27725df2957.md)
+- [00:28:30](/episodes/ep-2WEHTk0Xewg.md#t-00-27-57) [○] **person-governor-cox**: ["Governor Cox stated at a press conference that Tyler Robinson was observed in co..."](/statements/statement-d27725df2957.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </div>
 <div class="filter-item">
 
-- [00:28:57](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) [○] **Governor Cox**: ["Tyler Robinson was encountered by investigators in Washington County in the earl..."](/statements/statement-551743034477.md)
+- [00:28:57](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) [○] **person-governor-cox**: ["Tyler Robinson was encountered by investigators in Washington County in the earl..."](/statements/statement-551743034477.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </div>
 <div class="filter-item">
 
 - [00:29:29](/episodes/ep-2WEHTk0Xewg.md#t-00-29-06) [○] **Anonymous Source #2 (Ep 2WEHTk0Xewg)**: ["Tyler Robinson was not wearing the maroon t-shirt outfit when he was picked up b..."](/statements/statement-7c2d30d5c896.md)
-  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Governor Cox](/entities/person-governor-cox.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [person-governor-cox](/entities/person-governor-cox.md)
 
 </div>
 <div class="filter-item">
@@ -5541,7 +5541,7 @@ _1162 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:00:05](/episodes/ep-LATnak75Si0.md#t-00-00-00) [○] **Candace Owens**: ["Mamdani won the New York City mayoral election"](/statements/statement-70d16cea31e1.md)
-  - About: [Mamdani](/entities/person-mamdani.md)
+  - About: [person-mamdani](/entities/person-mamdani.md)
 
 </div>
 <div class="filter-item">
@@ -5559,19 +5559,19 @@ _1162 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:10:22](/episodes/ep-LATnak75Si0.md#t-00-09-44) [○] **Candace Owens**: ["Bill Ackman gave .75 million to stop Mamdani"](/statements/statement-dff9a93bd8a0.md)
-  - About: [Bill Ackman](/entities/person-bill-ackman.md), [Mamdani](/entities/person-mamdani.md)
+  - About: [Bill Ackman](/entities/person-bill-ackman.md), [person-mamdani](/entities/person-mamdani.md)
 
 </div>
 <div class="filter-item">
 
 - [00:10:30](/episodes/ep-LATnak75Si0.md#t-00-09-44) [○] **Candace Owens**: ["Michael Bloomberg gave .3 million to a Cuomo-affiliated super PAC to stop Mamdan..."](/statements/statement-96b210228669.md)
-  - About: [Michael Bloomberg](/entities/person-michael-bloomberg.md), [Mamdani](/entities/person-mamdani.md), [Andrew Cuomo](/entities/person-andrew-cuomo.md)
+  - About: [Michael Bloomberg](/entities/person-michael-bloomberg.md), [person-mamdani](/entities/person-mamdani.md), [Andrew Cuomo](/entities/person-andrew-cuomo.md)
 
 </div>
 <div class="filter-item">
 
 - [00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-30) [○] **Candace Owens**: ["Airbnb co-founder Joe Gebbia gave .1 million to stop Mamdani"](/statements/statement-6d90401f55f6.md)
-  - About: [Joe Gebbia](/entities/person-joe-gebbia.md), [Mamdani](/entities/person-mamdani.md)
+  - About: [Joe Gebbia](/entities/person-joe-gebbia.md), [person-mamdani](/entities/person-mamdani.md)
 
 </div>
 <div class="filter-item">
@@ -5582,7 +5582,7 @@ _1162 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:20:44](/episodes/ep-LATnak75Si0.md#t-00-20-09) [○] **Candace Owens**: ["Donald Trump dedicated 900% more Truth Social posts to ensuring Mamdani would lo..."](/statements/statement-08b3721de5cf.md)
-  - About: [Donald Trump](/entities/person-donald-trump.md), [Mamdani](/entities/person-mamdani.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Donald Trump](/entities/person-donald-trump.md), [person-mamdani](/entities/person-mamdani.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
@@ -6661,7 +6661,7 @@ _1162 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:14:52](/episodes/ep-LATnak75Si0.md#t-00-14-30) [○] **Candace Owens**: ["Mamdani got 32% of the Jewish vote in New York City exit polls"](/statements/statement-2dbdb6480c36.md)
-  - About: [Mamdani](/entities/person-mamdani.md)
+  - About: [person-mamdani](/entities/person-mamdani.md)
 
 </div>
 <div class="filter-item">
@@ -7487,8 +7487,8 @@ _1162 statements extracted from podcast episodes._
 
 <div class="filter-item">
 
-- [00:12:35](/episodes/ep-LATnak75Si0.md#t-00-12-33) [○] **Mamdani**: ["I believe Israel has the right to exist, but not as a Jewish state—as a state wi..."](/statements/statement-d23013945481.md)
-  - About: [Mamdani](/entities/person-mamdani.md)
+- [00:12:35](/episodes/ep-LATnak75Si0.md#t-00-12-33) [○] **person-mamdani**: ["I believe Israel has the right to exist, but not as a Jewish state—as a state wi..."](/statements/statement-d23013945481.md)
+  - About: [person-mamdani](/entities/person-mamdani.md)
 
 </div>
 <div class="filter-item">
@@ -9491,13 +9491,13 @@ _1162 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:07:51](/episodes/ep-2WEHTk0Xewg.md#t-00-07-18) [○] (Claim) **Candace Owens**: ["Governor Cox mentioned in a press conference at 5:30pm that a second person of i..."](/statements/statement-782382f1bca7.md)
-  - About: [Governor Cox](/entities/person-governor-cox.md)
+  - About: [person-governor-cox](/entities/person-governor-cox.md)
 
 </div>
 <div class="filter-item">
 
 - [00:07:58](/episodes/ep-2WEHTk0Xewg.md#t-00-07-18) [○] (Claim) **Candace Owens**: ["Governor Cox mentioned at 5:30 PM during a press conference that a second suspec..."](/statements/statement-4f2ff6f7a5e5.md)
-  - About: [Governor Cox](/entities/person-governor-cox.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+  - About: [person-governor-cox](/entities/person-governor-cox.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </div>
 <div class="filter-item">
@@ -9521,7 +9521,7 @@ _1162 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:15:20](/episodes/ep-2WEHTk0Xewg.md#t-00-15-06) [○] (Claim) **Candace Owens**: ["Governor Cox confirmed that the person in TMZ footage is Tyler Robinson"](/statements/statement-2de6d8874914.md)
-  - About: [Governor Cox](/entities/person-governor-cox.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+  - About: [person-governor-cox](/entities/person-governor-cox.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </div>
 <div class="filter-item">
@@ -9634,26 +9634,26 @@ _1162 statements extracted from podcast episodes._
 </div>
 <div class="filter-item">
 
-- [00:28:30](/episodes/ep-2WEHTk0Xewg.md#t-00-27-57) [○] (Claim) **Governor Cox**: ["Governor Cox stated at a press conference that Tyler Robinson was observed in co..."](/statements/statement-d27725df2957.md)
+- [00:28:30](/episodes/ep-2WEHTk0Xewg.md#t-00-27-57) [○] (Claim) **person-governor-cox**: ["Governor Cox stated at a press conference that Tyler Robinson was observed in co..."](/statements/statement-d27725df2957.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </div>
 <div class="filter-item">
 
-- [00:28:57](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) [○] (Claim) **Governor Cox**: ["Tyler Robinson was encountered by investigators in Washington County in the earl..."](/statements/statement-551743034477.md)
+- [00:28:57](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) [○] (Claim) **person-governor-cox**: ["Tyler Robinson was encountered by investigators in Washington County in the earl..."](/statements/statement-551743034477.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 </div>
 <div class="filter-item">
 
 - [00:29:06](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) [○] (Accusation) **Anonymous Source #4 (Ep 2WEHTk0Xewg)**: ["An anonymous source told Candace that Governor Cox lied about Tyler Robinson bei..."](/statements/statement-fbb0b0aeeeaf.md)
-  - About: [Governor Cox](/entities/person-governor-cox.md)
+  - About: [person-governor-cox](/entities/person-governor-cox.md)
 
 </div>
 <div class="filter-item">
 
 - [00:29:29](/episodes/ep-2WEHTk0Xewg.md#t-00-29-06) [○] (Claim) **Anonymous Source #2 (Ep 2WEHTk0Xewg)**: ["Tyler Robinson was not wearing the maroon t-shirt outfit when he was picked up b..."](/statements/statement-7c2d30d5c896.md)
-  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Governor Cox](/entities/person-governor-cox.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [person-governor-cox](/entities/person-governor-cox.md)
 
 </div>
 <div class="filter-item">
@@ -9665,7 +9665,7 @@ _1162 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:31:35](/episodes/ep-2WEHTk0Xewg.md#t-00-31-15) [○] (Accusation) **Candace Owens**: ["Governor Cox announced 'We got him' and declared closure on the investigation de..."](/statements/statement-43fc6b3e60d3.md)
-  - About: [Governor Cox](/entities/person-governor-cox.md)
+  - About: [person-governor-cox](/entities/person-governor-cox.md)
 
 </div>
 <div class="filter-item">
@@ -13660,7 +13660,7 @@ _1162 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:00:05](/episodes/ep-LATnak75Si0.md#t-00-00-00) [○] (Claim) **Candace Owens**: ["Mamdani won the New York City mayoral election"](/statements/statement-70d16cea31e1.md)
-  - About: [Mamdani](/entities/person-mamdani.md)
+  - About: [person-mamdani](/entities/person-mamdani.md)
 
 </div>
 <div class="filter-item">
@@ -13696,25 +13696,25 @@ _1162 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:10:22](/episodes/ep-LATnak75Si0.md#t-00-09-44) [○] (Claim) **Candace Owens**: ["Bill Ackman gave .75 million to stop Mamdani"](/statements/statement-dff9a93bd8a0.md)
-  - About: [Bill Ackman](/entities/person-bill-ackman.md), [Mamdani](/entities/person-mamdani.md)
+  - About: [Bill Ackman](/entities/person-bill-ackman.md), [person-mamdani](/entities/person-mamdani.md)
 
 </div>
 <div class="filter-item">
 
 - [00:10:30](/episodes/ep-LATnak75Si0.md#t-00-09-44) [○] (Claim) **Candace Owens**: ["Michael Bloomberg gave .3 million to a Cuomo-affiliated super PAC to stop Mamdan..."](/statements/statement-96b210228669.md)
-  - About: [Michael Bloomberg](/entities/person-michael-bloomberg.md), [Mamdani](/entities/person-mamdani.md), [Andrew Cuomo](/entities/person-andrew-cuomo.md)
+  - About: [Michael Bloomberg](/entities/person-michael-bloomberg.md), [person-mamdani](/entities/person-mamdani.md), [Andrew Cuomo](/entities/person-andrew-cuomo.md)
 
 </div>
 <div class="filter-item">
 
 - [00:10:41](/episodes/ep-LATnak75Si0.md#t-00-10-30) [○] (Claim) **Candace Owens**: ["Airbnb co-founder Joe Gebbia gave .1 million to stop Mamdani"](/statements/statement-6d90401f55f6.md)
-  - About: [Joe Gebbia](/entities/person-joe-gebbia.md), [Mamdani](/entities/person-mamdani.md)
+  - About: [Joe Gebbia](/entities/person-joe-gebbia.md), [person-mamdani](/entities/person-mamdani.md)
 
 </div>
 <div class="filter-item">
 
-- [00:12:35](/episodes/ep-LATnak75Si0.md#t-00-12-33) [○] (Opinion) **Mamdani**: ["I believe Israel has the right to exist, but not as a Jewish state—as a state wi..."](/statements/statement-d23013945481.md)
-  - About: [Mamdani](/entities/person-mamdani.md)
+- [00:12:35](/episodes/ep-LATnak75Si0.md#t-00-12-33) [○] (Opinion) **person-mamdani**: ["I believe Israel has the right to exist, but not as a Jewish state—as a state wi..."](/statements/statement-d23013945481.md)
+  - About: [person-mamdani](/entities/person-mamdani.md)
 
 </div>
 <div class="filter-item">
@@ -13725,7 +13725,7 @@ _1162 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:14:52](/episodes/ep-LATnak75Si0.md#t-00-14-30) [○] (Citation) **Candace Owens**: ["Mamdani got 32% of the Jewish vote in New York City exit polls"](/statements/statement-2dbdb6480c36.md)
-  - About: [Mamdani](/entities/person-mamdani.md)
+  - About: [person-mamdani](/entities/person-mamdani.md)
 
 </div>
 <div class="filter-item">
@@ -13755,7 +13755,7 @@ _1162 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:20:44](/episodes/ep-LATnak75Si0.md#t-00-20-09) [○] (Claim) **Candace Owens**: ["Donald Trump dedicated 900% more Truth Social posts to ensuring Mamdani would lo..."](/statements/statement-08b3721de5cf.md)
-  - About: [Donald Trump](/entities/person-donald-trump.md), [Mamdani](/entities/person-mamdani.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Donald Trump](/entities/person-donald-trump.md), [person-mamdani](/entities/person-mamdani.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
@@ -14766,4 +14766,4 @@ _1162 statements extracted from podcast episodes._
 
 ---
 
-*Generated: 2025-12-11 14:49:52*
+*Generated: 2025-12-11 15:06:52*

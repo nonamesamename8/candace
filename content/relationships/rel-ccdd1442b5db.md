@@ -1,15 +1,15 @@
 ---
-title: "Utah has governor Governor Cox"
-description: "Evidence for the relationship: Utah has governor Governor Cox"
-relationship_id: "rel-c312b264f777"
+title: "Utah has governor Spencer Cox"
+description: "Evidence for the relationship: Utah has governor Spencer Cox"
+relationship_id: "rel-ccdd1442b5db"
 subject: "gpe-utah"
 predicate: "has governor"
-object: "person-governor-cox"
+object: "person-spencer-cox"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Utah](/entities/gpe-utah) has governor [Governor Cox](/entities/person-governor-cox)
+## [Utah](/entities/gpe-utah) has governor [Spencer Cox](/entities/person-spencer-cox)
 
 ### Evidence (1 mentions)
 
@@ -20,4 +20,4 @@ object: "person-governor-cox"
 ### Related
 
 - [Utah](/entities/gpe-utah)
-- [Governor Cox](/entities/person-governor-cox)
+- [Spencer Cox](/entities/person-spencer-cox)

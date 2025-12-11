@@ -15,13 +15,13 @@ _Type: People_
 <details>
 <summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (3 mentions)</summary>
 
-**[00:58:15](/episodes/ep-5autG89PW6w.md#ent-person-amir-odom-t-00-57-49)**
+**[00:58:15](/episodes/ep-5autG89PW6w.md#t-00-57-49)**
 > "Amir Odom YouTube comment"
 
-**[00:58:15](/episodes/ep-5autG89PW6w.md#ent-person-amir-odom-t-00-57-49)**
+**[00:58:15](/episodes/ep-5autG89PW6w.md#t-00-57-49)**
 > "Amir Odom—hey, what's up?"
 
-**[00:58:18](/episodes/ep-5autG89PW6w.md#ent-person-amir-odom-t-00-57-49)**
+**[00:58:18](/episodes/ep-5autG89PW6w.md#t-00-57-49)**
 > "... has a great YouTube channel: Amir Odom."
 
 </details>

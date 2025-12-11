@@ -3,13 +3,9 @@ title: "Harry Myers"
 description: "Harry Myers (People) - 13 mentions"
 id: "person-harry-myers"
 type: "PERSON"
-aliases:
-  - "Harry"
 ---
 
 _Type: People_
-
-**Also known as:** Harry
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
@@ -19,16 +15,16 @@ _Type: People_
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
 
-**[00:40:24](/episodes/ep-6DhWawD4ZiM.md#ent-person-harry-myers-t-00-42-19)**
+**[00:40:24](/episodes/ep-6DhWawD4ZiM.md#t-00-40-11)**
 > "Remember, Harry, told me that seeing that many"
 
-**[00:42:58](/episodes/ep-6DhWawD4ZiM.md#ent-person-harry-myers-t-00-42-19)**
+**[00:42:58](/episodes/ep-6DhWawD4ZiM.md#t-00-42-19)**
 > "Remember, Harry,"
 
-**[00:49:34](/episodes/ep-6DhWawD4ZiM.md#ent-person-harry-myers-t-00-49-01)**
+**[00:49:34](/episodes/ep-6DhWawD4ZiM.md#t-00-49-01)**
 > "Our guy, Harry, has the worst luck down, or the best luck down i..."
 
-**[00:59:46](/episodes/ep-6DhWawD4ZiM.md#ent-person-harry-myers-t-00-59-39)**
+**[00:59:46](/episodes/ep-6DhWawD4ZiM.md#t-00-59-39)**
 > "... but you're referring to what Harry, I mean, Harry thinks he has an idea and he shoul..."
 
 </details>
@@ -54,7 +50,7 @@ _Type: People_
 **[00:09:43](/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-09-43)**
 > "...this explosive discovery that Harry (Harry Myers) made."
 
-**[00:11:24](/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-11-14)**
+**[00:11:24](/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-09-43)**
 > "Harry's superiors take the credit for the bust and he's g..."
 
 **[00:15:15](/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-15-15)**

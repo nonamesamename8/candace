@@ -1348,7 +1348,7 @@ _Type: People_
 - [00:15:06](/episodes/ep-2WEHTk0Xewg.md#t-00-14-28) (Claim) **Candace Owens**: ["TMZ published footage of a man in a maroon t-shirt and shorts walking ..."](/statements/statement-1b000c4256c5.md)
 
 - [00:15:20](/episodes/ep-2WEHTk0Xewg.md#t-00-15-06) (Claim) **Candace Owens** (via paraphrase): ["Governor Cox confirmed that the person in TMZ footage is Tyler Robinso..."](/statements/statement-2de6d8874914.md)
-  - Also about: [Governor Cox](/entities/person-governor-cox.md)
+  - Also about: [person-governor-cox](/entities/person-governor-cox.md)
 
 - [00:15:32](/episodes/ep-2WEHTk0Xewg.md#t-00-15-06) (Claim) **Candace Owens**: ["Tyler Robinson was seen walking back onto campus at 11:51 AM in differ..."](/statements/statement-54088ef71ce0.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
@@ -1368,13 +1368,13 @@ _Type: People_
 - [00:27:07](/episodes/ep-2WEHTk0Xewg.md#t-00-27-02) (Claim) **Donald Trump** (via quoted speech): ["I think with a high degree of certainty, we have him in custody"](/statements/statement-fa416edb0493.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-- [00:28:30](/episodes/ep-2WEHTk0Xewg.md#t-00-27-57) (Claim) **Governor Cox** (via quoted speech): ["Governor Cox stated at a press conference that Tyler Robinson was obse..."](/statements/statement-d27725df2957.md)
+- [00:28:30](/episodes/ep-2WEHTk0Xewg.md#t-00-27-57) (Claim) **person-governor-cox** (via quoted speech): ["Governor Cox stated at a press conference that Tyler Robinson was obse..."](/statements/statement-d27725df2957.md)
 
-- [00:28:57](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) (Claim) **Governor Cox** (via quoted speech): ["Tyler Robinson was encountered by investigators in Washington County i..."](/statements/statement-551743034477.md)
+- [00:28:57](/episodes/ep-2WEHTk0Xewg.md#t-00-28-30) (Claim) **person-governor-cox** (via quoted speech): ["Tyler Robinson was encountered by investigators in Washington County i..."](/statements/statement-551743034477.md)
   - Also about: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 - [00:29:29](/episodes/ep-2WEHTk0Xewg.md#t-00-29-06) (Claim) **Anonymous Source #2 (Ep 2WEHTk0Xewg)** (via read message): ["Tyler Robinson was not wearing the maroon t-shirt outfit when he was p..."](/statements/statement-7c2d30d5c896.md)
-  - Also about: [Governor Cox](/entities/person-governor-cox.md)
+  - Also about: [person-governor-cox](/entities/person-governor-cox.md)
 
 - [00:29:51](/episodes/ep-2WEHTk0Xewg.md#t-00-29-45) (Claim) **Candace Owens** (via paraphrase): ["Tyler Robinson was described by classmates as very tidy and clean, mak..."](/statements/statement-0e8dd2da2a7e.md)
 

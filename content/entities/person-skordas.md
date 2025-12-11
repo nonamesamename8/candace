@@ -1,11 +1,15 @@
 ---
-title: "Skordas"
-description: "Skordas (People) - 3 mentions"
+title: "Greg Skordas"
+description: "Greg Skordas (People) - 3 mentions"
 id: "person-skordas"
 type: "PERSON"
+aliases:
+  - "Skordas"
 ---
 
 _Type: People_
+
+**Also known as:** Skordas
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

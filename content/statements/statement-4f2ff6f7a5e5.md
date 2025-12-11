@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Governor Cox](/entities/person-governor-cox.md) (person)
+- [person-governor-cox](/entities/person-governor-cox.md)
 - [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md) (event)
 
 ## Source

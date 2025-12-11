@@ -1,14 +1,14 @@
 ---
 id: "YA1FxrDWNIo"
 title: "DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245"
-description: "DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 - 66 entities, 6 events, 0 claims"
+description: "DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 - 65 entities, 6 events, 0 claims"
 published: "2025-09-30"
 youtube_url: "https://www.youtube.com/watch?v=YA1FxrDWNIo"
 ---
 
 **Published:** 2025-09-30 | [Watch on YouTube](https://www.youtube.com/watch?v=YA1FxrDWNIo)
 
-**Stats:** 66 entities | 6 events | 0 claims
+**Stats:** 65 entities | 6 events | 0 claims
 
 ---
 
@@ -202,7 +202,7 @@ youtube_url: "https://www.youtube.com/watch?v=YA1FxrDWNIo"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (66)</strong></summary>
+<summary><strong>Entities Mentioned (65)</strong></summary>
 
 **Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md)
 
@@ -214,7 +214,7 @@ youtube_url: "https://www.youtube.com/watch?v=YA1FxrDWNIo"
 
 **Organizations:** [Amazon](/entities/org-amazon.md), [American Financing](/entities/org-american-financing.md), [BearingPoint](/entities/org-bearingpoint.md), [Beekeeper's Naturals](/entities/org-beekeepers-naturals.md), [Daily Mail](/entities/org-daily-mail.md), [FBI](/entities/org-fbi.md), [Fox News](/entities/org-fox-news.md), [Instagram](/entities/org-instagram.md), [JPMorgan Chase](/entities/org-jpmorgan-chase.md), [LDS church](/entities/org-lds-church.md), [Neemi Skin Care](/entities/org-neemi-skin-care.md), [New York Post](/entities/org-new-york-post.md), [NewsNation](/entities/org-newsnation.md), [Operation Underground Railroad](/entities/org-operation-underground-railroad.md), [Prager University](/entities/org-prager-university.md), [Riverbend Ranch](/entities/org-riverbend-ranch.md), [Salt Lake County Sheriff's Office](/entities/org-salt-lake-county-sheriff-s-office.md), [Sorensen Center](/entities/org-sorensen-center.md), [TikTok](/entities/org-tiktok.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [United States Army](/entities/org-united-states-army.md), [Utah State University](/entities/org-utah-state-university.md), [Utah Valley University](/entities/org-utah-valley-university.md), [YouTube](/entities/org-youtube.md)
 
-**People:** [Alex Jones](/entities/person-alex-jones.md), [Andrew Zenger](/entities/person-andrew-zenger.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bob Shillman](/entities/person-bob-shillman.md), [Candace Owens](/entities/person-candace-owens.md), [Cardi B](/entities/person-cardi-b.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [George Farmer](/entities/person-george-farmer.md), [George Zinn](/entities/person-george-zinn.md), [Gernot Omer](/entities/person-gernot-omer.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Kash Patel](/entities/person-kash-patel.md), [Laura Loomer](/entities/person-laura-loomer.md), [Mike Lee](/entities/person-mike-lee.md), [Mike Mitchell](/entities/person-mike-mitchell.md), [Phil Lyman](/entities/person-phil-lyman.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Robert Bowles](/entities/person-robert-bowles.md), [Senator Mike Lee](/entities/person-senator-mike-lee.md), [Shaner Broderick](/entities/person-shaner-broderick.md), [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md), [Tim Ballard](/entities/person-tim-ballard.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Alex Jones](/entities/person-alex-jones.md), [Andrew Zenger](/entities/person-andrew-zenger.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bob Shillman](/entities/person-bob-shillman.md), [Candace Owens](/entities/person-candace-owens.md), [Cardi B](/entities/person-cardi-b.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [George Farmer](/entities/person-george-farmer.md), [George Zinn](/entities/person-george-zinn.md), [Gernot Omer](/entities/person-gernot-omer.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Kash Patel](/entities/person-kash-patel.md), [Laura Loomer](/entities/person-laura-loomer.md), [Mike Mitchell](/entities/person-mike-mitchell.md), [Phil Lyman](/entities/person-phil-lyman.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Robert Bowles](/entities/person-robert-bowles.md), [Senator Mike Lee](/entities/person-senator-mike-lee.md), [Shaner Broderick](/entities/person-shaner-broderick.md), [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md), [Tim Ballard](/entities/person-tim-ballard.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 **Works & Media:** [Chaos](/entities/work-chaos.md)
 

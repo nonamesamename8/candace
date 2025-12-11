@@ -640,7 +640,7 @@ _Type: Places_
 <details>
 <summary>Has Governor (1)</summary>
 
-- **[Governor Cox](/entities/person-governor-cox.md)**
+- **[Spencer Cox](/entities/person-spencer-cox.md)**
   - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:53](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45): "Phil Lyman ran against the current Governor Cox"
 
 </details>
@@ -672,7 +672,7 @@ _Type: Places_
 <details>
 <summary>Referenced By (5)</summary>
 
-- **[Governor Cox](/entities/person-governor-cox.md)** governor of this
+- **[Spencer Cox](/entities/person-spencer-cox.md)** governor of this
   - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:25:53](/episodes/ep-ZGxnf5cj4Uw.md#t-00-25-45)
 
 - **[Jason Chavitz](/entities/person-jason-chavitz.md)** lives in this

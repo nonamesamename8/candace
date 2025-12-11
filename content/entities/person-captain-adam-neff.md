@@ -6,13 +6,12 @@ type: "PERSON"
 aliases:
   - "Adam Neff"
   - "Captain Neff"
-  - "Neff"
   - "Commander Neff"
 ---
 
 _Type: People_
 
-**Also known as:** Adam Neff, Captain Neff, Neff, Commander Neff
+**Also known as:** Adam Neff, Captain Neff, Commander Neff
 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 

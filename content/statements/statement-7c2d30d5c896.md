@@ -23,7 +23,7 @@ type: "factual_claim"
 ## About
 
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
-- [Governor Cox](/entities/person-governor-cox.md) (person)
+- [person-governor-cox](/entities/person-governor-cox.md)
 
 ## Source
 

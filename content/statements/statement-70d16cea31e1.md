@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Mamdani](/entities/person-mamdani.md) (person)
+- [person-mamdani](/entities/person-mamdani.md)
 
 ## Source
 

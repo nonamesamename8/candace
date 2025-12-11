@@ -1,14 +1,14 @@
 ---
 id: "adJ4LNGp84I"
 title: "BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246"
-description: "BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 - 96 entities, 9 events, 0 claims"
+description: "BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 - 95 entities, 9 events, 0 claims"
 published: "2025-10-01"
 youtube_url: "https://www.youtube.com/watch?v=adJ4LNGp84I"
 ---
 
 **Published:** 2025-10-01 | [Watch on YouTube](https://www.youtube.com/watch?v=adJ4LNGp84I)
 
-**Stats:** 96 entities | 9 events | 0 claims
+**Stats:** 95 entities | 9 events | 0 claims
 
 ---
 
@@ -225,7 +225,7 @@ youtube_url: "https://www.youtube.com/watch?v=adJ4LNGp84I"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (96)</strong></summary>
+<summary><strong>Entities Mentioned (95)</strong></summary>
 
 **Concepts:** [Bolsheviks](/entities/concept-bolsheviks.md), [Christians](/entities/concept-christians.md), [Operation Mockingpastor](/entities/concept-operation-mockingpastor.md), [White Lotus](/entities/concept-white-lotus.md), [Zionism](/entities/concept-zionism.md), [devil](/entities/concept-devil.md)
 
@@ -237,7 +237,7 @@ youtube_url: "https://www.youtube.com/watch?v=adJ4LNGp84I"
 
 **Organizations:** [Andreessen Horowitz](/entities/org-andreessen-horowitz.md), [Anti-Defamation League](/entities/org-anti-defamation-league.md), [Azov Battalion](/entities/org-azov-battalion.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [David Horowitz Freedom Center](/entities/org-david-horowitz-freedom-center.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fox News](/entities/org-fox-news.md), [IDF](/entities/org-idf.md), [Instagram](/entities/org-instagram.md), [Mossad](/entities/org-mossad.md), [Neemi Skin Care](/entities/org-neemi-skin-care.md), [New York Post](/entities/org-new-york-post.md), [Paleo Valley](/entities/org-paleo-valley.md), [PragerU](/entities/org-prageru.md), [Pure Talk](/entities/org-pure-talk.md), [PureTalk](/entities/org-puretalk.md), [TMZ](/entities/org-tmz.md), [The Daily Wire](/entities/org-the-daily-wire.md), [The New York Times](/entities/org-the-new-york-times.md), [TikTok](/entities/org-tiktok.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Twitter](/entities/org-twitter.md), [Utah State University](/entities/org-utah-state-university.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
 
-**People:** [Adolf Hitler](/entities/person-adolf-hitler.md), [Alex Jones](/entities/person-alex-jones.md), [Andrew Zenger](/entities/person-andrew-zenger.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Brandon Tatum](/entities/person-brandon-tatum.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Rubin](/entities/person-dave-rubin.md), [David Horowitz](/entities/person-david-horowitz.md), [Deborah Lee](/entities/person-deborah-lee.md), [Donald Trump](/entities/person-donald-trump.md), [Elon Musk](/entities/person-elon-musk.md), [Erica Mindel](/entities/person-erica-mindel.md), [George Zinn](/entities/person-george-zinn.md), [Governor Cox](/entities/person-governor-cox.md), [Kash Patel](/entities/person-kash-patel.md), [Kayleigh McEnany](/entities/person-kayleigh-mcenany.md), [Konstantin Kisin](/entities/person-konstantin-kisin.md), [Larry Ellison](/entities/person-larry-ellison.md), [Marissa Streit](/entities/person-marissa-streit.md), [Max Blumenthal](/entities/person-max-blumenthal.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael Burt](/entities/person-michael-burt.md), [Mike Mitchell](/entities/person-mike-mitchell.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Patrick Bet-David](/entities/person-patrick-bet-david.md), [Phil Lyman](/entities/person-phil-lyman.md), [Richard Ramirez](/entities/person-richard-ramirez.md), [Robbie Hilde](/entities/person-robbie-hilde.md), [Robert Bowles](/entities/person-robert-bowles.md), [Saint Michael](/entities/person-saint-michael.md), [Sean Penn](/entities/person-sean-penn.md), [Skylar](/entities/person-skylar.md), [Skyler](/entities/person-skyler.md), [Spencer Cox](/entities/person-spencer-cox.md), [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Adolf Hitler](/entities/person-adolf-hitler.md), [Alex Jones](/entities/person-alex-jones.md), [Andrew Zenger](/entities/person-andrew-zenger.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Brandon Tatum](/entities/person-brandon-tatum.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Rubin](/entities/person-dave-rubin.md), [David Horowitz](/entities/person-david-horowitz.md), [Deborah Lee](/entities/person-deborah-lee.md), [Donald Trump](/entities/person-donald-trump.md), [Elon Musk](/entities/person-elon-musk.md), [Erica Mindel](/entities/person-erica-mindel.md), [George Zinn](/entities/person-george-zinn.md), [Kash Patel](/entities/person-kash-patel.md), [Kayleigh McEnany](/entities/person-kayleigh-mcenany.md), [Konstantin Kisin](/entities/person-konstantin-kisin.md), [Larry Ellison](/entities/person-larry-ellison.md), [Marissa Streit](/entities/person-marissa-streit.md), [Max Blumenthal](/entities/person-max-blumenthal.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael Burt](/entities/person-michael-burt.md), [Mike Mitchell](/entities/person-mike-mitchell.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Patrick Bet-David](/entities/person-patrick-bet-david.md), [Phil Lyman](/entities/person-phil-lyman.md), [Richard Ramirez](/entities/person-richard-ramirez.md), [Robbie Hilde](/entities/person-robbie-hilde.md), [Robert Bowles](/entities/person-robert-bowles.md), [Saint Michael](/entities/person-saint-michael.md), [Sean Penn](/entities/person-sean-penn.md), [Skylar](/entities/person-skylar.md), [Skyler](/entities/person-skyler.md), [Spencer Cox](/entities/person-spencer-cox.md), [Tony F. Graf Jr.](/entities/person-tony-f-graf-jr.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 **Works & Media:** [Becoming Brigitte](/entities/work-becoming-brigitte.md), [The Matrix](/entities/work-the-matrix.md), [The Matrix](/entities/work-the-matrix.md)
 

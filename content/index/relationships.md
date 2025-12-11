@@ -1252,8 +1252,8 @@ This page shows all extracted relationships between entities. Click any relation
 <details>
 <summary>Appointed (2)</summary>
 
-- [Governor Cox](/entities/person-governor-cox) → [Judge Tony F. Graf Jr.](/entities/person-tony-f-graf-jr) [↗](/relationships/rel-a646bb73d3c5) (1)
 - [Kash Patel](/entities/person-kash-patel) → [Robert Bowles](/entities/person-robert-bowles) [↗](/relationships/rel-4303fbaf91e2) (4)
+- [Spencer Cox](/entities/person-spencer-cox) → [Judge Tony F. Graf Jr.](/entities/person-tony-f-graf-jr) [↗](/relationships/rel-4bbd71bd3fe8) (1)
 
 </details>
 
@@ -1276,7 +1276,7 @@ This page shows all extracted relationships between entities. Click any relation
 <details>
 <summary>Appointed By (2)</summary>
 
-- [Judge Tony F. Graf Jr.](/entities/person-tony-f-graf-jr) → [Governor Cox](/entities/person-governor-cox) [↗](/relationships/rel-fe54f500acd4) (1)
+- [Judge Tony F. Graf Jr.](/entities/person-tony-f-graf-jr) → [Spencer Cox](/entities/person-spencer-cox) [↗](/relationships/rel-8e9373dc4865) (1)
 - [Robert Bowles](/entities/person-robert-bowles) → [Kash Patel](/entities/person-kash-patel) [↗](/relationships/rel-fb299d657978) (3)
 
 </details>
@@ -1453,7 +1453,7 @@ This page shows all extracted relationships between entities. Click any relation
 <details>
 <summary>Governor Of (1)</summary>
 
-- [Governor Cox](/entities/person-governor-cox) → [Utah](/entities/gpe-utah) [↗](/relationships/rel-514d894afdbb) (1)
+- [Spencer Cox](/entities/person-spencer-cox) → [Utah](/entities/gpe-utah) [↗](/relationships/rel-1993e81a97f5) (1)
 
 </details>
 
@@ -1502,7 +1502,7 @@ This page shows all extracted relationships between entities. Click any relation
 <details>
 <summary>Has Governor (1)</summary>
 
-- [Utah](/entities/gpe-utah) → [Governor Cox](/entities/person-governor-cox) [↗](/relationships/rel-c312b264f777) (1)
+- [Utah](/entities/gpe-utah) → [Spencer Cox](/entities/person-spencer-cox) [↗](/relationships/rel-ccdd1442b5db) (1)
 
 </details>
 
