@@ -296,30 +296,6 @@ youtube_url: "https://www.youtube.com/watch?v=czVBmqZP6Ss"
 # Appendix: Knowledge Graph Data
 
 <details>
-<summary><strong>Legend</strong></summary>
-
-**Claim Types**
-
-| Type | Description |
-|------|-------------|
-| factual | A claim about facts that can be verified through evidence. Note: 'factual' does not mean 'true'—it means the claim *asserts* something as fact. |
-| prediction | A claim about future events. Cannot be verified until the predicted time passes. |
-| promise | A commitment to do something. Verified by whether the action was taken. |
-| interpretive | An opinion or interpretation. These are subjective and not fact-checkable. |
-
-**Veracity Ratings**
-
-| Rating | Meaning |
-|--------|---------|
-| ✅ True | Claim is supported by reliable evidence |
-| ❌ False | Claim is contradicted by reliable evidence |
-| ⚠️ Mixed | Claim contains both accurate and inaccurate elements |
-| ❓ Unverifiable | Claim cannot be verified (no sources found, or inherently unverifiable) |
-| - | Not yet verified |
-
-</details>
-
-<details>
 <summary><strong>Timeline Events (11)</strong></summary>
 
 - **2019-01-01**: [Netanyahu's son visited Israel and had lunch with Charlie Kirk and his wife Erika](/events/event-2019-01-01-netanyahus-son-visited-israel-and-had-lu.md)

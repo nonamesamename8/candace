@@ -212,30 +212,6 @@ youtube_url: "https://www.youtube.com/watch?v=t4U7NjnUEgc"
 # Appendix: Knowledge Graph Data
 
 <details>
-<summary><strong>Legend</strong></summary>
-
-**Claim Types**
-
-| Type | Description |
-|------|-------------|
-| factual | A claim about facts that can be verified through evidence. Note: 'factual' does not mean 'true'—it means the claim *asserts* something as fact. |
-| prediction | A claim about future events. Cannot be verified until the predicted time passes. |
-| promise | A commitment to do something. Verified by whether the action was taken. |
-| interpretive | An opinion or interpretation. These are subjective and not fact-checkable. |
-
-**Veracity Ratings**
-
-| Rating | Meaning |
-|--------|---------|
-| ✅ True | Claim is supported by reliable evidence |
-| ❌ False | Claim is contradicted by reliable evidence |
-| ⚠️ Mixed | Claim contains both accurate and inaccurate elements |
-| ❓ Unverifiable | Claim cannot be verified (no sources found, or inherently unverifiable) |
-| - | Not yet verified |
-
-</details>
-
-<details>
 <summary><strong>Timeline Events (16)</strong></summary>
 
 - **1985-08-20**: [Iran-Contra affair begins with first arms shipment - 96 TOW missiles delivered to Iran](/events/event-1985-08-20-iran-contra-affair-begins-with-first-arm.md)

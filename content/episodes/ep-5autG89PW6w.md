@@ -266,30 +266,6 @@ youtube_url: "https://www.youtube.com/watch?v=5autG89PW6w"
 # Appendix: Knowledge Graph Data
 
 <details>
-<summary><strong>Legend</strong></summary>
-
-**Claim Types**
-
-| Type | Description |
-|------|-------------|
-| factual | A claim about facts that can be verified through evidence. Note: 'factual' does not mean 'true'—it means the claim *asserts* something as fact. |
-| prediction | A claim about future events. Cannot be verified until the predicted time passes. |
-| promise | A commitment to do something. Verified by whether the action was taken. |
-| interpretive | An opinion or interpretation. These are subjective and not fact-checkable. |
-
-**Veracity Ratings**
-
-| Rating | Meaning |
-|--------|---------|
-| ✅ True | Claim is supported by reliable evidence |
-| ❌ False | Claim is contradicted by reliable evidence |
-| ⚠️ Mixed | Claim contains both accurate and inaccurate elements |
-| ❓ Unverifiable | Claim cannot be verified (no sources found, or inherently unverifiable) |
-| - | Not yet verified |
-
-</details>
-
-<details>
 <summary><strong>Timeline Events (6)</strong></summary>
 
 - **2025-05-02**: [Charlie Kirk sends letter to Benjamin Netanyahu](/events/event-2025-05-02-charlie-kirk-sends-letter-to-benjamin-netanyahu.md)
