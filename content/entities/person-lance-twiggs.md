@@ -1,6 +1,6 @@
 ---
 title: "Lance Twiggs"
-description: "Lance Twiggs (People) - 71 mentions"
+description: "Lance Twiggs (People) - 44 mentions"
 id: "person-lance-twiggs"
 type: "PERSON"
 aliases:
@@ -87,7 +87,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (9 mentions)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (5 mentions)</summary>
+
+**[00:00:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01)**
+> "the alleged conversation held between Tyler Robinson and his 22-year-old boyfriend, Lance Twiggs"
 
 **[00:00:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01)**
 > "...2-year-old alleged killer of Charlie (Charlie Kirk), Tyler Robinson, and his 22-year-old boyfriend, Lance Twiggs. The first term I want you to search is "retrieve." Look it up. When was the last time that you use..."
@@ -101,28 +104,16 @@ _Type: People_
 **[00:41:33](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-41-13)**
 > "... is a federal level of corruption and conspiracy involved in this murder, okay? From George Zinn to Lance Twiggs, the unanswered questions were like: What was he doing at home? What does he do for a living? Did t..."
 
-**[00:00:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01)**
-> "the alleged conversation held between Tyler Robinson and his 22-year-old boyfriend, Lance Twiggs"
-
-**[00:00:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-00-01)**
-> "...nd his 22-year-old boyfriend, Lance Twiggs."
-
-**[00:25:14](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-24-54)**
-> "...we'll tell you around 11 p.m.—Lance Twiggs is brought in for questioning."
-
-**[00:36:17](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-35-53)**
-> "...d like more information about Lance Twiggs."
-
-**[00:41:33](/episodes/ep-2WEHTk0Xewg.md#ent-person-lance-twiggs-t-00-41-13)**
-> "From George Zinn to Lance Twiggs, the unanswered questions were like: What was he ..."
-
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (44 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (21 mentions)</summary>
 
 **[00:00:45](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45)**
 > "...ased, and I have a lot of questions that I think need to be answered regarding his trans boyfriend, Lance Twiggs. Well, I just spoke to a family member who told me a lot about Lance Twiggs because the media is ki..."
+
+**[00:00:56](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45)**
+> "I have a lot of questions that I think need to be answered regarding his trans boyfriend, Lance Twiggs"
 
 **[00:00:56](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45)**
 > "...ng his trans boyfriend, Lance Twiggs. Well, I just spoke to a family member who told me a lot about Lance Twiggs because the media is kind of presenting him as this do-gooder. You might be interested to know that..."
@@ -180,78 +171,6 @@ _Type: People_
 
 **[01:12:45](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-01-12-39)**
 > "...uth and I trust only you right now." Thank you. And especially, I want to say thank you to Lance's (Lance Twiggs's) family because I know this is not an easy time for you. And she was telling me, and he was telli..."
-
-**[00:00:56](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45)**
-> "I have a lot of questions that I think need to be answered regarding his trans boyfriend, Lance Twiggs"
-
-**[00:00:45](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45)**
-> "...egarding his trans boyfriend, Lance Twiggs."
-
-**[00:00:56](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-00-45)**
-> "...ember who told me a lot about Lance Twiggs because the media is kind of presenting him as th..."
-
-**[00:18:30](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-18-12)**
-> "...r's trans boyfriend's name is Lance Twiggs."
-
-**[00:18:58](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-18-56)**
-> "I'm referring now to Lance Twiggs."
-
-**[00:20:05](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-19-40)**
-> "The roommate, Lance (Lance Twiggs), then looks under his keyboard and he finds a no..."
-
-**[00:26:01](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-25-29)**
-> "...and I'm speaking about Lance (Lance Twiggs), could have contacted immediately and said, I'm ..."
-
-**[00:26:51](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-26-51)**
-> "The roommate says, Lance (Lance Twiggs) says, "I'm much more worried about you.""
-
-**[00:28:27](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-28-27)**
-> "...ng too much about this Lance (Lance Twiggs) guy other than like he's been extremely cooperat..."
-
-**[00:28:41](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-28-27)**
-> "I'm not implying that Lance (Lance Twiggs) was involved."
-
-**[00:29:06](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-29-06)**
-> "...nd it turns out that actually Lance Twiggs's family has tried to reach out to me over the week..."
-
-**[00:29:34](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-29-34)**
-> "...son was living in with Lance (Lance Twiggs) is owned by them."
-
-**[00:30:01](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-30-01)**
-> "So they know Lance (Lance Twiggs), obviously, and I'm going to cushion this with a..."
-
-**[00:30:20](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-30-01)**
-> "...I took notes regarding Lance (Lance Twiggs), because I wanna know everything, okay?"
-
-**[00:30:28](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-30-01)**
-> "Lance (Lance Twiggs), they told us, went to live with his relatives, ..."
-
-**[00:32:06](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-32-06)**
-> "Lance's (Lance Twiggs's) family is telling me that they are not buying th..."
-
-**[00:33:01](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-32-47)**
-> "... despite the fact that Lance (Lance Twiggs) had wanted to foster that meeting, that the two ..."
-
-**[00:33:01](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-32-47)**
-> "...this couple, Tyler and Lance (Lance Twiggs), were living in that townhome that is owned by L..."
-
-**[00:33:01](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-32-47)**
-> "...ome that is owned by Lance's (Lance Twiggs's) family, and that Tyler was paying rent to Lance ..."
-
-**[00:33:01](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-32-47)**
-> "...ler was paying rent to Lance (Lance Twiggs)."
-
-**[00:33:20](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-32-47)**
-> "And Lance (Lance Twiggs) then, of course, was forwarding that payment to ..."
-
-**[00:33:58](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-33-29)**
-> "...ere Tyler Robinson and Lance (Lance Twiggs) lived."
-
-**[00:34:45](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-00-34-45)**
-> "...what we're hearing, okay, and Lance Twiggs's family doesn't feel good about what we're hearing..."
-
-**[01:12:45](/episodes/ep-q7f8r-THr84.md#ent-person-lance-twiggs-t-01-12-39)**
-> "... to say thank you to Lance's (Lance Twiggs's) family because I know this is not an easy time f..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Cooper Brown"
-description: "Cooper Brown (People) - 10 mentions"
+description: "Cooper Brown (People) - 5 mentions"
 id: "person-cooper-brown"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (10 mentions)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (5 mentions)</summary>
 
 **[00:13:01](/episodes/ep-pc3pxRyNFZk.md#ent-person-cooper-brown-t-00-12-44)**
 > "... shot rang out. Take a listen to what he told Jesse Watters (Jesse Watters) on the night of. (Clip: Cooper Brown) Cooper Brown was an event volunteer who was just feet away from Charlie (Charlie Kirk) when he got..."
@@ -29,21 +29,6 @@ _Type: People_
 
 **[00:17:24](/episodes/ep-pc3pxRyNFZk.md#ent-person-cooper-brown-t-00-17-22)**
 > "...t know, but I'm going to find out, so... If you went to Southern New Hampshire University with this Cooper Brown and you majored with him in politics and you can provide some insight, I'd like to hear from you. I..."
-
-**[00:13:01](/episodes/ep-pc3pxRyNFZk.md#ent-person-cooper-brown-t-00-12-44)**
-> "...ters) on the night of. (Clip: Cooper Brown)"
-
-**[00:13:06](/episodes/ep-pc3pxRyNFZk.md#ent-person-cooper-brown-t-00-12-44)**
-> "Cooper Brown was an event volunteer who was just feet away fro..."
-
-**[00:14:31](/episodes/ep-pc3pxRyNFZk.md#ent-person-cooper-brown-t-00-14-05)**
-> "... we do, let's roll it. (Clip: Cooper Brown)"
-
-**[00:15:16](/episodes/ep-pc3pxRyNFZk.md#ent-person-cooper-brown-t-00-14-36)**
-> "Couple of things about Cooper Brown that to me is a bit of a mystery at this moment."
-
-**[00:17:24](/episodes/ep-pc3pxRyNFZk.md#ent-person-cooper-brown-t-00-17-22)**
-> "...ampshire University with this Cooper Brown and you majored with him in politics and you can ..."
 
 </details>
 

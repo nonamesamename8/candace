@@ -1,6 +1,6 @@
 ---
 title: "Mary Phagan"
-description: "Mary Phagan (People) - 15 mentions"
+description: "Mary Phagan (People) - 7 mentions"
 id: "person-mary-phagan"
 type: "PERSON"
 aliases:
@@ -17,7 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (15 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (7 mentions)</summary>
 
 **[00:03:44](/episodes/ep-t1YtLS1n8Vs.md#ent-person-mary-phagan-t-00-03-31)**
 > "...d know this happened in 1913. And this is the American South. You know what was going on there. And Mary Phagan was a 13-year-old girl who worked at his pencil factory. She was found brutally raped. She's a Cath..."
@@ -39,30 +39,6 @@ _Type: People_
 
 **[00:44:49](/episodes/ep-t1YtLS1n8Vs.md#ent-person-mary-phagan-t-00-44-21)**
 > "...gin story of the ADL and their relationship with the FBI, you realize that. Go read that book about Mary Phagan written by Mary Phagan, a descendant with her same name. Bill Scott writes, “I came to Christ after..."
-
-**[00:03:44](/episodes/ep-t1YtLS1n8Vs.md#ent-person-mary-phagan-t-00-03-31)**
-> "And Mary Phagan was a 13-year-old girl who worked at his pencil f..."
-
-**[00:04:43](/episodes/ep-t1YtLS1n8Vs.md#ent-person-mary-phagan-t-00-04-15)**
-> "...as lynched for what he did to Mary Phagan."
-
-**[00:05:13](/episodes/ep-t1YtLS1n8Vs.md#ent-person-mary-phagan-t-00-04-56)**
-> "He killed Mary Phagan."
-
-**[00:05:19](/episodes/ep-t1YtLS1n8Vs.md#ent-person-mary-phagan-t-00-04-56)**
-> "..., you should learn more about Mary Phagan's murder."
-
-**[00:05:22](/episodes/ep-t1YtLS1n8Vs.md#ent-person-mary-phagan-t-00-04-56)**
-> "...k called The Murder of Little Mary Phagan, and it is written by a relative of hers."
-
-**[00:05:30](/episodes/ep-t1YtLS1n8Vs.md#ent-person-mary-phagan-t-00-04-56)**
-> "... that relative's name is also Mary Phagan."
-
-**[00:44:49](/episodes/ep-t1YtLS1n8Vs.md#ent-person-mary-phagan-t-00-44-21)**
-> "Go read that book about Mary Phagan written by Mary Phagan, a descendant with her sam..."
-
-**[00:44:49](/episodes/ep-t1YtLS1n8Vs.md#ent-person-mary-phagan-t-00-44-21)**
-> "... about Mary Phagan written by Mary Phagan, a descendant with her same name."
 
 </details>
 

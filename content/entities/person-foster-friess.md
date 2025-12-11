@@ -1,6 +1,6 @@
 ---
 title: "Foster Friess"
-description: "Foster Friess (People) - 4 mentions"
+description: "Foster Friess (People) - 2 mentions"
 id: "person-foster-friess"
 type: "PERSON"
 ---
@@ -13,19 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (4 mentions)</summary>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
 
 **[00:02:06](/episodes/ep-c5BcKF91iec.md#ent-person-foster-friess-t-00-01-39)**
 > "...yoming, I was with Charlie Kirk. He was the last person I visited with, and it was for, ironically, Foster Friess's funeral—who was a big-time donor to Turning Point USA, still is, I believe. Charlie, I was thinki..."
 
 **[00:02:51](/episodes/ep-c5BcKF91iec.md#ent-person-foster-friess-t-00-02-20)**
 > "...ase party. And again, ironically, where he held that album release party would be where years later Foster Friess would have his funeral. And so Wyoming felt fitting. I fished while I was out there. And so I want ..."
-
-**[00:02:06](/episodes/ep-c5BcKF91iec.md#ent-person-foster-friess-t-00-01-39)**
-> "..., and it was for, ironically, Foster Friess's funeral—who was a big-time donor to Turning Point..."
-
-**[00:02:51](/episodes/ep-c5BcKF91iec.md#ent-person-foster-friess-t-00-02-20)**
-> "...ty would be where years later Foster Friess would have his funeral."
 
 </details>
 

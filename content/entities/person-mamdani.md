@@ -1,6 +1,6 @@
 ---
 title: "Mamdani"
-description: "Mamdani (People) - 64 mentions"
+description: "Mamdani (People) - 27 mentions"
 id: "person-mamdani"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (27 mentions)</summary>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (9 mentions)</summary>
 
 **[00:04:23](/episodes/ep-r1PS67aRmcA.md#t-00-04-12)**
 > "...g about that and then spinning it into the accusation that Tucker (Tucker Carlson) somehow supports Mamdani. I don't know. Take a listen. (Clip: Ben Shapiro) So I texted him, and I said, "Thanks so much for ..."
@@ -42,64 +42,10 @@ _Type: People_
 **[00:52:55](/episodes/ep-r1PS67aRmcA.md#t-00-52-33)**
 > "...s of engagement with the Geneva Convention. Also, Ben says Republicans should work together against Mamdani, yet the DW was all about sabotaging all the other conservative media." Like I said in general, eve..."
 
-**[00:04:23](/episodes/ep-r1PS67aRmcA.md#t-00-04-12)**
-> "...ker Carlson) somehow supports Mamdani (Zohran Mamdani)."
-
-**[00:04:23](/episodes/ep-r1PS67aRmcA.md#t-00-04-12)**
-> "...ehow supports Mamdani (Zohran Mamdani)."
-
-**[00:05:23](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "...Carlson) has mentioned Zohran Mamdani (Zohran Mamdani) since October 7th on his show is..."
-
-**[00:05:23](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "...tioned Zohran Mamdani (Zohran Mamdani) since October 7th on his show is once."
-
-**[00:05:30](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "...ng about the appeal of Zohran Mamdani (Zohran Mamdani)."
-
-**[00:05:30](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "...eal of Zohran Mamdani (Zohran Mamdani)."
-
-**[00:05:36](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "...se you've talked about Zohran Mamdani (Zohran Mamdani) a lot, a lot of us have."
-
-**[00:05:36](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "... about Zohran Mamdani (Zohran Mamdani) a lot, a lot of us have."
-
-**[00:05:41](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "...d 17 separate shows on Zohran Mamdani (Zohran Mamdani), including four in the last week..."
-
-**[00:05:41](/episodes/ep-r1PS67aRmcA.md#t-00-05-14)**
-> "...ows on Zohran Mamdani (Zohran Mamdani), including four in the last week before the elec..."
-
-**[00:06:44](/episodes/ep-r1PS67aRmcA.md#t-00-06-42)**
-> "...e his platform to speak about Mamdani (Zohran Mamdani) 17 times."
-
-**[00:06:44](/episodes/ep-r1PS67aRmcA.md#t-00-06-42)**
-> "...o speak about Mamdani (Zohran Mamdani) 17 times."
-
-**[00:06:51](/episodes/ep-r1PS67aRmcA.md#t-00-06-42)**
-> "...er Carlson) somehow supported Mamdani (Zohran Mamdani) and said like nice things about ..."
-
-**[00:06:51](/episodes/ep-r1PS67aRmcA.md#t-00-06-42)**
-> "...how supported Mamdani (Zohran Mamdani) and said like nice things about him when he sat ..."
-
-**[00:09:02](/episodes/ep-r1PS67aRmcA.md#t-00-08-31)**
-> "...d. I am describing to you why Mamdani (Zohran Mamdani) won, and you're angry that peopl..."
-
-**[00:09:02](/episodes/ep-r1PS67aRmcA.md#t-00-08-31)**
-> "...ng to you why Mamdani (Zohran Mamdani) won, and you're angry that people are assessing ..."
-
-**[00:52:55](/episodes/ep-r1PS67aRmcA.md#t-00-52-33)**
-> "... should work together against Mamdani (Zohran Mamdani), yet the DW was all about sabota..."
-
-**[00:52:55](/episodes/ep-r1PS67aRmcA.md#t-00-52-33)**
-> "...ether against Mamdani (Zohran Mamdani), yet the DW was all about sabotaging all the oth..."
-
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (37 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (18 mentions)</summary>
 
 **[00:00:05](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-00-00-00)**
 > "All right, you guys. Happy Wednesday for some people in New York City. Mamdani won. Okay, that's kind of the big story. The Republican establishment—they have a lot of excuses re..."
@@ -154,63 +100,6 @@ _Type: People_
 
 **[01:02:07](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-01-01-30)**
 > ".... "As a conservative-leaning libertarian, I don't agree with socialism, but part of me is glad that Mamdani won because it sends a message. It was supposed to be MAGA, not MIGA." Exactly right. And when you ..."
-
-**[00:00:05](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-00-00-00)**
-> "Mamdani won."
-
-**[00:09:31](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-00-09-05)**
-> "... can to make sure that, well, Mamdani—as just one example—does not become the mayor of ..."
-
-**[00:09:44](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-00-09-44)**
-> "...at were flowing into the anti-Mamdani campaign."
-
-**[00:10:07](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-00-09-44)**
-> "...almost personally ran against Mamdani, right?"
-
-**[00:10:11](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-00-09-44)**
-> "...emanded to have a debate with Mamdani—which I don't understand the context of why Mamda..."
-
-**[00:10:11](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-00-09-44)**
-> "...understand the context of why Mamdani would be debating Bill Ackman if he's not running..."
-
-**[00:10:19](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-00-09-44)**
-> "Point is, Mamdani won, okay?"
-
-**[00:10:22](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-00-09-44)**
-> "$1.75 million, and Mamdani won—irrespective of the money that was donated ag..."
-
-**[00:10:35](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-00-10-30)**
-> "He gave $8.3 million to stop Mamdani, and it didn't matter."
-
-**[00:10:50](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-00-10-30)**
-> "Still Mamdani won."
-
-**[00:12:05](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-00-12-05)**
-> "Mr. Mamdani?"
-
-**[00:12:12](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-00-12-12)**
-> "Mr. Mamdani, can I just jump in?"
-
-**[00:14:12](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-00-13-49)**
-> "Keep in mind, by the way, Mamdani won—and New York has the largest population of Je..."
-
-**[00:15:31](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-00-15-11)**
-> "... them to all make posts, anti-Mamdani posts."
-
-**[00:15:44](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-00-15-44)**
-> "...Social posts to ensuring that Mamdani would lose than to ensuring that Charlie (Charlie..."
-
-**[00:17:37](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-00-17-12)**
-> "...s to get out and vote against Mamdani."
-
-**[00:47:10](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-00-46-55)**
-> "...coming; the Muslims are here; Mamdani—there's a jihadist threat; something big is comin..."
-
-**[01:01:02](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-01-00-48)**
-> "...n and start talking about the Mamdani race."
-
-**[01:02:07](/episodes/ep-LATnak75Si0.md#ent-person-mamdani-t-01-01-30)**
-> "..., but part of me is glad that Mamdani won because it sends a message."
 
 </details>
 

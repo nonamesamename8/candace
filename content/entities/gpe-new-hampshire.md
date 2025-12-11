@@ -1,6 +1,6 @@
 ---
 title: "New Hampshire"
-description: "New Hampshire (Places) - 6 mentions"
+description: "New Hampshire (Places) - 5 mentions"
 id: "gpe-new-hampshire"
 type: "GPE"
 aliases:
@@ -18,16 +18,13 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (6 mentions)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (5 mentions)</summary>
 
 **[00:16:09](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-new-hampshire-t-00-15-57)**
 > "Went to school—a minor, a very small college in New Hampshire"
 
 **[00:16:09](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-new-hampshire-t-00-15-57)**
 > "...inor, a very small college in New Hampshire."
-
-**[00:16:16](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-new-hampshire-t-00-15-57)**
-> "If you're going to school in New Hampshire—especially not the University of New Hampshire—yo..."
 
 **[00:16:16](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-new-hampshire-t-00-15-57)**
 > "...ecially not the University of New Hampshire—you can go ahead and bet that you're going to be ..."

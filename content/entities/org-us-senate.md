@@ -1,6 +1,6 @@
 ---
 title: "United States Senate"
-description: "United States Senate (Organizations) - 3 mentions"
+description: "United States Senate (Organizations) - 2 mentions"
 id: "org-us-senate"
 type: "ORG"
 aliases:
@@ -19,13 +19,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (3 mentions)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
 
 **[00:01:09](/episodes/ep-aDlhjfW6hz8.md#ent-org-us-senate-t-00-00-55)**
 > "the Senate has voted, and they have passed a bipartisan resolution to designate October 14th...as Charlie Kirk Remembrance Day"
-
-**[00:01:09](/episodes/ep-aDlhjfW6hz8.md#ent-org-us-senate-t-00-00-55)**
-> "...d first let you know that the Senate has voted, and they have passed a bipartisan reso..."
 
 **[00:01:09](/episodes/ep-aDlhjfW6hz8.md#ent-org-us-senate-t-00-00-55)**
 > "...hould first let you know that the Senate has voted, and they have passed a bipartisan reso..."

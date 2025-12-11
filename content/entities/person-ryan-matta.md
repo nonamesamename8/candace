@@ -38,11 +38,11 @@ _Type: People_
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
-**[00:19:22](/episodes/ep-581dILVcEE4.md#ent-person-ryan-matta-t-00-19-10)**
-> "Ryan Matta chased footage of alleged shooter pulling out of parking lot"
-
 **[00:19:13](/episodes/ep-581dILVcEE4.md#ent-person-ryan-matta-t-00-19-10)**
 > "...ng lot, which was provided by Ryan Matta that he chased down."
+
+**[00:19:22](/episodes/ep-581dILVcEE4.md#ent-person-ryan-matta-t-00-19-10)**
+> "Ryan Matta chased footage of alleged shooter pulling out of parking lot"
 
 </details>
 

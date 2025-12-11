@@ -1,6 +1,6 @@
 ---
 title: "Greenville"
-description: "Greenville (Places) - 2 mentions"
+description: "Greenville (Places) - 1 mention"
 id: "gpe-greenville"
 type: "GPE"
 ---
@@ -13,13 +13,10 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
 **[00:08:04](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-greenville-t-00-07-45)**
 > "...te, "Richards, who is unemployed and supported by a trust fund, owns a 5,800-square-foot mansion in Greenville that he bought for $1.8 million in 2005." He also lists a home in the exclusive North Shores neighb..."
-
-**[00:08:04](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-greenville-t-00-07-45)**
-> "... 5,800-square-foot mansion in Greenville that he bought for $1.8 million in 2005.""
 
 </details>
 

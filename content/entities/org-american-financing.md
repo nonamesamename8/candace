@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 129 mentions"
+description: "American Financing (Organizations) - 128 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -19,9 +19,6 @@ _Type: Organizations_
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>
 
-**[00:46:00](/episodes/ep-6DhWawD4ZiM.md#ent-org-american-financing-t-00-33-22)**
-> "Also reminding you guys about American financing"
-
 **[00:33:08](/episodes/ep-6DhWawD4ZiM.md#ent-org-american-financing-t-00-32-43)**
 > "Also reminding you guys about American financing, because what if you could delay your next two mo..."
 
@@ -33,6 +30,26 @@ _Type: Organizations_
 
 **[00:33:53](/episodes/ep-6DhWawD4ZiM.md#ent-org-american-financing-t-00-33-22)**
 > "So, call American Financing today."
+
+**[00:46:00](/episodes/ep-6DhWawD4ZiM.md#ent-org-american-financing-t-00-33-22)**
+> "Also reminding you guys about American financing"
+
+</details>
+
+<details>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (4 mentions)</summary>
+
+**[00:40:09](/episodes/ep-DqGNvi36ol8.md#ent-org-american-financing-t-00-40-01)**
+> "Well, that's possible if you call American Financing today"
+
+**[00:40:09](/episodes/ep-DqGNvi36ol8.md#ent-org-american-financing-t-00-40-01)**
+> "..., that's possible if you call American Financing today."
+
+**[00:40:21](/episodes/ep-DqGNvi36ol8.md#ent-org-american-financing-t-00-40-01)**
+> "In the 20s, even the 30s, American financing can now show you how to use your home's equity to..."
+
+**[00:40:44](/episodes/ep-DqGNvi36ol8.md#ent-org-american-financing-t-00-40-01)**
+> "So call American Financing today at 800-795-1210."
 
 </details>
 
@@ -57,23 +74,6 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (4 mentions)</summary>
-
-**[00:40:09](/episodes/ep-DqGNvi36ol8.md#ent-org-american-financing-t-00-40-01)**
-> "Well, that's possible if you call American Financing today"
-
-**[00:40:09](/episodes/ep-DqGNvi36ol8.md#ent-org-american-financing-t-00-40-01)**
-> "..., that's possible if you call American Financing today."
-
-**[00:40:21](/episodes/ep-DqGNvi36ol8.md#ent-org-american-financing-t-00-40-01)**
-> "In the 20s, even the 30s, American financing can now show you how to use your home's equity to..."
-
-**[00:40:44](/episodes/ep-DqGNvi36ol8.md#ent-org-american-financing-t-00-40-01)**
-> "So call American Financing today at 800-795-1210."
-
-</details>
-
-<details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (3 mentions)</summary>
 
 **[00:53:52](/episodes/ep-his-JBjlkh8.md#ent-org-american-financing-t-00-53-29)**
@@ -88,10 +88,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (5 mentions)</summary>
-
-**[00:53:01](/episodes/ep-tB5SXXmd9vU.md#ent-org-american-financing-t-00-52-25)**
-> "I'll also remind you guys about American Financing"
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (4 mentions)</summary>
 
 **[00:53:01](/episodes/ep-tB5SXXmd9vU.md#ent-org-american-financing-t-00-52-25)**
 > "...ll also remind you guys about American Financing, because what if you could delay your next two mo..."
@@ -161,11 +158,11 @@ _Type: Organizations_
 <details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (4 mentions)</summary>
 
-**[00:46:05](/episodes/ep-JQjCAsfoXEE.md#ent-org-american-financing-t-00-45-59)**
-> "I'll also remind you guys about American Financing because the Fed just dropped interest rates again, and that is great news for American homeowners."
-
 **[00:45:59](/episodes/ep-JQjCAsfoXEE.md#ent-org-american-financing-t-00-45-59)**
 > "...ll also remind you guys about American Financing because the Fed just dropped interest rates again..."
+
+**[00:46:05](/episodes/ep-JQjCAsfoXEE.md#ent-org-american-financing-t-00-45-59)**
+> "I'll also remind you guys about American Financing because the Fed just dropped interest rates again, and that is great news for American homeowners."
 
 **[00:46:18](/episodes/ep-JQjCAsfoXEE.md#ent-org-american-financing-t-00-45-59)**
 > "American Financing is helping homeowners access the equity in their ..."
@@ -291,9 +288,6 @@ _Type: Organizations_
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (5 mentions)</summary>
 
-**[00:43:00](/episodes/ep-pc3pxRyNFZk.md#ent-org-american-financing-t-00-35-02)**
-> "American Financing is another company that I want to tell you about"
-
 **[00:34:53](/episodes/ep-pc3pxRyNFZk.md#ent-org-american-financing-t-00-34-17)**
 > "American Financing is another company that I want to tell you about ..."
 
@@ -305,6 +299,9 @@ _Type: Organizations_
 
 **[00:35:39](/episodes/ep-pc3pxRyNFZk.md#ent-org-american-financing-t-00-35-02)**
 > "Call American Financing today."
+
+**[00:43:00](/episodes/ep-pc3pxRyNFZk.md#ent-org-american-financing-t-00-35-02)**
+> "American Financing is another company that I want to tell you about"
 
 </details>
 
@@ -359,11 +356,11 @@ _Type: Organizations_
 <details>
 <summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (4 mentions)</summary>
 
-**[00:41:19](/episodes/ep-t1YtLS1n8Vs.md#ent-org-american-financing-t-00-40-48)**
-> "Also reminding you guys about American Financing because we all see that the cost of everything is still out of control."
-
 **[00:41:16](/episodes/ep-t1YtLS1n8Vs.md#ent-org-american-financing-t-00-40-48)**
 > "Also reminding you guys about American Financing because we all see that the cost of everything is..."
+
+**[00:41:19](/episodes/ep-t1YtLS1n8Vs.md#ent-org-american-financing-t-00-40-48)**
+> "Also reminding you guys about American Financing because we all see that the cost of everything is still out of control."
 
 **[00:41:35](/episodes/ep-t1YtLS1n8Vs.md#ent-org-american-financing-t-00-41-27)**
 > "...reaching out to my friends in American Financing but maybe decided against it because you don't wa..."
@@ -390,11 +387,11 @@ _Type: Organizations_
 <details>
 <summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (5 mentions)</summary>
 
-**[00:48:17](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-american-financing-t-00-47-41)**
-> "First, I want to tell you about American Financing because the Fed has finally dropped interest rates"
-
 **[00:48:08](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-american-financing-t-00-47-41)**
 > "...rst, I want to tell you about American Financing because the Fed has finally dropped interest rate..."
+
+**[00:48:17](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-american-financing-t-00-47-41)**
+> "First, I want to tell you about American Financing because the Fed has finally dropped interest rates"
 
 **[00:48:25](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-american-financing-t-00-48-25)**
 > "...you should call my friends at American Financing right now because interest rates have dropped."
@@ -447,11 +444,11 @@ _Type: Organizations_
 <details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (4 mentions)</summary>
 
-**[00:47:20](/episodes/ep-ja26iltROkM.md#ent-org-american-financing-t-00-47-20)**
-> "let me remind you guys about American Financing, because the cost of everything is still out of control"
-
 **[00:47:16](/episodes/ep-ja26iltROkM.md#ent-org-american-financing-t-00-46-36)**
 > "... let me remind you guys about American Financing, because the cost of everything is still out of c..."
+
+**[00:47:20](/episodes/ep-ja26iltROkM.md#ent-org-american-financing-t-00-47-20)**
+> "let me remind you guys about American Financing, because the cost of everything is still out of control"
 
 **[00:47:28](/episodes/ep-ja26iltROkM.md#ent-org-american-financing-t-00-47-20)**
 > "...reaching out to my friends at American Financing, but maybe hesitated to do so because you don't w..."
@@ -467,17 +464,17 @@ _Type: Organizations_
 **[00:29:13](/episodes/ep-sreYYcID-QY.md#ent-org-american-financing-t-00-29-04)**
 > "want to tell you guys about American Financing, because if you've been living on credit cards"
 
-**[00:29:21](/episodes/ep-sreYYcID-QY.md#ent-org-american-financing-t-00-29-04)**
-> "you could call my friends at American Financing"
-
-**[00:29:24](/episodes/ep-sreYYcID-QY.md#ent-org-american-financing-t-00-29-04)**
-> "Right now, American Financing is helping homeowners save an average of 00 a month"
-
 **[00:29:13](/episodes/ep-sreYYcID-QY.md#ent-org-american-financing-t-00-29-04)**
 > "...o want to tell you guys about American Financing, because if you've been living on credit cards ju..."
 
 **[00:29:21](/episodes/ep-sreYYcID-QY.md#ent-org-american-financing-t-00-29-04)**
+> "you could call my friends at American Financing"
+
+**[00:29:21](/episodes/ep-sreYYcID-QY.md#ent-org-american-financing-t-00-29-04)**
 > "... you could call my friends at American Financing? They have mortgage rates that are in the fives, ..."
+
+**[00:29:24](/episodes/ep-sreYYcID-QY.md#ent-org-american-financing-t-00-29-04)**
+> "Right now, American Financing is helping homeowners save an average of 00 a month"
 
 **[00:29:24](/episodes/ep-sreYYcID-QY.md#ent-org-american-financing-t-00-29-04)**
 > "Right now, American Financing is helping homeowners save an average of $800 a m..."
@@ -527,9 +524,6 @@ _Type: Organizations_
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (4 mentions)</summary>
 
-**[00:57:38](/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-57-16)**
-> "Also, remind you guys about American Financing because the cost of everything is still out of control"
-
 **[00:56:30](/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30)**
 > "Also, remind you guys about American Financing because the cost of everything is still out of co..."
 
@@ -538,6 +532,9 @@ _Type: Organizations_
 
 **[00:57:19](/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-57-16)**
 > "Call American Financing and start saving now."
+
+**[00:57:38](/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-57-16)**
+> "Also, remind you guys about American Financing because the cost of everything is still out of control"
 
 </details>
 

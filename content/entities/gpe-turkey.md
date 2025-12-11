@@ -20,11 +20,11 @@ _Type: Places_
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
 
-**[00:47:41](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-turkey-t-00-47-32)**
-> "the mediators from Qatar and Egypt and Turkey also participated"
-
 **[00:47:32](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-turkey-t-00-47-32)**
 > "...tors from Qatar and Egypt and Turkey also participated, and were supposed to go, "Wow,..."
+
+**[00:47:41](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-turkey-t-00-47-32)**
+> "the mediators from Qatar and Egypt and Turkey also participated"
 
 </details>
 

@@ -15,11 +15,11 @@ _Type: People_
 <details>
 <summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (13 mentions)</summary>
 
-**[00:12:43](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-lance-robinson-boyfriend-t-00-12-42)**
-> "They thought that Lance was just his roommate, and they were especially shocked because apparently Tyler kept mentioning to them that he wanted them to meet some girl that he was seeing."
-
 **[00:12:42](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-lance-robinson-boyfriend-t-00-12-42)**
 > "They thought that Lance was just his roommate, and they were especially s..."
+
+**[00:12:43](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-lance-robinson-boyfriend-t-00-12-42)**
+> "They thought that Lance was just his roommate, and they were especially shocked because apparently Tyler kept mentioning to them that he wanted them to meet some girl that he was seeing."
 
 **[00:12:58](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-lance-robinson-boyfriend-t-00-12-42)**
 > "was likely Lance, and Tyler was working up the courage to tell his..."

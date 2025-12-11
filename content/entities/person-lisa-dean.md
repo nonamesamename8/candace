@@ -1,6 +1,6 @@
 ---
 title: "Lisa Dean"
-description: "Lisa Dean (People) - 2 mentions"
+description: "Lisa Dean (People) - 1 mention"
 id: "person-lisa-dean"
 type: "PERSON"
 aliases:
@@ -17,13 +17,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
 **[00:10:39](/episodes/ep-a-e7HC6SeK8.md#ent-person-lisa-dean-t-00-10-27)**
 > "...ominick Dunne reported in Vanity Fair, the money traced back to the DuPont family. It appeared that Lisa Dean—who is a DuPont—didn't approve of her drug-addicted son dating a drug-addicted Vegas sex worker. So..."
-
-**[00:10:39](/episodes/ep-a-e7HC6SeK8.md#ent-person-lisa-dean-t-00-10-27)**
-> "It appeared that Lisa Dean—who is a DuPont—didn't approve of her drug-addict..."
 
 </details>
 

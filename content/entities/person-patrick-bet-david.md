@@ -1,6 +1,6 @@
 ---
 title: "Patrick Bet-David"
-description: "Patrick Bet-David (People) - 21 mentions"
+description: "Patrick Bet-David (People) - 17 mentions"
 id: "person-patrick-bet-david"
 type: "PERSON"
 aliases:
@@ -17,16 +17,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (5 mentions)</summary>
-
-**[00:47:33](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-56)**
-> "... people that are engaged in the sport of politics. Take a listen to what Adam Sosnick had to say on Patrick Bet-David's podcast. Disgusting. Forget about what she said about Israel and Jews and BLM and liberals. This ..."
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (4 mentions)</summary>
 
 **[00:46:38](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-12)**
 > "...derstand what is happening to PBD's show, which I very much used to enjoy."
 
 **[00:47:33](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-56)**
-> "...at Adam Sosnick had to say on Patrick Bet-David's podcast."
+> "... people that are engaged in the sport of politics. Take a listen to what Adam Sosnick had to say on Patrick Bet-David's podcast. Disgusting. Forget about what she said about Israel and Jews and BLM and liberals. This ..."
 
 **[00:51:25](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-50-56)**
 > "and PBD's entire team under the bus in three seconds, and..."
@@ -56,13 +53,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (5 mentions)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (4 mentions)</summary>
 
 **[00:20:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-20-25)**
 > "...hey're delivering it as though it's honest. We're gonna talk about that. I was even surprised. PBD (Patrick Bet-David)—I mean, I've always been friendly with him. I've always been kind to him. I have done nothing wron..."
-
-**[00:20:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-20-25)**
-> "I was even surprised. PBD (Patrick Bet-David)—I mean, I've always been friendly with him. I've..."
 
 **[00:25:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-25-17)**
 > "Even on PBD's show, where he just gives a platform"
@@ -76,13 +70,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (6 mentions)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (5 mentions)</summary>
 
 **[00:00:33](/episodes/ep-sreYYcID-QY.md#ent-person-patrick-bet-david-t-00-00-33)**
 > "...st lying through his teeth on PBD, the PBD podcast, to establish this narrative whi..."
-
-**[00:00:33](/episodes/ep-sreYYcID-QY.md#ent-person-patrick-bet-david-t-00-00-33)**
-> "...through his teeth on PBD, the PBD podcast, to establish this narrative which, for s..."
 
 **[00:38:37](/episodes/ep-sreYYcID-QY.md#ent-person-patrick-bet-david-t-00-00-33)**
 > "He goes on the PBD podcast."
@@ -99,13 +90,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1 mentions)</summary>
 
 **[00:58:07](/episodes/ep-q7f8r-THr84.md#ent-person-patrick-bet-david-t-00-57-35)**
 > "...ront war because Israel didn't do nothing. He was doing a ton of podcasts in America. He went on to Patrick Bet-David's podcast. He went on to Brandon Tatum's podcast. He went on to the Nelk Boys' podcast. Anybody fin..."
-
-**[00:58:07](/episodes/ep-q7f8r-THr84.md#ent-person-patrick-bet-david-t-00-57-35)**
-> "He went on to Patrick Bet-David's podcast."
 
 </details>
 

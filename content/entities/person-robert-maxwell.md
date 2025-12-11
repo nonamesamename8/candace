@@ -19,14 +19,14 @@ _Type: People_
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (3 mentions)</summary>
 
-**[00:29:56](/episodes/ep-czVBmqZP6Ss.md#ent-person-robert-maxwell-t-00-29-10)**
-> "Ghislaine's father, Robert Maxwell, who was obviously a spy of the Israeli intelligence agencies"
-
 **[00:29:10](/episodes/ep-czVBmqZP6Ss.md#ent-person-robert-maxwell-t-00-29-10)**
 > "Ghislaine's father, Robert Maxwell, who was obviously a spy of the Israeli intelligence agencies"
 
 **[00:29:10](/episodes/ep-czVBmqZP6Ss.md#ent-person-robert-maxwell-t-00-29-10)**
 > "...aine, and Ghislaine's father, Robert Maxwell, who was obviously a spy of the Israeli intellige..."
+
+**[00:29:56](/episodes/ep-czVBmqZP6Ss.md#ent-person-robert-maxwell-t-00-29-10)**
+> "Ghislaine's father, Robert Maxwell, who was obviously a spy of the Israeli intelligence agencies"
 
 </details>
 

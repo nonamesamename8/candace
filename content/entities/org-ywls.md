@@ -30,11 +30,11 @@ _Type: Organizations_
 <details>
 <summary>To My Friend, Charlie Kirk. (2 mentions)</summary>
 
-**[00:14:26](/episodes/ep-_dRaEO47-co.md#ent-org-ywls-t-00-14-11)**
-> "the YWLS conference"
-
 **[00:14:22](/episodes/ep-_dRaEO47-co.md#ent-org-ywls-t-00-14-11)**
 > "...n we had at the same time the YWLS conference."
+
+**[00:14:26](/episodes/ep-_dRaEO47-co.md#ent-org-ywls-t-00-14-11)**
+> "the YWLS conference"
 
 </details>
 

@@ -35,11 +35,11 @@ _Type: People_
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
-**[01:06:24](/episodes/ep-Cq7nj9rxPdo.md#ent-person-ivanka-trump-t-01-06-20)**
-> "There is Ivanka, Trump couldnt do anything without getting his daughter back"
-
 **[01:06:20](/episodes/ep-Cq7nj9rxPdo.md#ent-person-ivanka-trump-t-01-06-20)**
 > "There is Ivanka."
+
+**[01:06:24](/episodes/ep-Cq7nj9rxPdo.md#ent-person-ivanka-trump-t-01-06-20)**
+> "There is Ivanka, Trump couldnt do anything without getting his daughter back"
 
 </details>
 

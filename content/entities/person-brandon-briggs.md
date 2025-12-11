@@ -20,11 +20,11 @@ _Type: People_
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
 
-**[00:59:43](/episodes/ep-LATnak75Si0.md#ent-person-brandon-briggs-t-00-59-19)**
-> "Brandon Briggs said on his last day's show to pray for Candace, Alex Jones, and Tucker Carlson"
-
 **[00:59:36](/episodes/ep-LATnak75Si0.md#ent-person-brandon-briggs-t-00-59-19)**
 > "Raven writes: "Brandon Briggs said on his last day's show to pray for Candace (..."
+
+**[00:59:43](/episodes/ep-LATnak75Si0.md#ent-person-brandon-briggs-t-00-59-19)**
+> "Brandon Briggs said on his last day's show to pray for Candace, Alex Jones, and Tucker Carlson"
 
 </details>
 

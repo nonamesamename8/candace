@@ -1,14 +1,14 @@
 ---
 id: "_dRaEO47-co"
 title: "To My Friend, Charlie Kirk."
-description: "To My Friend, Charlie Kirk. - 43 entities, 7 events, 0 claims"
+description: "To My Friend, Charlie Kirk. - 44 entities, 7 events, 0 claims"
 published: "2025-09-11"
 youtube_url: "https://www.youtube.com/watch?v=_dRaEO47-co"
 ---
 
 **Published:** 2025-09-11 | [Watch on YouTube](https://www.youtube.com/watch?v=_dRaEO47-co)
 
-**Stats:** 43 entities | 7 events | 0 claims
+**Stats:** 44 entities | 7 events | 0 claims
 
 ---
 
@@ -137,7 +137,7 @@ youtube_url: "https://www.youtube.com/watch?v=_dRaEO47-co"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (43)</strong></summary>
+<summary><strong>Entities Mentioned (44)</strong></summary>
 
 **Concepts:** [Me Too](/entities/concept-me-too.md)
 
@@ -149,7 +149,7 @@ youtube_url: "https://www.youtube.com/watch?v=_dRaEO47-co"
 
 **People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Brett Kavanaugh](/entities/person-brett-kavanaugh.md), [Brigitte Gabriel](/entities/person-brigitte-gabriel.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Rubin](/entities/person-dave-rubin.md), [Donald Trump](/entities/person-donald-trump.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Eric Trump](/entities/person-eric-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Farmer](/entities/person-george-farmer.md), [Jay-Z](/entities/person-jay-z.md), [Kanye West](/entities/person-kanye-west.md), [Rush Limbaugh](/entities/person-rush-limbaugh.md)
 
-**Works & Media:** [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md), [The New Turning Point](/entities/work-the-new-turning-point.md)
+**Works & Media:** [Fox & Friends](/entities/work-fox-and-friends.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md), [The New Turning Point](/entities/work-the-new-turning-point.md)
 
 </details>
 

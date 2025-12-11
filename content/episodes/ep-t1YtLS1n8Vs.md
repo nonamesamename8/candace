@@ -1,14 +1,14 @@
 ---
 id: "t1YtLS1n8Vs"
 title: "INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247"
-description: "INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 - 82 entities, 10 events, 0 claims"
+description: "INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 - 83 entities, 10 events, 0 claims"
 published: "2025-10-02"
 youtube_url: "https://www.youtube.com/watch?v=t1YtLS1n8Vs"
 ---
 
 **Published:** 2025-10-02 | [Watch on YouTube](https://www.youtube.com/watch?v=t1YtLS1n8Vs)
 
-**Stats:** 82 entities | 10 events | 0 claims
+**Stats:** 83 entities | 10 events | 0 claims
 
 ---
 
@@ -256,7 +256,7 @@ youtube_url: "https://www.youtube.com/watch?v=t1YtLS1n8Vs"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (82)</strong></summary>
+<summary><strong>Entities Mentioned (83)</strong></summary>
 
 **Concepts:** [God](/entities/concept-god.md)
 
@@ -272,6 +272,6 @@ youtube_url: "https://www.youtube.com/watch?v=t1YtLS1n8Vs"
 
 **People:** [Alex Jones](/entities/person-alex-jones.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Clayton Morris](/entities/person-clayton-morris.md), [Donald Trump](/entities/person-donald-trump.md), [Elizabeth Lane](/entities/person-elizabeth-lane.md), [Elon Musk](/entities/person-elon-musk.md), [Emmanuel Behrer](/entities/person-emmanuel-behrer.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md), [George Zinn](/entities/person-george-zinn.md), [Greta Thunberg](/entities/person-greta-thunberg.md), [Ian Carroll](/entities/person-ian-carroll.md), [James Comey](/entities/person-james-comey.md), [Jay-Z](/entities/person-jay-z.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jesus Christ](/entities/person-jesus-christ.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Justin Bieber](/entities/person-justin-bieber.md), [Kash Patel](/entities/person-kash-patel.md), [Leo Frank](/entities/person-leo-frank.md), [Marjorie Taylor Greene](/entities/person-marjorie-taylor-greene.md), [Mary Phagan](/entities/person-mary-phagan.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Olivia Bishop](/entities/person-olivia-bishop.md), [Phil Lyman](/entities/person-phil-lyman.md), [Robbie Hilde](/entities/person-robbie-hilde.md), [Scott Robbins](/entities/person-scott-robbins.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Skordas](/entities/person-skordas.md), [Theo Von](/entities/person-theo-von.md), [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-**Works & Media:** [Chaos](/entities/work-chaos.md), [Good Morning America](/entities/work-good-morning-america.md), [The Assault on Truth](/entities/work-the-assault-on-truth.md), [The Murder of Little Mary Fagan](/entities/work-the-murder-of-little-mary-fagan.md)
+**Works & Media:** [Chaos](/entities/work-chaos.md), [Good Morning America](/entities/work-good-morning-america.md), [The Assault on Truth](/entities/work-the-assault-on-truth.md), [The Matrix](/entities/work-the-matrix.md), [The Murder of Little Mary Fagan](/entities/work-the-murder-of-little-mary-fagan.md)
 
 </details>

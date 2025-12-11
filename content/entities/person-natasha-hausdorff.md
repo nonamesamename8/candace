@@ -19,11 +19,11 @@ _Type: People_
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
 
-**[00:05:12](/episodes/ep-K5GjF53bfN4.md#ent-person-natasha-hausdorff-t-00-05-11)**
-> "Natasha Hausdorff was there, Seth Dillon was there, and Seth Dillon was the one that was applying pressure to him"
-
 **[00:05:11](/episodes/ep-K5GjF53bfN4.md#ent-person-natasha-hausdorff-t-00-05-11)**
 > "Natasha Hausdorff was there, Seth Dillon was there, and Seth Dillon..."
+
+**[00:05:12](/episodes/ep-K5GjF53bfN4.md#ent-person-natasha-hausdorff-t-00-05-11)**
+> "Natasha Hausdorff was there, Seth Dillon was there, and Seth Dillon was the one that was applying pressure to him"
 
 </details>
 

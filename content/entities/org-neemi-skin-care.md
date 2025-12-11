@@ -1,6 +1,6 @@
 ---
 title: "Neemi Skin Care"
-description: "Neemi Skin Care (Organizations) - 54 mentions"
+description: "Neemi Skin Care (Organizations) - 34 mentions"
 id: "org-neemi-skin-care"
 type: "ORG"
 aliases:
@@ -22,22 +22,16 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (5 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>
+
+**[00:35:26](/episodes/ep-ZAuuSq_j2_w.md#ent-org-neemi-skin-care-t-00-35-08)**
+> "Also, of course, I want to tell you guys about Neeme Skin Care because it is cold outside."
 
 **[00:35:26](/episodes/ep-ZAuuSq_j2_w.md#ent-org-neemi-skin-care-t-00-35-08)**
 > "...we'll take a quick break and get into your comments. Also, of course, I want to tell you guys about Neeme Skin Care because it is cold outside. December is here; the weather is dry. And if you are anything like me, ..."
 
 **[00:35:38](/episodes/ep-ZAuuSq_j2_w.md#ent-org-neemi-skin-care-t-00-35-08)**
 > "... help keeping our skin moisturized, healthy, and glowing. And let me tell you guys that I love what Neeme Skin Care is doing this Christmas season because while every other brand tiptoes around on eggshells trying t..."
-
-**[00:35:26](/episodes/ep-ZAuuSq_j2_w.md#ent-org-neemi-skin-care-t-00-35-08)**
-> "...I want to tell you guys about Neeme Skin Care because it is cold outside."
-
-**[00:35:38](/episodes/ep-ZAuuSq_j2_w.md#ent-org-neemi-skin-care-t-00-35-08)**
-> "...ell you guys that I love what Neeme Skin Care is doing this Christmas season because while ever..."
-
-**[00:35:26](/episodes/ep-ZAuuSq_j2_w.md#ent-org-neemi-skin-care-t-00-35-08)**
-> "Also, of course, I want to tell you guys about Neeme Skin Care because it is cold outside."
 
 </details>
 
@@ -68,7 +62,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:35:24](/episodes/ep-mKXdKV-OBog.md#ent-org-neemi-skin-care-t-00-35-24)**
 > "...sors. I'm gonna get into some of your comments. Okay, you guys. You have heard me speak a lot about Neeme Skin Care. I love what their three-step anti-aging routine has done for my skin, which is why I am very excit..."
@@ -76,22 +70,10 @@ _Type: Organizations_
 **[00:35:27](/episodes/ep-mKXdKV-OBog.md#ent-org-neemi-skin-care-t-00-35-24)**
 > "... what their three-step anti-aging routine has done for my skin, which is why I am very excited that Neeme Skin Care now has a complete body line as well. They have the Foundations Body Bundle. It's a simple three-st..."
 
-**[00:35:24](/episodes/ep-mKXdKV-OBog.md#ent-org-neemi-skin-care-t-00-35-24)**
-> "...ve heard me speak a lot about Neeme Skin Care."
-
-**[00:35:27](/episodes/ep-mKXdKV-OBog.md#ent-org-neemi-skin-care-t-00-35-24)**
-> "...is why I am very excited that Neeme Skin Care now has a complete body line as well."
-
 </details>
 
 <details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (14 mentions)</summary>
-
-**[00:54:47](/episodes/ep-ozWJz2spBcI.md#ent-org-neemi-skin-care-t-00-54-34)**
-> "... the new season, make sure your skin is prepared too. You'll get an exclusive 10% off your order at neemiskincare.com if you use code CANDACE10 at checkout. Support a brand that supports this country and see the resul..."
-
-**[00:54:52](/episodes/ep-ozWJz2spBcI.md#ent-org-neemi-skin-care-t-00-54-34)**
-> "...at checkout. Support a brand that supports this country and see the results yourself. Again, that's neemiskincare.com with promo code CANDACE10 for 10% off. And I want to remind you guys about American Financing too, ..."
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (7 mentions)</summary>
 
 **[00:53:51](/episodes/ep-ozWJz2spBcI.md#ent-org-neemi-skin-care-t-00-53-51)**
 > "... save an additional 50% off your first month. puretalk.com/Owens today. Also telling you guys about Neemi Skincare because there is a reason that we all love the fall: the crisp air, the changing leaves, t..."
@@ -108,26 +90,11 @@ _Type: Organizations_
 **[00:54:38](/episodes/ep-ozWJz2spBcI.md#ent-org-neemi-skin-care-t-00-54-34)**
 > "...mily, and freedom. So you shouldn't have to compromise your values to get incredible skincare. With Neemi, you certainly don't have to. So as you prepare for the new season, make sure your skin is prepared..."
 
-**[00:53:51](/episodes/ep-ozWJz2spBcI.md#ent-org-neemi-skin-care-t-00-53-51)**
-> "Also telling you guys about Neemi Skincare because there is a reason that we all lo..."
-
-**[00:53:58](/episodes/ep-ozWJz2spBcI.md#ent-org-neemi-skin-care-t-00-53-51)**
-> "... go-to—which you guys know is Neemi Skincare."
-
-**[00:54:02](/episodes/ep-ozWJz2spBcI.md#ent-org-neemi-skin-care-t-00-53-51)**
-> "Neemi is the reason that my skin stays clear, firm, and..."
-
-**[00:54:34](/episodes/ep-ozWJz2spBcI.md#ent-org-neemi-skin-care-t-00-54-34)**
-> "...d by a lot of foreign brands, Neemi formulates and produces everything here in the US..."
-
-**[00:54:38](/episodes/ep-ozWJz2spBcI.md#ent-org-neemi-skin-care-t-00-54-34)**
-> "...get incredible skincare. With Neemi,"
-
 **[00:54:47](/episodes/ep-ozWJz2spBcI.md#ent-org-neemi-skin-care-t-00-54-34)**
-> "...clusive 10% off your order at neemiskincare.com if you use code CANDACE10 at checkout. Support a ..."
+> "... the new season, make sure your skin is prepared too. You'll get an exclusive 10% off your order at neemiskincare.com if you use code CANDACE10 at checkout. Support a brand that supports this country and see the resul..."
 
 **[00:54:52](/episodes/ep-ozWJz2spBcI.md#ent-org-neemi-skin-care-t-00-54-34)**
-> "Again, that's neemiskincare.com with promo code CANDACE10 for 10% off."
+> "...at checkout. Support a brand that supports this country and see the results yourself. Again, that's neemiskincare.com with promo code CANDACE10 for 10% off. And I want to remind you guys about American Financing too, ..."
 
 </details>
 
@@ -155,13 +122,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (18 mentions)</summary>
-
-**[00:40:56](/episodes/ep-YA1FxrDWNIo.md#ent-org-neemi-skin-care-t-00-40-53)**
-> "...you prepare for the new season, make sure your skin is prepared, too. Get an exclusive 10% off your NeemiSkincare.com order. If you use code KANDICE10 at checkout, you can support a brand that supports this country, a..."
-
-**[00:41:05](/episodes/ep-YA1FxrDWNIo.md#ent-org-neemi-skin-care-t-00-40-53)**
-> "...support a brand that supports this country, and you can see the results for yourself. Again, that's NeemiSkincare.com. Use promo code KANDICE10, and you'll get 10% off. The cost of everything is still out of control. ..."
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (9 mentions)</summary>
 
 **[00:39:40](/episodes/ep-YA1FxrDWNIo.md#ent-org-neemi-skin-care-t-00-39-28)**
 > "...on't. Before I get to some of your comments, I'm gonna tell you about a couple more of our sponsors—Neemi Skincare being one of them. There is a reason that we all love the fall. Of course, it's the air, c..."
@@ -184,32 +145,11 @@ _Type: Organizations_
 **[00:40:52](/episodes/ep-YA1FxrDWNIo.md#ent-org-neemi-skin-care-t-00-40-09)**
 > "...h and our family. You shouldn't have to compromise your values to get incredible skincare. And with Neemi, you don't have to. So as you prepare for the new season, make sure your skin is prepared, too. Get..."
 
-**[00:39:40](/episodes/ep-YA1FxrDWNIo.md#ent-org-neemi-skin-care-t-00-39-28)**
-> "...a couple more of our sponsors—Neemi Skincare being one of them."
-
-**[00:39:57](/episodes/ep-YA1FxrDWNIo.md#ent-org-neemi-skin-care-t-00-39-28)**
-> "...t my absolute go-to, which is Neemi."
-
-**[00:40:06](/episodes/ep-YA1FxrDWNIo.md#ent-org-neemi-skin-care-t-00-39-28)**
-> "You guys know I love Neemi."
-
-**[00:40:07](/episodes/ep-YA1FxrDWNIo.md#ent-org-neemi-skin-care-t-00-39-28)**
-> "Neemi is the reason that my skin stays clear, firm, and..."
-
-**[00:40:32](/episodes/ep-YA1FxrDWNIo.md#ent-org-neemi-skin-care-t-00-40-09)**
-> "Neemi is proudly American-made. In a world of skincare ..."
-
-**[00:40:35](/episodes/ep-YA1FxrDWNIo.md#ent-org-neemi-skin-care-t-00-40-09)**
-> "Neemi formulates and produces everything right here in ..."
-
-**[00:40:52](/episodes/ep-YA1FxrDWNIo.md#ent-org-neemi-skin-care-t-00-40-09)**
-> "And with Neemi, you don't have to."
-
 **[00:40:56](/episodes/ep-YA1FxrDWNIo.md#ent-org-neemi-skin-care-t-00-40-53)**
-> "Get an exclusive 10% off your NeemiSkincare.com order."
+> "...you prepare for the new season, make sure your skin is prepared, too. Get an exclusive 10% off your NeemiSkincare.com order. If you use code KANDICE10 at checkout, you can support a brand that supports this country, a..."
 
 **[00:41:05](/episodes/ep-YA1FxrDWNIo.md#ent-org-neemi-skin-care-t-00-40-53)**
-> "Again, that's NeemiSkincare.com."
+> "...support a brand that supports this country, and you can see the results for yourself. Again, that's NeemiSkincare.com. Use promo code KANDICE10, and you'll get 10% off. The cost of everything is still out of control. ..."
 
 </details>
 

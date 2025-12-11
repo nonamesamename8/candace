@@ -1,6 +1,6 @@
 ---
 title: "Pierre Falcone"
-description: "Pierre Falcone (People) - 9 mentions"
+description: "Pierre Falcone (People) - 7 mentions"
 id: "person-pierre-falcone"
 type: "PERSON"
 aliases:
@@ -17,16 +17,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (9 mentions)</summary>
-
-**[00:12:23](/episodes/ep-Kmt6HgRjckU.md#ent-person-pierre-falcone-t-00-12-04)**
-> "Pierre Falcone mentioned as billionaire in Scottsdale involved in Angola Gate scandal"
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (7 mentions)</summary>
 
 **[00:12:17](/episodes/ep-Kmt6HgRjckU.md#ent-person-pierre-falcone-t-00-12-04)**
 > "...learn more about, his name is Pierre Falcone."
 
-**[00:12:17](/episodes/ep-Kmt6HgRjckU.md#ent-person-pierre-falcone-t-00-12-04)**
-> "...ore about, his name is Pierre Falcone."
+**[00:12:23](/episodes/ep-Kmt6HgRjckU.md#ent-person-pierre-falcone-t-00-12-04)**
+> "Pierre Falcone mentioned as billionaire in Scottsdale involved in Angola Gate scandal"
 
 **[00:14:28](/episodes/ep-Kmt6HgRjckU.md#ent-person-pierre-falcone-t-00-14-05)**
 > "And his partner is Pierre Falcone."
@@ -39,9 +36,6 @@ _Type: People_
 
 **[00:16:23](/episodes/ep-Kmt6HgRjckU.md#ent-person-pierre-falcone-t-00-16-13)**
 > "...ls between French businessman Pierre Falcone, the head of a firm,"
-
-**[00:16:23](/episodes/ep-Kmt6HgRjckU.md#ent-person-pierre-falcone-t-00-16-13)**
-> "...een French businessman Pierre Falcone, the head of a firm,"
 
 **[00:17:08](/episodes/ep-Kmt6HgRjckU.md#ent-person-pierre-falcone-t-00-16-50)**
 > "...th with Western oil companies Falcone and get a mock relying on the special access that..."

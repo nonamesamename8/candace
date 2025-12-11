@@ -31,11 +31,11 @@ _Type: Organizations_
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (6 mentions)</summary>
 
-**[00:38:25](/episodes/ep-2WEHTk0Xewg.md#ent-org-beekeepers-naturals-t-00-38-20)**
-> "That's why I'm so thankful for Beekeeper's Naturals and their amazing propolis throat spray."
-
 **[00:38:20](/episodes/ep-2WEHTk0Xewg.md#ent-org-beekeepers-naturals-t-00-38-20)**
 > "...so want to remind you guys of Beekeeper's Naturals because as a mom of four young kids, life is cons..."
+
+**[00:38:25](/episodes/ep-2WEHTk0Xewg.md#ent-org-beekeepers-naturals-t-00-38-20)**
+> "That's why I'm so thankful for Beekeeper's Naturals and their amazing propolis throat spray."
 
 **[00:38:29](/episodes/ep-2WEHTk0Xewg.md#ent-org-beekeepers-naturals-t-00-38-20)**
 > "...hat's why I'm so thankful for Beekeeper's Naturals and their amazing propolis throat spray."

@@ -15,11 +15,11 @@ _Type: Organizations_
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
 
-**[00:39:49](/episodes/ep-Kmt6HgRjckU.md#ent-org-hamas-t-00-39-23)**
-> "Qatar revealed US government asked them to establish relationship with Hamas"
-
 **[00:39:42](/episodes/ep-Kmt6HgRjckU.md#ent-org-hamas-t-00-39-23)**
 > "...y we have a relationship with Hamas is because the U.S. government asked us to establ..."
+
+**[00:39:49](/episodes/ep-Kmt6HgRjckU.md#ent-org-hamas-t-00-39-23)**
+> "Qatar revealed US government asked them to establish relationship with Hamas"
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "January 6th"
-description: "January 6th (Events) - 22 mentions"
+description: "January 6th (Events) - 11 mentions"
 id: "event-january-6th"
 type: "EVENT"
 ---
@@ -13,7 +13,7 @@ _Type: Events_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (22 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (11 mentions)</summary>
 
 **[00:01:21](/episodes/ep-YaZfwLQ7vrI.md#ent-event-january-6th-t-00-01-21)**
 > "...oing to tell you guys about a particular person who is connected to Charlie (Charlie Kirk) Kirk and January 6th. So welcome back to Candace (Candace Owens). Okay, so something that I want to say right at the top..."
@@ -47,39 +47,6 @@ _Type: Events_
 
 **[00:13:04](/episodes/ep-YaZfwLQ7vrI.md#ent-event-january-6th-t-00-13-01)**
 > "...u have to do, Mr. President," okay? There's an article about that. "Apostolic Reformation drove the January 6th riots." "So why was it overlooked by the House Select Committee?" this person asks, okay? NAR. I br..."
-
-**[00:01:21](/episodes/ep-YaZfwLQ7vrI.md#ent-event-january-6th-t-00-01-21)**
-> "...to Charlie (Charlie Kirk) and January 6th."
-
-**[00:01:32](/episodes/ep-YaZfwLQ7vrI.md#ent-event-january-6th-t-00-01-21)**
-> "...irk) story and speaking about January 6th and how somehow that's connected."
-
-**[00:05:57](/episodes/ep-YaZfwLQ7vrI.md#ent-event-january-6th-t-00-05-21)**
-> "...at was definitely the vibe of January 6th, right?"
-
-**[00:06:12](/episodes/ep-YaZfwLQ7vrI.md#ent-event-january-6th-t-00-06-06)**
-> "On January 6th, 2021, I can tell you where I was."
-
-**[00:06:29](/episodes/ep-YaZfwLQ7vrI.md#ent-event-january-6th-t-00-06-06)**
-> "... swept up in what happened on January 6th."
-
-**[00:09:46](/episodes/ep-YaZfwLQ7vrI.md#ent-event-january-6th-t-00-09-19)**
-> "...ecause of what happened after January 6th."
-
-**[00:10:11](/episodes/ep-YaZfwLQ7vrI.md#ent-event-january-6th-t-00-10-09)**
-> "... going to get swept up in the January 6th."
-
-**[00:10:23](/episodes/ep-YaZfwLQ7vrI.md#ent-event-january-6th-t-00-10-09)**
-> "I'm not here to cover all of January 6th and what they have been unpacking."
-
-**[00:12:35](/episodes/ep-YaZfwLQ7vrI.md#ent-event-january-6th-t-00-12-17)**
-> "...t permits that were issued on January 6th were issued to independent, charismatic Christian..."
-
-**[00:12:45](/episodes/ep-YaZfwLQ7vrI.md#ent-event-january-6th-t-00-12-17)**
-> "...White House leading up to the January 6th Stop the Steal rally, telling him that the war wa..."
-
-**[00:13:04](/episodes/ep-YaZfwLQ7vrI.md#ent-event-january-6th-t-00-13-01)**
-> "...ostolic Reformation drove the January 6th riots.""
 
 </details>
 

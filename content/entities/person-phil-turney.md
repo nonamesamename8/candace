@@ -1,6 +1,6 @@
 ---
 title: "Phil Turney"
-description: "Phil Turney (People) - 2 mentions"
+description: "Phil Turney (People) - 1 mention"
 id: "person-phil-turney"
 type: "PERSON"
 aliases:
@@ -17,13 +17,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
 
 **[01:04:06](/episodes/ep-his-JBjlkh8.md#ent-person-phil-turney-t-01-04-06)**
 > "...e have ever given. We were all—you could feel a spiritual movement in this room when we interviewed Phil Tourney of the USS Liberty. I'll never forget that interview. It transformed me. It was a major turning poi..."
-
-**[01:04:06](/episodes/ep-his-JBjlkh8.md#ent-person-phil-turney-t-01-04-06)**
-> "...this room when we interviewed Phil Tourney of the USS Liberty."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Richard M. Aronson"
-description: "Richard M. Aronson (People) - 2 mentions"
+description: "Richard M. Aronson (People) - 1 mention"
 id: "person-richard-m-aronson"
 type: "PERSON"
 aliases:
@@ -17,10 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
-
-**[00:09:49](/episodes/ep-yAIb-NuUh_U.md#ent-person-richard-m-aronson-t-00-09-14)**
-> "...y Superior Court Commissioner Richard M. Aronson imposed the maximum term"
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
 
 **[00:09:49](/episodes/ep-yAIb-NuUh_U.md#ent-person-richard-m-aronson-t-00-09-14)**
 > "Orange County Superior Court Commissioner Richard M. Aronson imposed the maximum term"

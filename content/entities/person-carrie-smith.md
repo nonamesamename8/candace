@@ -1,6 +1,6 @@
 ---
 title: "Carrie Smith"
-description: "Carrie Smith (People) - 13 mentions"
+description: "Carrie Smith (People) - 9 mentions"
 id: "person-carrie-smith"
 type: "PERSON"
 aliases:
@@ -31,7 +31,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (7 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (3 mentions)</summary>
 
 **[00:44:20](/episodes/ep-YaZfwLQ7vrI.md#ent-person-carrie-smith-t-00-44-20)**
 > "... out who killed Charlie (Charlie Kirk) Kirk. That's all. I want to know who killed my friend. Well, Carrie Smith, who is the host of the podcast "Deprogrammed with Carrie Smith," says that she was formerly of a c..."
@@ -41,18 +41,6 @@ _Type: People_
 
 **[00:44:50](/episodes/ep-YaZfwLQ7vrI.md#ent-person-carrie-smith-t-00-44-50)**
 > "...ssassination, then you—you at home— are in a cult. Take it away, Carrie (Carrie Smith). *(Clip from Carrie Smith)* I do think it's a cult. I think she is exhibiting several cult tactics. She's demonstrating sever..."
-
-**[00:44:20](/episodes/ep-YaZfwLQ7vrI.md#ent-person-carrie-smith-t-00-44-20)**
-> "Well, Carrie Smith, who is the host of the podcast "Deprogrammed wit..."
-
-**[00:44:20](/episodes/ep-YaZfwLQ7vrI.md#ent-person-carrie-smith-t-00-44-20)**
-> "...he podcast "Deprogrammed with Carrie Smith," says that she was formerly of a cult mindset."
-
-**[00:44:48](/episodes/ep-YaZfwLQ7vrI.md#ent-person-carrie-smith-t-00-44-20)**
-> "Take it away, Carrie (Carrie Smith)."
-
-**[00:44:50](/episodes/ep-YaZfwLQ7vrI.md#ent-person-carrie-smith-t-00-44-50)**
-> "*(Clip from Carrie Smith)* I do think it's a cult."
 
 </details>
 

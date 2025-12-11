@@ -72,17 +72,17 @@ _Type: Organizations_
 <details>
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (4 mentions)</summary>
 
-**[00:35:48](/episodes/ep-QZWSsq8ZWzw.md#ent-org-vice-t-00-35-37)**
-> "It's like Vice publication"
-
-**[00:35:53](/episodes/ep-QZWSsq8ZWzw.md#ent-org-vice-t-00-35-37)**
-> "It's like Vice. It's like, you know, Vice publication"
-
 **[00:35:47](/episodes/ep-QZWSsq8ZWzw.md#ent-org-vice-t-00-35-37)**
 > "...y just like, "LOL." It's like Vice."
 
+**[00:35:48](/episodes/ep-QZWSsq8ZWzw.md#ent-org-vice-t-00-35-37)**
+> "It's like Vice publication"
+
 **[00:35:51](/episodes/ep-QZWSsq8ZWzw.md#ent-org-vice-t-00-35-37)**
 > "It's like, you know, Vice publication."
+
+**[00:35:53](/episodes/ep-QZWSsq8ZWzw.md#ent-org-vice-t-00-35-37)**
+> "It's like Vice. It's like, you know, Vice publication"
 
 </details>
 

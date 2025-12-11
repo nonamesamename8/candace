@@ -1,6 +1,6 @@
 ---
 title: "Vanity Fair"
-description: "Vanity Fair (Organizations) - 6 mentions"
+description: "Vanity Fair (Organizations) - 3 mentions"
 id: "org-vanity-fair"
 type: "ORG"
 ---
@@ -13,7 +13,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (6 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3 mentions)</summary>
 
 **[00:06:34](/episodes/ep-a-e7HC6SeK8.md#ent-org-vanity-fair-t-00-06-21)**
 > "...t's not entirely folklore, okay? It's really just not. This is actually an article that appeared in Vanity Fair, so let's read it together. And I'm gonna issue a trigger warning right at the top because it is di..."
@@ -23,15 +23,6 @@ _Type: Organizations_
 
 **[00:10:32](/episodes/ep-a-e7HC6SeK8.md#ent-org-vanity-fair-t-00-10-27)**
 > "...onditioner of a seedy motel. She was killed by three hired hands. And as Dominick Dunne reported in Vanity Fair, the money traced back to the DuPont family. It appeared that Lisa Dean—who is a DuPont—didn't appr..."
-
-**[00:06:34](/episodes/ep-a-e7HC6SeK8.md#ent-org-vanity-fair-t-00-06-21)**
-> "...y an article that appeared in Vanity Fair, so let's read it together."
-
-**[00:09:20](/episodes/ep-a-e7HC6SeK8.md#ent-org-vanity-fair-t-00-09-06)**
-> "Vanity Fair article continues: the heir to the DuPont chemica..."
-
-**[00:10:32](/episodes/ep-a-e7HC6SeK8.md#ent-org-vanity-fair-t-00-10-27)**
-> "...as Dominick Dunne reported in Vanity Fair, the money traced back to the DuPont family."
 
 </details>
 

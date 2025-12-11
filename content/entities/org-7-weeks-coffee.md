@@ -23,10 +23,10 @@ _Type: Organizations_
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (4 mentions)</summary>
 
-**[01:01:38](/episodes/ep-2WEHTk0Xewg.md#ent-org-7-weeks-coffee-t-01-01-34)**
+**[01:01:34](/episodes/ep-2WEHTk0Xewg.md#ent-org-7-weeks-coffee-t-01-01-34)**
 > "Also remind you guys about 7 Weeks Coffee because it is America's pro-life coffee company."
 
-**[01:01:34](/episodes/ep-2WEHTk0Xewg.md#ent-org-7-weeks-coffee-t-01-01-34)**
+**[01:01:38](/episodes/ep-2WEHTk0Xewg.md#ent-org-7-weeks-coffee-t-01-01-34)**
 > "Also remind you guys about 7 Weeks Coffee because it is America's pro-life coffee company."
 
 **[01:01:46](/episodes/ep-2WEHTk0Xewg.md#ent-org-7-weeks-coffee-t-01-01-34)**

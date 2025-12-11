@@ -1,14 +1,14 @@
 ---
 id: "r1PS67aRmcA"
 title: "Ben Shapiro Is Crying Again. | Candace Ep 261"
-description: "Ben Shapiro Is Crying Again. | Candace Ep 261 - 61 entities, 7 events, 0 claims"
+description: "Ben Shapiro Is Crying Again. | Candace Ep 261 - 63 entities, 7 events, 0 claims"
 published: "2025-11-08"
 youtube_url: "https://www.youtube.com/watch?v=r1PS67aRmcA"
 ---
 
 **Published:** 2025-11-08 | [Watch on YouTube](https://www.youtube.com/watch?v=r1PS67aRmcA)
 
-**Stats:** 61 entities | 7 events | 0 claims
+**Stats:** 63 entities | 7 events | 0 claims
 
 ---
 
@@ -280,9 +280,9 @@ youtube_url: "https://www.youtube.com/watch?v=r1PS67aRmcA"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (61)</strong></summary>
+<summary><strong>Entities Mentioned (63)</strong></summary>
 
-**Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [Zionism](/entities/concept-zionism.md)
+**Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [Palestinians](/entities/concept-palestinians.md), [Zionism](/entities/concept-zionism.md)
 
 **Dates:** [2024](/entities/date-2024.md), [2025](/entities/date-2025.md), [October 7th](/entities/date-october-7th.md), [September 11th](/entities/date-september-11th.md)
 
@@ -292,7 +292,7 @@ youtube_url: "https://www.youtube.com/watch?v=r1PS67aRmcA"
 
 **Organizations:** [American Financing](/entities/org-american-financing.md), [Anti-Defamation League](/entities/org-anti-defamation-league.md), [Auburn University](/entities/org-auburn-university.md), [Black Lives Matter](/entities/org-black-lives-matter.md), [CDC](/entities/org-cdc.md), [CNN](/entities/org-cnn.md), [Democratic Socialists of America](/entities/org-democratic-socialists-of-america.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Riverbend Ranch](/entities/org-riverbend-ranch.md), [The Daily Wire](/entities/org-the-daily-wire.md), [The Wellness Company](/entities/org-the-wellness-company.md), [TikTok](/entities/org-tiktok.md), [Turning Point USA](/entities/org-turning-point-usa.md), [White House](/entities/org-white-house.md), [Young Women's Leadership Summit](/entities/org-ywls.md)
 
-**People:** [Al Sharpton](/entities/person-al-sharpton.md), [Alyssa Cordova](/entities/person-alyssa-cordova.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Eric Trump](/entities/person-eric-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [Harry](/entities/person-harry.md), [Ivanka Trump](/entities/person-ivanka-trump.md), [Jared Kushner](/entities/person-jared-kushner.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Lara Trump](/entities/person-lara-trump.md), [Lauren Chen](/entities/person-lauren-chen.md), [Mamdani](/entities/person-mamdani.md), [Marjorie Taylor Greene](/entities/person-marjorie-taylor-greene.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Randy Fine](/entities/person-randy-fine.md), [Ron Paul](/entities/person-ron-paul.md), [Seth Dillon](/entities/person-seth-dillon.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Zohran Mamdani](/entities/person-zohran-mamdani.md)
+**People:** [Al Sharpton](/entities/person-al-sharpton.md), [Alyssa Cordova](/entities/person-alyssa-cordova.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Eric Trump](/entities/person-eric-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [Harry](/entities/person-harry.md), [Ivanka Trump](/entities/person-ivanka-trump.md), [Jared Kushner](/entities/person-jared-kushner.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Lara Trump](/entities/person-lara-trump.md), [Lauren Chen](/entities/person-lauren-chen.md), [Mamdani](/entities/person-mamdani.md), [Marjorie Taylor Greene](/entities/person-marjorie-taylor-greene.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Melissa](/entities/person-melissa.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Randy Fine](/entities/person-randy-fine.md), [Ron Paul](/entities/person-ron-paul.md), [Seth Dillon](/entities/person-seth-dillon.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Zohran Mamdani](/entities/person-zohran-mamdani.md)
 
 **Works & Media:** [Game of Thrones](/entities/work-game-of-thrones.md)
 

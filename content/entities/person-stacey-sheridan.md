@@ -1,6 +1,6 @@
 ---
 title: "Stacey Sheridan"
-description: "Stacey Sheridan (People) - 27 mentions"
+description: "Stacey Sheridan (People) - 12 mentions"
 id: "person-stacey-sheridan"
 type: "PERSON"
 aliases:
@@ -17,7 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (20 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (8 mentions)</summary>
 
 **[00:12:08](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-11-53)**
 > "...venue. We've got Brigitte's lawyers at 919 North Market Street. Also in that building happens to be Stacey Sheridan's registered agent. That's Stacey Sheridan of Turning Point USA. We're going to talk about her in a..."
@@ -31,64 +31,25 @@ _Type: People_
 **[00:13:09](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-12-37)**
 > "...are, and I'm not— I'm not even in Wilmington. There's a lot to choose from. It's a whole state. But Stacey Sheridan's registered agent is there too. People had noted, by the way, that she had a few LLCs which she wa..."
 
+**[00:13:23](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-13-20)**
+> "...ld all be above board. I don't really know. But the one I'm speaking about is Cloverstone Ventures. Stacey, by the way, is the senior advancement director at Turning Point USA. She was brought in specifical..."
+
 **[00:13:50](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-13-20)**
 > "...eal. He's been pardoned. But he is always up to no good, I can tell you that. And he brings in this Stacey Sheridan. I gotta tell you, I did not like her at all. Just the vibe was off. I did not like her, and I expr..."
 
 **[00:14:17](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-14-05)**
 > "... feel great about the fact that she was so involved after Charlie's (Charlie Kirk's) assassination. Stacey Sheridan is the one that was filming. Everyone was like, "Who's filming his casket," as it's being escorted ..."
 
-**[00:13:23](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-13-20)**
-> "...ld all be above board. I don't really know. But the one I'm speaking about is Cloverstone Ventures. Stacey, by the way, is the senior advancement director at Turning Point USA. She was brought in specifical..."
-
 **[00:14:22](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-14-05)**
 > "...like, "Who's filming his casket," as it's being escorted off of Air Force Two, crying, holding that—Stacey. Like I said, I just felt spiritually that Charlie (Charlie Kirk) hiring her was a mistake. She did..."
-
-**[00:12:08](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-11-53)**
-> "...n that building happens to be Stacey Sheridan's (Stacey Sheridan's) registered agent."
-
-**[00:12:08](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-11-53)**
-> "...pens to be Stacey Sheridan's (Stacey Sheridan's) registered agent."
-
-**[00:12:14](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-11-53)**
-> "That's Stacey Sheridan (Stacey Sheridan) of Turning Point USA."
-
-**[00:12:53](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-12-37)**
-> "...wow—what are the chances that Stacey Sheridan (Stacey Sheridan) has a registered agent that's i..."
-
-**[00:12:53](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-12-37)**
-> "...chances that Stacey Sheridan (Stacey Sheridan) has a registered agent that's in that building t..."
-
-**[00:13:09](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-12-37)**
-> "But Stacey Sheridan's (Stacey Sheridan's) registered agent is there too..."
-
-**[00:13:23](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-13-20)**
-> "Stacey (Stacey Sheridan), by the way, is the senior advancement director ..."
-
-**[00:13:50](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-13-20)**
-> "And he brings in this Stacey Sheridan (Stacey Sheridan). I gotta tell you, I did not li..."
-
-**[00:13:50](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-13-20)**
-> "...ings in this Stacey Sheridan (Stacey Sheridan). I gotta tell you, I did not like her at all. Ju..."
-
-**[00:14:17](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-14-05)**
-> "Stacey Sheridan (Stacey Sheridan) is the one that was filming."
-
-**[00:14:22](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-14-05)**
-> "... crying, holding that—Stacey (Stacey Sheridan)."
-
-**[00:14:22](/episodes/ep-a-e7HC6SeK8.md#ent-person-stacey-sheridan-t-00-14-05)**
-> "...rce Two, crying, holding that—Stacey (Stacey Sheridan)."
 
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
 **[00:29:49](/episodes/ep-SKGUzGHymcI.md#ent-person-stacey-sheridan-t-00-29-09)**
 > "...izona and potentially Santa Barbara. Andrew Kolvet, Andrew Kolvet's wife. We have a priest. We have Stacey Sheridan, who's the chief finance person. We have, I mean, fundraiser over there. We have Elizabeth McCoy, t..."
-
-**[00:29:49](/episodes/ep-SKGUzGHymcI.md#ent-person-stacey-sheridan-t-00-29-09)**
-> "We have Stacey Sheridan, who's the chief finance person."
 
 </details>
 
@@ -101,19 +62,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (4 mentions)</summary>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
 
 **[00:04:23](/episodes/ep-c5BcKF91iec.md#ent-person-stacey-sheridan-t-00-03-48)**
 > "... get back together. We were all going to maybe be on a group chat: me, Tyler Bowyer, Andrew Kolvet, Stacey Sheridan even. If you're wondering who Stacey Sheridan is, by the way, she's the one who's holding the camer..."
 
 **[00:04:27](/episodes/ep-c5BcKF91iec.md#ent-person-stacey-sheridan-t-00-04-27)**
 > "... be on a group chat: me, Tyler Bowyer, Andrew Kolvet, Stacey Sheridan even. If you're wondering who Stacey Sheridan is, by the way, she's the one who's holding the camera when Charlie's casket is being escorted off ..."
-
-**[00:04:23](/episodes/ep-c5BcKF91iec.md#ent-person-stacey-sheridan-t-00-03-48)**
-> "... Tyler Bowyer, Andrew Kolvet, Stacey Sheridan even."
-
-**[00:04:27](/episodes/ep-c5BcKF91iec.md#ent-person-stacey-sheridan-t-00-04-27)**
-> "If you're wondering who Stacey Sheridan is, by the way, she's the one who's holding the c..."
 
 </details>
 

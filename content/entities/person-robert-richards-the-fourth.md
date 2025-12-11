@@ -1,6 +1,6 @@
 ---
 title: "Robert Richards the Fourth"
-description: "Robert Richards the Fourth (People) - 2 mentions"
+description: "Robert Richards the Fourth (People) - 1 mention"
 id: "person-robert-richards-the-fourth"
 type: "PERSON"
 aliases:
@@ -18,13 +18,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
 **[00:07:02](/episodes/ep-a-e7HC6SeK8.md#ent-person-robert-richards-the-fourth-t-00-07-02)**
 > "...er a decade because I was so disturbed by the story, and you should read this. And it tells us that Robert Richards the Fourth was in 2009 convicted of raping his three-year-old daughter, seven years after she—who was just fiv..."
-
-**[00:07:02](/episodes/ep-a-e7HC6SeK8.md#ent-person-robert-richards-the-fourth-t-00-07-02)**
-> "And it tells us that Robert Richards the Fourth was in 2009 convicted of raping his three-year-ol..."
 
 </details>
 

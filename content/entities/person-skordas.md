@@ -1,6 +1,6 @@
 ---
 title: "Skordas"
-description: "Skordas (People) - 6 mentions"
+description: "Skordas (People) - 3 mentions"
 id: "person-skordas"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (6 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (3 mentions)</summary>
 
 **[00:31:51](/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-51)**
 > "... Robinson to do so.” “And we think that you can help to this.” I got a very rude response that only Skordas is allowed to find a representation for Tyler Robinson. So, Skordas is a guy who's running as a sta..."
@@ -23,15 +23,6 @@ _Type: People_
 
 **[00:32:29](/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-51)**
 > "...ernment has presented such a crap case unless his attorney is a shill. Yes. So, what I know is that Skordas is running as a state prosecutor. He's running. Everyone can look it up. It's on his website. So, i..."
-
-**[00:31:51](/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-51)**
-> "... very rude response that only Skordas is allowed to find a representation for Tyler Rob..."
-
-**[00:31:58](/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-51)**
-> "So, Skordas is a guy who's running as a state prosecutor."
-
-**[00:32:29](/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-51)**
-> "So, what I know is that Skordas is running as a state prosecutor."
 
 </details>
 

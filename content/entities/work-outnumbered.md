@@ -15,11 +15,11 @@ _Type: Works & Media_
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
-**[00:11:30](/episodes/ep-6DhWawD4ZiM.md#ent-work-outnumbered-t-00-09-46)**
-> "she's done Fox and Friends, she's done Outnumbered"
-
 **[00:09:59](/episodes/ep-6DhWawD4ZiM.md#ent-work-outnumbered-t-00-09-46)**
 > "...e Fox and Friends, she's done Outnumbered, she's done Megyn (Megyn Kelly) Live."
+
+**[00:11:30](/episodes/ep-6DhWawD4ZiM.md#ent-work-outnumbered-t-00-09-46)**
+> "she's done Fox and Friends, she's done Outnumbered"
 
 </details>
 

@@ -19,11 +19,11 @@ _Type: Organizations_
 <details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
 
-**[00:18:24](/episodes/ep-ja26iltROkM.md#ent-org-faa-t-00-16-26)**
-> "in consultation with the FAA, we determined the transponder was not turned off"
-
 **[00:16:43](/episodes/ep-ja26iltROkM.md#ent-org-faa-t-00-16-26)**
 > "...lot, in consultation with the FAA, we determined the transponder was not turned off..."
+
+**[00:18:24](/episodes/ep-ja26iltROkM.md#ent-org-faa-t-00-16-26)**
+> "in consultation with the FAA, we determined the transponder was not turned off"
 
 </details>
 

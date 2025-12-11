@@ -1,6 +1,6 @@
 ---
 title: "South Africa"
-description: "South Africa (Places) - 2 mentions"
+description: "South Africa (Places) - 1 mention"
 id: "gpe-south-africa"
 type: "GPE"
 ---
@@ -13,13 +13,10 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:13:47](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-south-africa-t-00-13-15)**
 > "...s in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France. Israel's involved, Rhodesia, South Africa. I mean, it tells you there that the process then led, resulted in the 1979 Egypt-Israel peace trea..."
-
-**[00:13:47](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-south-africa-t-00-13-15)**
-> "Israel's involved, Rhodesia, South Africa."
 
 </details>
 

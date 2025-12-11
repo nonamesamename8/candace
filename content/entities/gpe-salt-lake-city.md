@@ -1,6 +1,6 @@
 ---
 title: "Salt Lake City"
-description: "Salt Lake City (Places) - 48 mentions"
+description: "Salt Lake City (Places) - 27 mentions"
 id: "gpe-salt-lake-city"
 type: "GPE"
 ---
@@ -38,18 +38,15 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
 **[00:28:45](/episodes/ep-SKGUzGHymcI.md#ent-gpe-salt-lake-city-t-00-28-27)**
 > "...senger flight. That's a big one. That was Charlie (Charlie Kirk)'s plane that day first took him to Salt Lake City for the Restaurantology interview that he did, his last interview. And then after he gets shot, whi..."
 
-**[00:28:45](/episodes/ep-SKGUzGHymcI.md#ent-gpe-salt-lake-city-t-00-28-27)**
-> "...ne that day first took him to Salt Lake City for the Restaurantology"
-
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (6 mentions)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (3 mentions)</summary>
 
 **[00:12:50](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-salt-lake-city-t-00-12-33)**
 > "...and I'm sharing this with you now for a reason—when I learned that Charlie (Charlie Kirk) flew into Salt Lake City that morning. Because why didn't he fly into the much closer Provo airport? Now, ostensibly, the an..."
@@ -60,19 +57,10 @@ _Type: Places_
 **[00:15:09](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-salt-lake-city-t-00-14-44)**
 > "...'s all gonna be relevant now, okay? So you have to remember that Charlie (Charlie Kirk) landed into Salt Lake City at 9:23 a.m. local time. I suspect that if he had instead landed into Provo, he would have recogniz..."
 
-**[00:12:50](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-salt-lake-city-t-00-12-33)**
-> "...rlie (Charlie Kirk) flew into Salt Lake City that morning."
-
-**[00:14:05](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-salt-lake-city-t-00-13-59)**
-> "...ted Charlie (Charlie Kirk) to Salt Lake City for a reason."
-
-**[00:15:09](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-salt-lake-city-t-00-14-44)**
-> "...ie (Charlie Kirk) landed into Salt Lake City at 9:23 a.m. local time."
-
 </details>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (4 mentions)</summary>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
 
 **[00:17:34](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-salt-lake-city-t-00-17-34)**
 > "... his first stop, which is incredible. We can listen to a news anchor. I think this is from Fox News Salt Lake City describe exactly when that request went out—as we're telling you, on July 18th. Take a listen. Utah..."
@@ -80,16 +68,10 @@ _Type: Places_
 **[00:42:23](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-salt-lake-city-t-00-41-54)**
 > "...ode. Laughing Cats Music World writes, "I keep thinking about George Zinn. I know he was a habitual Salt Lake City event disruptor, but what are the chances his reflex is to take the blame voluntarily? I guess it's..."
 
-**[00:17:34](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-salt-lake-city-t-00-17-34)**
-> "I think this is from Fox News Salt Lake City describe exactly when that request went out—as we..."
-
-**[00:42:23](/episodes/ep-Qfwr08Ebczo.md#ent-gpe-salt-lake-city-t-00-41-54)**
-> "I know he was a habitual Salt Lake City event disruptor, but what are the chances his ref..."
-
 </details>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (24 mentions)</summary>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (12 mentions)</summary>
 
 **[00:24:12](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-salt-lake-city-t-00-24-03)**
 > "... a little bit on April 19th. It goes to Provo. It comes in from Cairo via Paris. It makes a stop in Salt Lake City, and then goes on to Provo. That is April 19th, okay? Lo and behold, BTT is then going to come in f..."
@@ -127,52 +109,13 @@ _Type: Places_
 **[00:59:42](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-salt-lake-city-t-00-59-37)**
 > "... his plane. So that does make sense. They would have had information. I was wondering why he was in Salt Lake City, but apparently he had an interview with Restaurantology Summit. So you can ignore that tidbit. Com..."
 
-**[00:24:12](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-salt-lake-city-t-00-24-03)**
-> "via Paris. It makes a stop in Salt Lake City, and then goes on to Provo."
-
-**[00:24:47](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-salt-lake-city-t-00-24-47)**
-> "...t's the University of Utah at Salt Lake City."
-
-**[00:42:50](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-salt-lake-city-t-00-42-28)**
-> "...e—it flies from Scottsdale to Salt Lake City."
-
-**[00:42:56](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-salt-lake-city-t-00-42-28)**
-> "...arlie (Charlie Kirk) fly into Salt Lake City?"
-
-**[00:43:00](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-salt-lake-city-t-00-42-28)**
-> "...nto Provo, obviously, because Salt Lake City is like 60 miles away."
-
-**[00:43:20](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-salt-lake-city-t-00-43-11)**
-> "...Scottsdale and then landed in Salt Lake City at 9:23 a.m. local time."
-
-**[00:43:33](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-salt-lake-city-t-00-43-11)**
-> "...lane scrambles, and it leaves Salt Lake City and it heads to Scottsdale at one o'clock p.m."
-
-**[00:43:37](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-salt-lake-city-t-00-43-11)**
-> "...pretty quick, but coming from Salt Lake City doesn't make sense to me."
-
-**[00:43:41](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-salt-lake-city-t-00-43-11)**
-> "...ebody, but why did they go to Salt Lake City?"
-
-**[00:44:25](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-salt-lake-city-t-00-43-52)**
-> "...es. But why was this plane in Salt Lake City in the first place?"
-
-**[00:59:33](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-salt-lake-city-t-00-58-56)**
-> "...e Kirk) actually did fly into Salt Lake City."
-
-**[00:59:42](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-salt-lake-city-t-00-59-37)**
-> "I was wondering why he was in Salt Lake City, but apparently he had an interview with Restaura..."
-
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
 **[00:27:54](/episodes/ep-iHav0PPzUz8.md#ent-gpe-salt-lake-city-t-00-27-20)**
 > "...ses. And the notable exception here is that Provo does not have an Air Force base. They have one in Salt Lake City, but they do not have one in Provo. So I hope that makes more sense there. Now let's switch gears. ..."
-
-**[00:27:54](/episodes/ep-iHav0PPzUz8.md#ent-gpe-salt-lake-city-t-00-27-20)**
-> "They have one in Salt Lake City, but they do not have one in Provo."
 
 </details>
 
@@ -185,19 +128,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (4 mentions)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
 
 **[00:19:25](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-salt-lake-city-t-00-18-53)**
 > ".... They say these things are found on the bullets. Okay. And then just seven minutes later, the FBI— Salt Lake City—drops static images of the alleged shooter walking up the stairs. Okay, so now we can see on our ti..."
 
 **[00:19:31](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-salt-lake-city-t-00-18-53)**
 > "...alking up the stairs. Okay, so now we can see on our timeline that's around 10 a.m. in the morning, Salt Lake City time—Mountain Time. So we can then assume that everything else that's about to happen that I'm goin..."
-
-**[00:19:25](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-salt-lake-city-t-00-18-53)**
-> "Salt Lake City—drops static images of the alleged shooter walkin..."
-
-**[00:19:31](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-salt-lake-city-t-00-18-53)**
-> "...round 10 a.m. in the morning, Salt Lake City time—Mountain Time."
 
 </details>
 

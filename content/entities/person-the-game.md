@@ -1,6 +1,6 @@
 ---
 title: "The Game"
-description: "The Game (People) - 18 mentions"
+description: "The Game (People) - 14 mentions"
 id: "person-the-game"
 type: "PERSON"
 ---
@@ -36,22 +36,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (12 mentions)</summary>
-
-**[00:01:00](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-00-44)**
-> "...those things. So major, major win. I am excited. Also, later on in the show, what I have for you is The Game, whose rapper is releasing a song that is entitled "The Assassination of Candace Owens." And I have..."
-
-**[00:55:50](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-55-36)**
-> "...s Christmas. That's NIMMIESKINCARE.COM with code KANDICE10 at checkout. I mean, look, I'm obviously The Game's muse. I don't think that's a stretch. I'm obviously The Game's muse. I'm his muse for this upcomi..."
-
-**[00:55:52](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-55-36)**
-> "...heckout. I mean, look, I'm obviously The Game's muse. I don't think that's a stretch. I'm obviously The Game's muse. I'm his muse for this upcoming album. So that is now a fact. And I had a lot of muses for m..."
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (8 mentions)</summary>
 
 **[00:01:00](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-00-44)**
 > "The Game, who is releasing a song that is entitled 'The Assassination of Candace Owens.'"
 
 **[00:01:00](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-00-44)**
-> "... show, what I have for you is The Game (rapper), who is releasing a song that is entitle..."
+> "...those things. So major, major win. I am excited. Also, later on in the show, what I have for you is The Game, whose rapper is releasing a song that is entitled "The Assassination of Candace Owens." And I have..."
 
 **[00:51:11](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-50-53)**
 > "...wanted to mention to you that The Game—who is a hip-hop rapper—is releasing an album, an..."
@@ -62,14 +53,11 @@ _Type: People_
 **[00:51:35](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-51-35)**
 > "...ve an answer, and here's what The Game had to say. [Clip now attributed to The Game.]"
 
-**[00:51:35](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-51-35)**
-> "... say. [Clip now attributed to The Game.]"
-
 **[00:55:50](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-55-36)**
-> "I mean, look, I'm obviously The Game's muse."
+> "...s Christmas. That's NIMMIESKINCARE.COM with code KANDICE10 at checkout. I mean, look, I'm obviously The Game's muse. I don't think that's a stretch. I'm obviously The Game's muse. I'm his muse for this upcomi..."
 
 **[00:55:52](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-55-36)**
-> "I'm obviously The Game's muse."
+> "...heckout. I mean, look, I'm obviously The Game's muse. I don't think that's a stretch. I'm obviously The Game's muse. I'm his muse for this upcoming album. So that is now a fact. And I had a lot of muses for m..."
 
 **[00:56:43](/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-56-18)**
 > "...have to send something out to The Game."

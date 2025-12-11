@@ -1,14 +1,14 @@
 ---
 id: "2WEHTk0Xewg"
 title: "Who Ordered The Hit On Charlie Kirk? | Candace Ep 237"
-description: "Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 - 67 entities, 17 events, 0 claims"
+description: "Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 - 71 entities, 17 events, 0 claims"
 published: "2025-09-17"
 youtube_url: "https://www.youtube.com/watch?v=2WEHTk0Xewg"
 ---
 
 **Published:** 2025-09-17 | [Watch on YouTube](https://www.youtube.com/watch?v=2WEHTk0Xewg)
 
-**Stats:** 67 entities | 17 events | 0 claims
+**Stats:** 71 entities | 17 events | 0 claims
 
 ---
 
@@ -319,7 +319,7 @@ youtube_url: "https://www.youtube.com/watch?v=2WEHTk0Xewg"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (67)</strong></summary>
+<summary><strong>Entities Mentioned (71)</strong></summary>
 
 **Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [MAGA movement](/entities/concept-maga-movement.md)
 
@@ -327,11 +327,11 @@ youtube_url: "https://www.youtube.com/watch?v=2WEHTk0Xewg"
 
 **Events:** [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-**Places:** [Israel](/entities/gpe-israel.md), [New York](/entities/gpe-new-york.md), [Orem](/entities/gpe-orem.md), [Qatar](/entities/gpe-qatar.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Saudi Arabia](/entities/gpe-saudi-arabia.md), [Scotland](/entities/gpe-scotland.md), [St. George](/entities/gpe-st-george.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md), [Warner Valley](/entities/gpe-warner-valley.md), [Washington County](/entities/gpe-washington-county.md)
+**Places:** [Gaza](/entities/gpe-gaza.md), [Israel](/entities/gpe-israel.md), [New York](/entities/gpe-new-york.md), [Orem](/entities/gpe-orem.md), [Qatar](/entities/gpe-qatar.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Saudi Arabia](/entities/gpe-saudi-arabia.md), [Scotland](/entities/gpe-scotland.md), [St. George](/entities/gpe-st-george.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md), [Warner Valley](/entities/gpe-warner-valley.md), [Washington](/entities/gpe-washington-state.md), [Washington County](/entities/gpe-washington-county.md)
 
-**Organizations:** [7 Weeks Coffee](/entities/org-7-weeks-coffee.md), [Amazon](/entities/org-amazon.md), [American Financing](/entities/org-american-financing.md), [American Jewish Committee](/entities/org-american-jewish-committee.md), [Babylon Bee](/entities/org-babylon-bee.md), [Beekeeper's Naturals](/entities/org-beekeepers-naturals.md), [Club Candace](/entities/org-club-candace.md), [Discord](/entities/org-discord.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fox News](/entities/org-fox-news.md), [Freemasons](/entities/org-freemasons.md), [In-N-Out](/entities/org-in-n-out.md), [Mossad](/entities/org-mossad.md), [New York Post](/entities/org-new-york-post.md), [Riverbend Ranch](/entities/org-riverbend-ranch.md), [Stanford](/entities/org-stanford.md), [Stanford University](/entities/org-stanford-university.md), [TMZ](/entities/org-tmz.md), [The Wellness Company](/entities/org-the-wellness-company.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah County Sheriff's Office](/entities/org-utah-county-sheriff-s-office.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md)
+**Organizations:** [7 Weeks Coffee](/entities/org-7-weeks-coffee.md), [Amazon](/entities/org-amazon.md), [American Financing](/entities/org-american-financing.md), [American Jewish Committee](/entities/org-american-jewish-committee.md), [Babylon Bee](/entities/org-babylon-bee.md), [Beekeeper's Naturals](/entities/org-beekeepers-naturals.md), [Club Candace](/entities/org-club-candace.md), [Discord](/entities/org-discord.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fox News](/entities/org-fox-news.md), [Freemasons](/entities/org-freemasons.md), [In-N-Out](/entities/org-in-n-out.md), [Just Thrive](/entities/org-just-thrive.md), [Mossad](/entities/org-mossad.md), [New York Post](/entities/org-new-york-post.md), [Riverbend Ranch](/entities/org-riverbend-ranch.md), [Stanford](/entities/org-stanford.md), [Stanford University](/entities/org-stanford-university.md), [TMZ](/entities/org-tmz.md), [The Wellness Company](/entities/org-the-wellness-company.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah County Sheriff's Office](/entities/org-utah-county-sheriff-s-office.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md)
 
-**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md), [Governor Cox](/entities/person-governor-cox.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Matt Gaetz](/entities/person-matt-gaetz.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Seth Dillon](/entities/person-seth-dillon.md), [Skylar](/entities/person-skylar.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md), [Governor Cox](/entities/person-governor-cox.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Lance](/entities/person-lance-robinson-boyfriend.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Matt Gaetz](/entities/person-matt-gaetz.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Seth Dillon](/entities/person-seth-dillon.md), [Skylar](/entities/person-skylar.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 **Works & Media:** [Chaos](/entities/work-chaos.md), [Fox & Friends](/entities/work-fox-and-friends.md), [The New Turning Point](/entities/work-the-new-turning-point.md)
 

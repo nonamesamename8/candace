@@ -1,6 +1,6 @@
 ---
 title: "Longwood Foundation"
-description: "Longwood Foundation (Organizations) - 2 mentions"
+description: "Longwood Foundation (Organizations) - 1 mention"
 id: "org-longwood-foundation"
 type: "ORG"
 ---
@@ -13,13 +13,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:29:28](/episodes/ep-tB5SXXmd9vU.md#ent-org-longwood-foundation-t-00-29-13)**
 > "...was left vacant. Well, in 2024, legislation was passed which would provide financial support to the Longwood Foundation, a philanthropic nonprofit that was founded by Pierre S. du Pont to make it function as a quote-unq..."
-
-**[00:29:28](/episodes/ep-tB5SXXmd9vU.md#ent-org-longwood-foundation-t-00-29-13)**
-> "...vide financial support to the Longwood Foundation, a philanthropic nonprofit that was founded by Pi..."
 
 </details>
 

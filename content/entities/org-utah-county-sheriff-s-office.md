@@ -15,11 +15,11 @@ _Type: Organizations_
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
 
-**[00:28:24](/episodes/ep-2WEHTk0Xewg.md#ent-org-utah-county-sheriff-s-office-t-00-27-57)**
-> "This information was relayed to the Utah County Sheriff's Office and scene investigators at Utah Valley University."
-
 **[00:28:17](/episodes/ep-2WEHTk0Xewg.md#ent-org-utah-county-sheriff-s-office-t-00-27-57)**
 > "...nformation was relayed to the Utah County Sheriff's Office and scene investigators at Utah Valley University..."
+
+**[00:28:24](/episodes/ep-2WEHTk0Xewg.md#ent-org-utah-county-sheriff-s-office-t-00-27-57)**
+> "This information was relayed to the Utah County Sheriff's Office and scene investigators at Utah Valley University."
 
 </details>
 

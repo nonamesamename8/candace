@@ -1,6 +1,6 @@
 ---
 title: "Brett Kavanaugh"
-description: "Brett Kavanaugh (People) - 3 mentions"
+description: "Brett Kavanaugh (People) - 1 mention"
 id: "person-brett-kavanaugh"
 type: "PERSON"
 ---
@@ -13,16 +13,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>To My Friend, Charlie Kirk. (3 mentions)</summary>
+<summary>To My Friend, Charlie Kirk. (1 mentions)</summary>
 
 **[00:13:33](/episodes/ep-_dRaEO47-co.md#ent-person-brett-kavanaugh-t-00-13-27)**
 > "...m, Israel—you name it, we were there. And there was always a new t-shirt to print out: “Justice for Brett Kavanaugh,” he sends to me. “How's this one?” I love it. We just loved the t-shirts. That was the thing. The ..."
-
-**[00:13:33](/episodes/ep-_dRaEO47-co.md#ent-person-brett-kavanaugh-t-00-13-27)**
-> "...rt to print out: "Justice for Brett Kavanaugh (Brett Kavanaugh)," he sends to me."
-
-**[00:13:33](/episodes/ep-_dRaEO47-co.md#ent-person-brett-kavanaugh-t-00-13-27)**
-> "..."Justice for Brett Kavanaugh (Brett Kavanaugh)," he sends to me."
 
 </details>
 

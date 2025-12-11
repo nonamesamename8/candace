@@ -1,6 +1,6 @@
 ---
 title: "Wilmington Trust"
-description: "Wilmington Trust (Organizations) - 8 mentions"
+description: "Wilmington Trust (Organizations) - 4 mentions"
 id: "org-wilmington-trust"
 type: "ORG"
 aliases:
@@ -17,7 +17,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
 **[00:11:53](/episodes/ep-a-e7HC6SeK8.md#ent-org-wilmington-trust-t-00-11-53)**
 > "..., and we told you yesterday: we've got this FBI suite in this building that's actually owned by the Wilmington Trust at 500 Delaware Avenue. We've got Brigitte's lawyers at 919 North Market Street. Also in that build..."
@@ -25,28 +25,16 @@ _Type: Organizations_
 **[00:12:18](/episodes/ep-a-e7HC6SeK8.md#ent-org-wilmington-trust-t-00-11-53)**
 > "...at's Stacey Sheridan of Turning Point USA. We're going to talk about her in a second. We've got the Wilmington Trust actual location, which is at 1100 North Market. We told you about this crane—this red crane—at 1100..."
 
-**[00:11:53](/episodes/ep-a-e7HC6SeK8.md#ent-org-wilmington-trust-t-00-11-53)**
-> "... that's actually owned by the Wilmington Trust at 500 Delaware"
-
-**[00:12:18](/episodes/ep-a-e7HC6SeK8.md#ent-org-wilmington-trust-t-00-11-53)**
-> "We've got the Wilmington Trust actual location, which is at 1100 North Market."
-
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (4 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
 **[00:31:39](/episodes/ep-tB5SXXmd9vU.md#ent-org-wilmington-trust-t-00-31-13)**
 > "...ilmington Savings Fund Society. In 1990, nearly all of lower Delaware branches of WSFS were sold to Wilmington Trust which was founded by T. Coleman du Pont, the French-American then-president of DuPont, to manage th..."
 
 **[00:32:00](/episodes/ep-tB5SXXmd9vU.md#ent-org-wilmington-trust-t-00-31-48)**
 > "...of DuPont, to manage the growing fortune of the French-American du Pont family. And guess where the Wilmington Trust is actually located? It's located at 1100 North Market Street, the building that is right next to 1..."
-
-**[00:31:39](/episodes/ep-tB5SXXmd9vU.md#ent-org-wilmington-trust-t-00-31-13)**
-> "...branches of WSFS were sold to Wilmington Trust"
-
-**[00:32:00](/episodes/ep-tB5SXXmd9vU.md#ent-org-wilmington-trust-t-00-31-48)**
-> "And guess where the Wilmington Trust is actually located?"
 
 </details>
 

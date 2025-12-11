@@ -34,11 +34,11 @@ _Type: Places_
 <details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
 
-**[00:54:00](/episodes/ep-ja26iltROkM.md#ent-gpe-palestine-t-00-53-40)**
-> "The internet is back in Palestine, and people are speaking out"
-
 **[00:53:56](/episodes/ep-ja26iltROkM.md#ent-gpe-palestine-t-00-53-40)**
 > "...tes: "The internet is back in Palestine, and people are speaking out.""
+
+**[00:54:00](/episodes/ep-ja26iltROkM.md#ent-gpe-palestine-t-00-53-40)**
+> "The internet is back in Palestine, and people are speaking out"
 
 </details>
 

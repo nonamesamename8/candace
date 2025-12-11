@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens"
-description: "Candace Owens (People) - 1659 mentions"
+description: "Candace Owens (People) - 951 mentions"
 id: "person-candace-owens"
 type: "PERSON"
 aliases:
@@ -19,28 +19,19 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (23 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (20 mentions)</summary>
 
 **[00:00:00](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-01-29)**
 > "Candace Owens: Okay, you guys, now, I wasn't sure about Erika"
-
-**[00:24:06](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-23-49)**
-> "...I know that recently Candice (Candace Owens) said that"
-
-**[00:29:58](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-29-58)**
-> "...nning, if you don't like what Candace Owens is saying, why don't you call her and offer a mor..."
-
-**[00:30:46](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-30-38)**
-> "... COVID-19, it's like Candice (Candace Owens) 19."
-
-**[00:30:54](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-30-38)**
-> "...cial Distancing from Candice (Candace Owens)."
 
 **[00:01:37](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-01-29)**
 > "Welcome back to Candice."
 
 **[00:24:06](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-23-49)**
 > "...ils, but I know that recently Candice (Candace Owens) said that"
+
+**[00:29:58](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-29-58)**
+> "...nning, if you don't like what Candace Owens is saying, why don't you call her and offer a mor..."
 
 **[00:30:46](/episodes/ep-6DhWawD4ZiM.md#ent-person-candace-owens-t-00-30-38)**
 > "... not like COVID-19, it's like Candice (Candace Owens) 19."
@@ -131,81 +122,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (23 mentions)</summary>
-
-**[00:02:46](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-02-46)**
-> "...on, and don't laugh. Does the DoW have any evidence at all of a French military plot to assassinate Candace Owens? That is an interesting question. Not that I'm aware of, but you know, interesting question. I can ..."
-
-**[00:05:05](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-04-36)**
-> "... December 15th, a collection of Charlie (Charlie Kirk)'s friends will respond to statements made by Candace Owens to set the record straight once and for all." "Prior to the opening of AmericaFest." Now, if it's g..."
-
-**[00:16:50](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-16-27)**
-> "... This tweet came from Project Constitution. I'm going to read it in its entirety, okay? "Confirmed. Candace Owens just got vindicated again. The Egyptian government website confirms that Egyptian President el-Sisi..."
-
-**[00:16:59](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-16-27)**
-> "...e Egyptian government website confirms that Egyptian President el-Sisi flew on SUBTU. Remember when Candace Owens dropped that bombshell exposing that Egyptian presidential plane as the mystery bird tied to those ..."
-
-**[00:28:34](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-28-05)**
-> "...apon. He's the smartest man I know." And, uh, he loved you. And for anybody to suggest—whether it's Candace Owens or any other person within TPUSA—was somehow complicit in his murder is to say that Charlie (Charli..."
-
-**[00:34:36](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-34-25)**
-> "...ce and said, "Are we still talking about the Epstein files?" No, that's not his fault. The fault is Candace Owens for wanting to figure out who murdered her friend. Don't you guys get it? Like, we're just an algor..."
-
-**[00:01:01](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-00-43)**
-> "Welcome back to Candace."
-
-**[00:02:46](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-02-46)**
-> "... military plot to assassinate Candace Owens?"
-
-**[00:05:05](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-04-36)**
-> "...respond to statements made by Candace Owens to set the record straight once and for all.""
-
-**[00:05:36](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-05-21)**
-> "...ffer from yesterday holds. If Candace wishes to join us in person in Phoenix, she is we..."
-
-**[00:09:41](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-09-27)**
-> "..., we can now say that it's on Candace."
-
-**[00:16:50](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-16-27)**
-> "Candace Owens just got vindicated again."
-
-**[00:16:59](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-16-27)**
-> "Remember when Candace Owens dropped that bombshell exposing that Egyptian pre..."
-
-**[00:21:33](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-21-14)**
-> "...dRanch.com and use promo code Candace, you'll get $20 off your first order."
-
-**[00:21:38](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-21-14)**
-> "...bendRanch.com with promo code Candace."
-
-**[00:22:49](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-22-37)**
-> "...y going to DoseDaily.co slash Candace."
-
-**[00:22:58](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-22-37)**
-> "That's DoseDaily.co slash Candace for 35% off your first month subscription."
-
-**[00:28:34](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-28-05)**
-> "...ybody to suggest—whether it's Candace Owens or any other person within TPUSA—was somehow comp..."
-
-**[00:34:36](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-34-25)**
-> "The fault is Candace Owens for wanting to figure out who murdered her friend..."
-
-**[00:38:29](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-34-25)**
-> "... someone a membership to Club Candace and to our book club on the website now, which is..."
-
-**[00:40:52](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-40-52)**
-> "Yeshira Sanchez writes: "Candace, I pray for you every day."
-
-**[00:42:46](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-42-17)**
-> "God bless you, Candace.""
-
-**[00:45:43](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-45-43)**
-> ".... America first. Go max. Team Candace." And you know what?"
-
-</details>
-
-<details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (29 mentions)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (28 mentions)</summary>
 
 **[00:00:04](/episodes/ep-DqGNvi36ol8.md#ent-person-candace-owens-t-00-00-41)**
 > "...entitled The Assassination of Candace Owens."
@@ -221,9 +138,6 @@ _Type: People_
 
 **[00:04:55](/episodes/ep-DqGNvi36ol8.md#ent-person-candace-owens-t-00-04-31)**
 > "...he invitation was extended to Candace, but not to Candace directly."
-
-**[00:04:55](/episodes/ep-DqGNvi36ol8.md#ent-person-candace-owens-t-00-04-31)**
-> "...tended to Candace, but not to Candace directly."
 
 **[00:06:42](/episodes/ep-DqGNvi36ol8.md#ent-person-candace-owens-t-00-06-12)**
 > "Candace is free to attend in person."
@@ -297,43 +211,72 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (50 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (17 mentions)</summary>
+
+**[00:01:01](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-00-43)**
+> "Welcome back to Candace."
+
+**[00:02:46](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-02-46)**
+> "...on, and don't laugh. Does the DoW have any evidence at all of a French military plot to assassinate Candace Owens? That is an interesting question. Not that I'm aware of, but you know, interesting question. I can ..."
+
+**[00:05:05](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-04-36)**
+> "... December 15th, a collection of Charlie (Charlie Kirk)'s friends will respond to statements made by Candace Owens to set the record straight once and for all." "Prior to the opening of AmericaFest." Now, if it's g..."
+
+**[00:05:36](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-05-21)**
+> "...ffer from yesterday holds. If Candace wishes to join us in person in Phoenix, she is we..."
+
+**[00:09:41](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-09-27)**
+> "..., we can now say that it's on Candace."
+
+**[00:16:50](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-16-27)**
+> "... This tweet came from Project Constitution. I'm going to read it in its entirety, okay? "Confirmed. Candace Owens just got vindicated again. The Egyptian government website confirms that Egyptian President el-Sisi..."
+
+**[00:16:59](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-16-27)**
+> "...e Egyptian government website confirms that Egyptian President el-Sisi flew on SUBTU. Remember when Candace Owens dropped that bombshell exposing that Egyptian presidential plane as the mystery bird tied to those ..."
+
+**[00:21:33](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-21-14)**
+> "...dRanch.com and use promo code Candace, you'll get $20 off your first order."
+
+**[00:21:38](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-21-14)**
+> "...bendRanch.com with promo code Candace."
+
+**[00:22:49](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-22-37)**
+> "...y going to DoseDaily.co slash Candace."
+
+**[00:22:58](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-22-37)**
+> "That's DoseDaily.co slash Candace for 35% off your first month subscription."
+
+**[00:28:34](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-28-05)**
+> "...apon. He's the smartest man I know." And, uh, he loved you. And for anybody to suggest—whether it's Candace Owens or any other person within TPUSA—was somehow complicit in his murder is to say that Charlie (Charli..."
+
+**[00:34:36](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-34-25)**
+> "...ce and said, "Are we still talking about the Epstein files?" No, that's not his fault. The fault is Candace Owens for wanting to figure out who murdered her friend. Don't you guys get it? Like, we're just an algor..."
+
+**[00:38:29](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-34-25)**
+> "... someone a membership to Club Candace and to our book club on the website now, which is..."
+
+**[00:40:52](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-40-52)**
+> "Yeshira Sanchez writes: "Candace, I pray for you every day."
+
+**[00:42:46](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-42-17)**
+> "God bless you, Candace.""
+
+**[00:45:43](/episodes/ep-ZAuuSq_j2_w.md#ent-person-candace-owens-t-00-45-43)**
+> ".... America first. Go max. Team Candace." And you know what?"
+
+</details>
+
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (38 mentions)</summary>
 
 **[00:01:00](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-00-44)**
 > "...I have for you is The Game, whose rapper is releasing a song that is entitled "The Assassination of Candace Owens." And I have more questions. I've got questions. Am I allowed to have questions? Welcome back to Ca..."
-
-**[00:04:17](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-04-17)**
-> "... always have made that offer to. So here is Blake Neff. Ever since Charlie (Charlie Kirk)'s murder, Candace Owens has leveled a flood of allegations against people at Turning Point USA, people at Turning Point Act..."
-
-**[00:42:18](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-42-06)**
-> "... and don't laugh. Does the D.O.D. have any evidence at all of a French military plot to assassinate Candace Owens?" OK, here's my first question. "Don't laugh." It's like two girls getting their nails done. "OK, l..."
-
-**[00:46:54](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-46-24)**
-> "... because this article appeared in Fortune yesterday. This is the headline: "Inside the economics of Candace Owens' media empire and the Macron lawsuit threatening to unravel it." They went with this like they're p..."
-
-**[00:47:46](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-47-04)**
-> "... can survive what experts say will be an immensely costly legal battle." Yeah, we're gonna bankrupt Candace Owens. That is our intent. The experts are saying that we can do it because we can't control her. She wou..."
-
-**[00:51:11](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-47-04)**
-> "...m, and he has a song on his track list in this upcoming album that's entitled "The Assassination of Candace Owens." I'm having like the best year ever or something. I don't know. Why? Why? Why, The Game? Why's it ..."
-
-**[00:51:43](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-47-04)**
-> "...you got this new mixtape dropping, and then there's this like one track called The Assassination of Candace Owens? Yeah. Why that title?" Um, because... Recently, I've been seeing conspiracy theories about Candace..."
-
-**[00:51:54](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-51-46)**
-> "...e Owens? Yeah. Why that title?" Um, because... Recently, I've been seeing conspiracy theories about Candace Owens from herself—self-admitted. She feels like people are conspiring [against] her. So what it was is m..."
-
-**[00:52:35](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-52-30)**
-> "... so all I did was say it to her. You know what I'm saying? So again, the song is not about her, but Candace Owens, man—she real smart. Really intelligent woman. But if she comes for me, I mean, you know, it is wha..."
-
-**[00:01:00](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-00-44)**
-> "...ntitled "The Assassination of Candace Owens.""
 
 **[00:01:14](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-00-44)**
 > "Welcome back to Candace."
 
 **[00:04:17](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-04-17)**
-> "...rlie (Charlie Kirk)'s murder, Candace Owens has leveled a flood of allegations against people..."
+> "... always have made that offer to. So here is Blake Neff. Ever since Charlie (Charlie Kirk)'s murder, Candace Owens has leveled a flood of allegations against people at Turning Point USA, people at Turning Point Act..."
 
 **[00:06:37](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-06-37)**
 > "Candace has suggested the Utah Valley University event wa..."
@@ -346,9 +289,6 @@ _Type: People_
 
 **[00:18:52](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-18-52)**
 > "... attacks and allegations from Candace are either lies, or they are innuendos thrown aro..."
-
-**[00:18:52](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-18-52)**
-> "...sregard for the truth so that Candace can manipulate and string along an audience of pe..."
 
 **[00:19:08](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-18-52)**
 > "...ave gotten whipped up by what Candace is saying."
@@ -389,32 +329,26 @@ _Type: People_
 **[00:36:54](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-36-36)**
 > "... now by heading to TWC.health/candace, and you can use code CANDACE at checkout to save..."
 
-**[00:36:54](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-36-36)**
-> "...candace, and you can use code CANDACE at checkout to save up to $45 off, plus you'll ge..."
-
 **[00:37:05](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-36-36)**
 > "Again, that's TWC.health/candace, and use code CANDACE at checkout."
 
-**[00:37:05](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-36-36)**
-> "....health/candace, and use code CANDACE at checkout."
-
 **[00:42:18](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-42-06)**
-> "... military plot to assassinate Candace Owens?""
+> "... and don't laugh. Does the D.O.D. have any evidence at all of a French military plot to assassinate Candace Owens?" OK, here's my first question. "Don't laugh." It's like two girls getting their nails done. "OK, l..."
 
 **[00:46:54](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-46-24)**
-> ""Inside the economics of Candace Owens' media empire and the Macron lawsuit threatening ..."
+> "... because this article appeared in Fortune yesterday. This is the headline: "Inside the economics of Candace Owens' media empire and the Macron lawsuit threatening to unravel it." They went with this like they're p..."
 
 **[00:47:46](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-47-04)**
-> "Yeah, we're gonna bankrupt Candace Owens."
+> "... can survive what experts say will be an immensely costly legal battle." Yeah, we're gonna bankrupt Candace Owens. That is our intent. The experts are saying that we can do it because we can't control her. She wou..."
 
 **[00:51:11](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-47-04)**
-> "...ntitled "The Assassination of Candace Owens.""
+> "...m, and he has a song on his track list in this upcoming album that's entitled "The Assassination of Candace Owens." I'm having like the best year ever or something. I don't know. Why? Why? Why, The Game? Why's it ..."
 
 **[00:51:43](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-47-04)**
-> "...k called The Assassination of Candace Owens?"
+> "...you got this new mixtape dropping, and then there's this like one track called The Assassination of Candace Owens? Yeah. Why that title?" Um, because... Recently, I've been seeing conspiracy theories about Candace..."
 
 **[00:51:54](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-51-46)**
-> "...ing conspiracy theories about Candace Owens from herself—self-admitted."
+> "...e Owens? Yeah. Why that title?" Um, because... Recently, I've been seeing conspiracy theories about Candace Owens from herself—self-admitted. She feels like people are conspiring [against] her. So what it was is m..."
 
 **[00:52:06](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-51-46)**
 > "...ws, but the song is not about Candace."
@@ -426,7 +360,7 @@ _Type: People_
 > "Nah, I'm not worried about Candace."
 
 **[00:52:35](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-52-30)**
-> "...he song is not about her, but Candace Owens, man—she real smart."
+> "... so all I did was say it to her. You know what I'm saying? So again, the song is not about her, but Candace Owens, man—she real smart. Really intelligent woman. But if she comes for me, I mean, you know, it is wha..."
 
 **[00:56:54](/episodes/ep-his-JBjlkh8.md#ent-person-candace-owens-t-00-52-30)**
 > "... someone a membership to Club Candace or the book club on our website."
@@ -452,55 +386,25 @@ _Type: People_
 </details>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (32 mentions)</summary>
-
-**[00:02:09](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-02-09)**
-> "...elieve that the purpose of Macron's lawsuit was that it was supposed to go nowhere because Candace (Candace Owens) was supposed to have been assassinated before the case got to court." Then they could forever clai..."
-
-**[00:08:43](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-08-27)**
-> "... in the Richards, Layton & Finger law firm. I already know what you're going to say. "Hey, Candace (Candace Owens), is that the law firm that's filing the paperwork for you?" And the answer to that is yes. And I d..."
-
-**[00:55:00](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-55-00)**
-> "...'m going to read the top comment from yesterday's episode. It says, "It's crazy to me that Candace (Candace Owens) is doing her own research on her own assassination plot, meanwhile uncovering things in our govern..."
-
-**[00:56:40](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-56-27)**
-> "...will have some very clear answers. They haven't given us any thus far—just more attacks on Candace (Candace Owens), more people reporting to be Christians attacking Candace (Candace Owens), using biblical scriptur..."
-
-**[00:57:45](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-57-13)**
-> "...ur loss. Please stay strong." Thank you. I appreciate that. Yacra writes, "Many blessings, Candace (Candace Owens), from Anton Daniels and the Bag Chasers. Keep fighting the good fight." Snowy writes, "Integrity, ..."
-
-**[00:57:57](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-57-57)**
-> "...nowy writes, "Integrity, courage, intelligence, articulate—as beautiful inside as outside. Candace (Candace Owens) from the eyes of a 79-year-old." Thank you. I love meeting your generation because I do think that..."
-
-**[00:58:20](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-57-57)**
-> "...ere's that. And Amir writes, "I voted for my taxpayer funds to go from the CIA towards the Candace (Candace Owens) Intelligence Agency for all of her investigative work because at this point she is one of the rare..."
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (16 mentions)</summary>
 
 **[00:01:27](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-00-46)**
 > "So welcome back to Candace."
 
 **[00:02:09](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-02-09)**
-> "...o go nowhere because Candace (Candace Owens) was supposed to have been assassinated before th..."
-
-**[00:02:09](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-02-09)**
-> "...upposed to go nowhere because Candace (Candace Owens) was supposed to have been assassi..."
+> "...elieve that the purpose of Macron's lawsuit was that it was supposed to go nowhere because Candace (Candace Owens) was supposed to have been assassinated before the case got to court." Then they could forever clai..."
 
 **[00:02:17](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-02-09)**
 > "...they could forever claim that Candace was lying, which is evident by the fact that they..."
 
 **[00:08:43](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-08-27)**
-> ""Hey, Candace (Candace Owens), is that the law firm that's filing the paperwor..."
+> "... in the Richards, Layton & Finger law firm. I already know what you're going to say. "Hey, Candace (Candace Owens), is that the law firm that's filing the paperwork for you?" And the answer to that is yes. And I d..."
 
 **[00:36:55](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-36-55)**
 > "...rsnaturals.com and enter code Candace at checkout, or you can just go to beekeepersnatu..."
 
-**[00:36:55](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-36-55)**
-> "... go to beekeepersnaturals.com/Candace."
-
 **[00:37:11](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-36-55)**
 > "...rsnaturals.com and enter code Candace, or you can just go to beekeepersnaturals.com/Can..."
-
-**[00:37:11](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-36-55)**
-> "... go to beekeepersnaturals.com/Candace."
 
 **[00:49:40](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-49-20)**
 > "...r you by visiting pdsdebt.com/Candace."
@@ -518,42 +422,24 @@ _Type: People_
 > "...one with a membership to Club Candace to join our book club."
 
 **[00:55:00](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-55-00)**
-> "...t's crazy to me that Candace (Candace Owens) is doing her own research on her own assassinati..."
-
-**[00:55:00](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-55-00)**
-> "... says, "It's crazy to me that Candace (Candace Owens) is doing her own research on her ..."
+> "...'m going to read the top comment from yesterday's episode. It says, "It's crazy to me that Candace (Candace Owens) is doing her own research on her own assassination plot, meanwhile uncovering things in our govern..."
 
 **[00:56:40](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-56-27)**
-> "...just more attacks on Candace (Candace Owens), more people reporting to be Christians attackin..."
-
-**[00:56:40](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-56-27)**
-> "...Christians attacking Candace (Candace Owens), using biblical scripture."
-
-**[00:56:40](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-56-27)**
-> "...thus far—just more attacks on Candace (Candace Owens), more people reporting to be Chri..."
-
-**[00:56:40](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-56-27)**
-> "...ng to be Christians attacking Candace (Candace Owens), using biblical scripture."
+> "...will have some very clear answers. They haven't given us any thus far—just more attacks on Candace (Candace Owens), more people reporting to be Christians attacking Candace (Candace Owens), using biblical scriptur..."
 
 **[00:57:45](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-57-13)**
-> "...es, "Many blessings, Candace (Candace Owens), from Anton Daniels and the Bag Chasers."
-
-**[00:57:45](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-57-13)**
-> "...acra writes, "Many blessings, Candace (Candace Owens), from Anton Daniels and the Bag C..."
+> "...ur loss. Please stay strong." Thank you. I appreciate that. Yacra writes, "Many blessings, Candace (Candace Owens), from Anton Daniels and the Bag Chasers. Keep fighting the good fight." Snowy writes, "Integrity, ..."
 
 **[00:57:57](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-57-57)**
-> "Candace (Candace Owens) from the eyes of a 79-year-old.""
+> "...nowy writes, "Integrity, courage, intelligence, articulate—as beautiful inside as outside. Candace (Candace Owens) from the eyes of a 79-year-old." Thank you. I love meeting your generation because I do think that..."
 
 **[00:58:20](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-57-57)**
-> "... the CIA towards the Candace (Candace Owens) Intelligence Agency for all of her investigative..."
-
-**[00:58:20](/episodes/ep-a-e7HC6SeK8.md#ent-person-candace-owens-t-00-57-57)**
-> "...o go from the CIA towards the Candace (Candace Owens) Intelligence Agency for all of he..."
+> "...ere's that. And Amir writes, "I voted for my taxpayer funds to go from the CIA towards the Candace (Candace Owens) Intelligence Agency for all of her investigative work because at this point she is one of the rare..."
 
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (51 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (24 mentions)</summary>
 
 **[00:00:40](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-00-01)**
 > "...ntidote to Satan is always Christ. Truth will reign supreme in the end. So welcome back to Candace (Candace Owens). Get comfortable, you guys, because it is going to be a long week. I have so many explosive revela..."
@@ -591,6 +477,18 @@ _Type: People_
 **[00:21:17](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-21-14)**
 > "...that the French Legion did not take part in any exercise at Camp Riley because it doesn't exist and Candace Owens is stupid, and so now you should just assume that everything else the source said is debunked. This..."
 
+**[00:42:24](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-42-03)**
+> "Head to preborn.com/Candace to give today."
+
+**[00:42:28](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-42-03)**
+> "That's preborn.com/Candace."
+
+**[00:43:35](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-43-28)**
+> "...r kit by going to fatty15.com/Candace and using code Candace at checkout."
+
+**[00:43:44](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-43-28)**
+> "Again, that's fatty15.com/Candace and use promo code Candace at checkout."
+
 **[00:48:25](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-48-25)**
 > "...h? Other than Tucker, genuine question. I'm not trying to throw her under the bus. Who's Candace's (Candace Owens') friends? Who are her allies? Can we name a name? Anyone? Oh, she's got more than you would believ..."
 
@@ -599,6 +497,9 @@ _Type: People_
 
 **[00:51:25](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-50-56)**
 > "...s entire team under the bus in three seconds, and said, I just want to apologize with you, Candace (Candace Owens), because that's how politics work. They all stab each other in the back, and they all do it becaus..."
+
+**[00:55:24](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-55-11)**
+> "...ow that it was supposed to be Candace if the killer is Tyler Robinson?""
 
 **[00:56:30](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-55-54)**
 > "...e rest of our lives. Eric wrote, "Hey, man"—this was an email, by the way, to my PR— "Tell Candace (Candace Owens) I meant no harm to her. It was that Alex guy who kept at it. He tried to corner me and he found ou..."
@@ -612,106 +513,10 @@ _Type: People_
 **[00:58:44](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-58-43)**
 > "...nevieve writes, "Candace (Candace Owens), you are my personal hero. Go, Max." 6-7 writes, "Candace (Candace Owens) is based." Blessed Butterfly Girl writes, "Jeremiah 17:8. Don't be afraid to speak. And also 2 Cor..."
 
-**[00:00:40](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-00-01)**
-> "So welcome back to Candace (Candace Owens)."
-
-**[00:05:28](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-05-08)**
-> "...ter in America named Candace (Candace Owens) for defamation, for telling the truth, right?"
-
-**[00:05:28](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-05-08)**
-> "... a podcaster in America named Candace (Candace Owens) for defamation, for telling the t..."
-
-**[00:05:51](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-05-51)**
-> "... you are a woman and Candace (Candace Owens) is just crazy and desperate for clicks and willi..."
-
-**[00:05:51](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-05-51)**
-> "...ieve that you are a woman and Candace (Candace Owens) is just crazy and desperate for c..."
-
-**[00:05:58](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-05-51)**
-> "Then Candace (Candace Owens) publicly proclaiming and accusing you of somethi..."
-
-**[00:06:24](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-05-51)**
-> "...rove your case about Candace (Candace Owens) to the public, right?"
-
-**[00:06:24](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-05-51)**
-> "... man to prove your case about Candace (Candace Owens) to the public, right?"
-
-**[00:07:20](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-07-18)**
-> "I hope Candace (Candace Owens) gets well soon."
-
-**[00:08:46](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-08-40)**
-> "...licly challenged the Candace (Candace Owens) is making everything up crowd to prove it."
-
-**[00:08:46](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-08-40)**
-> "And I publicly challenged the Candace (Candace Owens) is making everything up crowd to ..."
-
-**[00:11:47](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-08-40)**
-> "...ogue: Safari Club Illuminates Candace Owens' Allegations.""
-
-**[00:12:18](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-12-02)**
-> "...h from it, but he said, "When Candace Owens claimed on X that a high-ranking French governmen..."
-
-**[00:20:07](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-19-45)**
-> "...d to the 25th, as reported by Candace Owens."
-
-**[00:20:56](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-20-29)**
-> "...umes about the credibility of Candace Owens' alleged source.""
-
-**[00:21:17](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-21-14)**
-> "... because it doesn't exist and Candace Owens is stupid, and so now you should just assume that..."
-
-**[00:42:24](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-42-03)**
-> "Head to preborn.com/Candace to give today."
-
-**[00:42:28](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-42-03)**
-> "That's preborn.com/Candace."
-
-**[00:43:35](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-43-28)**
-> "...r kit by going to fatty15.com/Candace and using code Candace at checkout."
-
-**[00:43:35](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-43-28)**
-> "...15.com/Candace and using code Candace at checkout."
-
-**[00:43:44](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-43-28)**
-> "Again, that's fatty15.com/Candace and use promo code Candace at checkout."
-
-**[00:43:44](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-43-28)**
-> "...om/Candace and use promo code Candace at checkout."
-
-**[00:48:25](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-48-25)**
-> "Who's Candace's (Candace Owens') friends?"
-
-**[00:48:34](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-48-25)**
-> "...are saying, I'm with Candace (Candace Owens)."
-
-**[00:48:34](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-48-25)**
-> "...vocates, are saying, I'm with Candace (Candace Owens)."
-
-**[00:51:25](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-50-56)**
-> "... apologize with you, Candace (Candace Owens), because that's how politics work."
-
-**[00:51:25](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-50-56)**
-> "...t want to apologize with you, Candace (Candace Owens), because that's how politics work..."
-
-**[00:55:24](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-55-11)**
-> "...ow that it was supposed to be Candace if the killer is Tyler Robinson?""
-
-**[00:56:30](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-55-54)**
-> ""Tell Candace (Candace Owens) I meant no harm to her."
-
-**[00:57:53](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-57-16)**
-> "Candace (Candace Owens) is our champion."
-
-**[00:58:40](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-57-59)**
-> "Genevieve writes, "Candace (Candace Owens), you are my personal hero."
-
-**[00:58:44](/episodes/ep-tB5SXXmd9vU.md#ent-person-candace-owens-t-00-58-43)**
-> "6-7 writes, "Candace (Candace Owens) is based.""
-
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (20 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (12 mentions)</summary>
 
 **[00:00:49](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-00-43)**
 > "...ser, and Charlie (Charlie Kirk) would indeed want us to keep going max. So welcome back to Candace (Candace Owens). Okay, so that interview that I did with Charlie (Charlie Kirk) back when my show was on PragerU's..."
@@ -719,32 +524,11 @@ _Type: People_
 **[00:04:43](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-04-21)**
 > "... of betrayal against Charlie (Charlie Kirk)? Not me, that's for sure. It's not going to be Candace (Candace Owens), okay? No one's going to be saying "Et tu, Candace? Et tu." I can tell you that right now in gover..."
 
-**[00:06:16](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-05-45)**
-> "...ay onto Provo. And here I'm going to read to you that email that I received. It says, "Hi, Candace (Candace Owens), I am [blank]. One of the good ones—military member, one of the good ones. I think one of the keys..."
-
-**[00:29:38](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-29-33)**
-> "...ley Reinsberg. And this is—I'm just going to read you the email. This is it. It says, "Hi, Candace (Candace Owens). I'm reporting a piece for The Free Press on the economics. Ooh, economics. I like economics. This..."
-
-**[00:37:12](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-36-45)**
-> "...rican Financing at 800-795-1210. Again, that's 800-795-1210. Or you can visit AmericanFinancing.net/Candace Owens. AmericanFinancing.net/Candace Owens. All right, you guys. Some housekeeping. If you would like to ..."
-
-**[00:37:17](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-36-45)**
-> "...n, that's 800-795-1210. Or you can visit AmericanFinancing.net/Candace Owens. AmericanFinancing.net/Candace Owens. All right, you guys. Some housekeeping. If you would like to support us, obviously go to CandaceOw..."
-
-**[00:38:00](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-37-26)**
-> "...e holidays. Top comments from yesterday. Number one: this person writes, "Brigitte thought Candace (Candace Owens) forgot all about him." Yeah, I mean, look. I did not want to see the French angle. We got tons of ..."
-
-**[00:00:49](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-00-43)**
-> "So welcome back to Candace (Candace Owens)."
-
-**[00:04:43](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-04-21)**
-> "It's not going to be Candace (Candace Owens), okay?"
-
 **[00:04:47](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-04-21)**
 > "...'s going to be saying "Et tu, Candace? Et tu.""
 
 **[00:06:16](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-05-45)**
-> "It says, "Hi, Candace (Candace Owens), I am [blank]."
+> "...ay onto Provo. And here I'm going to read to you that email that I received. It says, "Hi, Candace (Candace Owens), I am [blank]. One of the good ones—military member, one of the good ones. I think one of the keys..."
 
 **[00:23:39](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-23-20)**
 > "You can head to preborn.org/Candace right now."
@@ -759,24 +543,21 @@ _Type: People_
 > "That's tnusa.com/Candace."
 
 **[00:29:38](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-29-33)**
-> "It says, "Hi, Candace (Candace Owens)."
+> "...ley Reinsberg. And this is—I'm just going to read you the email. This is it. It says, "Hi, Candace (Candace Owens). I'm reporting a piece for The Free Press on the economics. Ooh, economics. I like economics. This..."
 
 **[00:37:12](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-36-45)**
-> "...n visit AmericanFinancing.net/Candace Owens."
+> "...rican Financing at 800-795-1210. Again, that's 800-795-1210. Or you can visit AmericanFinancing.net/Candace Owens. AmericanFinancing.net/Candace Owens. All right, you guys. Some housekeeping. If you would like to ..."
 
 **[00:37:17](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-36-45)**
-> "AmericanFinancing.net/Candace Owens."
+> "...n, that's 800-795-1210. Or you can visit AmericanFinancing.net/Candace Owens. AmericanFinancing.net/Candace Owens. All right, you guys. Some housekeeping. If you would like to support us, obviously go to CandaceOw..."
 
 **[00:38:00](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-37-26)**
-> "...s, "Brigitte thought Candace (Candace Owens) forgot all about him.""
-
-**[00:38:00](/episodes/ep-mKXdKV-OBog.md#ent-person-candace-owens-t-00-37-26)**
-> "...son writes, "Brigitte thought Candace (Candace Owens) forgot all about him.""
+> "...e holidays. Top comments from yesterday. Number one: this person writes, "Brigitte thought Candace (Candace Owens) forgot all about him." Yeah, I mean, look. I did not want to see the French angle. We got tons of ..."
 
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (12 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (10 mentions)</summary>
 
 **[00:01:15](/episodes/ep-sImMM04XdWY.md#ent-person-candace-owens-t-00-00-39)**
 > "Welcome back to Candace."
@@ -793,14 +574,8 @@ _Type: People_
 **[00:31:59](/episodes/ep-sImMM04XdWY.md#ent-person-candace-owens-t-00-31-59)**
 > "...ead to beekeepersnaturals.com/candace or enter code Candace, and you'll get 30% off sit..."
 
-**[00:31:59](/episodes/ep-sImMM04XdWY.md#ent-person-candace-owens-t-00-31-59)**
-> "...als.com/candace or enter code Candace, and you'll get 30% off site-wide."
-
 **[00:32:14](/episodes/ep-sImMM04XdWY.md#ent-person-candace-owens-t-00-31-59)**
 > "That's beekeepersnaturals.com/candace, and you can enter code Candace."
-
-**[00:32:14](/episodes/ep-sImMM04XdWY.md#ent-person-candace-owens-t-00-31-59)**
-> "...ndace, and you can enter code Candace."
 
 **[00:47:38](/episodes/ep-sImMM04XdWY.md#ent-person-candace-owens-t-00-47-10)**
 > "Carl writes: "Candace, thanks for what you are doing to expose all this..."
@@ -817,19 +592,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (19 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (14 mentions)</summary>
 
 **[00:00:47](/episodes/ep-SKGUzGHymcI.md#ent-person-candace-owens-t-00-00-44)**
 > "...)'s assassination, doing in Delaware? Actually, we should figure that out. Welcome back to Candace (Candace Owens). There are so many elements of this story that as time goes on are clicking into place. Things tha..."
-
-**[00:40:52](/episodes/ep-SKGUzGHymcI.md#ent-person-candace-owens-t-00-40-48)**
-> "...cron story, right? And like I said, the fact that they are caught and their move is we're gonna sue Candace Owens. That really tells you the nature of the psychopathology. Like, these people are not human. Do you ..."
-
-**[00:55:57](/episodes/ep-SKGUzGHymcI.md#ent-person-candace-owens-t-00-55-30)**
-> "...ing with you in truth. And Janellen writes from a Cuban who opened up her eyes. Thank you. Gracias, Candace Owens. Love that. Well, you guys, we will see you tomorrow. Don't forget that we have book club at 6 p.m...."
-
-**[00:00:47](/episodes/ep-SKGUzGHymcI.md#ent-person-candace-owens-t-00-00-44)**
-> "Welcome back to Candace (Candace Owens)."
 
 **[00:05:41](/episodes/ep-SKGUzGHymcI.md#ent-person-candace-owens-t-00-05-33)**
 > "It starts out with "Candace, I'm aware that you suspect the government and ot..."
@@ -843,20 +609,14 @@ _Type: People_
 **[00:26:54](/episodes/ep-SKGUzGHymcI.md#ent-person-candace-owens-t-00-26-31)**
 > "... today by visiting TWC.health/candace and use code CANDACE to save $45."
 
-**[00:26:54](/episodes/ep-SKGUzGHymcI.md#ent-person-candace-owens-t-00-26-31)**
-> "...C.health/candace and use code CANDACE to save $45."
-
 **[00:27:02](/episodes/ep-SKGUzGHymcI.md#ent-person-candace-owens-t-00-26-31)**
 > "Again, that's TWC.health/candace and use code CANDACE to save $45."
-
-**[00:27:02](/episodes/ep-SKGUzGHymcI.md#ent-person-candace-owens-t-00-26-31)**
-> "...C.health/candace and use code CANDACE to save $45."
 
 **[00:39:11](/episodes/ep-SKGUzGHymcI.md#ent-person-candace-owens-t-00-39-11)**
 > "Dude, Candace (Candace Owens) is the best."
 
 **[00:40:52](/episodes/ep-SKGUzGHymcI.md#ent-person-candace-owens-t-00-40-48)**
-> "...their move is we're gonna sue Candace Owens."
+> "...cron story, right? And like I said, the fact that they are caught and their move is we're gonna sue Candace Owens. That really tells you the nature of the psychopathology. Like, these people are not human. Do you ..."
 
 **[00:50:30](/episodes/ep-SKGUzGHymcI.md#ent-person-candace-owens-t-00-50-25)**
 > "Go Max, Candace."
@@ -874,12 +634,15 @@ _Type: People_
 > "Zamet writes, Candace, go Max."
 
 **[00:55:57](/episodes/ep-SKGUzGHymcI.md#ent-person-candace-owens-t-00-55-30)**
-> "Gracias, Candace Owens."
+> "...ing with you in truth. And Janellen writes from a Cuban who opened up her eyes. Thank you. Gracias, Candace Owens. Love that. Well, you guys, we will see you tomorrow. Don't forget that we have book club at 6 p.m...."
 
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (28 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (14 mentions)</summary>
+
+**[00:00:54](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-00-44)**
+> "Welcome back to Candace."
 
 **[00:02:05](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-01-26)**
 > "... that you think they would be. You would think that they would be, "Oh my gosh, thank you, Candace (Candace Owens). We love Charlie (Charlie Kirk) so much." "We're very concerned to learn that these Egyptian milit..."
@@ -887,11 +650,26 @@ _Type: People_
 **[00:03:09](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-02-51)**
 > "...exler—now this is the girl that was at the now infamous Hamptons retreat— She wrote this: "Candace (Candace Owens) started her career by doxing teenagers." "Old habits die hard." That is just so weird. I just thou..."
 
+**[00:22:26](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-22-06)**
+> "...ife by heading to preborn.org/Candace right now."
+
+**[00:22:44](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-22-06)**
+> "Again, that is preborn.org/Candace."
+
 **[00:38:46](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-38-23)**
 > "... than to take questions from the audience about—you guessed it—Tucker (Tucker Carlson) and Candace (Candace Owens). Take it away, Israel. (Israel Event Clip - Audience Question) We see people like Tucker (Tucker C..."
 
 **[00:38:58](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-38-58)**
 > "...ael Event Clip - Audience Question) We see people like Tucker (Tucker Carlson) Carlson and Candace (Candace Owens) Owens, and these people are essentially trying to hijack the Christian message and spread an anti-..."
+
+**[00:39:07](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-38-58)**
+> "...eople like Tucker Carlson and Candace Owens, and these people are essentially trying to hijac..."
+
+**[00:44:24](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-44-24)**
+> "...ave 20% if you use promo code Candace."
+
+**[00:44:38](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-44-24)**
+> "...ealth.com, and use promo code Candace."
 
 **[00:47:59](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-47-56)**
 > "...om yesterday's episode is from Abby Sloan. She writes, "I don't think they realize that if Candace (Candace Owens) had an audience of one, she would still be doing this investigation." Amen. Yes, I would still be ..."
@@ -905,70 +683,10 @@ _Type: People_
 **[00:53:13](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-52-52)**
 > "...been doing this entire year, the last two years— authentically. Magnetic writes, "Wild how Candace (Candace Owens) stays 10 steps ahead while everyone else is still reacting to yesterday's news." And I can't win w..."
 
-**[00:00:54](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-00-44)**
-> "Welcome back to Candace."
-
-**[00:02:05](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-01-26)**
-> "... my gosh, thank you, Candace (Candace Owens). We love Charlie (Charlie Kirk) so much.""
-
-**[00:02:05](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-01-26)**
-> "...d be, "Oh my gosh, thank you, Candace (Candace Owens). We love Charlie (Charlie Kirk) s..."
-
-**[00:03:09](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-02-51)**
-> "She wrote this: "Candace (Candace Owens) started her career by doxing teenagers.""
-
-**[00:22:26](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-22-06)**
-> "...ife by heading to preborn.org/Candace right now."
-
-**[00:22:44](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-22-06)**
-> "Again, that is preborn.org/Candace."
-
-**[00:38:46](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-38-23)**
-> "...(Tucker Carlson) and Candace (Candace Owens)."
-
-**[00:38:46](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-38-23)**
-> "...t—Tucker (Tucker Carlson) and Candace (Candace Owens)."
-
-**[00:38:58](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-38-58)**
-> "...Carlson) Carlson and Candace (Candace Owens) Owens, and these people are essentially trying t..."
-
-**[00:38:58](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-38-58)**
-> "... (Tucker Carlson) Carlson and Candace (Candace Owens) Owens, and these people are essen..."
-
-**[00:39:07](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-38-58)**
-> "...eople like Tucker Carlson and Candace Owens, and these people are essentially trying to hijac..."
-
-**[00:44:24](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-44-24)**
-> "...ave 20% if you use promo code Candace."
-
-**[00:44:38](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-44-24)**
-> "...ealth.com, and use promo code Candace."
-
-**[00:47:59](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-47-56)**
-> "...they realize that if Candace (Candace Owens) had an audience of one, she would still be doing..."
-
-**[00:47:59](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-47-56)**
-> "...'t think they realize that if Candace (Candace Owens) had an audience of one, she would..."
-
-**[00:49:33](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-49-21)**
-> ""Thank you, Candace (Candace Owens).""
-
-**[00:51:09](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-50-42)**
-> "...would play dumb when Candace (Candace Owens) mentioned this flight being on the ground."
-
-**[00:51:09](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-50-42)**
-> "...everyone would play dumb when Candace (Candace Owens) mentioned this flight being on th..."
-
-**[00:53:13](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-52-52)**
-> "...ic writes, "Wild how Candace (Candace Owens) stays 10 steps ahead while everyone else is stil..."
-
-**[00:53:13](/episodes/ep-581dILVcEE4.md#ent-person-candace-owens-t-00-52-52)**
-> "...y. Magnetic writes, "Wild how Candace (Candace Owens) stays 10 steps ahead while everyo..."
-
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (32 mentions)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (15 mentions)</summary>
 
 **[00:01:18](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-00-41)**
 > "...ets would assume that she meant Erika Kirk. Either Erika Kirk is evil and was in on it, or Candace (Candace Owens) is an evil c—. I think that what Candace (Candace Owens) is doing right now is evil. It is evil, w..."
@@ -988,6 +706,18 @@ _Type: People_
 **[00:23:02](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-22-44)**
 > "...e I'm gonna count this as a lie by severe omission by keeping your mouth shut and allowing Candace (Candace Owens) to take all the figurative bullets as she points out the oddity of a plane that you guys recognize..."
 
+**[00:30:24](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-30-21)**
+> "Go to preborn.org/Candace right now."
+
+**[00:30:36](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-30-21)**
+> "Again, that is preborn.org/Candace to provide an ultrasound for just $28."
+
+**[00:31:45](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-31-45)**
+> "...tion by going to dosedaily.co/Candace or entering "Candace" at checkout."
+
+**[00:31:55](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-31-45)**
+> "That's dosedaily.co/Candace for 35% off your first month subscription."
+
 **[00:50:00](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-49-32)**
 > "... somewhere. Okay, what else do we have? We have a comment from the Paleo Rider, right? Hi, Candace (Candace Owens). I know you are on the right track. I've been watching daily, and I was active on X. Well, until I..."
 
@@ -1003,85 +733,40 @@ _Type: People_
 **[00:55:29](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-55-13)**
 > "...st been this transparent with Americans, the youth of the nation. This is the way forward. Candace (Candace Owens) journalism is the new standard. We are pioneering something, and we definitely are. It's never bee..."
 
-**[00:01:18](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-00-41)**
-> "or Candace (Candace Owens) is an evil c—. I think that what Candace (Candac..."
-
-**[00:01:18](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-00-41)**
-> "...—. I think that what Candace (Candace Owens) is doing right now is evil."
-
-**[00:01:18](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-00-41)**
-> "...an evil c—. I think that what Candace (Candace Owens) is doing right now is evil."
-
-**[00:01:45](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-01-24)**
-> "But Candace (Candace Owens) is well within her rights to suggest certain thi..."
-
-**[00:02:06](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-02-06)**
-> "Welcome back to Candace (Candace Owens)."
-
-**[00:09:41](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-09-18)**
-> "...who has now been put—Candace (Candace Owens) with that language, with this accusation—has put..."
-
-**[00:09:41](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-09-18)**
-> "...ka Kirk, who has now been put—Candace (Candace Owens) with that language, with this acc..."
-
-**[00:10:14](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-10-00)**
-> "...and was in on it, or Candace (Candace Owens) is an evil..."
-
-**[00:10:14](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-10-00)**
-> "... is evil and was in on it, or Candace (Candace Owens) is an evil..."
-
-**[00:23:02](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-22-44)**
-> "...th shut and allowing Candace (Candace Owens) to take all the figurative bullets as she points..."
-
-**[00:23:02](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-22-44)**
-> "... your mouth shut and allowing Candace (Candace Owens) to take all the figurative bullet..."
-
-**[00:30:24](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-30-21)**
-> "Go to preborn.org/Candace right now."
-
-**[00:30:36](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-30-21)**
-> "Again, that is preborn.org/Candace to provide an ultrasound for just $28."
-
-**[00:31:45](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-31-45)**
-> "...tion by going to dosedaily.co/Candace or entering "Candace" at checkout."
-
-**[00:31:45](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-31-45)**
-> "...daily.co/Candace or entering "Candace" at checkout."
-
-**[00:31:55](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-31-45)**
-> "That's dosedaily.co/Candace for 35% off your first month subscription."
-
-**[00:50:00](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-49-32)**
-> "Hi, Candace (Candace Owens)."
-
-**[00:51:12](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-50-57)**
-> "Natalie writes: Candace (Candace Owens), my heart is beating so fast."
-
-**[00:54:38](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-54-31)**
-> "We love you, Candace (Candace Owens)."
-
-**[00:54:46](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-54-31)**
-> "Emma White writes: Candace (Candace Owens), I run ops for a nonprofit."
-
-**[00:55:29](/episodes/ep-JQjCAsfoXEE.md#ent-person-candace-owens-t-00-55-13)**
-> "Candace (Candace Owens) journalism is the new standard."
-
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (32 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (17 mentions)</summary>
+
+**[00:01:02](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-00-44)**
+> "...nd gentlemen, welcome back to Candace."
 
 **[00:04:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-03-30)**
 > "...eve it. Bibi (Benjamin Netanyahu) can blow up thousands and tens of thousands of kids, but Candace (Candace Owens) investigating the Charlie (Charlie Kirk) Kirk assassination is crazy. It's unbiblical. It only fur..."
 
+**[00:09:29](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-08-56)**
+> "...candal messaged me and said, "Candace, no, you have it completely wrong because you're ..."
+
 **[00:24:28](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-23-52)**
 > "...hey lied to us about the pedophilia. I did a whole episode on that. You should look it up. Candace (Candace Owens), Michael Jackson. It's a shocking true story of what they did and how we all believed it. And then..."
+
+**[00:33:52](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-33-25)**
+> "...dranch.com and use promo code Candace at checkout, you will get $20 off your first orde..."
+
+**[00:34:00](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-33-25)**
+> "...dranch.com and use promo code Candace at checkout."
 
 **[00:37:29](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-36-56)**
 > "...what you would want to do and what allies you want to have when bullets are flying. Take a listen. (Candace Owens and Charlie Kirk clip) People have to understand that—that we live in a different world now. But do..."
 
 **[00:38:05](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-38-05)**
 > "...thing is— giving up should never be an option. And also surround yourself with people like Candace (Candace Owens) that—whatever you're doing—that can relate and that when you say something that they're gonna tell..."
+
+**[00:49:54](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-49-28)**
+> "...you can visit tnusa.com slash Candace."
+
+**[00:50:05](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-49-28)**
+> "That's tnusa.com slash Candace."
 
 **[00:52:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-51-38)**
 > "...where they will just be totally mum on the death of Palestinians. It'll be like, "How dare Candace (Candace Owens) even ask another question and not accept the narrative?" "The feds have always been honest with us..."
@@ -1104,73 +789,10 @@ _Type: People_
 **[00:57:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-57-22)**
 > "...of the future of America—down with the two-party system. I agree fully. Drew Cass writes, "Candace (Candace Owens), I feel like the Zionists are trying to distract you by making you debunk their lies." "We, as the..."
 
-**[00:01:02](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-00-44)**
-> "...nd gentlemen, welcome back to Candace."
-
-**[00:04:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-03-30)**
-> "...ousands of kids, but Candace (Candace Owens) investigating the Charlie (Charlie Kirk) Kirk as..."
-
-**[00:04:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-03-30)**
-> "...ens of thousands of kids, but Candace (Candace Owens) investigating the Charlie (Charli..."
-
-**[00:09:29](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-08-56)**
-> "...candal messaged me and said, "Candace, no, you have it completely wrong because you're ..."
-
-**[00:24:28](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-23-52)**
-> "Candace (Candace Owens), Michael Jackson."
-
-**[00:33:52](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-33-25)**
-> "...dranch.com and use promo code Candace at checkout, you will get $20 off your first orde..."
-
-**[00:34:00](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-33-25)**
-> "...dranch.com and use promo code Candace at checkout."
-
-**[00:37:29](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-36-56)**
-> "Take a listen. (Candace Owens and Charlie Kirk clip)"
-
-**[00:38:05](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-38-05)**
-> "...elf with people like Candace (Candace Owens) that—whatever you're doing—that can relate and t..."
-
-**[00:38:05](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-38-05)**
-> "...und yourself with people like Candace (Candace Owens) that—whatever you're doing—that c..."
-
-**[00:49:54](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-49-28)**
-> "...you can visit tnusa.com slash Candace."
-
-**[00:50:05](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-49-28)**
-> "That's tnusa.com slash Candace."
-
-**[00:52:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-51-38)**
-> "...l be like, "How dare Candace (Candace Owens) even ask another question and not accept the nar..."
-
-**[00:52:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-51-38)**
-> "It'll be like, "How dare Candace (Candace Owens) even ask another question and not..."
-
-**[00:53:05](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-53-05)**
-> "Ginny writes, "Hi Candace (Candace Owens), fellow Latin Mass Catholic here.""
-
-**[00:53:32](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-53-05)**
-> ""Thank you, Candace (Candace Owens), for never giving up on the truth.""
-
-**[00:53:43](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-53-05)**
-> "...ountability writes, "Candace (Candace Owens).""
-
-**[00:53:43](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-53-05)**
-> "Truth Accountability writes, "Candace (Candace Owens).""
-
-**[00:57:22](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-57-22)**
-> "She attacks Candace (Candace Owens)."
-
-**[00:57:46](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-57-22)**
-> ""Candace (Candace Owens), keep fighting for the truth and be safe.""
-
-**[00:57:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-candace-owens-t-00-57-22)**
-> "Drew Cass writes, "Candace (Candace Owens), I feel like the Zionists are trying to distract..."
-
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (71 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (32 mentions)</summary>
 
 **[00:01:02](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-00-37)**
 > "... Charlie (Charlie Kirk)'s real allies are and who his real allies were. So welcome back to Candace (Candace Owens). Who were Charlie (Charlie Kirk)'s real friends? That's what I wanna know. I just wanna know who w..."
@@ -1189,6 +811,21 @@ _Type: People_
 
 **[00:04:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-04-24)**
 > "...don't have these dreams." The idea here is this must just all be crazy rantings every day. Candace (Candace Owens) is up on this show like Ms. Cleo from the '90s and just predicting what she thinks happened. It's ..."
+
+**[00:34:55](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-34-16)**
+> "Go to preborn.org/candace right now."
+
+**[00:35:09](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-34-59)**
+> "Again, that is preborn.org/candace to provide an ultrasound for just $28."
+
+**[00:36:14](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-35-40)**
+> "... you right now at pdsdebt.com/candace."
+
+**[00:36:20](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-35-40)**
+> "Again, that's pdsdebt.com/candace."
+
+**[00:36:23](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-35-40)**
+> "pdsdebt.com/candace."
 
 **[00:36:29](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-36-27)**
 > "...ity (he's being tried for crimes against humanity)—all somehow have the energy to come for Candace (Candace Owens), right? To come for Candace (Candace Owens) and to try to paint her as a crazy person because she ..."
@@ -1220,6 +857,12 @@ _Type: People_
 **[00:44:30](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-43-52)**
 > "...involved in this case, do it. If you don't, step aside. You are not required to respond to Candace (Candace Owens)' content. That's actually not a requirement. You can keep doing your content telling people that w..."
 
+**[00:52:04](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-51-29)**
+> "...ly for my listeners, use code CANDACE, and you'll get an extra 10% off your first order..."
+
+**[00:52:15](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-52-09)**
+> "Use code Candace at 7weekscoffee.com."
+
 **[00:53:29](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-53-29)**
 > "...eems interesting for sure. It's a good question. Lobo Gray writes: "Just want you to know, Candace (Candace Owens), that I'm 74 and I survived about a thousand hours of combat missions as a scout helicopter door g..."
 
@@ -1247,151 +890,16 @@ _Type: People_
 **[01:00:23](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-01-00-02)**
 > "...propriate. Also, it's anti-Semitic. I read it on the internet. Silicon Valley writes: "Hi, Candace (Candace Owens). Thank you for your great reporting." "Better than the FBI. Your research inspired parts of my new..."
 
-**[00:01:02](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-00-37)**
-> "So welcome back to Candace (Candace Owens)."
-
-**[00:02:06](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-02-06)**
-> "I have not followed Candace (Candace Owens) closely."
-
-**[00:02:21](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-02-06)**
-> "He mentioned Candace (Candace Owens)."
-
-**[00:02:33](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-02-06)**
-> "...d anything bad about Candace (Candace Owens) or anything, but I just find"
-
-**[00:02:33](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-02-06)**
-> "...never said anything bad about Candace (Candace Owens) or anything, but I just find"
-
-**[00:04:20](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-03-41)**
-> "...that on one episode, Candace (Candace Owens) said that she had a dream, right?"
-
-**[00:04:20](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-03-41)**
-> "... know is that on one episode, Candace (Candace Owens) said that she had a dream, right?"
-
-**[00:04:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-04-24)**
-> "Candace (Candace Owens) is up on this show like Ms. Cleo from the '90s a..."
-
-**[00:34:55](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-34-16)**
-> "Go to preborn.org/candace right now."
-
-**[00:35:09](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-34-59)**
-> "Again, that is preborn.org/candace to provide an ultrasound for just $28."
-
-**[00:36:14](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-35-40)**
-> "... you right now at pdsdebt.com/candace."
-
-**[00:36:20](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-35-40)**
-> "Again, that's pdsdebt.com/candace."
-
-**[00:36:23](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-35-40)**
-> "pdsdebt.com/candace."
-
-**[00:36:29](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-36-27)**
-> "...e energy to come for Candace (Candace Owens), right?"
-
-**[00:36:29](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-36-27)**
-> "...w have the energy to come for Candace (Candace Owens), right?"
-
-**[00:36:44](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-36-27)**
-> "To come for Candace (Candace Owens) and to try to paint her as a crazy person becaus..."
-
-**[00:39:26](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-39-16)**
-> ""Candace (Candace Owens), you're better than Kanye.""
-
-**[00:39:37](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-39-16)**
-> "...rlie (Charlie Kirk), Candace (Candace Owens) is heading into a direction that's only going to..."
-
-**[00:39:37](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-39-16)**
-> ""Charlie (Charlie Kirk), Candace (Candace Owens) is heading into a direction that'..."
-
-**[00:40:32](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-40-32)**
-> "Your good friend Candace (Candace Owens) has been putting out some pretty wacko stuff. I ..."
-
-**[00:41:16](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-41-12)**
-> "...am I going to attack Candace (Candace Owens) because you think I'm not going to do that, Harr..."
-
-**[00:41:16](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-41-12)**
-> "So am I going to attack Candace (Candace Owens) because you think I'm not going t..."
-
-**[00:41:46](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-41-12)**
-> "...ay broadly—not about Candace (Candace Owens), whom I love—but about all people,"
-
-**[00:41:46](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-41-12)**
-> "...I would say broadly—not about Candace (Candace Owens), whom I love—but about all people..."
-
-**[00:43:21](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-43-17)**
-> "... instead calling out Candace (Candace Owens) and waiting for her to make a mistake so they ca..."
-
-**[00:43:21](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-43-17)**
-> "...stions is instead calling out Candace (Candace Owens) and waiting for her to make a mis..."
-
-**[00:44:20](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-43-52)**
-> "...on't get dreams like Candace (Candace Owens).""
-
-**[00:44:20](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-43-52)**
-> ""I don't get dreams like Candace (Candace Owens).""
-
-**[00:44:30](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-43-52)**
-> "...quired to respond to Candace (Candace Owens)' content."
-
-**[00:44:30](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-43-52)**
-> "...re not required to respond to Candace (Candace Owens)' content."
-
-**[00:52:04](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-51-29)**
-> "...ly for my listeners, use code CANDACE, and you'll get an extra 10% off your first order..."
-
-**[00:52:15](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-52-09)**
-> "Use code Candace at 7weekscoffee.com."
-
-**[00:53:29](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-53-29)**
-> "...st want you to know, Candace (Candace Owens), that I'm 74 and I survived about a thousand hou..."
-
-**[00:53:29](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-53-29)**
-> "...ites: "Just want you to know, Candace (Candace Owens), that I'm 74 and I survived about..."
-
-**[00:54:27](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-54-14)**
-> ""Candace (Candace Owens) speaks with clarity and courage, reminding women..."
-
-**[00:54:35](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-54-14)**
-> ""Thank you, Candace (Candace Owens).""
-
-**[00:55:31](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-54-59)**
-> ""Keep writing, Candace (Candace Owens).""
-
-**[00:57:52](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-57-52)**
-> "...ations writes: "Love Candace (Candace Owens)'s videos. Keep up the great work.""
-
-**[00:57:52](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-57-52)**
-> "...wan Revelations writes: "Love Candace (Candace Owens)'s videos. Keep up the great work...."
-
-**[00:58:55](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-58-36)**
-> "...stor is bad-mouthing Candace (Candace Owens).""
-
-**[00:58:55](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-58-36)**
-> "...d your pastor is bad-mouthing Candace (Candace Owens).""
-
-**[00:59:01](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-58-36)**
-> ""We love you, Candace (Candace Owens).""
-
-**[00:59:18](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-59-18)**
-> "... shouldn't listen to Candace (Candace Owens) talk across."
-
-**[00:59:18](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-00-59-18)**
-> "...t how you shouldn't listen to Candace (Candace Owens) talk across."
-
-**[01:00:23](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-01-00-02)**
-> "... Valley writes: "Hi, Candace (Candace Owens). Thank you for your great reporting.""
-
-**[01:00:23](/episodes/ep-yAIb-NuUh_U.md#ent-person-candace-owens-t-01-00-02)**
-> "Silicon Valley writes: "Hi, Candace (Candace Owens). Thank you for your great reporti..."
-
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (46 mentions)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (20 mentions)</summary>
 
 **[00:00:17](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-00-00)**
 > "...e world that he was actually besties with Ben Shapiro and Josh Hammer. He didn't even know Candace (Candace Owens). His last words before he died were, "Honor the Sabbath and buy Josh Hammer's book." Yeah. And als..."
+
+**[00:01:35](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-01-15)**
+> "So welcome back to Candace."
 
 **[00:02:58](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-02-33)**
 > "...possibility—that Ben really thought maybe he saw something on Twitter. And somebody said, "Candace (Candace Owens) just said that Erika Kirk murdered Charlie (Charlie Kirk)," and then he gets on stage and he repea..."
@@ -1417,8 +925,23 @@ _Type: People_
 **[00:14:28](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-14-28)**
 > "...et in the immediate aftermath of Charlie (Charlie Kirk)'s death, she said, "It's wild that Candace (Candace Owens) is the only right-wing ring figure that I've seen posting in a way where she seems genuinely devas..."
 
+**[00:27:29](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-27-23)**
+> "...dRanch.com and use promo code Candace at checkout, you'll get $20 off your first order."
+
+**[00:27:37](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-27-23)**
+> "...dRanch.com and use promo code Candace at checkout."
+
+**[00:28:30](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-28-07)**
+> "...irst order at paleovalley.com/candace."
+
+**[00:28:35](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-28-07)**
+> "If you use promo code Candace at checkout—again, that's paleovalley.com/candace..."
+
 **[00:45:16](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-45-05)**
 > "... the source of all the corruption, wars, and even much of the division in our own country. Candace (Candace Owens) is absolutely doing the Lord's work, and I'm not even very religious." I could not agree more with..."
+
+**[00:46:37](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-46-31)**
+> "...e—"We need Go Max merch. Team Candace for life.""
 
 **[00:48:22](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-47-54)**
 > "...ow they're not getting it, which is problematic. Brittany Watson—I'm sorry—Kamaya writes, "Candace (Candace Owens) is homeschooling the internet and homeschooling my children in the morning, which has been an abso..."
@@ -1432,112 +955,22 @@ _Type: People_
 **[00:52:04](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-51-26)**
 > "...s of everything—always. Don't question it. Trust the science. Ashley Blair writes: "Hello, Candace (Candace Owens). I'm Bailey, and I've been a fan of your show since you were on the Daily Wire. Foreign Muslim imm..."
 
-**[00:00:17](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-00-00)**
-> "He didn't even know Candace (Candace Owens)."
-
-**[00:01:35](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-01-15)**
-> "So welcome back to Candace."
-
-**[00:02:58](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-02-33)**
-> "And somebody said, "Candace (Candace Owens) just said"
-
-**[00:03:31](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-03-18)**
-> "...g to stand with evil Candace (Candace Owens), who was accusing Erika Kirk of murdering her ow..."
-
-**[00:03:31](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-03-18)**
-> "... are going to stand with evil Candace (Candace Owens), who was accusing Erika Kirk of m..."
-
-**[00:04:37](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-04-35)**
-> "...de some claims about Candace (Candace Owens) saying that she had said certain things online. ..."
-
-**[00:04:37](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-04-35)**
-> "...he had made some claims about Candace (Candace Owens) saying that she had said certain ..."
-
-**[00:05:02](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-05-02)**
-> "...ah, no. He said that Candace (Candace Owens) has been claiming Erika Kirk was behind the murd..."
-
-**[00:05:02](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-05-02)**
-> "Yeah, no. He said that Candace (Candace Owens) has been claiming Erika Kirk was ..."
-
-**[00:05:16](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-05-02)**
-> "Candace (Candace Owens) has not made that claim."
-
-**[00:05:19](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-05-02)**
-> "...een several clips of Candace (Candace Owens) specifically defending Erika Kirk and saying she..."
-
-**[00:05:19](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-05-02)**
-> "...'ve now seen several clips of Candace (Candace Owens) specifically defending Erika Kirk..."
-
-**[00:07:23](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-07-09)**
-> "...y want to talk about Candace (Candace Owens)."
-
-**[00:07:23](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-07-09)**
-> "...n't really want to talk about Candace (Candace Owens)."
-
-**[00:14:28](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-14-28)**
-> "...aid, "It's wild that Candace (Candace Owens) is the only right-wing ring figure that I've see..."
-
-**[00:14:28](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-14-28)**
-> "...th, she said, "It's wild that Candace (Candace Owens) is the only right-wing ring figur..."
-
-**[00:27:29](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-27-23)**
-> "...dRanch.com and use promo code Candace at checkout, you'll get $20 off your first order."
-
-**[00:27:37](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-27-23)**
-> "...dRanch.com and use promo code Candace at checkout."
-
-**[00:28:30](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-28-07)**
-> "...irst order at paleovalley.com/candace."
-
-**[00:28:35](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-28-07)**
-> "If you use promo code Candace at checkout—again, that's paleovalley.com/candace..."
-
-**[00:28:35](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-28-07)**
-> "...again, that's paleovalley.com/candace, promo code Candace at checkout."
-
-**[00:28:35](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-28-07)**
-> "...alley.com/candace, promo code Candace at checkout."
-
-**[00:45:16](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-45-05)**
-> "Candace (Candace Owens) is absolutely doing the Lord's work, and I'm not..."
-
-**[00:46:37](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-46-31)**
-> "...e—"We need Go Max merch. Team Candace for life.""
-
-**[00:48:22](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-47-54)**
-> "...orry—Kamaya writes, "Candace (Candace Owens) is homeschooling the internet and homeschooling ..."
-
-**[00:48:22](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-47-54)**
-> "...son—I'm sorry—Kamaya writes, "Candace (Candace Owens) is homeschooling the internet and..."
-
-**[00:50:17](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-50-06)**
-> "...o Ackla: "Thank you, Candace (Candace Owens), so much."
-
-**[00:50:17](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-50-06)**
-> "...from Stilo Ackla: "Thank you, Candace (Candace Owens), so much."
-
-**[00:50:32](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-50-06)**
-> "... am so proud of you, Candace (Candace Owens) and Ian."
-
-**[00:50:32](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-50-06)**
-> "I am so proud of you, Candace (Candace Owens) and Ian."
-
-**[00:52:04](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-51-26)**
-> "...lair writes: "Hello, Candace (Candace Owens). I'm Bailey, and I've been a fan of your show si..."
-
-**[00:52:04](/episodes/ep-MUA9ebCF4Ow.md#ent-person-candace-owens-t-00-51-26)**
-> "Ashley Blair writes: "Hello, Candace (Candace Owens). I'm Bailey, and I've been a fan ..."
-
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (36 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (17 mentions)</summary>
 
 **[00:00:41](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-00-41)**
 > "...'t keep up with the lies about me, and so then he started the robot on top of a trend that Candace (Candace Owens) Owens has accused Marcus Hale of murdering Charlie (Charlie Kirk) Kirk this past October. I don't ..."
 
 **[00:01:29](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-01-21)**
 > "...person who is connected to Charlie (Charlie Kirk) Kirk and January 6th. So welcome back to Candace (Candace Owens). Okay, so something that I want to say right at the top here before we get further into the Charli..."
+
+**[00:25:47](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-25-29)**
+> "Go to preborn.org/Candace right now and give $28."
+
+**[00:26:01](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-25-29)**
+> "Again, that is preborn.org/Candace."
 
 **[00:29:06](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-29-00)**
 > "...Berry, who also is at the Babylon Bee—he's a real funny guy—wrote this. "In the last year, Candace (Candace Owens) and Tucker (Tucker Carlson) have given our side nothing but demoralization, division, confusion, a..."
@@ -1557,6 +990,12 @@ _Type: People_
 **[00:45:57](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-45-34)**
 > "...to figure out what's happening because—like a lot of us—they used to put a lot of trust in Candace (Candace Owens) Owens and some of these other influential figures, and they're like, "What is happening?" "What ha..."
 
+**[00:50:58](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-50-31)**
+> "...ave 20% if you use promo code Candace."
+
+**[00:51:13](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-51-13)**
+> "...Health.com and use promo code Candace."
+
 **[00:52:17](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-51-56)**
 > "...from Friday's episode. Think Before You Type wrote, "Ben Shapiro (Ben Shapiro) was all for Candace (Candace Owens) Owens keeping it real with the black community until she started keeping it real with Israel." And..."
 
@@ -1572,79 +1011,13 @@ _Type: People_
 **[00:58:20](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-57-38)**
 > "...nd I can't read that—something, something—and then he signs it himself. He signs it "xoxo, Candace (Candace Owens)." I love this idea of men fake-signing my book to try to get their wives to do stuff. So I had to ..."
 
-**[00:00:41](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-00-41)**
-> "... top of a trend that Candace (Candace Owens) has accused Marcus Hale of murdering Charlie (Ch..."
-
-**[00:00:41](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-00-41)**
-> "... robot on top of a trend that Candace (Candace Owens) has accused Marcus Hale of murder..."
-
-**[00:01:29](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-01-21)**
-> "So welcome back to Candace."
-
-**[00:25:47](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-25-29)**
-> "Go to preborn.org/Candace right now and give $28."
-
-**[00:26:01](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-25-29)**
-> "Again, that is preborn.org/Candace."
-
-**[00:29:06](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-29-00)**
-> ""In the last year, Candace (Candace Owens) and Tucker (Tucker Carlson) have given our side ..."
-
-**[00:30:37](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-30-20)**
-> ""Candace (Candace Owens) recently posted what she claims are more text me..."
-
-**[00:37:15](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-36-54)**
-> ""Candace (Candace Owens) accuses Turning Point USA of Charlie (Charlie Ki..."
-
-**[00:37:20](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-36-54)**
-> "And then it says, "Candace (Candace Owens) alleged Turning Point USA orchestrated the Octob..."
-
-**[00:44:03](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-43-42)**
-> "...f you don't unfollow Candace (Candace Owens), you won't go to heaven."
-
-**[00:44:03](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-43-42)**
-> "...le that if you don't unfollow Candace (Candace Owens), you won't go to heaven."
-
-**[00:45:57](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-45-34)**
-> "...ut a lot of trust in Candace (Candace Owens) and some of these other influential figures, and..."
-
-**[00:45:57](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-45-34)**
-> "...used to put a lot of trust in Candace (Candace Owens) and some of these other influenti..."
-
-**[00:50:58](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-50-31)**
-> "...ave 20% if you use promo code Candace."
-
-**[00:51:13](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-51-13)**
-> "...Health.com and use promo code Candace."
-
-**[00:52:17](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-51-56)**
-> "...Shapiro) was all for Candace (Candace Owens) keeping it real with the black community until s..."
-
-**[00:52:17](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-51-56)**
-> "...iro (Ben Shapiro) was all for Candace (Candace Owens) keeping it real with the black co..."
-
-**[00:53:13](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-52-41)**
-> "...rites, "We love you, Candace (Candace Owens).""
-
-**[00:53:13](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-52-41)**
-> "...ole Guy writes, "We love you, Candace (Candace Owens).""
-
-**[00:53:46](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-53-21)**
-> "Zamet writes, "Candace (Candace Owens), number one worldwide secret sauce.""
-
-**[00:54:58](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-54-47)**
-> "...rites, "We love you, Candace (Candace Owens).""
-
-**[00:54:58](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-54-47)**
-> "...ey Shaw writes, "We love you, Candace (Candace Owens).""
-
-**[00:58:20](/episodes/ep-YaZfwLQ7vrI.md#ent-person-candace-owens-t-00-57-38)**
-> "He signs it "xoxo, Candace (Candace Owens).""
-
 </details>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (58 mentions)</summary>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (26 mentions)</summary>
+
+**[00:00:54](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-00-44)**
+> "...y Friday, and welcome back to Candace."
 
 **[00:03:02](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-02-49)**
 > "...s like, I'm gonna peer pressure Megyn Kelly myself. I'm gonna make her disavow me, make her disavow Candace Owens (the host), I'm gonna make her disavow Tucker (Tucker Carlson) by putting her on the spot and askin..."
@@ -1682,6 +1055,12 @@ _Type: People_
 **[00:26:15](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-25-57)**
 > "...s I was headed in here, I got a frantic call from somebody. They called me and they said, "Candace (Candace Owens, the host), something very weird is happening. The Daily Wire has sent somebody secretly to record ..."
 
+**[00:30:34](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-30-12)**
+> "...dranch.com and use promo code Candace at checkout, you'll get $20 off your first order."
+
+**[00:30:45](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-30-12)**
+> "...dranch.com and use promo code Candace at checkout."
+
 **[00:31:31](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-30-56)**
 > "... intentional, balanced investing is what I preach in my own life. Now, if you're thinking, Candace (Candace Owens, the host), I'm worried about retirement, I'm worried about the economy, I'm worried about kicking ..."
 
@@ -1693,6 +1072,12 @@ _Type: People_
 
 **[00:35:24](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-34-42)**
 > "... not the only one. Yes, and I take it to the bank. If you need to walk out of here and say Candace (Candace Owens, the host) is a white nationalist for you to be able to digest it, then that's fine. You have to ha..."
+
+**[00:45:38](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-45-22)**
+> "So go to TWC.health/Candace today and use code CANDACE to save $48."
+
+**[00:45:49](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-45-22)**
+> "Again, that's TWC.health/Candace, code CANDACE, for $48 off."
 
 **[00:48:05](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-47-30)**
 > "...fighting for our brother in Christ. You are in our prayers. May God bless and protect you, Candace (Candace Owens, the host)." I don't care at all about Ben trying to join people. It's almost like they're trying t..."
@@ -1709,121 +1094,10 @@ _Type: People_
 **[00:52:17](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-51-48)**
 > "... in stopping Charlie (Charlie Kirk). Now the people are Charlie (Charlie Kirk). Bless you, Candace (Candace Owens, the host), for continuing the fight. Who is they? Who is they, Amber? When you say they, did you k..."
 
-**[00:00:54](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-00-44)**
-> "...y Friday, and welcome back to Candace."
-
-**[00:03:02](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-02-49)**
-> "... disavow me, make her disavow Candace Owens (the host), I'm gonna make her disavow Tucker (Tu..."
-
-**[00:03:02](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-02-49)**
-> "... Tucker Carlson never did and Candace Owens never did or said."
-
-**[00:10:00](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-09-56)**
-> "... with regard to, for example, Candace Owens (the host)."
-
-**[00:10:06](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-09-56)**
-> "I think that what Candace Owens (the host) is doing right now is evil."
-
-**[00:10:33](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-09-56)**
-> "Is that what Candace (Candace Owens, the host) is accusing Erika (Erika Kirk) of? Yes..."
-
-**[00:12:11](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-11-35)**
-> "You said that Candace (Candace Owens, the host) went out and said something about Erik..."
-
-**[00:16:42](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-16-00)**
-> "...st Charlie (Charlie Kirk) and Candace Owens (the host).""
-
-**[00:18:38](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-18-11)**
-> "Candace (Candace Owens, the host) is investigating who killed her friend..."
-
-**[00:20:28](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-20-11)**
-> "Candace (Candace Owens, the host) trying to find out who killed him."
-
-**[00:24:19](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-23-46)**
-> "...re and he's saying, "Candace (Candace Owens, the host) is attacking a grieving widow and accu..."
-
-**[00:24:19](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-23-46)**
-> "...nding there and he's saying, "Candace (Candace Owens, the host) is attacking a grieving..."
-
-**[00:24:47](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-24-31)**
-> "... better person than to accept Candace Owens (the host), who has attacked a grieving widow and..."
-
-**[00:25:57](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-25-57)**
-> "...use we found this out. (Clip: Candace Owens at YWLS)"
-
-**[00:26:15](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-25-57)**
-> "...d me and they said, "Candace (Candace Owens, the host), something very weird is happening."
-
-**[00:26:15](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-25-57)**
-> "...hey called me and they said, "Candace (Candace Owens, the host), something very weird i..."
-
-**[00:30:34](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-30-12)**
-> "...dranch.com and use promo code Candace at checkout, you'll get $20 off your first order."
-
-**[00:30:45](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-30-12)**
-> "...dranch.com and use promo code Candace at checkout."
-
-**[00:31:31](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-30-56)**
-> "... if you're thinking, Candace (Candace Owens, the host), I'm worried about retirement, I'm wor..."
-
-**[00:31:31](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-30-56)**
-> "Now, if you're thinking, Candace (Candace Owens, the host), I'm worried about reti..."
-
-**[00:32:01](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-31-35)**
-> "...(Tucker Carlson) and Candace (Candace Owens, the host)."
-
-**[00:32:01](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-31-35)**
-> "Tucker (Tucker Carlson) and Candace (Candace Owens, the host)."
-
-**[00:34:59](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-34-42)**
-> "...your eyes and go, is Candace (Candace Owens, the host) promoting white nationalist rhetoric?"
-
-**[00:34:59](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-34-42)**
-> "...e to use your eyes and go, is Candace (Candace Owens, the host) promoting white nationa..."
-
-**[00:35:24](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-34-42)**
-> "... out of here and say Candace (Candace Owens, the host) is a white nationalist for you to be a..."
-
-**[00:35:24](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-34-42)**
-> "...d to walk out of here and say Candace (Candace Owens, the host) is a white nationalist ..."
-
-**[00:45:38](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-45-22)**
-> "So go to TWC.health/Candace today and use code CANDACE to save $48."
-
-**[00:45:38](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-45-22)**
-> "...th/Candace today and use code CANDACE to save $48."
-
-**[00:45:49](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-45-22)**
-> "Again, that's TWC.health/Candace, code CANDACE, for $48 off."
-
-**[00:45:49](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-45-22)**
-> "...at's TWC.health/Candace, code CANDACE, for $48 off."
-
-**[00:48:05](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-47-30)**
-> "...ess and protect you, Candace (Candace Owens, the host).""
-
-**[00:48:05](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-47-30)**
-> "...ay God bless and protect you, Candace (Candace Owens, the host).""
-
-**[00:50:10](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-49-40)**
-> "Maybe Candace (Candace Owens, the host) really did say this."
-
-**[00:50:17](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-49-40)**
-> "Melissa writes, "Candace (Candace Owens, the host), as a Black woman, you handled that in..."
-
-**[00:51:59](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-51-48)**
-> "...es, "You're amazing, Candace (Candace Owens, the host). You owned that interview.""
-
-**[00:51:59](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-51-48)**
-> "...more writes, "You're amazing, Candace (Candace Owens, the host). You owned that intervi..."
-
-**[00:52:17](/episodes/ep-r1PS67aRmcA.md#ent-person-candace-owens-t-00-51-48)**
-> "Bless you, Candace (Candace Owens, the host), for continuing the fight."
-
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (28 mentions)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (21 mentions)</summary>
 
 **[00:01:33](/episodes/ep-vwG1juDCQZQ.md#ent-person-candace-owens-t-00-01-30)**
 > "...'s been trending on Twitter. It's been so exciting. Look at this. I will never forget this moment. "Candace Owens' podcast hits number one worldwide, best part, without promotion," which means we have not spent—si..."
@@ -1831,26 +1105,8 @@ _Type: People_
 **[00:01:57](/episodes/ep-vwG1juDCQZQ.md#ent-person-candace-owens-t-00-01-30)**
 > "...e podcast in the world. Grok summarizes it this way. I'm going to read it. Conservative commentator Candace Owens announced on Thursday that her independent podcast, Candace, has reached the top global ranking acc..."
 
-**[00:32:37](/episodes/ep-vwG1juDCQZQ.md#ent-person-candace-owens-t-00-31-56)**
-> "...t, okay? There's a single person who can say, "I headlined more Turning Point USA campus tours than Candace Owens." I know what I'm talking about, right? It's a very strange thing to not know what the inner workin..."
-
-**[00:55:29](/episodes/ep-vwG1juDCQZQ.md#ent-person-candace-owens-t-00-55-08)**
-> "...t knowledge, but I assume there are non-disparagement agreements in place between Turning Point and Candace Owens because of TPUSA's business arrangement with Blexit." Weird that she knows that we have a business ..."
-
-**[00:01:33](/episodes/ep-vwG1juDCQZQ.md#ent-person-candace-owens-t-00-01-30)**
-> ""Candace Owens' podcast hits number one worldwide, best part, wi..."
-
-**[00:01:57](/episodes/ep-vwG1juDCQZQ.md#ent-person-candace-owens-t-00-01-30)**
-> "Conservative commentator Candace Owens announced on Thursday that her independent podcas..."
-
-**[00:01:57](/episodes/ep-vwG1juDCQZQ.md#ent-person-candace-owens-t-00-01-30)**
-> "...that her independent podcast, Candace, has reached the top global ranking according to ..."
-
 **[00:17:08](/episodes/ep-vwG1juDCQZQ.md#ent-person-candace-owens-t-00-16-42)**
 > "...os since clarifying that, no, Candace seems to have been telling the truth—because who ..."
-
-**[00:17:08](/episodes/ep-vwG1juDCQZQ.md#ent-person-candace-owens-t-00-16-42)**
-> "...uth when you can just dunk on Candace?"
 
 **[00:27:40](/episodes/ep-vwG1juDCQZQ.md#ent-person-candace-owens-t-00-27-16)**
 > "...dranch.com and use promo code Candace at checkout, you'll get $20 off your first order."
@@ -1868,7 +1124,7 @@ _Type: People_
 > "Again, pdsdebt.com/candace."
 
 **[00:32:37](/episodes/ep-vwG1juDCQZQ.md#ent-person-candace-owens-t-00-31-56)**
-> "...g Point USA campus tours than Candace Owens.""
+> "...t, okay? There's a single person who can say, "I headlined more Turning Point USA campus tours than Candace Owens." I know what I'm talking about, right? It's a very strange thing to not know what the inner workin..."
 
 **[00:33:02](/episodes/ep-vwG1juDCQZQ.md#ent-person-candace-owens-t-00-32-39)**
 > "...nts Charlie (Charlie Kirk) or Candace—whoever it is, Don Jr.—to come to their campus."
@@ -1888,11 +1144,8 @@ _Type: People_
 **[00:53:36](/episodes/ep-vwG1juDCQZQ.md#ent-person-candace-owens-t-00-53-09)**
 > "That's paleovalley.com/candace—promo code Candace at checkout."
 
-**[00:53:36](/episodes/ep-vwG1juDCQZQ.md#ent-person-candace-owens-t-00-53-09)**
-> "...valley.com/candace—promo code Candace at checkout."
-
 **[00:55:29](/episodes/ep-vwG1juDCQZQ.md#ent-person-candace-owens-t-00-55-08)**
-> "...ace between Turning Point and Candace Owens because of TPUSA's business arrangement with Blex..."
+> "...t knowledge, but I assume there are non-disparagement agreements in place between Turning Point and Candace Owens because of TPUSA's business arrangement with Blexit." Weird that she knows that we have a business ..."
 
 **[01:01:08](/episodes/ep-vwG1juDCQZQ.md#ent-person-candace-owens-t-01-00-33)**
 > "...elligent, and beautiful Queen Candace of podcasts: take a bow."
@@ -1912,10 +1165,16 @@ _Type: People_
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (38 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (17 mentions)</summary>
+
+**[00:01:16](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-00-38)**
+> "So welcome back to Candace."
 
 **[00:20:53](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-20-53)**
 > "...ow," or "Hey, I'd love for you to meet this person," they're already calling her the white Candace (Candace Owens). If you're Erin Wexler—here's an actual tweet. Okay: "White Candace—what is a Nazi then?" Like, wh..."
+
+**[00:21:12](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-20-53)**
+> "Okay: "White Candace—what is a Nazi then?""
 
 **[00:21:21](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-20-53)**
 > "...hen?" Like, what? How does that make any sense? Why are you calling Brett Cooper the white Candace (Candace Owens)? Like, why are you even thinking about the fact that Brett Cooper is white? Why do we keep seeing ..."
@@ -1923,11 +1182,29 @@ _Type: People_
 **[00:21:32](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-20-53)**
 > "...ists constantly having to comment on white people? Like, why does she have to be the white Candace (Candace Owens)? That's ridiculous. We don't even have the same ideas. It's completely—she's saying something sens..."
 
+**[00:28:34](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-28-06)**
+> "...dranch.com and use promo code Candace at checkout, you'll get $20 off your first order."
+
+**[00:28:43](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-28-06)**
+> "...dranch.com and use promo code Candace at checkout."
+
+**[00:29:59](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-29-32)**
+> "Head to saunaspace.com/Candace and use code Candace for a special 10% discount."
+
+**[00:30:04](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-29-32)**
+> "That's saunaspace.com/Candace with code Candace for a discount."
+
 **[00:30:40](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-30-36)**
 > "...to CNN. (Clip from CNN) "Not only is she stupid, but she's also disgusting, right? I mean, Candace (Candace Owens) has got to be one of the most disgusting folks whoever gets airplay on any major network." And thi..."
 
 **[00:30:46](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-30-36)**
 > "...lks whoever gets airplay on any major network." And this is actually not even the worst of Candace (Candace Owens). No, she's an anti-Semite. That's quite a lot. Yeah, she's an anti-Semite. She's anti-gay. She's a..."
+
+**[00:54:12](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-53-45)**
+> "...my listeners, if you use code CANDACE at checkout, you'll get an extra 10% off that fir..."
+
+**[00:54:22](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-53-45)**
+> "Just use code CANDACE at 7weekscoffee.com."
 
 **[00:54:50](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-54-30)**
 > "...now that everything is wrong. I just know that everything is wrong. Steven Forker writes: "Candace (Candace Owens), I've been a supporter of Trump (Donald Trump) since 2016, but after Charlie's (Charlie Kirk's) de..."
@@ -1941,97 +1218,10 @@ _Type: People_
 **[00:59:36](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-59-19)**
 > "...oing to let this go. Raven writes: "Brandon Briggs said on his last day's show to pray for Candace (Candace Owens), Alex Jones, and Tucker (Tucker Carlson) Carlson—bold voices that are exposing darkness. May Jesus..."
 
-**[00:01:16](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-00-38)**
-> "So welcome back to Candace."
-
-**[00:20:53](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-20-53)**
-> "...alling her the white Candace (Candace Owens)."
-
-**[00:20:53](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-20-53)**
-> "...already calling her the white Candace (Candace Owens)."
-
-**[00:21:12](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-20-53)**
-> "Okay: "White Candace—what is a Nazi then?""
-
-**[00:21:21](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-20-53)**
-> "...ett Cooper the white Candace (Candace Owens)?"
-
-**[00:21:21](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-20-53)**
-> "...alling Brett Cooper the white Candace (Candace Owens)?"
-
-**[00:21:32](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-20-53)**
-> "...have to be the white Candace (Candace Owens)?"
-
-**[00:21:32](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-20-53)**
-> "...does she have to be the white Candace (Candace Owens)?"
-
-**[00:28:34](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-28-06)**
-> "...dranch.com and use promo code Candace at checkout, you'll get $20 off your first order."
-
-**[00:28:43](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-28-06)**
-> "...dranch.com and use promo code Candace at checkout."
-
-**[00:29:59](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-29-32)**
-> "Head to saunaspace.com/Candace and use code Candace for a special 10% discount."
-
-**[00:29:59](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-29-32)**
-> "...pace.com/Candace and use code Candace for a special 10% discount."
-
-**[00:30:04](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-29-32)**
-> "That's saunaspace.com/Candace with code Candace for a discount."
-
-**[00:30:04](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-29-32)**
-> "...naspace.com/Candace with code Candace for a discount."
-
-**[00:30:40](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-30-36)**
-> "I mean, Candace (Candace Owens) has got to be one of the most disgusting folks w..."
-
-**[00:30:46](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-30-36)**
-> "...ot even the worst of Candace (Candace Owens)."
-
-**[00:30:46](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-30-36)**
-> "...ctually not even the worst of Candace (Candace Owens)."
-
-**[00:54:12](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-53-45)**
-> "...my listeners, if you use code CANDACE at checkout, you'll get an extra 10% off that fir..."
-
-**[00:54:22](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-53-45)**
-> "Just use code CANDACE at 7weekscoffee.com."
-
-**[00:54:50](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-54-30)**
-> "...even Forker writes: "Candace (Candace Owens), I've been a supporter of Trump (Donald Trump) s..."
-
-**[00:54:50](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-54-30)**
-> "Steven Forker writes: "Candace (Candace Owens), I've been a supporter of Trump (..."
-
-**[00:55:35](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-55-13)**
-> "...iamond writes: "Dear Candace (Candace Owens), if we are in The Matrix—and we are—you are Morp..."
-
-**[00:55:35](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-55-13)**
-> "John Diamond writes: "Dear Candace (Candace Owens), if we are in The Matrix—and we a..."
-
-**[00:57:24](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-57-24)**
-> "...mplaining about what Candace (Candace Owens) chooses to talk about or claim that she's grifti..."
-
-**[00:57:24](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-57-24)**
-> "...to watch and bump up Candace (Candace Owens)'s views.""
-
-**[00:57:24](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-57-24)**
-> "...t keep complaining about what Candace (Candace Owens) chooses to talk about or claim th..."
-
-**[00:57:24](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-57-24)**
-> "...continue to watch and bump up Candace (Candace Owens)'s views.""
-
-**[00:59:36](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-59-19)**
-> "...y's show to pray for Candace (Candace Owens), Alex Jones, and Tucker (Tucker Carlson) Carlson..."
-
-**[00:59:36](/episodes/ep-LATnak75Si0.md#ent-person-candace-owens-t-00-59-19)**
-> "...s last day's show to pray for Candace (Candace Owens), Alex Jones, and Tucker (Tucker C..."
-
 </details>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (19 mentions)</summary>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (9 mentions)</summary>
 
 **[00:00:46](/episodes/ep-Qfwr08Ebczo.md#ent-person-candace-owens-t-00-00-45)**
 > "...dd to our timeline. You know, I love me a timeline. So let's jump back in. Welcome back to Candace (Candace Owens). Do you know that moment when your subconscious kind of meets your conscious? Like you just sudden..."
@@ -2060,40 +1250,13 @@ _Type: People_
 **[00:48:12](/episodes/ep-Qfwr08Ebczo.md#ent-person-candace-owens-t-00-48-05)**
 > "...uld be clear: a political ideology dressed up as a religion and a faith." Miranda writes: "Candace (Candace Owens), I'm 23 and newly married. We just found out that I'm pregnant." Congratulations. "I'm nervous, bu..."
 
-**[00:00:46](/episodes/ep-Qfwr08Ebczo.md#ent-person-candace-owens-t-00-00-45)**
-> "Welcome back to Candace Owens."
-
-**[00:25:34](/episodes/ep-Qfwr08Ebczo.md#ent-person-candace-owens-t-00-25-10)**
-> "Go to preborn.org/Candace Owens right now."
-
-**[00:25:49](/episodes/ep-Qfwr08Ebczo.md#ent-person-candace-owens-t-00-25-10)**
-> "Again, preborn.org/Candace Owens to provide an ultrasound for just $28."
-
-**[00:27:04](/episodes/ep-Qfwr08Ebczo.md#ent-person-candace-owens-t-00-26-36)**
-> "...kit by heading to fatty15.com/Candace Owens."
-
-**[00:27:11](/episodes/ep-Qfwr08Ebczo.md#ent-person-candace-owens-t-00-26-36)**
-> "That's fatty15.com/Candace Owens, and use promo code Candace Owens at checkout."
-
-**[00:27:11](/episodes/ep-Qfwr08Ebczo.md#ent-person-candace-owens-t-00-26-36)**
-> "...ace Owens, and use promo code Candace Owens at checkout."
-
-**[00:40:22](/episodes/ep-Qfwr08Ebczo.md#ent-person-candace-owens-t-00-39-42)**
-> "Visit tnusa.com/Candace Owens,"
-
-**[00:40:39](/episodes/ep-Qfwr08Ebczo.md#ent-person-candace-owens-t-00-40-27)**
-> "Visit tnusa.com/Candace Owens or call 1-800-958-1000."
-
-**[00:48:00](/episodes/ep-Qfwr08Ebczo.md#ent-person-candace-owens-t-00-47-26)**
-> "Miranda writes: "Hi Candace Owens, I'm 23,"
-
-**[00:48:12](/episodes/ep-Qfwr08Ebczo.md#ent-person-candace-owens-t-00-48-05)**
-> "Miranda writes: "Candace Owens, I'm 23 and newly married."
-
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (72 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (55 mentions)</summary>
+
+**[00:00:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-00-46)**
+> "Welcome back to Candace."
 
 **[00:10:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-09-57)**
 > "...ward. Ben Shapiro (clip): You see, Tucker Carlson (Tucker Carlson) a few weeks back had on Candace (Candace Owens) to treat her to his usual ideological laundering services. Ben Shapiro (clip): That's after years ..."
@@ -2233,56 +1396,8 @@ _Type: People_
 **[00:25:17](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-24-39)**
 > "...t, intentional, balanced investing is what I preach in my own life. But if you're saying, "Candace (Candace Owens), I'm worried about retirement. I'm worried about the economy. I'm worried about kicking myself lat..."
 
-**[00:44:24](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-44-24)**
-> "...ight, let's get into some of your comments. Maxi Dodo (Maxi Dodo) starts. He writes: "Dear Candace (Candace Owens), thank you for being a true friend to Charlie (Charlie Kirk)." "My son's middle name is Charlie (C..."
-
-**[00:46:49](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-46-33)**
-> "... on YouTube. So I'll save it for my book club tomorrow. Peddle (Peddle) writes: "Love you, Candace (Candace Owens)." "Please claim." Oh, people claim you don't have a degree, but I've heard you say you do. Please ..."
-
-**[00:48:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-48-01)**
-> "... "Charlie (Charlie Kirk) stood for that." "So anyone who is divisive over this right is—as Candace (Candace Owens) says it—fake and gay." Yeah, Charlie (Charlie Kirk) believed in free speech. He didn't even blink ..."
-
-**[00:00:52](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-00-46)**
-> "Welcome back to Candace."
-
-**[00:10:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-09-57)**
-> "...ew weeks back had on Candace (Candace Owens) to treat her to his usual ideological laundering..."
-
-**[00:10:02](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-09-57)**
-> "...lson) a few weeks back had on Candace (Candace Owens) to treat her to his usual ideolog..."
-
-**[00:10:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-09-57)**
-> "...(clip): That's after years of Candace Owens (Candace Owens) saying things like this."
-
-**[00:10:09](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-09-57)**
-> "...after years of Candace Owens (Candace Owens) saying things like this."
-
-**[00:16:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-16-01)**
-> "We can roll that. (Candace Owens (Candace Owens) on Joe Rogan (Joe Rogan) clip):"
-
-**[00:16:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-16-01)**
-> "...an roll that. (Candace Owens (Candace Owens) on Joe Rogan (Joe Rogan) clip):"
-
-**[00:16:59](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-16-59)**
-> "...out that and that I, Candace (Candace Owens), was going to Milo (Milo) my career if Charlie (..."
-
-**[00:16:59](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-16-59)**
-> "... upset about that and that I, Candace (Candace Owens), was going to Milo (Milo) my care..."
-
-**[00:18:10](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-17-40)**
-> ""OK, we won, Candace (Candace Owens).""
-
-**[00:25:17](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-24-39)**
-> "...t if you're saying, "Candace (Candace Owens), I'm worried about retirement. I'm worried about..."
-
-**[00:25:17](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-24-39)**
-> "But if you're saying, "Candace (Candace Owens), I'm worried about retirement. I'..."
-
 **[00:26:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-26-44)**
 > "...y going to dosedaily.co slash Candace or entering Candace at checkout."
-
-**[00:26:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-26-44)**
-> "....co slash Candace or entering Candace at checkout."
 
 **[00:26:55](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-26-44)**
 > "That's dosedaily.co slash Candace for 35% off your first month subscription."
@@ -2294,27 +1409,21 @@ _Type: People_
 > "Just use code Candace at 7weekscoffee.com."
 
 **[00:44:24](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-44-24)**
-> "He writes: "Dear Candace (Candace Owens), thank you for being a true friend to Charlie (C..."
+> "...ight, let's get into some of your comments. Maxi Dodo (Maxi Dodo) starts. He writes: "Dear Candace (Candace Owens), thank you for being a true friend to Charlie (Charlie Kirk)." "My son's middle name is Charlie (C..."
 
 **[00:44:46](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-44-24)**
 > "...g here they are supporting Go Candace.""
 
 **[00:46:49](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-46-33)**
-> "...) writes: "Love you, Candace (Candace Owens).""
-
-**[00:46:49](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-46-33)**
-> "...e (Peddle) writes: "Love you, Candace (Candace Owens).""
+> "... on YouTube. So I'll save it for my book club tomorrow. Peddle (Peddle) writes: "Love you, Candace (Candace Owens)." "Please claim." Oh, people claim you don't have a degree, but I've heard you say you do. Please ..."
 
 **[00:48:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-48-01)**
-> "...ver this right is—as Candace (Candace Owens) says it—fake and gay.""
-
-**[00:48:01](/episodes/ep-K1tFD7FfoCU.md#ent-person-candace-owens-t-00-48-01)**
-> "...ivisive over this right is—as Candace (Candace Owens) says it—fake and gay.""
+> "... "Charlie (Charlie Kirk) stood for that." "So anyone who is divisive over this right is—as Candace (Candace Owens) says it—fake and gay." Yeah, Charlie (Charlie Kirk) believed in free speech. He didn't even blink ..."
 
 </details>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (13 mentions)</summary>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (11 mentions)</summary>
 
 **[00:00:32](/episodes/ep-YFmRH8p5lt0.md#ent-person-candace-owens-t-00-00-00)**
 > "Welcome back to Candace."
@@ -2337,14 +1446,8 @@ _Type: People_
 **[00:46:47](/episodes/ep-YFmRH8p5lt0.md#ent-person-candace-owens-t-00-46-07)**
 > "So head to twc.health/Candace today and use code CANDACE, and you'll save $48."
 
-**[00:46:47](/episodes/ep-YFmRH8p5lt0.md#ent-person-candace-owens-t-00-46-07)**
-> "...th/Candace today and use code CANDACE, and you'll save $48."
-
 **[00:46:57](/episodes/ep-YFmRH8p5lt0.md#ent-person-candace-owens-t-00-46-52)**
 > "Again, that's twc.health/Candace—code CANDACE—for $48 off."
-
-**[00:46:57](/episodes/ep-YFmRH8p5lt0.md#ent-person-candace-owens-t-00-46-52)**
-> "...hat's twc.health/Candace—code CANDACE—for $48 off."
 
 **[00:59:54](/episodes/ep-YFmRH8p5lt0.md#ent-person-candace-owens-t-00-59-37)**
 > "We love you, Candace."
@@ -2358,7 +1461,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (122 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (96 mentions)</summary>
 
 **[00:00:00](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-00-41)**
 > "Candace Owens: All right, you guys. Happy Thursday, and some breaking news for you, because I knew it. Candace Ow..."
@@ -2591,6 +1694,24 @@ _Type: People_
 **[00:06:25](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-00-41)**
 > "...'t we see more data happening on this plane, right? Candace Owens: Being collected from this plane. Candace Owens: So obviously this couple, Derek and Shalane Maxfield, were feeling the heat, And they said that co..."
 
+**[00:24:55](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-24-33)**
+> "Head to preborn.org/Candace right now."
+
+**[00:25:08](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-24-33)**
+> "Again, that is preborn.org/Candace to provide an ultrasound for just $28."
+
+**[00:26:10](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-25-52)**
+> "So head to twc.health/Candace today and use code Candace at checkout to save $4..."
+
+**[00:26:20](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-25-52)**
+> "...hat's twc.health/Candace—code Candace for $48 off. Kits available to U.S. residents onl..."
+
+**[00:27:20](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-27-20)**
+> "Check it out at pplx.ai/Candace."
+
+**[00:27:24](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-27-20)**
+> "Again, that's pplx.ai/Candace."
+
 **[00:36:21](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-36-18)**
 > "...icize them. You know, I would say that for all the people—by the way—who are so upset that Candace (Candace Owens) and Nick Fuentes have become so huge—like honestly, dude, talking to guys like you—you have no one..."
 
@@ -2605,6 +1726,12 @@ _Type: People_
 
 **[00:43:15](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-42-46)**
 > "...hip with Jonathan in the Bible. And I am going to read that email to you. Somebody wrote: "Candace (Candace Owens), David and Jonathan were biblical figures from the Bible who shared a deep and profound friendship..."
+
+**[00:51:02](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-51-02)**
+> "...irst order at paleovalley.com/Candace, and you can use code Candace at checkout."
+
+**[00:51:10](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-51-02)**
+> "That's paleovalley.com/Candace—and don't forget to use promo code Candace at che..."
 
 **[00:54:18](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-53-44)**
 > "...se you—you're gonna really enjoy it. A couple of more comments here. Sister Bethy writes: "Candace (Candace Owens), I am on the floor." I think just generally the screenshot of Josh Hammer—which is going to deeply..."
@@ -2624,121 +1751,13 @@ _Type: People_
 **[01:00:26](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-59-56)**
 > "...ld be probably at the bottom of society if they weren't evil. Jonathan Werner writes: "Hey Candace (Candace Owens), I love you, and I am inspired by you to spread the truth no matter what the consequences. Thank y..."
 
-**[00:01:00](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-00-41)**
-> "Welcome back to Candace (Candace Owens)."
-
-**[00:24:55](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-24-33)**
-> "Head to preborn.org/Candace right now."
-
-**[00:25:08](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-24-33)**
-> "Again, that is preborn.org/Candace to provide an ultrasound for just $28."
-
-**[00:26:10](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-25-52)**
-> "So head to twc.health/Candace today and use code Candace at checkout to save $4..."
-
-**[00:26:10](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-25-52)**
-> "...th/Candace today and use code Candace at checkout to save $48."
-
-**[00:26:20](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-25-52)**
-> "That's twc.health/Candace—code Candace for $48 off. Kits available to U.S. ..."
-
-**[00:26:20](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-25-52)**
-> "...hat's twc.health/Candace—code Candace for $48 off. Kits available to U.S. residents onl..."
-
-**[00:27:20](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-27-20)**
-> "Check it out at pplx.ai/Candace."
-
-**[00:27:24](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-27-20)**
-> "Again, that's pplx.ai/Candace."
-
-**[00:36:21](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-36-18)**
-> "...ho are so upset that Candace (Candace Owens) and Nick Fuentes have become so huge—like honest..."
-
-**[00:36:21](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-36-18)**
-> "...the way—who are so upset that Candace (Candace Owens) and Nick Fuentes have become so h..."
-
-**[00:39:47](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-39-12)**
-> "... (Tucker Carlson) or Candace (Candace Owens)—people who were very much in the pro-Israel camp..."
-
-**[00:39:47](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-39-12)**
-> "...er Tucker (Tucker Carlson) or Candace (Candace Owens)—people who were very much in the ..."
-
-**[00:40:19](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-39-54)**
-> "... (Tucker Carlson) or Candace (Candace Owens)."
-
-**[00:40:19](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-39-54)**
-> "...ow Tucker (Tucker Carlson) or Candace (Candace Owens)."
-
-**[00:42:04](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-41-45)**
-> "...thinking of inviting Candace (Candace Owens)."
-
-**[00:42:04](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-41-45)**
-> "And I'm thinking of inviting Candace (Candace Owens)."
-
-**[00:43:15](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-42-46)**
-> "Somebody wrote: "Candace (Candace Owens), David and Jonathan were biblical figures from t..."
-
-**[00:51:02](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-51-02)**
-> "...irst order at paleovalley.com/Candace, and you can use code Candace at checkout."
-
-**[00:51:02](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-51-02)**
-> "...Candace, and you can use code Candace at checkout."
-
-**[00:51:10](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-51-02)**
-> "That's paleovalley.com/Candace—and don't forget to use promo code Candace at che..."
-
-**[00:51:10](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-51-02)**
-> "...on't forget to use promo code Candace at checkout."
-
-**[00:54:18](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-53-44)**
-> "...ister Bethy writes: "Candace (Candace Owens), I am on the floor.""
-
-**[00:54:18](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-53-44)**
-> "Sister Bethy writes: "Candace (Candace Owens), I am on the floor.""
-
-**[00:54:22](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-53-44)**
-> "...aitlin writes: "Hey, Candace (Candace Owens), I'm a huge fan, and I believe all of what you s..."
-
-**[00:54:22](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-53-44)**
-> "Caitlin writes: "Hey, Candace (Candace Owens), I'm a huge fan, and I believe al..."
-
-**[00:57:28](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-57-17)**
-> "...r writes: thank you, Candace (Candace Owens) and George, for opening my eyes to Catholicism."
-
-**[00:57:28](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-57-17)**
-> "...rd Warrior writes: thank you, Candace (Candace Owens) and George, for opening my eyes t..."
-
-**[00:58:04](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-57-53)**
-> "Candace (Candace Owens) Jackson writes: just showing love and support fo..."
-
-**[00:58:04](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-57-53)**
-> "...and support for you, Candace (Candace Owens)."
-
-**[00:58:04](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-57-53)**
-> "...ing love and support for you, Candace (Candace Owens)."
-
-**[00:59:13](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-58-38)**
-> "Zamit writes: "Candace (Candace Owens), a tipping point in the USA.""
-
-**[01:00:26](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-59-56)**
-> "... Werner writes: "Hey Candace (Candace Owens), I love you, and I am inspired by you to spread ..."
-
-**[01:00:26](/episodes/ep-iHav0PPzUz8.md#ent-person-candace-owens-t-00-59-56)**
-> "Jonathan Werner writes: "Hey Candace (Candace Owens), I love you, and I am inspired by..."
-
 </details>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (21 mentions)</summary>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (20 mentions)</summary>
 
 **[00:01:07](/episodes/ep-Qt0VHV-POCg.md#ent-person-candace-owens-t-00-00-46)**
 > "... of the Trump family that could have upset me more with his commentary than Don Jr. Welcome back to Candace Owens. Let's start with one of my own back-of-the-head conspiracies. It's kind of a long-running thought ..."
-
-**[00:41:16](/episodes/ep-Qt0VHV-POCg.md#ent-person-candace-owens-t-00-38-20)**
-> "..."a toxic dump." For the people of Israel, Gazans are vermin. They're garbage. They're human refuse. CANDACE OWENS: You guys were the ones that insisted—insisted—that we all have a perspective on October 7th. So we..."
-
-**[00:01:07](/episodes/ep-Qt0VHV-POCg.md#ent-person-candace-owens-t-00-00-46)**
-> "Welcome back to Candace Owens."
 
 **[00:08:19](/episodes/ep-Qt0VHV-POCg.md#ent-person-candace-owens-t-00-07-51)**
 > "It was like, "Candace, this is a racist, white nationalist, crazy perso..."
@@ -2760,6 +1779,9 @@ _Type: People_
 
 **[00:38:20](/episodes/ep-Qt0VHV-POCg.md#ent-person-candace-owens-t-00-38-20)**
 > "... look me in the eye and say, "Candace, I really do think that Charlie—our friend—becaus..."
+
+**[00:41:16](/episodes/ep-Qt0VHV-POCg.md#ent-person-candace-owens-t-00-38-20)**
+> "..."a toxic dump." For the people of Israel, Gazans are vermin. They're garbage. They're human refuse. CANDACE OWENS: You guys were the ones that insisted—insisted—that we all have a perspective on October 7th. So we..."
 
 **[00:43:11](/episodes/ep-Qt0VHV-POCg.md#ent-person-candace-owens-t-00-42-49)**
 > "...ht now, you can stack my code CANDACE on top of their site-wide sale, giving you up to ..."
@@ -2797,7 +1819,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (40 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (33 mentions)</summary>
+
+**[00:01:20](/episodes/ep-Cq7nj9rxPdo.md#ent-person-candace-owens-t-00-00-43)**
+> "Welcome back to Candace."
 
 **[00:02:10](/episodes/ep-Cq7nj9rxPdo.md#ent-person-candace-owens-t-00-02-10)**
 > "...e people took issue theologically when I said that the day that Kanye West tweeted, "I love the way Candace Owens thinks," Charlie and I freaked out because we were convinced that we had somehow manifested that. I..."
@@ -2807,30 +1832,6 @@ _Type: People_
 
 **[00:08:31](/episodes/ep-Cq7nj9rxPdo.md#ent-person-candace-owens-t-00-08-30)**
 > "...Scott Adams (Scott Adams speaking) said on that day. What did he tweet? He tweeted, "I like the way Candace Owens thinks." Seven words. And he ripped a hole in reality with seven words because Kanye is supposed to..."
-
-**[00:18:16](/episodes/ep-Cq7nj9rxPdo.md#ent-person-candace-owens-t-00-17-56)**
-> "... what I said. And I was standing next to Charlie when I said it, which is relevant. Take a listen. (Candace Owens speaking) "I agree. I actually don't have any problems at all with the word nationalism. I think th..."
-
-**[00:49:40](/episodes/ep-Cq7nj9rxPdo.md#ent-person-candace-owens-t-00-49-40)**
-> "...oday she was judging people who didn't act the right way. I don't know if anyone's seen this video. Candace Owens: 'These people did not act the right way after Charlie's death. Like my friend Mikey McCoy, the bri..."
-
-**[00:49:53](/episodes/ep-Cq7nj9rxPdo.md#ent-person-candace-owens-t-00-49-40)**
-> "...harlie was shot was 23 and was a hero that day. He apparently didn't act the right way according to Candace Owens. He didn't act normal.' Newsflash: there is no normal when you're in shock. There is no normal when..."
-
-**[00:54:41](/episodes/ep-Cq7nj9rxPdo.md#ent-person-candace-owens-t-00-54-18)**
-> "...ontent. You got caught stealing my content and trying to make money off of it. And then he tweets, "Candace Owens hit my account." This is Nathan Livingstone. "I tried to steal, and she didn't let me. Why is she t..."
-
-**[00:01:20](/episodes/ep-Cq7nj9rxPdo.md#ent-person-candace-owens-t-00-00-43)**
-> "Welcome back to Candace."
-
-**[00:02:10](/episodes/ep-Cq7nj9rxPdo.md#ent-person-candace-owens-t-00-02-10)**
-> "...West tweeted, "I love the way Candace Owens thinks," Charlie and I freaked out because we wer..."
-
-**[00:07:42](/episodes/ep-Cq7nj9rxPdo.md#ent-person-candace-owens-t-00-07-05)**
-> ""I love the way Candace Owens thinks.""
-
-**[00:08:31](/episodes/ep-Cq7nj9rxPdo.md#ent-person-candace-owens-t-00-08-30)**
-> "He tweeted, "I like the way Candace Owens thinks.""
 
 **[00:08:51](/episodes/ep-Cq7nj9rxPdo.md#ent-person-candace-owens-t-00-08-30)**
 > "and Candace is supposed to be over here,"
@@ -2845,7 +1846,7 @@ _Type: People_
 > "A person asked me, "Candace, you describe yourself as a nationalist."
 
 **[00:18:16](/episodes/ep-Cq7nj9rxPdo.md#ent-person-candace-owens-t-00-17-56)**
-> "Take a listen. (Candace Owens speaking)"
+> "... what I said. And I was standing next to Charlie when I said it, which is relevant. Take a listen. (Candace Owens speaking) "I agree. I actually don't have any problems at all with the word nationalism. I think th..."
 
 **[00:36:44](/episodes/ep-Cq7nj9rxPdo.md#ent-person-candace-owens-t-00-36-28)**
 > "Go to preborn.org/Candace right now."
@@ -2872,13 +1873,13 @@ _Type: People_
 > "...thing happens to George, call Candace."
 
 **[00:49:40](/episodes/ep-Cq7nj9rxPdo.md#ent-person-candace-owens-t-00-49-40)**
-> "Candace Owens: 'These people did not act the right way after Ch..."
+> "...oday she was judging people who didn't act the right way. I don't know if anyone's seen this video. Candace Owens: 'These people did not act the right way after Charlie's death. Like my friend Mikey McCoy, the bri..."
 
 **[00:49:53](/episodes/ep-Cq7nj9rxPdo.md#ent-person-candace-owens-t-00-49-40)**
-> "...ct the right way according to Candace Owens."
+> "...harlie was shot was 23 and was a hero that day. He apparently didn't act the right way according to Candace Owens. He didn't act normal.' Newsflash: there is no normal when you're in shock. There is no normal when..."
 
 **[00:54:41](/episodes/ep-Cq7nj9rxPdo.md#ent-person-candace-owens-t-00-54-18)**
-> "And then he tweets, "Candace Owens hit my account.""
+> "...ontent. You got caught stealing my content and trying to make money off of it. And then he tweets, "Candace Owens hit my account." This is Nathan Livingstone. "I tried to steal, and she didn't let me. Why is she t..."
 
 **[01:00:44](/episodes/ep-Cq7nj9rxPdo.md#ent-person-candace-owens-t-01-00-39)**
 > "Check it out at pplx.ai/Candace."
@@ -2922,25 +1923,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (24 mentions)</summary>
-
-**[00:21:44](/episodes/ep-c5BcKF91iec.md#ent-person-candace-owens-t-00-21-44)**
-> "...k in Arizona. And he told me that the reason that they were doing it was because—you know, Candace (Candace Owens)—he said, "Charlie—he was so ambitious, and it wasn't fast enough that it was all being live-stream..."
-
-**[00:38:26](/episodes/ep-c5BcKF91iec.md#ent-person-candace-owens-t-00-38-11)**
-> "... that were written on April 6th, 2018, just a couple of weeks before Kanye tweeted, "I love the way Candace Owens thinks," which is relevant because a lot of things changed after that tweet. And it's relevant beca..."
-
-**[00:50:12](/episodes/ep-c5BcKF91iec.md#ent-person-candace-owens-t-00-49-29)**
-> "...eview. She said, "I honestly feel sorry for you." This is a review of my character over the years. "Candace Owens is a fraud"—from Lance Bass. Ireland Baldwin wrote, "The most disgusting, hateful, cancerous human ..."
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (18 mentions)</summary>
 
 **[00:01:21](/episodes/ep-c5BcKF91iec.md#ent-person-candace-owens-t-00-00-45)**
 > "...t started and welcome back to Candace."
 
 **[00:21:44](/episodes/ep-c5BcKF91iec.md#ent-person-candace-owens-t-00-21-44)**
-> "...as because—you know, Candace (Candace Owens)—he said, "Charlie—he was so ambitious, and it wa..."
-
-**[00:21:44](/episodes/ep-c5BcKF91iec.md#ent-person-candace-owens-t-00-21-44)**
-> "...oing it was because—you know, Candace (Candace Owens)—he said, "Charlie—he was so ambit..."
+> "...k in Arizona. And he told me that the reason that they were doing it was because—you know, Candace (Candace Owens)—he said, "Charlie—he was so ambitious, and it wasn't fast enough that it was all being live-stream..."
 
 **[00:29:52](/episodes/ep-c5BcKF91iec.md#ent-person-candace-owens-t-00-29-52)**
 > "...dranch.com and use promo code Candace at checkout, you'll get $20 off your first order."
@@ -2961,13 +1950,10 @@ _Type: People_
 > "...iveHealth.com with promo code CANDACE."
 
 **[00:38:26](/episodes/ep-c5BcKF91iec.md#ent-person-candace-owens-t-00-38-11)**
-> "...anye tweeted, "I love the way Candace Owens thinks," which is relevant because a lot of thing..."
+> "... that were written on April 6th, 2018, just a couple of weeks before Kanye tweeted, "I love the way Candace Owens thinks," which is relevant because a lot of things changed after that tweet. And it's relevant beca..."
 
 **[00:46:04](/episodes/ep-c5BcKF91iec.md#ent-person-candace-owens-t-00-45-54)**
 > "So go to twc.health/Candace today and use code Candace at checkout, and you'l..."
-
-**[00:46:04](/episodes/ep-c5BcKF91iec.md#ent-person-candace-owens-t-00-45-54)**
-> "...th/Candace today and use code Candace at checkout, and you'll save $48."
 
 **[00:46:14](/episodes/ep-c5BcKF91iec.md#ent-person-candace-owens-t-00-45-54)**
 > "That's twc.health/Candace."
@@ -2976,7 +1962,7 @@ _Type: People_
 > "Use code CANDACE, and you'll get $48 off. Kits available to U.S. r..."
 
 **[00:50:12](/episodes/ep-c5BcKF91iec.md#ent-person-candace-owens-t-00-49-29)**
-> ""Candace Owens is a fraud"—from Lance Bass."
+> "...eview. She said, "I honestly feel sorry for you." This is a review of my character over the years. "Candace Owens is a fraud"—from Lance Bass. Ireland Baldwin wrote, "The most disgusting, hateful, cancerous human ..."
 
 **[00:50:37](/episodes/ep-c5BcKF91iec.md#ent-person-candace-owens-t-00-50-14)**
 > ""Candace and I do not F with each other.""
@@ -2991,36 +1977,12 @@ _Type: People_
 > "Kiki Mack writes, "Candace, thank you so much for helping remove the wool fr..."
 
 **[00:57:51](/episodes/ep-c5BcKF91iec.md#ent-person-candace-owens-t-00-57-17)**
-> "Brian writes, "Come back, Candace. Everyone needs—welcome back, Candace. Pardon. Ev..."
-
-**[00:57:51](/episodes/ep-c5BcKF91iec.md#ent-person-candace-owens-t-00-57-17)**
 > "... Everyone needs—welcome back, Candace. Pardon. Everyone needs a friend like you who wou..."
 
 </details>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (26 mentions)</summary>
-
-**[00:58:00](/episodes/ep-pc3pxRyNFZk.md#ent-person-candace-owens-t-00-57-36)**
-> "...you a lot of information—more to come. First and foremost, we have Petra Lab. She writes, "Candace (Candace Owens) is the real Liam Neeson in the movie Taken." "Has particular skills like spelling out lies, knows ..."
-
-**[00:58:12](/episodes/ep-pc3pxRyNFZk.md#ent-person-candace-owens-t-00-57-36)**
-> "...(Charlie Kirk)." "Liam would not trust the authorities to find his daughter." "Keep going, Candace (Candace Owens)." Yeah, you've got to be just insane to trust the authorities. As soon as somebody says, "We're ju..."
-
-**[00:58:31](/episodes/ep-pc3pxRyNFZk.md#ent-person-candace-owens-t-00-58-17)**
-> "...ing that? Mary Go Wrong writes—that's very funny. Mary Go Wrong. "Keep speaking the truth, Candace (Candace Owens)." Thank you so much. Julie G. writes, "I've been spending a couple of hours a day defending you on..."
-
-**[01:00:22](/episodes/ep-pc3pxRyNFZk.md#ent-person-candace-owens-t-01-00-11)**
-> "... being at the forefront of our minds worldwide is good. Eight Sisters writes, "Keep it up, Candace (Candace Owens)." "It's people like you that are the hope for these two little girls in this picture." "God bless ..."
-
-**[01:00:35](/episodes/ep-pc3pxRyNFZk.md#ent-person-candace-owens-t-01-00-11)**
-> "... your team with love from East Texas." Thank you so much. Eight Birds writes, "The more I listen to Candace Owens (Candace Owens), the more I want her to be crazy." "And the more that people tell me she's crazy, t..."
-
-**[01:01:12](/episodes/ep-pc3pxRyNFZk.md#ent-person-candace-owens-t-01-00-56)**
-> "...en you find out what they're lying about. They have been doing this for a very long time. "Candace (Candace Owens), it came from behind." "You haven't been investigating on Elon's platform enough." I can tell you ..."
-
-**[01:02:57](/episodes/ep-pc3pxRyNFZk.md#ent-person-candace-owens-t-01-02-24)**
-> "...rs have a way of avoiding bedtime. And it's expert. It is expert level. Born Free writes, "Candace (Candace Owens), I have been a fan since 2018." "Finally got my wife on board last year." "She's now in your book ..."
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (16 mentions)</summary>
 
 **[00:01:05](/episodes/ep-pc3pxRyNFZk.md#ent-person-candace-owens-t-00-00-45)**
 > "Welcome back to Candace."
@@ -3050,39 +2012,30 @@ _Type: People_
 > "...ekscoffee.com with promo code CANDACE today."
 
 **[00:58:00](/episodes/ep-pc3pxRyNFZk.md#ent-person-candace-owens-t-00-57-36)**
-> "She writes, "Candace (Candace Owens) is the real Liam Neeson in the movie Taken.""
+> "...you a lot of information—more to come. First and foremost, we have Petra Lab. She writes, "Candace (Candace Owens) is the real Liam Neeson in the movie Taken." "Has particular skills like spelling out lies, knows ..."
 
 **[00:58:12](/episodes/ep-pc3pxRyNFZk.md#ent-person-candace-owens-t-00-57-36)**
-> ""Keep going, Candace (Candace Owens).""
+> "...(Charlie Kirk)." "Liam would not trust the authorities to find his daughter." "Keep going, Candace (Candace Owens)." Yeah, you've got to be just insane to trust the authorities. As soon as somebody says, "We're ju..."
 
 **[00:58:31](/episodes/ep-pc3pxRyNFZk.md#ent-person-candace-owens-t-00-58-17)**
-> "... speaking the truth, Candace (Candace Owens).""
-
-**[00:58:31](/episodes/ep-pc3pxRyNFZk.md#ent-person-candace-owens-t-00-58-17)**
-> ""Keep speaking the truth, Candace (Candace Owens).""
+> "...ing that? Mary Go Wrong writes—that's very funny. Mary Go Wrong. "Keep speaking the truth, Candace (Candace Owens)." Thank you so much. Julie G. writes, "I've been spending a couple of hours a day defending you on..."
 
 **[01:00:22](/episodes/ep-pc3pxRyNFZk.md#ent-person-candace-owens-t-01-00-11)**
-> "...writes, "Keep it up, Candace (Candace Owens).""
-
-**[01:00:22](/episodes/ep-pc3pxRyNFZk.md#ent-person-candace-owens-t-01-00-11)**
-> "... Sisters writes, "Keep it up, Candace (Candace Owens).""
+> "... being at the forefront of our minds worldwide is good. Eight Sisters writes, "Keep it up, Candace (Candace Owens)." "It's people like you that are the hope for these two little girls in this picture." "God bless ..."
 
 **[01:00:35](/episodes/ep-pc3pxRyNFZk.md#ent-person-candace-owens-t-01-00-11)**
-> "...writes, "The more I listen to Candace Owens (Candace Owens), the more I want her to be crazy...."
-
-**[01:00:35](/episodes/ep-pc3pxRyNFZk.md#ent-person-candace-owens-t-01-00-11)**
-> "...re I listen to Candace Owens (Candace Owens), the more I want her to be crazy.""
+> "... your team with love from East Texas." Thank you so much. Eight Birds writes, "The more I listen to Candace Owens (Candace Owens), the more I want her to be crazy." "And the more that people tell me she's crazy, t..."
 
 **[01:01:12](/episodes/ep-pc3pxRyNFZk.md#ent-person-candace-owens-t-01-00-56)**
-> ""Candace (Candace Owens), it came from behind.""
+> "...en you find out what they're lying about. They have been doing this for a very long time. "Candace (Candace Owens), it came from behind." "You haven't been investigating on Elon's platform enough." I can tell you ..."
 
 **[01:02:57](/episodes/ep-pc3pxRyNFZk.md#ent-person-candace-owens-t-01-02-24)**
-> "Born Free writes, "Candace (Candace Owens), I have been a fan since 2018.""
+> "...rs have a way of avoiding bedtime. And it's expert. It is expert level. Born Free writes, "Candace (Candace Owens), I have been a fan since 2018." "Finally got my wife on board last year." "She's now in your book ..."
 
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (75 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (33 mentions)</summary>
 
 **[00:00:49](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-00-44)**
 > "...as jumped into the mix. Welcome, Dinesh D'Souza. He is joining every commentator who hates Candace (Candace Owens). That's nice that he has entered the fray. He's got some things to say to me. We're gonna discuss ..."
@@ -3123,6 +2076,24 @@ _Type: People_
 **[00:37:53](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-37-39)**
 > ".... I want to know who killed Charlie (Charlie Kirk) too, and I'm therefore going to support Candace (Candace Owens)'s efforts to find out." Exact opposite of what Israel is doing, right? That is the one disturbing ..."
 
+**[00:39:27](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-39-02)**
+> "...dRanch.com and use promo code Candace at checkout, you'll get $20 off your first order."
+
+**[00:39:36](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-39-02)**
+> "...dRanch.com and use promo code Candace."
+
+**[00:40:41](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-40-31)**
+> "Check it out at pplx.ai slash Candace."
+
+**[00:40:45](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-40-31)**
+> "That's pplx.ai slash Candace."
+
+**[00:41:40](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-41-12)**
+> "...u'll save 20% with promo code Candace."
+
+**[00:41:54](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-41-54)**
+> "...tThriveHealth.com, promo code Candace at checkout."
+
 **[00:45:52](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-45-30)**
 > "...then does your company deserve to exist? If I'm like, "If people learn the truth about how Candace (Candace Owens) treats her employees, Candace (Candace Owens) isn't gonna have a career." If people learn the trut..."
 
@@ -3134,6 +2105,12 @@ _Type: People_
 
 **[00:48:17](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-47-43)**
 > "...lies and says, "This is what I mean. These are the people who are supposed to be combating Candace (Candace Owens). Instead, they tweet stuff like this." Yeah. Hi, Dinesh. Kinda weird, man. We cannot relate. I got..."
+
+**[01:02:26](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-01-02-26)**
+> "...im. You can use my promo code CANDACE at HomeTitleLock.com, and you'll get a free title..."
+
+**[01:02:47](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-01-02-26)**
+> "...HomeTitleLock.com, promo code CANDACE."
 
 **[01:06:43](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-01-06-41)**
 > "... down from the apostles." Thank you so much. It's such a sweet comment. Jose Cruz writes, "Candace (Candace Owens), I love you so much. May God bless you. Can you lightly? Please don't stop. A lot of love from Mex..."
@@ -3159,178 +2136,10 @@ _Type: People_
 **[01:13:32](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-01-12-59)**
 > "... and more coming together on the stuff that we can agree on. Miracle Media lastly writes: "Candace (Candace Owens), as a Christian, you have the authority to fight any strife that comes your way. Recite and memori..."
 
-**[00:00:49](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-00-44)**
-> "...ommentator who hates Candace (Candace Owens)."
-
-**[00:00:49](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-00-44)**
-> "...g every commentator who hates Candace (Candace Owens)."
-
-**[00:01:11](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-00-44)**
-> "Welcome back to Candace (Candace Owens)."
-
-**[00:03:02](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-02-54)**
-> "...er (Tucker Carlson), Candace (Candace Owens), and other bad faith actors are lying through th..."
-
-**[00:03:02](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-02-54)**
-> "Tucker (Tucker Carlson), Candace (Candace Owens), and other bad faith actors are l..."
-
-**[00:03:10](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-02-54)**
-> "Candace (Candace Owens) and other grifters."
-
-**[00:03:15](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-02-54)**
-> "Candace (Candace Owens) and other grifters are trying to posthumously re..."
-
-**[00:07:50](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-07-35)**
-> ""Last night, Candace (Candace Owens) quote-tweeted notorious neo-Nazi Sam Parker, who..."
-
-**[00:08:05](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-07-35)**
-> "Candace (Candace Owens), of course, would like people to believe that Jo..."
-
-**[00:22:45](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-22-45)**
-> "... to mention her name—Candace (Candace Owens)—because I know how close she was and maybe still..."
-
-**[00:22:45](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-22-45)**
-> "...s me just to mention her name—Candace (Candace Owens)—because I know how close she was ..."
-
-**[00:26:31](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-26-31)**
-> "...n the direction that Candace (Candace Owens) and others say he was going in, you know, very, ..."
-
-**[00:26:31](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-26-31)**
-> "...s going in the direction that Candace (Candace Owens) and others say he was going in, y..."
-
-**[00:31:24](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-31-11)**
-> "...l, he would have had Candace (Candace Owens) and Tucker (Tucker Carlson) in the meeting plann..."
-
-**[00:31:24](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-31-11)**
-> "... on Israel, he would have had Candace (Candace Owens) and Tucker (Tucker Carlson) in th..."
-
-**[00:31:39](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-31-38)**
-> "...(Tucker Carlson) and Candace (Candace Owens) 48 hours earlier as they were trying to do what ..."
-
-**[00:31:39](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-31-38)**
-> "...h Tucker (Tucker Carlson) and Candace (Candace Owens) 48 hours earlier as they were try..."
-
-**[00:37:03](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-36-55)**
-> "...es, the coming after Candace (Candace Owens)."
-
-**[00:37:03](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-36-55)**
-> "...a, the lies, the coming after Candace (Candace Owens)."
-
-**[00:37:53](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-37-39)**
-> "...ore going to support Candace (Candace Owens)'s efforts to find out.""
-
-**[00:37:53](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-37-39)**
-> "...'m therefore going to support Candace (Candace Owens)'s efforts to find out.""
-
-**[00:39:27](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-39-02)**
-> "...dRanch.com and use promo code Candace at checkout, you'll get $20 off your first order."
-
-**[00:39:36](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-39-02)**
-> "...dRanch.com and use promo code Candace."
-
-**[00:40:41](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-40-31)**
-> "Check it out at pplx.ai slash Candace."
-
-**[00:40:45](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-40-31)**
-> "That's pplx.ai slash Candace."
-
-**[00:41:40](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-41-12)**
-> "...u'll save 20% with promo code Candace."
-
-**[00:41:54](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-41-54)**
-> "...tThriveHealth.com, promo code Candace at checkout."
-
-**[00:45:52](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-45-30)**
-> "... the truth about how Candace (Candace Owens) treats her employees, Candace (Candace Owens) is..."
-
-**[00:45:52](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-45-30)**
-> "...reats her employees, Candace (Candace Owens) isn't gonna have a career.""
-
-**[00:45:52](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-45-30)**
-> "...ple learn the truth about how Candace (Candace Owens) treats her employees, Candace (Ca..."
-
-**[00:45:52](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-45-30)**
-> "... Owens) treats her employees, Candace (Candace Owens) isn't gonna have a career.""
-
-**[00:46:00](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-45-30)**
-> "...the truth about what Candace (Candace Owens) does in the weekends, it will destroy her career..."
-
-**[00:46:00](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-45-30)**
-> "...le learn the truth about what Candace (Candace Owens) does in the weekends, it will des..."
-
-**[00:47:54](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-47-43)**
-> ""I can't comment on Candace (Candace Owens) because it's quite obviously a freak show."
-
-**[00:48:17](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-47-43)**
-> "...osed to be combating Candace (Candace Owens)."
-
-**[00:48:17](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-00-47-43)**
-> "... are supposed to be combating Candace (Candace Owens)."
-
-**[01:02:26](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-01-02-26)**
-> "...im. You can use my promo code CANDACE at HomeTitleLock.com, and you'll get a free title..."
-
-**[01:02:47](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-01-02-26)**
-> "...HomeTitleLock.com, promo code CANDACE."
-
-**[01:06:43](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-01-06-41)**
-> "Jose Cruz writes, "Candace (Candace Owens), I love you so much."
-
-**[01:09:47](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-01-09-29)**
-> "Team Candace (Candace Owens).""
-
-**[01:09:57](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-01-09-29)**
-> "We love you, Candace (Candace Owens)."
-
-**[01:11:09](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-01-10-55)**
-> "Thank you, Candace (Candace Owens)."
-
-**[01:12:04](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-01-11-36)**
-> "... owe you an apology, Candace (Candace Owens)."
-
-**[01:12:04](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-01-11-36)**
-> "...rites, "I owe you an apology, Candace (Candace Owens)."
-
-**[01:13:06](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-01-12-59)**
-> "... a statement against Candace (Candace Owens) and Tucker (Tucker Carlson).""
-
-**[01:13:06](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-01-12-59)**
-> "...d to make a statement against Candace (Candace Owens) and Tucker (Tucker Carlson).""
-
-**[01:13:11](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-01-12-59)**
-> "... was saying to her, "Candace (Candace Owens) doesn't even hate the left anymore.""
-
-**[01:13:11](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-01-12-59)**
-> "...body else was saying to her, "Candace (Candace Owens) doesn't even hate the left anymor..."
-
-**[01:13:32](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-01-12-59)**
-> "...edia lastly writes: "Candace (Candace Owens), as a Christian, you have the authority to fight..."
-
-**[01:13:32](/episodes/ep-2Riv3I7D0Yk.md#ent-person-candace-owens-t-01-12-59)**
-> "Miracle Media lastly writes: "Candace (Candace Owens), as a Christian, you have the aut..."
-
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (52 mentions)</summary>
-
-**[00:09:37](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-09-04)**
-> "... me. When somebody called her out, Morgan Ariel said, "Laura Loomer hasn't made a single post about Candace Owens reporting on Charlie (Charlie Kirk)'s group messages." We all know she's the first to run her mouth..."
-
-**[00:09:43](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-09-43)**
-> "...ges." We all know she's the first to run her mouth, and she wrote, "Because I don't give an F about Candace Owens and her postpartum psychotic rants. Even if those texts are real, it still does not mean that Israe..."
-
-**[00:09:56](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-09-43)**
-> "...ts are real, it still does not mean that Israel killed Charlie (Charlie Kirk)." I never said that. "Candace Owens makes content for low IQ people who don't understand how criminal investigations work. It's going t..."
-
-**[00:14:17](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-14-17)**
-> "...een going around on public—namely about a group text chain that has been made known and released by Candace Owens. And I just want to address it head-on because that was a text grab, a screen grab that I had share..."
-
-**[00:24:42](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-24-12)**
-> "...in June or July or so. And there were so many people in the aftermath of his horrific assassination—Candace Owens, folks like that—who were saying that, oh, Charlie (Charlie Kirk) was turning on Israel. He was rea..."
-
-**[00:45:29](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-45-01)**
-> "...int USA on transparency, free speech, and a relentless pursuit of truth. We are witness to that. If Candace Owens had been assassinated, Charlie (Charlie Kirk) would have torn apart every lie and devoted every wor..."
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (42 mentions)</summary>
 
 **[00:00:48](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-00-39)**
 > "Welcome back to Candace."
@@ -3351,13 +2160,13 @@ _Type: People_
 > "...pro-Israel cause and inviting Candace to the TPUSA stage?""
 
 **[00:09:37](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-09-04)**
-> "...sn't made a single post about Candace Owens reporting on Charlie (Charlie Kirk)'s group messa..."
+> "... me. When somebody called her out, Morgan Ariel said, "Laura Loomer hasn't made a single post about Candace Owens reporting on Charlie (Charlie Kirk)'s group messages." We all know she's the first to run her mouth..."
 
 **[00:09:43](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-09-43)**
-> "...cause I don't give an F about Candace Owens and her postpartum psychotic rants."
+> "...ges." We all know she's the first to run her mouth, and she wrote, "Because I don't give an F about Candace Owens and her postpartum psychotic rants. Even if those texts are real, it still does not mean that Israe..."
 
 **[00:09:56](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-09-43)**
-> ""Candace Owens makes content for low IQ people who don't underst..."
+> "...ts are real, it still does not mean that Israel killed Charlie (Charlie Kirk)." I never said that. "Candace Owens makes content for low IQ people who don't understand how criminal investigations work. It's going t..."
 
 **[00:10:50](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-10-21)**
 > "She said, "Candace thinks it's cute to use Nazi terminology and make..."
@@ -3366,10 +2175,10 @@ _Type: People_
 > "... Patriot writes, "I will give Candace every single shekel"
 
 **[00:14:17](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-14-17)**
-> "...en made known and released by Candace Owens."
+> "...een going around on public—namely about a group text chain that has been made known and released by Candace Owens. And I just want to address it head-on because that was a text grab, a screen grab that I had share..."
 
 **[00:24:42](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-24-12)**
-> "...of his horrific assassination—Candace Owens, folks like that—who were saying that, oh, Charli..."
+> "...in June or July or so. And there were so many people in the aftermath of his horrific assassination—Candace Owens, folks like that—who were saying that, oh, Charlie (Charlie Kirk) was turning on Israel. He was rea..."
 
 **[00:31:47](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-31-23)**
 > "...eranch.com and use promo code Candace at checkout, you will get $20 off your first orde..."
@@ -3380,26 +2189,14 @@ _Type: People_
 **[00:33:01](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-32-46)**
 > "...r kit by going to fatty15.com/Candace and using code Candace at checkout: fatty15.com/C..."
 
-**[00:33:01](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-32-46)**
-> "...15.com/Candace and using code Candace at checkout: fatty15.com/Candace, code Candace at..."
-
-**[00:33:01](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-32-46)**
-> "...dace at checkout: fatty15.com/Candace, code Candace at checkout."
-
-**[00:33:01](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-32-46)**
-> "...ut: fatty15.com/Candace, code Candace at checkout."
-
 **[00:34:20](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-34-11)**
 > "...Space. Head to saunaspace.com/Candace and use code Candace at checkout, and you'll get ..."
-
-**[00:34:20](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-34-11)**
-> "...pace.com/Candace and use code Candace at checkout, and you'll get 10% off:"
 
 **[00:34:32](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-34-11)**
 > "saunaspace.com/Candace, code Candace at checkout."
 
 **[00:45:29](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-45-01)**
-> "If Candace Owens had been assassinated, Charlie (Charlie Kirk) wou..."
+> "...int USA on transparency, free speech, and a relentless pursuit of truth. We are witness to that. If Candace Owens had been assassinated, Charlie (Charlie Kirk) would have torn apart every lie and devoted every wor..."
 
 **[00:46:06](/episodes/ep-5autG89PW6w.md#ent-person-candace-owens-t-00-45-45)**
 > "Candace is working to get to the truth of who killed Char..."
@@ -3473,7 +2270,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (77 mentions)</summary>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (23 mentions)</summary>
 
 **[00:00:46](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-00-42)**
 > "... I think it's therefore fair for us to turn our attention back to them. So welcome back to Candace (Candace Owens). So let me put it to you this way. I'll give you a different scenario. If at this very moment, McD..."
@@ -3505,6 +2302,24 @@ _Type: People_
 **[00:17:17](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-17-17)**
 > "...t to leave the pro-Israel cause." Then somebody writes—Sedona writes—"Please do not invite Candace (Candace Owens). That might feel good short term, but it's not good long term. In my opinion, like all groups, you..."
 
+**[00:30:56](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-30-32)**
+> "Go to preborn.org/Candace (Candace Owens) right now."
+
+**[00:31:09](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-30-32)**
+> "Again, that is preborn.org/Candace (Candace Owens)."
+
+**[00:32:17](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-31-44)**
+> "...ck it out at pplx.ai/Candace (Candace Owens)."
+
+**[00:32:22](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-31-44)**
+> "...gain, that's pplx.ai/Candace (Candace Owens)."
+
+**[00:33:24](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-33-08)**
+> "...d over to twc.health/Candace (Candace Owens) and use code CANDACE, and you'll get 15% off plu..."
+
+**[00:33:31](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-33-08)**
+> "Again, that's twc.health/Candace (Candace Owens) and use code CANDACE."
+
 **[00:43:46](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-43-24)**
 > ".... You're seeing it right now, right? Judeo-Christian after Judeo-Christian making videos: "Candace (Candace Owens)..." It's like cult-like behavior. You can't leave, right? There's only one way out of here. People..."
 
@@ -3526,190 +2341,10 @@ _Type: People_
 **[01:00:50](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-01-00-09)**
 > "...o drop something and go with the flow. Don't drop this. Something is not right. Thank you, Candace (Candace Owens), for being our voice." I'm grateful. I'm actually so grateful I can be your voice. And I'm gratefu..."
 
-**[00:00:46](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-00-42)**
-> "...ome back to Candace (Candace (Candace Owens) Owens)."
-
-**[00:00:46](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-00-42)**
-> "So welcome back to Candace (Candace (Candace Owens) Owens)."
-
-**[00:07:54](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-07-35)**
-> "...ome reason, Candace (Candace (Candace Owens) Owens) saying—and I'll sum it up, effectively it..."
-
-**[00:07:54](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-07-35)**
-> "But for some reason, Candace (Candace (Candace Owens) Owens) saying—and I'll s..."
-
-**[00:13:44](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-13-44)**
-> "...s regarding Candace (Candace (Candace Owens) Owens)."
-
-**[00:13:44](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-13-44)**
-> "... to simply say this regarding Candace (Candace (Candace Owens) Owens)."
-
-**[00:13:44](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-13-44)**
-> "...y say this regarding Candace (Candace (Candace Owens) Owens)."
-
-**[00:13:46](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-13-44)**
-> "...a friend to Candace (Candace (Candace Owens) Owens) and never publicly spoke poorly of her, a..."
-
-**[00:13:46](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-13-44)**
-> "...) Kirk) Kirk) was a friend to Candace (Candace (Candace Owens) Owens) and never publicl..."
-
-**[00:13:46](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-13-44)**
-> "...irk) was a friend to Candace (Candace (Candace Owens) Owens) and never publicly spoke p..."
-
-**[00:13:51](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-13-44)**
-> "... concerning Candace (Candace (Candace Owens) Owens)."
-
-**[00:13:51](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-13-44)**
-> "...gossip or innuendo concerning Candace (Candace (Candace Owens) Owens)."
-
-**[00:13:51](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-13-44)**
-> "... innuendo concerning Candace (Candace (Candace Owens) Owens)."
-
-**[00:13:55](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-13-44)**
-> "...r regarding Candace (Candace (Candace Owens) Owens) is this:"
-
-**[00:13:55](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-13-44)**
-> "...nly comment I offer regarding Candace (Candace (Candace Owens) Owens) is this:"
-
-**[00:13:55](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-13-44)**
-> "...nt I offer regarding Candace (Candace (Candace Owens) Owens) is this:"
-
-**[00:14:02](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-13-44)**
-> "...ave treated Candace (Candace (Candace Owens) Owens) or her family in such a way had—God forbi..."
-
-**[00:14:02](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-13-44)**
-> "He would never have treated Candace (Candace (Candace Owens) Owens) or her family in ..."
-
-**[00:14:02](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-13-44)**
-> "...d never have treated Candace (Candace (Candace Owens) Owens) or her family in such a wa..."
-
-**[00:16:00](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-15-58)**
-> "...w, "crushes Candace (Candace (Candace Owens) Owens) because of what she said"—not whatever."
-
-**[00:16:00](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-15-58)**
-> "...eaks out," you know, "crushes Candace (Candace (Candace Owens) Owens) because of what s..."
-
-**[00:16:00](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-15-58)**
-> "..." you know, "crushes Candace (Candace (Candace Owens) Owens) because of what she said"—..."
-
-**[00:16:59](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-16-33)**
-> "...of inviting Candace (Candace (Candace Owens) Owens).""
-
-**[00:16:59](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-16-33)**
-> "I'm thinking of inviting Candace (Candace (Candace Owens) Owens).""
-
-**[00:16:59](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-16-33)**
-> "...thinking of inviting Candace (Candace (Candace Owens) Owens).""
-
-**[00:17:17](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-17-17)**
-> "... not invite Candace (Candace (Candace Owens) Owens)."
-
-**[00:17:17](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-17-17)**
-> "... writes—"Please do not invite Candace (Candace (Candace Owens) Owens)."
-
-**[00:17:17](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-17-17)**
-> "...Please do not invite Candace (Candace (Candace Owens) Owens)."
-
-**[00:30:56](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-30-32)**
-> "Go to preborn.org/Candace (Candace Owens) right now."
-
-**[00:31:09](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-30-32)**
-> "... that is preborn.org/Candace (Candace Owens)."
-
-**[00:31:09](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-30-32)**
-> "Again, that is preborn.org/Candace (Candace Owens)."
-
-**[00:32:17](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-31-44)**
-> "...ck it out at pplx.ai/Candace (Candace Owens)."
-
-**[00:32:17](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-31-44)**
-> "Check it out at pplx.ai/Candace (Candace Owens)."
-
-**[00:32:22](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-31-44)**
-> "...gain, that's pplx.ai/Candace (Candace Owens)."
-
-**[00:32:22](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-31-44)**
-> "Again, that's pplx.ai/Candace (Candace Owens)."
-
-**[00:33:24](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-33-08)**
-> "...d over to twc.health/Candace (Candace Owens) and use code CANDACE, and you'll get 15% off plu..."
-
-**[00:33:24](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-33-08)**
-> "Head over to twc.health/Candace (Candace Owens) and use code CANDACE, and you'll ..."
-
-**[00:33:24](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-33-08)**
-> "... (Candace Owens) and use code CANDACE, and you'll get 15% off plus free shipping."
-
-**[00:33:31](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-33-08)**
-> "...n, that's twc.health/Candace (Candace Owens) and use code CANDACE."
-
-**[00:33:31](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-33-08)**
-> "Again, that's twc.health/Candace (Candace Owens) and use code CANDACE."
-
-**[00:33:31](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-33-08)**
-> "... (Candace Owens) and use code CANDACE."
-
-**[00:43:46](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-43-24)**
-> "...ng videos: "Candace (Candace (Candace Owens) Owens)..." It's like cult-like behavior."
-
-**[00:43:46](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-43-24)**
-> "...deo-Christian making videos: "Candace (Candace (Candace Owens) Owens)..." It's like cul..."
-
-**[00:43:46](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-43-24)**
-> "...tian making videos: "Candace (Candace (Candace Owens) Owens)..." It's like cult-like be..."
-
-**[00:46:28](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-46-12)**
-> "...ved, like a Candace (Candace (Candace Owens) Owens) and like a Nick Fuentes, and young people..."
-
-**[00:46:28](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-46-12)**
-> "... that are so deceived, like a Candace (Candace (Candace Owens) Owens) and like a Nick F..."
-
-**[00:46:28](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-46-12)**
-> "... so deceived, like a Candace (Candace (Candace Owens) Owens) and like a Nick Fuentes, a..."
-
-**[00:47:55](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-47-38)**
-> "...Fuentes and Candace (Candace (Candace Owens) Owens) and the modern created state of Israel."
-
-**[00:47:55](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-47-38)**
-> "...it was about Nick Fuentes and Candace (Candace (Candace Owens) Owens) and the modern cr..."
-
-**[00:47:55](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-47-38)**
-> "...out Nick Fuentes and Candace (Candace (Candace Owens) Owens) and the modern created sta..."
-
-**[00:49:01](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-48-57)**
-> "...Fuentes and Candace (Candace (Candace Owens) Owens)—that defilement has now come off of you, ..."
-
-**[00:49:01](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-48-57)**
-> "...o chamber of Nick Fuentes and Candace (Candace (Candace Owens) Owens)—that defilement h..."
-
-**[00:49:01](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-48-57)**
-> "... of Nick Fuentes and Candace (Candace (Candace Owens) Owens)—that defilement has now co..."
-
-**[00:56:05](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-55-55)**
-> "... was like, "Candace (Candace (Candace Owens) Owens), you said your name wrong.""
-
-**[00:56:05](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-55-55)**
-> "...e me a message and was like, "Candace (Candace (Candace Owens) Owens), you said your na..."
-
-**[00:56:05](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-55-55)**
-> "...ssage and was like, "Candace (Candace (Candace Owens) Owens), you said your name wrong...."
-
-**[00:56:50](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-56-38)**
-> "...our safety, Candace (Candace (Candace Owens) Owens)."
-
-**[00:56:50](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-56-38)**
-> "...es, "Praying for your safety, Candace (Candace (Candace Owens) Owens)."
-
-**[00:56:50](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-00-56-38)**
-> "...ing for your safety, Candace (Candace (Candace Owens) Owens)."
-
-**[01:00:50](/episodes/ep-ozWJz2spBcI.md#ent-person-candace-owens-t-01-00-09)**
-> "Thank you, Candace (Candace (Candace Owens) Owens), for being our voice.""
-
 </details>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (42 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (18 mentions)</summary>
 
 **[00:00:58](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-00-42)**
 > "...at she does for a living is even more interesting. Our witness tree grows. Welcome back to Candace (Candace Owens). Okay, I need you guys locked in because things are becoming increasingly interesting, okay? Yeste..."
@@ -3723,6 +2358,18 @@ _Type: People_
 **[00:11:23](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-11-19)**
 > "...e hate list. Candace Owens is on there though. I'm sure you guys go to bed and you're worried about Candace Owens and not the people that are carving freaking swastikas on their head and murdering people. Okay. Th..."
 
+**[00:26:12](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-26-12)**
+> "...u can use promo code Candace (Candace Owens) at checkout and you'll get $20 off your first or..."
+
+**[00:26:19](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-26-12)**
+> "...dRanch.com and use promo code Candace (Candace Owens) at checkout."
+
+**[00:27:26](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-26-54)**
+> "...ck it out at pplx.ai/Candace (Candace Owens)."
+
+**[00:27:31](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-26-54)**
+> "...gain, that's pplx.ai/Candace (Candace Owens)."
+
 **[00:34:52](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-34-19)**
 > "...rmer federal prosecutors, and she's hiring a firm here. Why? Because the next option is if Candace (Candace Owens) didn't shut up, we're gonna bankrupt her. These are the people that want you to believe they're su..."
 
@@ -3731,6 +2378,12 @@ _Type: People_
 
 **[00:39:31](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-39-23)**
 > "...hing that we are saying about what took place in Orem on that day. Tips does not include, “Candace (Candace Owens), have you seen this theory? Watch this TikTok.” Please, guys. We are trying not to have our inbox ..."
+
+**[00:40:57](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-40-48)**
+> "...my listeners, if you use code CANDACE at checkout, you'll get an extra 10% off your fir..."
+
+**[00:41:12](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-40-48)**
+> "...Coffee.com and use promo code CANDACE today."
 
 **[00:43:38](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-43-38)**
 > "...ng that it's not left or right anymore and said, “Well, look, Megyn, now you should attack Candace (Candace Owens) because she's allied with the left.” Yep, I am allied with the left and the right. Any person that..."
@@ -3747,106 +2400,28 @@ _Type: People_
 **[00:52:43](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-52-17)**
 > "...essed. KL Blarson writes, “You are one of the few real journalists that has any integrity, Candace (Candace Owens), and you are one of Charlie (Charlie Kirk)'s few true friends. You have bigger balls than Mrs. Mac..."
 
-**[00:00:58](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-00-42)**
-> "Welcome back to Candace (Candace Owens)."
-
-**[00:07:00](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-06-24)**
-> "“Candace (Candace Owens), as they always say, she must be suffering from ..."
-
-**[00:11:21](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-11-19)**
-> "Candace (Candace Owens) is on there though."
-
-**[00:11:23](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-11-19)**
-> "...you're worried about Candace (Candace Owens) and not the people that are carving freaking swa..."
-
-**[00:11:23](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-11-19)**
-> "... bed and you're worried about Candace (Candace Owens) and not the people that are carvi..."
-
-**[00:26:12](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-26-12)**
-> "...u can use promo code Candace (Candace Owens) at checkout and you'll get $20 off your first or..."
-
-**[00:26:12](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-26-12)**
-> "...ch.com you can use promo code Candace (Candace Owens) at checkout and you'll get $20 of..."
-
-**[00:26:19](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-26-12)**
-> "...m and use promo code Candace (Candace Owens) at checkout."
-
-**[00:26:19](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-26-12)**
-> "...dRanch.com and use promo code Candace (Candace Owens) at checkout."
-
-**[00:27:26](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-26-54)**
-> "...ck it out at pplx.ai/Candace (Candace Owens)."
-
-**[00:27:26](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-26-54)**
-> "Check it out at pplx.ai/Candace (Candace Owens)."
-
-**[00:27:31](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-26-54)**
-> "...gain, that's pplx.ai/Candace (Candace Owens)."
-
-**[00:27:31](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-26-54)**
-> "Again, that's pplx.ai/Candace (Candace Owens)."
-
-**[00:34:52](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-34-19)**
-> "...he next option is if Candace (Candace Owens) didn't shut up, we're gonna bankrupt her."
-
-**[00:34:52](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-34-19)**
-> "Because the next option is if Candace (Candace Owens) didn't shut up, we're gonna bankr..."
-
-**[00:37:16](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-37-13)**
-> "...urning Point USA and Candace (Candace Owens)."
-
-**[00:37:16](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-37-13)**
-> "...rk) and Turning Point USA and Candace (Candace Owens)."
-
-**[00:39:31](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-39-23)**
-> "...s does not include, “Candace (Candace Owens), have you seen this theory?"
-
-**[00:39:31](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-39-23)**
-> "Tips does not include, “Candace (Candace Owens), have you seen this theory?"
-
-**[00:40:57](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-40-48)**
-> "...my listeners, if you use code CANDACE at checkout, you'll get an extra 10% off your fir..."
-
-**[00:41:12](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-40-48)**
-> "...Coffee.com and use promo code CANDACE today."
-
-**[00:43:38](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-43-38)**
-> "...ow you should attack Candace (Candace Owens) because she's allied with the left.”"
-
-**[00:43:38](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-43-38)**
-> "...Kelly), now you should attack Candace (Candace Owens) because she's allied with the lef..."
-
-**[00:46:13](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-45-49)**
-> "...ssandra writes, “Hi, Candace (Candace Owens)."
-
-**[00:46:13](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-45-49)**
-> "Cassandra writes, “Hi, Candace (Candace Owens)."
-
-**[00:46:59](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-46-32)**
-> "Marzi writes, “Hey, Candace (Candace Owens), did you see Theo Von's viral clip about letting..."
-
-**[00:51:17](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-50-50)**
-> "...g that you're doing, Candace (Candace Owens)."
-
-**[00:51:17](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-50-50)**
-> "...everything that you're doing, Candace (Candace Owens)."
-
-**[00:52:43](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-52-17)**
-> "...t has any integrity, Candace (Candace Owens), and you are one of Charlie (Charlie Kirk)'s few..."
-
-**[00:52:43](/episodes/ep-t1YtLS1n8Vs.md#ent-person-candace-owens-t-00-52-17)**
-> "...lists that has any integrity, Candace (Candace Owens), and you are one of Charlie (Char..."
-
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (47 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (19 mentions)</summary>
 
 **[00:00:36](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-00-36)**
 > "...and demanding that she make a statement against me and Tucker (Tucker Carlson), of course, Candace (Candace Owens) and Tucker (Tucker Carlson). It is so bonkers. I got to show you what they are saying to her. Befo..."
 
+**[00:01:13](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-00-36)**
+> "Welcome back to Candace."
+
 **[00:15:27](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-14-46)**
 > "...en an accomplice. Do you mind letting me see the raw footage so that I can hand it over to Candace (Candace Owens)? In fact, how about just giving me any of the footage that your family rushed to give to TMZ? Why ..."
+
+**[00:25:34](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-25-15)**
+> "...irst order at paleovalley.com/Candace with code CANDACE at checkout."
+
+**[00:25:40](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-25-15)**
+> "That's paleovalley.com/Candace."
+
+**[00:25:43](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-25-15)**
+> "Use promo code CANDACE at checkout."
 
 **[00:27:33](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-27-09)**
 > "...th Charlie's (Charlie Kirk) assassination and with the kind of trajectory that we see with Candace (Candace Owens) and Tucker (Tucker Carlson), I guess I'm curious about what's another game plan if we lose evangel..."
@@ -3887,106 +2462,22 @@ _Type: People_
 **[00:48:33](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-48-10)**
 > "... in the media. Now they planted a fake letter in the same New York Post and their minions. Candace (Candace Owens) must be up to something. Yeah, I know who had access to Charlie's (Charlie Kirk) laptop. And I hav..."
 
-**[00:00:36](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-00-36)**
-> "...Carlson), of course, Candace (Candace Owens) and Tucker (Tucker Carlson)."
-
-**[00:00:36](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-00-36)**
-> "... (Tucker Carlson), of course, Candace (Candace Owens) and Tucker (Tucker Carlson)."
-
-**[00:01:13](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-00-36)**
-> "Welcome back to Candace."
-
-**[00:15:27](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-14-46)**
-> "... can hand it over to Candace (Candace Owens)?"
-
-**[00:15:27](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-14-46)**
-> "so that I can hand it over to Candace (Candace Owens)?"
-
-**[00:25:34](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-25-15)**
-> "...irst order at paleovalley.com/Candace with code CANDACE at checkout."
-
-**[00:25:34](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-25-15)**
-> "...ovalley.com/Candace with code CANDACE at checkout."
-
-**[00:25:40](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-25-15)**
-> "That's paleovalley.com/Candace."
-
-**[00:25:43](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-25-15)**
-> "Use promo code CANDACE at checkout."
-
-**[00:27:33](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-27-09)**
-> "...ory that we see with Candace (Candace Owens) and Tucker (Tucker Carlson), I guess I'm curious..."
-
-**[00:27:33](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-27-09)**
-> "...f trajectory that we see with Candace (Candace Owens) and Tucker (Tucker Carlson), I gu..."
-
-**[00:27:54](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-27-51)**
-> "...(Tucker Carlson) and Candace (Candace Owens)?"
-
-**[00:27:54](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-27-51)**
-> "...s Tucker (Tucker Carlson) and Candace (Candace Owens)?"
-
-**[00:28:09](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-27-51)**
-> "...(Tucker Carlson) and Candace (Candace Owens)."
-
-**[00:28:09](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-27-51)**
-> "Tucker (Tucker Carlson) and Candace (Candace Owens)."
-
-**[00:28:10](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-27-51)**
-> "...(Tucker Carlson) and Candace (Candace Owens), over and over again."
-
-**[00:28:10](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-27-51)**
-> "Tucker (Tucker Carlson) and Candace (Candace Owens), over and over again."
-
-**[00:35:01](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-35-01)**
-> "...parate yourself from Candace (Candace Owens), many of us are going to separate ourselves from..."
-
-**[00:35:01](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-35-01)**
-> "... can't separate yourself from Candace (Candace Owens), many of us are going to separate..."
-
-**[00:35:37](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-35-01)**
-> "...u need me to condemn Candace (Candace Owens) or Tucker (Tucker Carlson) for their opinions in..."
-
-**[00:35:37](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-35-01)**
-> "If you need me to condemn Candace (Candace Owens) or Tucker (Tucker Carlson) for th..."
-
-**[00:36:32](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-36-19)**
-> "If you agree with Candace (Candace Owens) and Tucker (Tucker Carlson), people will respect..."
-
-**[00:39:01](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-38-34)**
-> "...ng statement against Candace (Candace Owens), Tucker (Tucker Carlson), when we demand it."
-
-**[00:39:01](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-38-34)**
-> "...ng a strong statement against Candace (Candace Owens), Tucker (Tucker Carlson), when we..."
-
-**[00:41:59](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-41-25)**
-> "It reads, dear Candace (Candace Owens), tonight, which is September 30th, 2025, several..."
-
-**[00:44:39](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-44-06)**
-> "...l Parhas writes, hey Candace (Candace Owens), would you want to debate the more prominent com..."
-
-**[00:44:39](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-44-06)**
-> "Basil Parhas writes, hey Candace (Candace Owens), would you want to debate the mor..."
-
-**[00:45:51](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-45-31)**
-> "... am praying for you, Candace (Candace Owens), and I'm grateful for this reporting."
-
-**[00:45:51](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-45-31)**
-> "I am praying for you, Candace (Candace Owens), and I'm grateful for this report..."
-
-**[00:48:23](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-48-10)**
-> "...alse statement about Candace (Candace Owens) not being friends with Charlie (Charlie Kirk)."
-
-**[00:48:23](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-48-10)**
-> "... made a false statement about Candace (Candace Owens) not being friends with Charlie (C..."
-
-**[00:48:33](/episodes/ep-adJ4LNGp84I.md#ent-person-candace-owens-t-00-48-10)**
-> "Candace (Candace Owens) must be up to something."
-
 </details>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (20 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (10 mentions)</summary>
+
+**[00:01:11](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-00-39)**
+> "So welcome back to Candace."
+
+**[00:09:46](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-09-32)**
+> "Nobody in the whole wide Candace universe of investigation. It was making me belie..."
+
+**[00:27:07](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-26-45)**
+> "...ead to BeekeepersNaturals.com/Candace, or you can enter code CANDACE at checkout, and y..."
+
+**[00:27:26](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-27-26)**
+> "...that's BeekeepersNaturals.com/Candace; enter code CANDACE."
 
 **[00:36:33](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-36-10)**
 > "...h donors. Can you guys answer? Did he express that? Did he also express that he wanted to bring me, Candace Owens, back because he was standing up for himself? And then did he—just 48 hours later—conveniently catc..."
@@ -4006,64 +2497,10 @@ _Type: People_
 **[00:46:26](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-46-26)**
 > "...d I appreciate all of your support. Marzi, thank you for your support. Marzi writes, "Hey, Candace (Candace Owens), in my super chat yesterday, I got keyholing and internal bullet bouncing confused." Oh, okay. I r..."
 
-**[00:01:11](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-00-39)**
-> "So welcome back to Candace."
-
-**[00:09:46](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-09-32)**
-> "Nobody in the whole wide Candace universe of investigation. It was making me belie..."
-
-**[00:27:07](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-26-45)**
-> "...ead to BeekeepersNaturals.com/Candace, or you can enter code CANDACE at checkout, and y..."
-
-**[00:27:07](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-26-45)**
-> "...andace, or you can enter code CANDACE at checkout, and you'll get 20% off your order."
-
-**[00:27:26](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-27-26)**
-> "...that's BeekeepersNaturals.com/Candace; enter code CANDACE."
-
-**[00:27:26](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-27-26)**
-> "...urals.com/Candace; enter code CANDACE."
-
-**[00:36:33](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-36-10)**
-> "...s that he wanted to bring me, Candace Owens, back because he was standing up for himself?"
-
-**[00:38:27](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-38-04)**
-> "become Candace Owens (Candace Owens) and Tucker Carlson (Tucker Carlso..."
-
-**[00:42:57](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-42-16)**
-> "... wish out there—"Oh, Candace (Candace Owens), like, jump into politics"—"
-
-**[00:42:57](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-42-16)**
-> "... a little wish out there—"Oh, Candace (Candace Owens), like, jump into politics"—"
-
-**[00:45:32](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-44-59)**
-> "...ocating for a weekly Candace (Candace Owens) crash-out followed by 'I'd like to apologize for..."
-
-**[00:45:32](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-44-59)**
-> "...tes, "Advocating for a weekly Candace (Candace Owens) crash-out followed by 'I'd like t..."
-
-**[00:46:12](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-45-44)**
-> "Natalie writes, "Candace (Candace Owens), I am giddy AF watching you today.""
-
-**[00:46:26](/episodes/ep-YA1FxrDWNIo.md#ent-person-candace-owens-t-00-46-26)**
-> "Marzi writes, "Hey, Candace (Candace Owens), in my super chat yesterday, I got keyholing and..."
-
 </details>
 
 <details>
-<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (16 mentions)</summary>
-
-**[00:25:39](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-candace-owens-t-00-25-02)**
-> "...ind of—he kind of became my boots on the ground. He's like, “Hey, I go to UVU. I'm a major Candace (Candace Owens) fan. I want to help in any way that I can.” Okay, so that's how that happened. That was really— An..."
-
-**[00:37:50](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-candace-owens-t-00-37-15)**
-> "...me a tip that you guys saw me receive live on the show. Someone paid—a woman paid—to say, “Candace (Candace Owens), there's more footage of the shooter on that day. And you should know that that shooter was with a..."
-
-**[00:50:11](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-candace-owens-t-00-49-47)**
-> "... never even heard about keyholing—so thank you for sharing that. Caitlin Derrigan writes: “Candace (Candace Owens), as a journalism student with an insatiable thirst for the truth, you are a true model of real jou..."
-
-**[00:51:39](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-candace-owens-t-00-51-14)**
-> "...n's office; her sister got her the hit—on Good Morning America. Kristen Theorette writes: “Candace (Candace Owens), I am so sorry for the loss of your dear friend. I agree that it's weird that the people closest t..."
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (9 mentions)</summary>
 
 **[00:00:38](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-candace-owens-t-00-00-00)**
 > "Welcome back to Candace."
@@ -4081,30 +2518,21 @@ _Type: People_
 > "Again, visit tnusa.com/Candace or call 1-800-958-1000."
 
 **[00:25:39](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-candace-owens-t-00-25-02)**
-> "I'm a major Candace (Candace Owens) fan. I want to help in any way that I can.”"
+> "...ind of—he kind of became my boots on the ground. He's like, “Hey, I go to UVU. I'm a major Candace (Candace Owens) fan. I want to help in any way that I can.” Okay, so that's how that happened. That was really— An..."
 
 **[00:37:50](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-candace-owens-t-00-37-15)**
-> "... woman paid—to say, “Candace (Candace Owens), there's more footage of the shooter on that day..."
-
-**[00:37:50](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-candace-owens-t-00-37-15)**
-> "...ne paid—a woman paid—to say, “Candace (Candace Owens), there's more footage of the shoo..."
+> "...me a tip that you guys saw me receive live on the show. Someone paid—a woman paid—to say, “Candace (Candace Owens), there's more footage of the shooter on that day. And you should know that that shooter was with a..."
 
 **[00:50:11](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-candace-owens-t-00-49-47)**
-> "...in Derrigan writes: “Candace (Candace Owens), as a journalism student with an insatiable thir..."
-
-**[00:50:11](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-candace-owens-t-00-49-47)**
-> "Caitlin Derrigan writes: “Candace (Candace Owens), as a journalism student with an ..."
+> "... never even heard about keyholing—so thank you for sharing that. Caitlin Derrigan writes: “Candace (Candace Owens), as a journalism student with an insatiable thirst for the truth, you are a true model of real jou..."
 
 **[00:51:39](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-candace-owens-t-00-51-14)**
-> "...n Theorette writes: “Candace (Candace Owens), I am so sorry for the loss of your dear friend."
-
-**[00:51:39](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-candace-owens-t-00-51-14)**
-> "Kristen Theorette writes: “Candace (Candace Owens), I am so sorry for the loss of yo..."
+> "...n's office; her sister got her the hit—on Good Morning America. Kristen Theorette writes: “Candace (Candace Owens), I am so sorry for the loss of your dear friend. I agree that it's weird that the people closest t..."
 
 </details>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (40 mentions)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (16 mentions)</summary>
 
 **[00:00:47](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-00-45)**
 > "...a worldwide investigation. So I wanna assist wherever it is that I can. So welcome back to Candace (Candace Owens). There's a lot of leaking going on right now, and I've been very clear that everything in my soul ..."
@@ -4114,6 +2542,12 @@ _Type: People_
 
 **[00:15:23](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-14-44)**
 > "... to make sure it lines up with my federal timeline that I must be creating." If little old Candace (Candace Owens) is doing it, then I'm sure the feds at the top are definitely creating a second-by-second timeline..."
+
+**[00:26:08](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-25-49)**
+> "...ight now at pdsdebt.com slash Candace."
+
+**[00:26:10](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-25-49)**
+> "...ain, that's pdsdebt.com slash Candace, pdsdebt.com."
 
 **[00:26:17](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-25-49)**
 > "...ace, pdsdebt.com. Okay, I want to at first address, because I've received so many emails. "Candace (Candace Owens), have you seen this? Have you watched this?" And it is Range Day Bro on YouTube. And the video is ..."
@@ -4148,106 +2582,16 @@ _Type: People_
 **[00:44:00](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-43-37)**
 > "...a Kirk) actually recently started following me. It was another thing that they were like, "Candace (Candace Owens) doesn't even follow Charlie (Charlie Kirk)." Yeah, because I unfollowed everyone. When I announced..."
 
-**[00:00:47](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-00-45)**
-> "So welcome back to Candace (Candace Owens)."
-
-**[00:09:52](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-09-14)**
-> "...hing, they're like, "Candace (Candace Owens), you are absolutely guilty of breaking into my c..."
-
-**[00:09:52](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-09-14)**
-> "...y of anything, they're like, "Candace (Candace Owens), you are absolutely guilty of bre..."
-
-**[00:15:23](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-14-44)**
-> "If little old Candace (Candace Owens) is doing it, then I'm sure the feds at the top a..."
-
-**[00:26:08](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-25-49)**
-> "...ight now at pdsdebt.com slash Candace."
-
-**[00:26:10](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-25-49)**
-> "...ain, that's pdsdebt.com slash Candace, pdsdebt.com."
-
-**[00:26:17](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-25-49)**
-> ""Candace (Candace Owens), have you seen this?"
-
-**[00:37:45](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-37-25)**
-> "...promo code, which is Candace (Candace Owens), at checkout."
-
-**[00:37:45](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-37-25)**
-> "...u use my promo code, which is Candace (Candace Owens), at checkout."
-
-**[00:37:56](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-37-25)**
-> "...m and use promo code Candace (Candace Owens) at checkout."
-
-**[00:37:56](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-37-25)**
-> "...Health.com and use promo code Candace (Candace Owens) at checkout."
-
-**[00:38:04](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-37-25)**
-> "...lly Martini writes, "Candace (Candace Owens), you are the epitome of truth.""
-
-**[00:38:04](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-37-25)**
-> "Kelly Martini writes, "Candace (Candace Owens), you are the epitome of truth.""
-
-**[00:38:39](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-38-08)**
-> "... writes, "Thank you, Candace (Candace Owens), for the work that you have put into telling us ..."
-
-**[00:38:39](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-38-08)**
-> "...d Journey writes, "Thank you, Candace (Candace Owens), for the work that you have put i..."
-
-**[00:39:58](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-39-27)**
-> "... "Why do I feel like Candace (Candace Owens) is the only one—""
-
-**[00:39:58](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-39-27)**
-> "...e's like, "Why do I feel like Candace (Candace Owens) is the only one—""
-
-**[00:40:04](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-39-27)**
-> ""Why do I feel like Candace (Candace Owens) is the only one that actually cared about Charli..."
-
-**[00:40:33](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-40-06)**
-> "...nz), "It's wild that Candace (Candace Owens) is the only right-wing figure that I've seen pos..."
-
-**[00:40:33](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-40-06)**
-> "...ylor Lorenz), "It's wild that Candace (Candace Owens) is the only right-wing figure tha..."
-
-**[00:40:53](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-40-46)**
-> "...the pond in Ireland, Candace (Candace Owens), and keep up the great work."
-
-**[00:40:53](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-40-46)**
-> "...m across the pond in Ireland, Candace (Candace Owens), and keep up the great work."
-
-**[00:43:46](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-43-37)**
-> "...k world, as are you, Candace (Candace Owens)."
-
-**[00:43:46](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-43-37)**
-> "... this dark world, as are you, Candace (Candace Owens)."
-
-**[00:44:00](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-43-37)**
-> "...hat they were like, "Candace (Candace Owens) doesn't even follow Charlie (Charlie Kirk).""
-
-**[00:44:00](/episodes/ep-K5GjF53bfN4.md#ent-person-candace-owens-t-00-43-37)**
-> "...r thing that they were like, "Candace (Candace Owens) doesn't even follow Charlie (Char..."
-
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (14 mentions)</summary>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (10 mentions)</summary>
 
 **[00:01:00](/episodes/ep-QZWSsq8ZWzw.md#ent-person-candace-owens-t-00-00-45)**
 > "... going to be just the beginning of our coverage regarding what we know. So welcome back to Candace (Candace Owens). Okay, so let's start with the breaking news. I don't even know if it's considered breaking news w..."
 
 **[00:21:55](/episodes/ep-QZWSsq8ZWzw.md#ent-person-candace-owens-t-00-21-55)**
 > "... hate you if you are on the left, and if you are on the left, the goal is to make you hate Candace (Candace Owens) because it allows them to operate in broad daylight. The reality of Thomas Matthew Crooks is going..."
-
-**[00:31:05](/episodes/ep-QZWSsq8ZWzw.md#ent-person-candace-owens-t-00-30-51)**
-> "...ose beliefs anyway. People who I never would have imagined, like Ben Shapiro, Clay Travis, Candace (Candace Owens), Mitch McConnell, Rand Paul—even my old pal Ted Cruz, who, believe it or not, said something very ..."
-
-**[00:41:16](/episodes/ep-QZWSsq8ZWzw.md#ent-person-candace-owens-t-00-41-10)**
-> "... And also our Spanish YouTube is live. You guys have been asking for that. Spanish YouTube is live. Candace Owens en Español. That's it: @CandaceOwensenEspanol. So happy hunting there. Okay, you guys. We also have..."
-
-**[00:01:00](/episodes/ep-QZWSsq8ZWzw.md#ent-person-candace-owens-t-00-00-45)**
-> "...t we know. So welcome back to Candace Owens."
-
-**[00:21:55](/episodes/ep-QZWSsq8ZWzw.md#ent-person-candace-owens-t-00-21-55)**
-> "... the goal is to make you hate Candace Owens because it allows them to operate in broad daylig..."
 
 **[00:29:44](/episodes/ep-QZWSsq8ZWzw.md#ent-person-candace-owens-t-00-29-09)**
 > "So you can head to TWC.health/CANDACE today."
@@ -4262,7 +2606,7 @@ _Type: People_
 > "Use code CANDACE for $48 off."
 
 **[00:31:05](/episodes/ep-QZWSsq8ZWzw.md#ent-person-candace-owens-t-00-30-51)**
-> "...ike Ben Shapiro, Clay Travis, Candace Owens, Mitch McConnell, Rand Paul—even my old pal Ted C..."
+> "...ose beliefs anyway. People who I never would have imagined, like Ben Shapiro, Clay Travis, Candace (Candace Owens), Mitch McConnell, Rand Paul—even my old pal Ted Cruz, who, believe it or not, said something very ..."
 
 **[00:39:14](/episodes/ep-QZWSsq8ZWzw.md#ent-person-candace-owens-t-00-38-57)**
 > "If you use my promo code CANDACE at HomeTitleLock.com, you'll get a free title his..."
@@ -4271,12 +2615,27 @@ _Type: People_
 > "... HomeTitleLock.com—promo code CANDACE—or use the link below."
 
 **[00:41:16](/episodes/ep-QZWSsq8ZWzw.md#ent-person-candace-owens-t-00-41-10)**
-> "Candace Owens en Español."
+> "... And also our Spanish YouTube is live. You guys have been asking for that. Spanish YouTube is live. Candace Owens en Español. That's it: @CandaceOwensenEspanol. So happy hunting there. Okay, you guys. We also have..."
 
 </details>
 
 <details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (43 mentions)</summary>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (19 mentions)</summary>
+
+**[00:01:13](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-01-13)**
+> "Anyway, welcome back to Candace."
+
+**[00:28:24](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-27-49)**
+> "...ife by heading to preborn.org/Candace right now."
+
+**[00:28:35](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-28-34)**
+> "Again, it is preborn.org/Candace to provide an ultrasound for just $28."
+
+**[00:29:38](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-29-18)**
+> "...to CozyEarth.com and use code Candace at checkout for up to 40% off your new favorite p..."
+
+**[00:29:42](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-29-18)**
+> "CozyEarth.com, use code Candace, and you will elevate your downtime with Cozy Ear..."
 
 **[00:42:50](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-42-50)**
 > "...ot asked if, you know, from somebody in the audience, if he was going to, you know, debate Candace (Candace Owens) or, you know, disavow Tucker (Tucker Carlson), and Tucker—and Charlie (Charlie Kirk)'s answer I th..."
@@ -4305,6 +2664,12 @@ _Type: People_
 **[00:44:58](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-44-58)**
 > "...with us? Shouldn't you want me to also be a tool of influence? And so I think the world of Candace (Candace Owens). She's a great mother. She certainly has very, very fun opinions at times, and she's a great talen..."
 
+**[00:52:03](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-51-50)**
+> "...Space. Head to SaunaSpace.com/Candace and use code Candace, and you'll get a special 10..."
+
+**[00:52:09](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-51-50)**
+> "Again, that's SaunaSpace.com/Candace—use code Candace at checkout."
+
 **[00:57:46](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-57-29)**
 > "...ake us believe them more. It's a nonsense—a terrible idea. Mary Kelly writes, "I love you, Candace (Candace Owens). You are my Joan of Arc. Prayers for you and your family. Flame of Love Rosaries." Thank you so mu..."
 
@@ -4314,103 +2679,22 @@ _Type: People_
 **[01:01:04](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-01-00-56)**
 > "...e some of those funny personal stories like your daughter forgetting her makeup. Love you, Candace (Candace Owens)." Yeah, she is—that one's got quite the imagination. My daughter—she—my favorite thing that kids d..."
 
-**[00:01:13](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-01-13)**
-> "Anyway, welcome back to Candace."
-
-**[00:28:24](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-27-49)**
-> "...ife by heading to preborn.org/Candace right now."
-
-**[00:28:35](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-28-34)**
-> "Again, it is preborn.org/Candace to provide an ultrasound for just $28."
-
-**[00:29:38](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-29-18)**
-> "...to CozyEarth.com and use code Candace at checkout for up to 40% off your new favorite p..."
-
-**[00:29:42](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-29-18)**
-> "CozyEarth.com, use code Candace, and you will elevate your downtime with Cozy Ear..."
-
-**[00:42:50](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-42-50)**
-> "...to, you know, debate Candace (Candace Owens) or, you know, disavow Tucker (Tucker Carlson), a..."
-
-**[00:42:50](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-42-50)**
-> "...as going to, you know, debate Candace (Candace Owens) or, you know, disavow Tucker (Tuc..."
-
-**[00:43:47](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-43-33)**
-> "...ing, I'm gonna bring Candace (Candace Owens) back."
-
-**[00:43:47](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-43-33)**
-> "...r and saying, I'm gonna bring Candace (Candace Owens) back."
-
-**[00:44:09](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-44-09)**
-> "...ur relationship with Candace (Candace Owens)?"
-
-**[00:44:09](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-44-09)**
-> "How is your relationship with Candace (Candace Owens)?"
-
-**[00:44:17](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-44-14)**
-> "...gree with everything Candace (Candace Owens) says, but you know what I don't do?"
-
-**[00:44:17](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-44-14)**
-> "...I don't agree with everything Candace (Candace Owens) says, but you know what I don't d..."
-
-**[00:44:24](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-44-14)**
-> "...t views on things as Candace (Candace Owens)."
-
-**[00:44:24](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-44-14)**
-> "... different views on things as Candace (Candace Owens)."
-
-**[00:44:27](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-44-14)**
-> "...views on Israel than Candace (Candace Owens)."
-
-**[00:44:27](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-44-14)**
-> "...ifferent views on Israel than Candace (Candace Owens)."
-
-**[00:44:33](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-44-14)**
-> "...led the country with Candace (Candace Owens)."
-
-**[00:44:33](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-44-14)**
-> "..., I traveled the country with Candace (Candace Owens)."
-
-**[00:44:40](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-44-14)**
-> "... went to Israel with Candace (Candace Owens), which is a fun story I'll tell you at some poin..."
-
-**[00:44:40](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-44-14)**
-> "I went to Israel with Candace (Candace Owens), which is a fun story I'll tell y..."
-
-**[00:44:58](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-44-58)**
-> "...I think the world of Candace (Candace Owens). She's a great mother."
-
-**[00:44:58](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-44-58)**
-> "And so I think the world of Candace (Candace Owens). She's a great mother."
-
-**[00:52:03](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-51-50)**
-> "...Space. Head to SaunaSpace.com/Candace and use code Candace, and you'll get a special 10..."
-
-**[00:52:03](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-51-50)**
-> "...pace.com/Candace and use code Candace, and you'll get a special 10% discount."
-
-**[00:52:09](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-51-50)**
-> "Again, that's SaunaSpace.com/Candace—use code Candace at checkout."
-
-**[00:52:09](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-51-50)**
-> "...unaSpace.com/Candace—use code Candace at checkout."
-
-**[00:57:46](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-57-29)**
-> "...writes, "I love you, Candace (Candace Owens)."
-
-**[00:57:46](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-57-29)**
-> "...ry Kelly writes, "I love you, Candace (Candace Owens)."
-
-**[00:59:14](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-00-58-45)**
-> "Milana writes, "Hi, Candace (Candace Owens), I wait for your live every day and dread the we..."
-
-**[01:01:04](/episodes/ep-UBkFkg4UNY8.md#ent-person-candace-owens-t-01-00-56)**
-> "Love you, Candace (Candace Owens).""
-
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (45 mentions)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (19 mentions)</summary>
+
+**[00:24:44](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-24-44)**
+> "Go to preborn.org/Candace right now."
+
+**[00:25:00](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-24-44)**
+> "Again, that is preborn.org/Candace to provide an ultrasound for just $28."
+
+**[00:26:06](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-25-29)**
+> "... and save 20% with promo code Candace."
+
+**[00:26:19](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-26-14)**
+> "...iveHealth.com with promo code Candace."
 
 **[00:27:01](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-26-58)**
 > "... of her grift to monetize the murder of her quote-unquote best friend, Charlie Kirk (Charlie Kirk), Candace Owens (Candace Owens) is selling a CIA line of merchandise that is called the Candace Intelligence Agency..."
@@ -4457,115 +2741,10 @@ _Type: People_
 **[00:58:12](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-57-53)**
 > "...hen all the pastors one weekend got up on stage and were like, "Tucker Carlson (Tucker Carlson) and Candace Owens (Candace Owens)?" That is what I was told. That was 150 million dollars went into that. But I defin..."
 
-**[00:24:44](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-24-44)**
-> "Go to preborn.org/Candace right now."
-
-**[00:25:00](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-24-44)**
-> "Again, that is preborn.org/Candace to provide an ultrasound for just $28."
-
-**[00:26:06](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-25-29)**
-> "... and save 20% with promo code Candace."
-
-**[00:26:19](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-26-14)**
-> "...iveHealth.com with promo code Candace."
-
-**[00:27:01](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-26-58)**
-> "... Charlie Kirk (Charlie Kirk), Candace Owens (Candace Owens) is selling a CIA line of merchand..."
-
-**[00:27:01](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-26-58)**
-> "...Charlie Kirk), Candace Owens (Candace Owens) is selling a CIA line of merchandise that is cal..."
-
-**[00:27:01](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-26-58)**
-> "...erchandise that is called the Candace Intelligence Agency, which rips off the CIA name ..."
-
-**[00:27:22](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-26-58)**
-> "...with your CIA merch, Candace (Candace Owens)."
-
-**[00:27:22](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-26-58)**
-> "... the law with your CIA merch, Candace (Candace Owens)."
-
-**[00:27:31](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-26-58)**
-> "...chnically sue to get Candace (Candace Owens) to stop using their logo."
-
-**[00:27:31](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-26-58)**
-> "...IA can technically sue to get Candace (Candace Owens) to stop using their logo."
-
-**[00:29:48](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-29-48)**
-> "...e (Charlie Kirk) and Candace (Candace Owens) had a falling out."
-
-**[00:29:48](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-29-48)**
-> "...at Charlie (Charlie Kirk) and Candace (Candace Owens) had a falling out."
-
-**[00:29:52](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-29-48)**
-> "... talking trash about Candace (Candace Owens)—except he's not at all."
-
-**[00:29:52](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-29-48)**
-> "...e Kirk's) talking trash about Candace (Candace Owens)—except he's not at all."
-
-**[00:30:27](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-29-48)**
-> "... was actively pushing back on Candace Owens's (Candace Owens's) false narrative."
-
-**[00:30:27](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-29-48)**
-> "...hing back on Candace Owens's (Candace Owens's) false narrative."
-
-**[00:30:40](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-30-33)**
-> "Candace (Candace Owens) needs to say two things, and this will stop in i..."
-
-**[00:31:53](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-31-14)**
-> "Here's the exact tweet. (Candace Owens tweet)"
-
-**[00:32:54](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-32-41)**
-> ""Candace (Candace Owens) is not anti-Semitic." And that guy is not having..."
-
-**[00:32:58](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-32-41)**
-> "...we have to hear from Candace (Candace Owens).""
-
-**[00:32:58](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-32-41)**
-> "...rds that we have to hear from Candace (Candace Owens).""
-
-**[00:42:26](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-41-59)**
-> "I'm your friend, Candace (Candace Owens)."
-
-**[00:42:40](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-41-59)**
-> "...d, 'What happened to Candace (Candace Owens)?'"
-
-**[00:42:40](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-41-59)**
-> "... just said, 'What happened to Candace (Candace Owens)?'"
-
-**[00:48:29](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-48-05)**
-> "...ela Palacio writes: "Candace (Candace Owens), is Jack Posobiec trustworthy?"
-
-**[00:48:29](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-48-05)**
-> "Manuela Palacio writes: "Candace (Candace Owens), is Jack Posobiec trustworthy?"
-
-**[00:52:35](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-52-17)**
-> "Grateful for you, Candace (Candace Owens).""
-
-**[00:58:12](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-57-53)**
-> "... Carlson (Tucker Carlson) and Candace Owens (Candace Owens)?""
-
-**[00:58:12](/episodes/ep-ja26iltROkM.md#ent-person-candace-owens-t-00-57-53)**
-> "...r Carlson) and Candace Owens (Candace Owens)?""
-
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (25 mentions)</summary>
-
-**[00:24:35](/episodes/ep-aDlhjfW6hz8.md#ent-person-candace-owens-t-00-24-35)**
-> "... I can't even—like—this. Look at this journalist, Victoria Churchill, who reached out. She writes, "Candace Owens rages after being snubbed from the Charlie Kirk Memorial speaking roster." When did this happen? Li..."
-
-**[00:25:59](/episodes/ep-aDlhjfW6hz8.md#ent-person-candace-owens-t-00-25-59)**
-> "...s there in the room. You're on the board of Turning Point? Yeah. Okay. When's the last time you saw Candace Owens in person?" "Yeah. 2015." Oh wow, okay. Yeah. When's the last time she was at a Turning Point event..."
-
-**[00:26:42](/episodes/ep-aDlhjfW6hz8.md#ent-person-candace-owens-t-00-26-42)**
-> "... being biased, there's a—there's a—there's a—involved. There's a—no, no—at all question, proof that Candace Owens is nothing, has nothing to do. She would be—in a perfect world, if they didn't have this, what I al..."
-
-**[00:29:35](/episodes/ep-aDlhjfW6hz8.md#ent-person-candace-owens-t-00-29-16)**
-> "...o—this is like the strangest thing. We could pull up this website: Live Free Tour, Charlie Kirk and Candace Owens. Quiet breakup? What are we—why are we doing this? It's very strange. Here's all the places that we..."
-
-**[00:30:43](/episodes/ep-aDlhjfW6hz8.md#ent-person-candace-owens-t-00-30-43)**
-> "...ust way too involved, concerned about Turning Point USA, the future of Turning Point USA, attacking Candace Owens. And I think something sinister is going on here. How can you not see that? I also want to say this..."
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (19 mentions)</summary>
 
 **[00:00:39](/episodes/ep-aDlhjfW6hz8.md#ent-person-candace-owens-t-00-00-00)**
 > "Welcome back to Candace."
@@ -4594,26 +2773,23 @@ _Type: People_
 **[00:23:48](/episodes/ep-aDlhjfW6hz8.md#ent-person-candace-owens-t-00-23-17)**
 > "So head over to TWC.health/Candace today and use code CANDACE to save $48."
 
-**[00:23:48](/episodes/ep-aDlhjfW6hz8.md#ent-person-candace-owens-t-00-23-17)**
-> "...th/Candace today and use code CANDACE to save $48."
-
 **[00:23:56](/episodes/ep-aDlhjfW6hz8.md#ent-person-candace-owens-t-00-23-17)**
 > "TWC.health/Candace with code CANDACE for $48 off."
 
 **[00:24:35](/episodes/ep-aDlhjfW6hz8.md#ent-person-candace-owens-t-00-24-35)**
-> "...who reached out. She writes, "Candace Owens rages after being snubbed from the Charlie Kirk M..."
+> "... I can't even—like—this. Look at this journalist, Victoria Churchill, who reached out. She writes, "Candace Owens rages after being snubbed from the Charlie Kirk Memorial speaking roster." When did this happen? Li..."
 
 **[00:25:59](/episodes/ep-aDlhjfW6hz8.md#ent-person-candace-owens-t-00-25-59)**
-> "When's the last time you saw Candace Owens"
+> "...s there in the room. You're on the board of Turning Point? Yeah. Okay. When's the last time you saw Candace Owens in person?" "Yeah. 2015." Oh wow, okay. Yeah. When's the last time she was at a Turning Point event..."
 
 **[00:26:42](/episodes/ep-aDlhjfW6hz8.md#ent-person-candace-owens-t-00-26-42)**
-> "..., there's no question that if Candace Owens wasn't involved in this very quiet breakup, she w..."
+> "... being biased, there's a—there's a—there's a—involved. There's a—no, no—at all question, proof that Candace Owens is nothing, has nothing to do. She would be—in a perfect world, if they didn't have this, what I al..."
 
 **[00:29:35](/episodes/ep-aDlhjfW6hz8.md#ent-person-candace-owens-t-00-29-16)**
-> "...e Free Tour, Charlie Kirk and Candace Owens."
+> "...o—this is like the strangest thing. We could pull up this website: Live Free Tour, Charlie Kirk and Candace Owens. Quiet breakup? What are we—why are we doing this? It's very strange. Here's all the places that we..."
 
 **[00:30:43](/episodes/ep-aDlhjfW6hz8.md#ent-person-candace-owens-t-00-30-43)**
-> "... Turning Point USA, attacking Candace Owens."
+> "...ust way too involved, concerned about Turning Point USA, the future of Turning Point USA, attacking Candace Owens. And I think something sinister is going on here. How can you not see that? I also want to say this..."
 
 **[00:32:44](/episodes/ep-aDlhjfW6hz8.md#ent-person-candace-owens-t-00-32-05)**
 > "You can't just pretend Candace hasn't spoken to Charlie Kirk in years, but they'..."
@@ -4630,13 +2806,19 @@ _Type: People_
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (67 mentions)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (27 mentions)</summary>
 
 **[00:01:03](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-00-33)**
 > "...ng is much darker than I think any of us could have possibly imagined. So, welcome back to Candace (Candace Owens). We are pulling all of this together, and I'm going, "I don't even know where to begin." And I gue..."
 
 **[00:26:53](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-26-45)**
 > "...ation. Again, we are in full theory zone. I'm telling you what I'm hearing from locals. This is not Candace Owens' theory, but this would make more sense to me: that these were just guys that said, "Okay, if we fo..."
+
+**[00:30:53](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-30-30)**
+> "...% off when you use promo code Candace (Candace Owens) at fieldofgreens.com."
+
+**[00:30:57](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-30-30)**
+> "...fieldofgreens.com, promo code Candace (Candace Owens)."
 
 **[00:32:50](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-32-42)**
 > "...deos to tell people that I didn't kill him. That would be weird. Like, you would be like, "Candace (Candace Owens), that's very strange. Why do you feel like you need to say that?" If Tucker (Tucker Carlson) had t..."
@@ -4668,6 +2850,18 @@ _Type: People_
 **[00:47:34](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-47-14)**
 > "...e (Candace Owens) getting clicks.” You morons. You guys think we're that stupid? “How dare Candace (Candace Owens) get clicks as we get clicks off of Candace (Candace Owens) getting clicks.” It's so asinine. You'r..."
 
+**[00:49:34](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-49-21)**
+> "...0-958-1000 or visit tnusa.com/candace because you may have missed the tax deadline, but..."
+
+**[00:49:47](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-49-21)**
+> "...0-958-1000 or visit tnusa.com/candace."
+
+**[00:50:36](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-50-01)**
+> "...an use my promo code Candace (Candace Owens) at hometitlelock.com, and you'll get a free"
+
+**[00:50:41](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-50-01)**
+> "...hometitlelock.com, promo code Candace (Candace Owens), or use the link below."
+
 **[00:52:36](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-52-09)**
 > "...s to work forever and to own absolutely nothing. Krista Young, thank you for the donation. Candace (Candace Owens), something is not right, Krista writes. You are going to uncover the truth. They messed up, and we..."
 
@@ -4695,151 +2889,28 @@ _Type: People_
 **[00:59:20](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-58-37)**
 > "...s and hats and gear on our website and signed up. Just to be clear, the CIA stands for the Candace (Candace Owens) Intelligence Agency—which you see on the back of that, obviously—because we consider ourselves to ..."
 
-**[00:01:03](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-00-33)**
-> "So, welcome back to Candace (Candace Owens)."
-
-**[00:26:53](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-26-45)**
-> "This is not Candace (Candace Owens)' theory, but this would make more sense to me: t..."
-
-**[00:30:53](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-30-30)**
-> "...n you use promo code Candace (Candace Owens) at fieldofgreens.com."
-
-**[00:30:53](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-30-30)**
-> "...% off when you use promo code Candace (Candace Owens) at fieldofgreens.com."
-
-**[00:30:57](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-30-30)**
-> "...eens.com, promo code Candace (Candace Owens)."
-
-**[00:30:57](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-30-30)**
-> "...fieldofgreens.com, promo code Candace (Candace Owens)."
-
-**[00:32:50](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-32-42)**
-> "... you would be like, "Candace (Candace Owens), that's very strange."
-
-**[00:32:50](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-32-42)**
-> "Like, you would be like, "Candace (Candace Owens), that's very strange."
-
-**[00:37:18](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-37-04)**
-> "Candace (Candace Owens) lied."
-
-**[00:38:55](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-38-34)**
-> "...) had a breakup with Candace (Candace Owens).”"
-
-**[00:38:55](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-38-34)**
-> "...rlie Kirk) had a breakup with Candace (Candace Owens).”"
-
-**[00:39:21](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-38-58)**
-> "...he last time you saw Candace (Candace Owens)"
-
-**[00:39:21](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-38-58)**
-> "When's the last time you saw Candace (Candace Owens)"
-
-**[00:40:03](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-39-25)**
-> "... question—proof that Candace (Candace Owens) is nothing... has nothing to do... she would be—..."
-
-**[00:40:03](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-39-25)**
-> "...re's a—no question—proof that Candace (Candace Owens) is nothing... has nothing to do....."
-
-**[00:42:30](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-42-10)**
-> "...hey didn't want just Candace (Candace Owens)."
-
-**[00:42:30](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-42-10)**
-> "...is time they didn't want just Candace (Candace Owens)."
-
-**[00:44:36](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-44-23)**
-> "...a quiet breakup with Candace (Candace Owens) after she got too far down the rabbit hole for h..."
-
-**[00:44:36](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-44-23)**
-> "...irk) had a quiet breakup with Candace (Candace Owens) after she got too far down the ra..."
-
-**[00:47:11](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-46-31)**
-> "...st gonna all howl at Candace (Candace Owens) to try to distract her from looking into Charlie..."
-
-**[00:47:11](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-46-31)**
-> "... we're just gonna all howl at Candace (Candace Owens) to try to distract her from looki..."
-
-**[00:47:28](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-47-14)**
-> "...we get clicks off of Candace (Candace Owens) getting clicks.”"
-
-**[00:47:28](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-47-14)**
-> "...licks as we get clicks off of Candace (Candace Owens) getting clicks.”"
-
-**[00:47:34](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-47-14)**
-> "“How dare Candace (Candace Owens) get clicks as we get clicks off of Candace (Cand..."
-
-**[00:47:34](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-47-14)**
-> "...we get clicks off of Candace (Candace Owens) getting clicks.”"
-
-**[00:47:34](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-47-14)**
-> "...licks as we get clicks off of Candace (Candace Owens) getting clicks.”"
-
-**[00:49:34](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-49-21)**
-> "...0-958-1000 or visit tnusa.com/candace because you may have missed the tax deadline, but..."
-
-**[00:49:47](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-49-21)**
-> "...0-958-1000 or visit tnusa.com/candace."
-
-**[00:50:36](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-50-01)**
-> "...an use my promo code Candace (Candace Owens) at hometitlelock.com, and you'll get a free"
-
-**[00:50:36](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-50-01)**
-> "You can use my promo code Candace (Candace Owens) at hometitlelock.com, and you'll ..."
-
-**[00:50:41](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-50-01)**
-> "...lock.com, promo code Candace (Candace Owens), or use the link below."
-
-**[00:50:41](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-50-01)**
-> "...hometitlelock.com, promo code Candace (Candace Owens), or use the link below."
-
-**[00:52:36](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-52-09)**
-> "Candace (Candace Owens), something is not right, Krista writes."
-
-**[00:54:19](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-53-36)**
-> "She writes, "Candace (Candace Owens), you stay strong."
-
-**[00:54:56](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-54-20)**
-> "Keep going, Candace (Candace Owens)."
-
-**[00:55:14](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-55-05)**
-> "...tany Watson writes, "Candace (Candace Owens), you are like a crime-fighting superhero, solvin..."
-
-**[00:55:14](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-55-05)**
-> "Brittany Watson writes, "Candace (Candace Owens), you are like a crime-fighting su..."
-
-**[00:55:56](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-55-46)**
-> "...s writes, "I support Candace (Candace Owens).""
-
-**[00:55:56](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-55-46)**
-> "...ee Diglets writes, "I support Candace (Candace Owens).""
-
-**[00:57:18](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-57-13)**
-> "Keep going, Candace (Candace Owens).""
-
-**[00:57:36](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-57-13)**
-> "..."You are relentless, Candace (Candace Owens)."
-
-**[00:57:36](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-57-13)**
-> "... writes, "You are relentless, Candace (Candace Owens)."
-
-**[00:58:35](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-57-57)**
-> "...ia Martinez writes, "Candace (Candace Owens), you are divinely protected."
-
-**[00:58:35](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-57-57)**
-> "Cynthia Martinez writes, "Candace (Candace Owens), you are divinely protected."
-
-**[00:59:20](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-58-37)**
-> "...e CIA stands for the Candace (Candace Owens) Intelligence Agency—which you see on the back of..."
-
-**[00:59:20](/episodes/ep-sreYYcID-QY.md#ent-person-candace-owens-t-00-58-37)**
-> "...clear, the CIA stands for the Candace (Candace Owens) Intelligence Agency—which you see..."
-
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (46 mentions)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (22 mentions)</summary>
 
 **[00:02:05](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-01-28)**
 > ".... You shouldn't believe that. You shouldn't believe me when I say that. So welcome back to Candace (Candace Owens). I love vehicles. Love fast vehicles. I'm a big vehicle person, said nobody ever. The text message..."
+
+**[00:39:15](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-39-04)**
+> "... go to beekeepersnaturals.com/Candace or enter code Candace to get 20% off your order."
+
+**[00:39:27](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-39-04)**
+> "...E-E-K-E-E-P-E-R-Snaturals.com/Candace."
+
+**[00:39:33](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-39-04)**
+> "Enter code Candace at checkout."
+
+**[00:40:28](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-40-28)**
+> "... and save 20% with promo code Candace."
+
+**[00:40:42](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-40-28)**
+> "...stThriveHealth.com—promo code Candace."
 
 **[00:50:34](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-50-16)**
 > "...hat you have to do to survive." Okay. And then he just saw them moving into—it wasn't just Candace (Candace Owens). They wanted Tucker (Tucker Carlson). You know, "I like to talk to Tucker (Tucker Carlson)." "Tuck..."
@@ -4865,6 +2936,18 @@ _Type: People_
 **[00:57:16](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-56-56)**
 > "...ld be the friend to Charlie (Charlie Kirk) that he was to her. He would never have treated Candace (Candace Owens) or her family in such a way had—God forbid—this tragedy been hers. A friend loves at all times," a..."
 
+**[01:00:32](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-01-00-07)**
+> "...c.health/Candace and use code Candace, and you'll get 15% off plus free shipping."
+
+**[01:00:37](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-01-00-07)**
+> "Again, that is twc.health/Candace, and use code Candace to get 15% off plus free sh..."
+
+**[01:02:21](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-01-02-16)**
+> "...my listeners, if you use code Candace, you'll get an extra 10% off your first order."
+
+**[01:02:30](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-01-02-16)**
+> "...ekscoffee.com with promo code CANDACE today."
+
 **[01:02:59](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-01-02-16)**
 > "...have the footage of him walking back to his car after he's in the maroon. Caitlin writes: "Candace (Candace Owens), you're a force to be reckoned with. Thank God Charlie (Charlie Kirk) has you on his side. God ble..."
 
@@ -4877,124 +2960,10 @@ _Type: People_
 **[01:07:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-01-06-45)**
 > "...ised him from the dead, you will be saved." Amen. Alan Paulson writes: "Thank God for you, Candace (Candace Owens). I really am grateful for your shining a light on this federal corruption. I pray for justice for ..."
 
-**[00:02:05](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-01-28)**
-> "So welcome back to Candace (Candace Owens)."
-
-**[00:39:15](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-39-04)**
-> "... go to beekeepersnaturals.com/Candace or enter code Candace to get 20% off your order."
-
-**[00:39:15](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-39-04)**
-> "...als.com/Candace or enter code Candace to get 20% off your order."
-
-**[00:39:27](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-39-04)**
-> "...E-E-K-E-E-P-E-R-Snaturals.com/Candace."
-
-**[00:39:33](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-39-04)**
-> "Enter code Candace at checkout."
-
-**[00:40:28](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-40-28)**
-> "... and save 20% with promo code Candace."
-
-**[00:40:42](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-40-28)**
-> "...stThriveHealth.com—promo code Candace."
-
-**[00:50:34](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-50-16)**
-> "... into—it wasn't just Candace (Candace Owens)."
-
-**[00:50:34](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-50-16)**
-> "...em moving into—it wasn't just Candace (Candace Owens)."
-
-**[00:55:47](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-55-27)**
-> "...(Tucker Carlson) and Candace (Candace Owens), a source told me—and I would love to get this c..."
-
-**[00:55:47](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-55-27)**
-> "...r Tucker (Tucker Carlson) and Candace (Candace Owens), a source told me—and I would lov..."
-
-**[00:56:49](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-56-12)**
-> "Candace (Candace Owens) investigating things?"
-
-**[00:56:58](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-56-56)**
-> "...y say this regarding Candace (Candace Owens)."
-
-**[00:56:58](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-56-56)**
-> "... to simply say this regarding Candace (Candace Owens)."
-
-**[00:57:01](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-56-56)**
-> "...irk) was a friend to Candace (Candace Owens) and never publicly spoke poorly of her, though h..."
-
-**[00:57:01](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-56-56)**
-> "...Charlie Kirk) was a friend to Candace (Candace Owens) and never publicly spoke poorly o..."
-
-**[00:57:05](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-56-56)**
-> "... innuendo concerning Candace (Candace Owens)."
-
-**[00:57:05](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-56-56)**
-> "...gossip or innuendo concerning Candace (Candace Owens)."
-
-**[00:57:08](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-56-56)**
-> "...nt I offer regarding Candace (Candace Owens) is this."
-
-**[00:57:08](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-56-56)**
-> "...nly comment I offer regarding Candace (Candace Owens) is this."
-
-**[00:57:16](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-56-56)**
-> "...d never have treated Candace (Candace Owens) or her family in such a way had—God forbid—this ..."
-
-**[00:57:16](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-00-56-56)**
-> "He would never have treated Candace (Candace Owens) or her family in such a way had—G..."
-
-**[01:00:32](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-01-00-07)**
-> "Head to twc.health/Candace and use code Candace, and you'll get 15% off plus..."
-
-**[01:00:32](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-01-00-07)**
-> "...c.health/Candace and use code Candace, and you'll get 15% off plus free shipping."
-
-**[01:00:37](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-01-00-07)**
-> "Again, that is twc.health/Candace, and use code Candace to get 15% off plus free sh..."
-
-**[01:00:37](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-01-00-07)**
-> "....health/Candace, and use code Candace to get 15% off plus free shipping."
-
-**[01:02:21](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-01-02-16)**
-> "...my listeners, if you use code Candace, you'll get an extra 10% off your first order."
-
-**[01:02:30](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-01-02-16)**
-> "...ekscoffee.com with promo code CANDACE today."
-
-**[01:02:59](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-01-02-16)**
-> "Caitlin writes: "Candace (Candace Owens), you're a force to be reckoned with."
-
-**[01:03:04](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-01-03-01)**
-> "God bless you, Candace (Candace Owens), and your family."
-
-**[01:06:33](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-01-06-00)**
-> "Thank you, Candace (Candace Owens), for changing my life five to six years ago."
-
-**[01:07:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-01-06-45)**
-> "... "Thank God for you, Candace (Candace Owens)."
-
-**[01:07:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-candace-owens-t-01-06-45)**
-> "...n writes: "Thank God for you, Candace (Candace Owens)."
-
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (24 mentions)</summary>
-
-**[00:46:24](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-00-46-24)**
-> "... bit. It's not "supposed," and saying it's supposed doesn't make it so. But he then says, "Candace (Candace Owens) also intimated that I quote-unquote blackmailed Charlie." No full sentence there because I never s..."
-
-**[01:04:42](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-01-04-40)**
-> "...ie Kirk. And then she attacks me, SJ, and she's like, "Bill Ackman gave a million dollars, Candace (Candace Owens). What did you give? What did you give?" I don't know. Two years of my effing life to Charlie (Char..."
-
-**[01:15:03](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-01-14-37)**
-> "...h by making him a saint. His sacrifice deserves eternal recognition. God bless you always, Candace (Candace Owens)." Well, the decision is not up to me, obviously. And what I do know is that irrespective the respo..."
-
-**[01:16:11](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-01-15-59)**
-> "...is a great place to stop. Oh, we've got two more comments here. Lucy writes, "We love you, Candace (Candace Owens). We have your back yesterday, today, tomorrow, and forever." Thank you so much, Lucy. Lucy Marion ..."
-
-**[01:16:17](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-01-15-59)**
-> "... tomorrow, and forever." Thank you so much, Lucy. Lucy Marion and Bayan writes, "Love you, Candace (Candace Owens), from Saudi Arabia. Thank you. You are my spirit animal. God bless you and keep you safe and your ..."
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (13 mentions)</summary>
 
 **[00:37:49](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-00-37-34)**
 > "...601-2229 or go to preborn.com/Candace."
@@ -5011,23 +2980,14 @@ _Type: People_
 **[00:39:54](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-00-39-40)**
 > "...irst order at paleovalley.com/Candace with code Candace."
 
-**[00:39:54](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-00-39-40)**
-> "...ovalley.com/Candace with code Candace."
-
 **[00:39:59](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-00-39-40)**
 > "That's paleovalley.com/Candace, promo code Candace."
 
-**[00:39:59](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-00-39-40)**
-> "...alley.com/Candace, promo code Candace."
-
 **[00:46:24](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-00-46-24)**
-> "But he then says, "Candace (Candace Owens) also intimated that I quote-unquote blackmailed ..."
+> "... bit. It's not "supposed," and saying it's supposed doesn't make it so. But he then says, "Candace (Candace Owens) also intimated that I quote-unquote blackmailed Charlie." No full sentence there because I never s..."
 
 **[01:04:42](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-01-04-40)**
-> "...e a million dollars, Candace (Candace Owens)."
-
-**[01:04:42](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-01-04-40)**
-> "...ckman gave a million dollars, Candace (Candace Owens)."
+> "...ie Kirk. And then she attacks me, SJ, and she's like, "Bill Ackman gave a million dollars, Candace (Candace Owens). What did you give? What did you give?" I don't know. Two years of my effing life to Charlie (Char..."
 
 **[01:06:58](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-01-06-49)**
 > "...0-958-1000 or visit tnusa.com/Candace."
@@ -5036,27 +2996,18 @@ _Type: People_
 > "...0-958-1000 or visit tnusa.com/Candace."
 
 **[01:15:03](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-01-14-37)**
-> "...od bless you always, Candace (Candace Owens).""
-
-**[01:15:03](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-01-14-37)**
-> "God bless you always, Candace (Candace Owens).""
+> "...h by making him a saint. His sacrifice deserves eternal recognition. God bless you always, Candace (Candace Owens)." Well, the decision is not up to me, obviously. And what I do know is that irrespective the respo..."
 
 **[01:16:11](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-01-15-59)**
-> "...rites, "We love you, Candace (Candace Owens)."
-
-**[01:16:11](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-01-15-59)**
-> "Lucy writes, "We love you, Candace (Candace Owens)."
+> "...is a great place to stop. Oh, we've got two more comments here. Lucy writes, "We love you, Candace (Candace Owens). We have your back yesterday, today, tomorrow, and forever." Thank you so much, Lucy. Lucy Marion ..."
 
 **[01:16:17](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-01-15-59)**
-> "...n writes, "Love you, Candace (Candace Owens), from Saudi Arabia."
-
-**[01:16:17](/episodes/ep-q7f8r-THr84.md#ent-person-candace-owens-t-01-15-59)**
-> "... and Bayan writes, "Love you, Candace (Candace Owens), from Saudi Arabia."
+> "... tomorrow, and forever." Thank you so much, Lucy. Lucy Marion and Bayan writes, "Love you, Candace (Candace Owens), from Saudi Arabia. Thank you. You are my spirit animal. God bless you and keep you safe and your ..."
 
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (22 mentions)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (11 mentions)</summary>
 
 **[00:13:18](/episodes/ep-czVBmqZP6Ss.md#ent-person-candace-owens-t-00-12-57)**
 > "... of really nasty text messages, and many of them pertaining to Tucker (Tucker Carlson) and Candace (Candace Owens), but Tucker (Tucker Carlson) was really the focus when it came to AmericaFest. How could Charlie (..."
@@ -5091,43 +3042,10 @@ _Type: People_
 **[01:08:20](/episodes/ep-czVBmqZP6Ss.md#ent-person-candace-owens-t-01-07-46)**
 > "...wn is up. Question everything. We certainly will be questioning everything. Ciara writes, “Candace (Candace Owens), after I posted my prayers to Charlie (Charlie Kirk)’s family, I was blocked and removed by people..."
 
-**[00:13:18](/episodes/ep-czVBmqZP6Ss.md#ent-person-candace-owens-t-00-12-57)**
-> "...them pertaining to Tucker and Candace, but Tucker was really the focus when it came to ..."
-
-**[00:33:27](/episodes/ep-czVBmqZP6Ss.md#ent-person-candace-owens-t-00-33-14)**
-> "... or head to preborn.com slash Candace."
-
-**[00:33:33](/episodes/ep-czVBmqZP6Ss.md#ent-person-candace-owens-t-00-33-14)**
-> "...ain, that's preborn.com slash Candace."
-
-**[00:34:34](/episodes/ep-czVBmqZP6Ss.md#ent-person-candace-owens-t-00-33-57)**
-> "...rms, check out gno.land slash Candace."
-
-**[00:35:44](/episodes/ep-czVBmqZP6Ss.md#ent-person-candace-owens-t-00-35-22)**
-> "and save 20% with promo code Candace, and you'll see the difference yourself, or you w..."
-
-**[00:35:55](/episodes/ep-czVBmqZP6Ss.md#ent-person-candace-owens-t-00-35-22)**
-> "...iveHealth.com, use promo code Candace."
-
-**[01:04:11](/episodes/ep-czVBmqZP6Ss.md#ent-person-candace-owens-t-01-03-34)**
-> "...n Giacolini writes, “Pray for Candace.”"
-
-**[01:04:14](/episodes/ep-czVBmqZP6Ss.md#ent-person-candace-owens-t-01-03-34)**
-> "M. Skim writes, “Go Candace, go, but be careful.”"
-
-**[01:06:17](/episodes/ep-czVBmqZP6Ss.md#ent-person-candace-owens-t-01-05-42)**
-> "Candace, we have your back.”"
-
-**[01:06:47](/episodes/ep-czVBmqZP6Ss.md#ent-person-candace-owens-t-01-06-18)**
-> "Divine Council writes, “Candace, I have joined you as a voice for truth."
-
-**[01:08:20](/episodes/ep-czVBmqZP6Ss.md#ent-person-candace-owens-t-01-07-46)**
-> "Ciara writes, “Candace, after I posted my prayers to Charlie’s family, I..."
-
 </details>
 
 <details>
-<summary>To My Friend, Charlie Kirk. (23 mentions)</summary>
+<summary>To My Friend, Charlie Kirk. (9 mentions)</summary>
 
 **[00:07:01](/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-06-24)**
 > "...did the right thing. He said, “Okay, if they don't want to do this event with this newbie, Candace (Candace Owens), then we're not going to do the event. And Candace (Candace Owens) and I will do it alone.” And we..."
@@ -5155,48 +3073,6 @@ _Type: People_
 
 **[00:22:39](/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-22-18)**
 > "...allow the memory of Charlie (Charlie Kirk) to be forgotten, obviously, because there is no Candace (Candace Owens) without Charlie (Charlie Kirk). You know, we came up in politics together. And so I don't know wha..."
-
-**[00:07:01](/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-06-24)**
-> "...nt with this newbie, Candace (Candace Owens), then we're not going to do the event."
-
-**[00:07:01](/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-06-24)**
-> "... this event with this newbie, Candace (Candace Owens), then we're not going to do the e..."
-
-**[00:07:05](/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-06-24)**
-> "And Candace (Candace Owens) and I will do it alone.”"
-
-**[00:10:09](/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-09-57)**
-> "...ets, “I love the way Candace (Candace Owens) thinks.”"
-
-**[00:10:09](/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-09-57)**
-> "... West tweets, “I love the way Candace (Candace Owens) thinks.”"
-
-**[00:10:40](/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-09-57)**
-> "...[Following clip attributed to Candace Owens and Charlie Kirk.]"
-
-**[00:13:59](/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-13-27)**
-> "... know, just me being Candace (Candace Owens), saying the thing and..."
-
-**[00:13:59](/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-13-27)**
-> "You know, just me being Candace (Candace Owens), saying the thing and..."
-
-**[00:14:58](/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-13-27)**
-> "...[Following clip attributed to Candace Owens, Charlie Kirk, and Sarah.]"
-
-**[00:16:36](/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-13-27)**
-> "...[Following clip attributed to Candace Owens and Charlie Kirk.]"
-
-**[00:19:43](/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-19-31)**
-> "... Kirk) knew the real Candace (Candace Owens), you know. And people know—like a lot of people ..."
-
-**[00:19:43](/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-19-31)**
-> "... (Charlie Kirk) knew the real Candace (Candace Owens), you know. And people know—like a..."
-
-**[00:22:39](/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-22-18)**
-> "... because there is no Candace (Candace Owens) without Charlie (Charlie Kirk)."
-
-**[00:22:39](/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-22-18)**
-> "...bviously, because there is no Candace (Candace Owens) without Charlie (Charlie Kirk)."
 
 </details>
 
@@ -5909,7 +3785,7 @@ _Type: People_
   - About: [Egyptian Air Force](/entities/org-egyptian-air-force.md), [Wilmington](/entities/gpe-wilmington.md), [Delaware](/entities/gpe-delaware.md)
 
 - [00:41:17](/episodes/ep-6DhWawD4ZiM.md#t-00-40-53) [○] (Claim) ["Captain Adam Neff of the 10th Mountain Division led an interrogation of a milita..."](/statements/statement-536d43327c41.md)
-  - About: [Adam Neff](/entities/person-adam-neff.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+  - About: [Captain Adam Neff](/entities/person-captain-adam-neff.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 - [00:41:25](/episodes/ep-6DhWawD4ZiM.md#t-00-40-53) [○] (Claim) ["A building at Fort Huachuca has been converted into a SCIF (Sensitive Compartmen..."](/statements/statement-3e770fcf90d6.md)
   - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md)

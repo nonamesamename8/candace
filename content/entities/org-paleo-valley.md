@@ -73,9 +73,6 @@ _Type: Organizations_
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (6 mentions)</summary>
 
-**[00:44:50](/episodes/ep-pc3pxRyNFZk.md#ent-org-paleo-valley-t-00-36-30)**
-> "me and my team love and are always craving are Paleo Valley beef sticks"
-
 **[00:35:50](/episodes/ep-pc3pxRyNFZk.md#ent-org-paleo-valley-t-00-35-45)**
 > "...ve and are always craving are Paleo Valley beef sticks—specifically the ones that they make...."
 
@@ -90,6 +87,9 @@ _Type: Organizations_
 
 **[00:36:45](/episodes/ep-pc3pxRyNFZk.md#ent-org-paleo-valley-t-00-36-30)**
 > "Again, paleovalley.com/Candace."
+
+**[00:44:50](/episodes/ep-pc3pxRyNFZk.md#ent-org-paleo-valley-t-00-36-30)**
+> "me and my team love and are always craving are Paleo Valley beef sticks"
 
 </details>
 

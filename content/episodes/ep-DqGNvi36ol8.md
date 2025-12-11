@@ -1,14 +1,14 @@
 ---
 id: "DqGNvi36ol8"
 title: "Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275"
-description: "Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 - 67 entities, 6 events, 0 claims"
+description: "Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 - 74 entities, 6 events, 0 claims"
 published: "2025-12-05"
 youtube_url: "https://www.youtube.com/watch?v=DqGNvi36ol8"
 ---
 
 **Published:** 2025-12-05 | [Watch on YouTube](https://www.youtube.com/watch?v=DqGNvi36ol8)
 
-**Stats:** 67 entities | 6 events | 0 claims
+**Stats:** 74 entities | 6 events | 0 claims
 
 ---
 
@@ -264,17 +264,17 @@ youtube_url: "https://www.youtube.com/watch?v=DqGNvi36ol8"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (67)</strong></summary>
+<summary><strong>Entities Mentioned (74)</strong></summary>
 
 **Concepts:** [God](/entities/concept-god.md)
 
 **Dates:** [December 15th](/entities/date-december-15th.md), [September 10th](/entities/date-september-10th.md), [September 11th](/entities/date-september-11th.md)
 
-**Events:** [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+**Events:** [America Fest](/entities/event-america-fest.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-**Places:** [Canada](/entities/gpe-canada.md), [France](/entities/gpe-france.md), [Hollywood](/entities/gpe-hollywood.md), [New York](/entities/gpe-new-york.md), [Phoenix](/entities/gpe-phoenix.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Ukraine](/entities/gpe-ukraine.md), [United States](/entities/gpe-united-states.md)
+**Places:** [Canada](/entities/gpe-canada.md), [Europe](/entities/gpe-europe.md), [France](/entities/gpe-france.md), [Germany](/entities/gpe-germany.md), [Hollywood](/entities/gpe-hollywood.md), [Iraq](/entities/gpe-iraq.md), [New York](/entities/gpe-new-york.md), [Phoenix](/entities/gpe-phoenix.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Tennessee](/entities/gpe-tennessee.md), [Ukraine](/entities/gpe-ukraine.md), [United States](/entities/gpe-united-states.md)
 
-**Organizations:** [Amazon](/entities/org-amazon.md), [American Financing](/entities/org-american-financing.md), [Antifa](/entities/org-antifa.md), [Apple](/entities/org-apple.md), [Black Lives Matter](/entities/org-black-lives-matter.md), [CBS](/entities/org-cbs.md), [CNN](/entities/org-cnn.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Club Candace](/entities/org-club-candace.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fox News](/entities/org-fox-news.md), [Neemi Skin Care](/entities/org-neemi-skin-care.md), [Oracle](/entities/org-oracle.md), [PBS](/entities/org-pbs.md), [Preborn](/entities/org-preborn.md), [ROTC](/entities/org-rotc.md), [The New York Times](/entities/org-the-new-york-times.md), [TikTok](/entities/org-tiktok.md), [Turning Point USA](/entities/org-turning-point-usa.md), [United States military](/entities/org-united-states-military.md), [Utah Valley University](/entities/org-utah-valley-university.md), [YouTube](/entities/org-youtube.md)
+**Organizations:** [Amazon](/entities/org-amazon.md), [American Financing](/entities/org-american-financing.md), [Antifa](/entities/org-antifa.md), [Apple](/entities/org-apple.md), [Black Lives Matter](/entities/org-black-lives-matter.md), [CBS](/entities/org-cbs.md), [CNN](/entities/org-cnn.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Club Candace](/entities/org-club-candace.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fox News](/entities/org-fox-news.md), [Just Thrive](/entities/org-just-thrive.md), [Neemee Skincare](/entities/org-neemee-skincare.md), [Neemi Skin Care](/entities/org-neemi-skin-care.md), [Oracle](/entities/org-oracle.md), [PBS](/entities/org-pbs.md), [Preborn](/entities/org-preborn.md), [ROTC](/entities/org-rotc.md), [The New York Times](/entities/org-the-new-york-times.md), [TikTok](/entities/org-tiktok.md), [Turning Point USA](/entities/org-turning-point-usa.md), [United States military](/entities/org-united-states-military.md), [Utah Valley University](/entities/org-utah-valley-university.md), [YouTube](/entities/org-youtube.md)
 
 **People:** [Adam Bartholomew](/entities/person-adam-bartholomew.md), [Adam Sosnick](/entities/person-adam-sosnick.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [André 3000](/entities/person-andre-3000.md), [Barack Obama](/entities/person-barack-obama.md), [Bari Weiss](/entities/person-bari-weiss.md), [Blake Neff](/entities/person-blake-neff.md), [Britney Spears](/entities/person-britney-spears.md), [Candace Owens](/entities/person-candace-owens.md), [Carrie Smith](/entities/person-carrie-smith.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Emmanuel Behrer](/entities/person-emmanuel-behrer.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Farmer](/entities/person-george-farmer.md), [Jacob Kasparian](/entities/person-jacob-kasparian.md), [Jay-Z](/entities/person-jay-z.md), [John McCain](/entities/person-john-mccain.md), [Justin Timberlake](/entities/person-justin-timberlake.md), [Kamala Harris](/entities/person-kamala-harris.md), [Kash Patel](/entities/person-kash-patel.md), [Skylar](/entities/person-skylar.md), [The Game](/entities/person-the-game.md), [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Viktor Yanukovych](/entities/person-viktor-yanukovych.md)
 

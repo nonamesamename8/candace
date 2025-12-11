@@ -1,6 +1,6 @@
 ---
 title: "Gno.land"
-description: "Gno.land (Organizations) - 7 mentions"
+description: "Gno.land (Organizations) - 6 mentions"
 id: "org-gno-land"
 type: "ORG"
 ---
@@ -13,16 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (7 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (6 mentions)</summary>
 
 **[00:37:57](/episodes/ep-q7f8r-THr84.md#ent-org-gno-land-t-00-37-34)**
 > "Telling you guys again about Gno.land, because what if smart contract platforms weren't controlled by the elites or big tech?"
 
 **[00:37:57](/episodes/ep-q7f8r-THr84.md#ent-org-gno-land-t-00-37-34)**
 > "...you? That's the question that Gno.land wanted to ask, and that's why they built Gno.land..."
-
-**[00:37:57](/episodes/ep-q7f8r-THr84.md#ent-org-gno-land-t-00-37-34)**
-> "...sk, and that's why they built Gno.land. They started with Golang, which is a language re..."
 
 **[00:38:38](/episodes/ep-q7f8r-THr84.md#ent-org-gno-land-t-00-38-18)**
 > "Gno.land rejected Proof of Stake, which is a system where ..."

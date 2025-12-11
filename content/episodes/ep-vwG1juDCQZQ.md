@@ -1,14 +1,14 @@
 ---
 id: "vwG1juDCQZQ"
 title: "#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260"
-description: "#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 - 91 entities, 4 events, 0 claims"
+description: "#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 - 95 entities, 4 events, 0 claims"
 published: "2025-11-06"
 youtube_url: "https://www.youtube.com/watch?v=vwG1juDCQZQ"
 ---
 
 **Published:** 2025-11-06 | [Watch on YouTube](https://www.youtube.com/watch?v=vwG1juDCQZQ)
 
-**Stats:** 91 entities | 4 events | 0 claims
+**Stats:** 95 entities | 4 events | 0 claims
 
 ---
 
@@ -298,7 +298,7 @@ youtube_url: "https://www.youtube.com/watch?v=vwG1juDCQZQ"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (91)</strong></summary>
+<summary><strong>Entities Mentioned (95)</strong></summary>
 
 **Concepts:** [Christians](/entities/concept-christians.md), [Doge](/entities/concept-doge.md), [God](/entities/concept-god.md), [Zionism](/entities/concept-zionism.md)
 
@@ -306,13 +306,13 @@ youtube_url: "https://www.youtube.com/watch?v=vwG1juDCQZQ"
 
 **Events:** [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-**Places:** [Australia](/entities/gpe-australia.md), [Egypt](/entities/gpe-egypt.md), [France](/entities/gpe-france.md), [Israel](/entities/gpe-israel.md), [Japan](/entities/gpe-japan.md), [South Carolina](/entities/gpe-south-carolina.md), [South Korea](/entities/gpe-south-korea.md), [United States](/entities/gpe-united-states.md)
+**Places:** [Australia](/entities/gpe-australia.md), [Egypt](/entities/gpe-egypt.md), [Europe](/entities/gpe-europe.md), [France](/entities/gpe-france.md), [Israel](/entities/gpe-israel.md), [Japan](/entities/gpe-japan.md), [South Carolina](/entities/gpe-south-carolina.md), [South Korea](/entities/gpe-south-korea.md), [Tennessee](/entities/gpe-tennessee.md), [United States](/entities/gpe-united-states.md)
 
 **Organizations:** [Better Business Bureau](/entities/org-better-business-bureau.md), [Blexit](/entities/org-blexit.md), [Club Candace](/entities/org-club-candace.md), [Discord](/entities/org-discord.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fox News](/entities/org-fox-news.md), [Google](/entities/org-google.md), [Liberty University](/entities/org-liberty-university.md), [Nimi Skincare](/entities/org-nimi-skincare.md), [PDS Debt](/entities/org-pds-debt.md), [Paleo Valley](/entities/org-paleo-valley.md), [Riverbend Ranch](/entities/org-riverbend-ranch.md), [Stanford](/entities/org-stanford.md), [Stanford University](/entities/org-stanford-university.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Trustpilot](/entities/org-trustpilot.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Twitter](/entities/org-twitter.md), [United States Army](/entities/org-united-states-army.md), [University of Mississippi](/entities/org-university-of-mississippi.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Vice](/entities/org-vice.md), [Wall Street Journal](/entities/org-wall-street-journal.md), [Yale University](/entities/org-yale-university.md), [YouTube](/entities/org-youtube.md)
 
-**People:** [Alex Clark](/entities/person-alex-clark.md), [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md), [Alyssa Cordova](/entities/person-alyssa-cordova.md), [Andrew Klavan](/entities/person-andrew-klavan.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Blake Lively](/entities/person-blake-lively.md), [Blake Neff](/entities/person-blake-neff.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [C.S. Lewis](/entities/person-cs-lewis.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Colby Sessions](/entities/person-colby-sessions.md), [Dave Smith](/entities/person-dave-smith.md), [Dinesh D'Souza](/entities/person-dinesh-d-souza.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Elon Musk](/entities/person-elon-musk.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Erika Kirk](/entities/person-erika-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [George Farmer](/entities/person-george-farmer.md), [Ian Carroll](/entities/person-ian-carroll.md), [JD Vance](/entities/person-jd-vance.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Jesse Watters](/entities/person-jesse-watters.md), [Jesus Christ](/entities/person-jesus-christ.md), [Jimmy Dore](/entities/person-jimmy-dore.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Josh Hammer](/entities/person-josh-hammer.md), [Justin Bieber](/entities/person-justin-bieber.md), [Kanye West](/entities/person-kanye-west.md), [Kash Patel](/entities/person-kash-patel.md), [Lila Rose](/entities/person-lila-rose.md), [Matt Walsh](/entities/person-matt-walsh.md), [Michael Knowles](/entities/person-michael-knowles.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Patrick Bet-David](/entities/person-patrick-bet-david.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Saint Michael](/entities/person-saint-michael.md), [Sam Parker](/entities/person-sam-parker.md), [Skylar](/entities/person-skylar.md), [Taylor Swift](/entities/person-taylor-swift.md), [Tony Burke](/entities/person-tony-burke.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Alex Clark](/entities/person-alex-clark.md), [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md), [Alyssa Cordova](/entities/person-alyssa-cordova.md), [Andrew Klavan](/entities/person-andrew-klavan.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Blake Lively](/entities/person-blake-lively.md), [Blake Neff](/entities/person-blake-neff.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [C.S. Lewis](/entities/person-cs-lewis.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Colby Sessions](/entities/person-colby-sessions.md), [Dave Smith](/entities/person-dave-smith.md), [Dinesh D'Souza](/entities/person-dinesh-d-souza.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Elon Musk](/entities/person-elon-musk.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Erika Kirk](/entities/person-erika-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [George Farmer](/entities/person-george-farmer.md), [Ian Carroll](/entities/person-ian-carroll.md), [JD Vance](/entities/person-jd-vance.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Jesse Watters](/entities/person-jesse-watters.md), [Jesus Christ](/entities/person-jesus-christ.md), [Jimmy Dore](/entities/person-jimmy-dore.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Josh Hammer](/entities/person-josh-hammer.md), [Justin Bieber](/entities/person-justin-bieber.md), [Kanye West](/entities/person-kanye-west.md), [Kash Patel](/entities/person-kash-patel.md), [Lila Rose](/entities/person-lila-rose.md), [Matt Walsh](/entities/person-matt-walsh.md), [Meghan Markle](/entities/person-meghan-markle.md), [Michael Knowles](/entities/person-michael-knowles.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Patrick Bet-David](/entities/person-patrick-bet-david.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Saint Michael](/entities/person-saint-michael.md), [Sam Parker](/entities/person-sam-parker.md), [Skylar](/entities/person-skylar.md), [Taylor Swift](/entities/person-taylor-swift.md), [Tony Burke](/entities/person-tony-burke.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-**Works & Media:** [A Grief Observed](/entities/work-a-grief-observed.md)
+**Works & Media:** [A Grief Observed](/entities/work-a-grief-observed.md), [The Matrix](/entities/work-the-matrix.md)
 
 </details>
 

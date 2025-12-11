@@ -1,6 +1,6 @@
 ---
 title: "Frankism"
-description: "Frankism (Concepts) - 3 mentions"
+description: "Frankism (Concepts) - 2 mentions"
 id: "concept-frankism"
 type: "CONCEPT"
 aliases:
@@ -18,16 +18,13 @@ _Type: Concepts_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
 **[00:00:52](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-frankism-t-00-52-11)**
 > "We're talking about Frankism; we're talking about the Kabbalah; we're talking about the infiltration into the churches—intentional as an aspect of the Frankist movement."
 
 **[00:52:40](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-frankism-t-00-52-11)**
 > "... to them. We're talking about Frankism; we're talking about the Kabbalah; we're talking ..."
-
-**[00:52:40](/episodes/ep-Cq7nj9rxPdo.md#ent-concept-frankism-t-00-52-11)**
-> "...tentional as an aspect of the Frankist movement."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Ministry of the Armed Forces"
-description: "Ministry of the Armed Forces (Organizations) - 22 mentions"
+description: "Ministry of the Armed Forces (Organizations) - 15 mentions"
 id: "org-ministry-of-the-armed-forces"
 type: "ORG"
 aliases:
@@ -20,46 +20,25 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (13 mentions)</summary>
-
-**[00:20:07](/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-19-45)**
-> ".... Elsewhere in the article, and this is France 24 that reported this, it tells us that, quote, "The Ministry of the Armed Forces confirms that a training exercise by the 2nd Foreign Infantry Regiment, a unit of the French Foreig..."
-
-**[00:20:36](/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-20-29)**
-> "...ed on the Ministry's website and the regiment's Facebook page, was not a clandestine operation. The Ministry of the Armed Forces formally denies that another Foreign Legion training exercise took place at a supposed Camp Riley i..."
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (6 mentions)</summary>
 
 **[00:18:27](/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-18-18)**
 > "... ground during Charlie Kirk's (Charlie Kirk's) assassination. So what happened is the Ministry, the Minister of the Armed Forces issued the following statement in France, and I'm going to quote this for you: "Tyler Robinson was ..."
 
+**[00:20:07](/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-19-45)**
+> ".... Elsewhere in the article, and this is France 24 that reported this, it tells us that, quote, "The Ministry of the Armed Forces confirms that a training exercise by the 2nd Foreign Infantry Regiment, a unit of the French Foreig..."
+
 **[00:20:29](/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-20-29)**
 > "...alifornia from August 2nd to the 25th, as reported by Candace Owens. The exercise, announced on the Ministry's website and the regiment's Facebook page, was not a clandestine operation. The Ministry of the Ar..."
+
+**[00:20:36](/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-20-29)**
+> "...ed on the Ministry's website and the regiment's Facebook page, was not a clandestine operation. The Ministry of the Armed Forces formally denies that another Foreign Legion training exercise took place at a supposed Camp Riley i..."
 
 **[00:39:46](/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-39-28)**
 > "...Paris Design Week on, I believe, September 4th. Very public. Gets photographed with the culture—the Ministry of Culture lady, right? The head of their Ministry of Culture, an actual lady. And then Brigitte Ma..."
 
 **[00:39:53](/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-39-28)**
 > "...y public. Gets photographed with the culture—the Ministry of Culture lady, right? The head of their Ministry of Culture, an actual lady. And then Brigitte Macron gets photographed on 9/4 with Zelensky. Zelens..."
-
-**[00:18:27](/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-18-18)**
-> "...happened is the Ministry, the Minister of the Armed Forces issued the following statement in France, and I'm..."
-
-**[00:18:27](/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-18-18)**
-> "So what happened is the Ministry, the Minister of the Armed Forces issued the foll..."
-
-**[00:20:07](/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-19-45)**
-> "...it tells us that, quote, "The Ministry of the Armed Forces confirms that a training exercise by the 2nd Fore..."
-
-**[00:20:29](/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-20-29)**
-> "...he exercise, announced on the Ministry's website and the regiment's Facebook page, was not..."
-
-**[00:20:36](/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-20-29)**
-> "The Ministry of the Armed Forces formally denies that another Foreign Legion train..."
-
-**[00:39:46](/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-39-28)**
-> "...ographed with the culture—the Ministry of Culture lady, right?"
-
-**[00:39:53](/episodes/ep-tB5SXXmd9vU.md#ent-org-ministry-of-the-armed-forces-t-00-39-28)**
-> "The head of their Ministry of Culture,"
 
 </details>
 

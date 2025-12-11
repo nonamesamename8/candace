@@ -1,6 +1,6 @@
 ---
 title: "George H.W. Bush"
-description: "George H.W. Bush (People) - 13 mentions"
+description: "George H.W. Bush (People) - 8 mentions"
 id: "person-george-hw-bush"
 type: "PERSON"
 aliases:
@@ -20,28 +20,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (10 mentions)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (5 mentions)</summary>
 
 **[00:00:46](/episodes/ep-t4U7NjnUEgc.md#ent-person-george-hw-bush-t-00-05-14)**
 > "new command was being created down at the border by President George H.W. Bush"
 
 **[00:05:14](/episodes/ep-t4U7NjnUEgc.md#ent-person-george-hw-bush-t-00-05-14)**
 > "...wn at the border by President George H.W. Bush (George H.W. Bush)"
-
-**[00:05:14](/episodes/ep-t4U7NjnUEgc.md#ent-person-george-hw-bush-t-00-05-14)**
-> "...y President George H.W. Bush (George H.W. Bush)"
-
-**[00:05:14](/episodes/ep-t4U7NjnUEgc.md#ent-person-george-hw-bush-t-00-05-14)**
-> "...he border by President George H.W. Bush (George H.W. Bush)"
-
-**[00:05:14](/episodes/ep-t4U7NjnUEgc.md#ent-person-george-hw-bush-t-00-05-14)**
-> "...dent George H.W. Bush (George H.W. Bush)"
-
-**[00:05:14](/episodes/ep-t4U7NjnUEgc.md#ent-person-george-hw-bush-t-00-05-14)**
-> "...rder by President George H.W. Bush (George H.W. Bush)"
-
-**[00:05:14](/episodes/ep-t4U7NjnUEgc.md#ent-person-george-hw-bush-t-00-05-14)**
-> "...George H.W. Bush (George H.W. Bush)"
 
 **[00:05:35](/episodes/ep-t4U7NjnUEgc.md#ent-person-george-hw-bush-t-00-05-14)**
 > "Bush, and it was presented to the American public as, ..."

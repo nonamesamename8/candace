@@ -15,11 +15,11 @@ _Type: People_
 <details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
 
-**[00:32:09](/episodes/ep-ja26iltROkM.md#ent-person-brian-mast-t-00-31-57)**
-> "That tweet was me responding to something that Brian Mast said in Congress."
-
 **[00:32:04](/episodes/ep-ja26iltROkM.md#ent-person-brian-mast-t-00-31-57)**
 > "... responding to something that Brian Mast said in Congress."
+
+**[00:32:09](/episodes/ep-ja26iltROkM.md#ent-person-brian-mast-t-00-31-57)**
+> "That tweet was me responding to something that Brian Mast said in Congress."
 
 </details>
 

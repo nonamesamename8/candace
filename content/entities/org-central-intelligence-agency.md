@@ -1,6 +1,6 @@
 ---
 title: "Central Intelligence Agency"
-description: "Central Intelligence Agency (Organizations) - 61 mentions"
+description: "Central Intelligence Agency (Organizations) - 59 mentions"
 id: "org-central-intelligence-agency"
 type: "ORG"
 aliases:
@@ -20,9 +20,6 @@ _Type: Organizations_
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>
 
-**[00:33:36](/episodes/ep-6DhWawD4ZiM.md#ent-org-central-intelligence-agency-t-00-26-00)**
-> "His father was on the payroll of the CIA"
-
 **[00:26:07](/episodes/ep-6DhWawD4ZiM.md#ent-org-central-intelligence-agency-t-00-26-00)**
 > "He grew up with CIA agents, okay?"
 
@@ -34,6 +31,9 @@ _Type: Organizations_
 
 **[00:26:29](/episodes/ep-6DhWawD4ZiM.md#ent-org-central-intelligence-agency-t-00-26-00)**
 > "... means people in the NSA, the CIA are confirming that that is real."
+
+**[00:33:36](/episodes/ep-6DhWawD4ZiM.md#ent-org-central-intelligence-agency-t-00-26-00)**
+> "His father was on the payroll of the CIA"
 
 </details>
 
@@ -73,14 +73,14 @@ _Type: Organizations_
 <details>
 <summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (4 mentions)</summary>
 
-**[00:42:51](/episodes/ep-his-JBjlkh8.md#ent-org-central-intelligence-agency-t-00-42-19)**
-> "... her check mark. She deeply, deeply cares about social media in a way that is just unhinged, okay? Now, she is apparently not allowed to own a gun becaus..."
-
 **[00:11:15](/episodes/ep-his-JBjlkh8.md#ent-org-central-intelligence-agency-t-00-11-15)**
 > "...idence that it was a militant CIA effort to infiltrate the Christian faith and to t..."
 
 **[00:11:59](/episodes/ep-his-JBjlkh8.md#ent-org-central-intelligence-agency-t-00-11-59)**
 > "...decade of the '60s, where the CIA was really just spiking the ball on Christians in..."
+
+**[00:42:51](/episodes/ep-his-JBjlkh8.md#ent-org-central-intelligence-agency-t-00-42-19)**
+> "... her check mark. She deeply, deeply cares about social media in a way that is just unhinged, okay? Now, she is apparently not allowed to own a gun becaus..."
 
 **[00:42:51](/episodes/ep-his-JBjlkh8.md#ent-org-central-intelligence-agency-t-00-42-19)**
 > "That's what the CIA does."
@@ -227,16 +227,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (15 mentions)</summary>
-
-**[00:26:25](/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-26-14)**
-> "I have been meaningfully reported to the FBI and the CIA"
-
-**[00:27:15](/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-26-58)**
-> "selling a CIA line of merchandise that is called the Candace Intelligence Agency, which rips off the CIA name and logo"
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (14 mentions)</summary>
 
 **[00:23:41](/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-23-16)**
 > "...eported me to the FBI and the CIA."
+
+**[00:26:25](/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-26-14)**
+> "I have been meaningfully reported to the FBI and the CIA"
 
 **[00:26:45](/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-26-14)**
 > "...y reported to the FBI and the CIA."
@@ -244,8 +241,8 @@ _Type: Organizations_
 **[00:27:01](/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-26-58)**
 > "... (Candace Owens) is selling a CIA line of merchandise that is called the Candace In..."
 
-**[00:27:01](/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-26-58)**
-> "...ce Agency, which rips off the CIA name and logo."
+**[00:27:15](/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-26-58)**
+> "selling a CIA line of merchandise that is called the Candace Intelligence Agency, which rips off the CIA name and logo"
 
 **[00:27:15](/episodes/ep-ja26iltROkM.md#ent-org-central-intelligence-agency-t-00-26-58)**
 > "...s a federal felony to use the CIA seal without license.""
@@ -277,16 +274,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (5 mentions)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (4 mentions)</summary>
 
 **[00:16:15](/episodes/ep-aDlhjfW6hz8.md#ent-org-central-intelligence-agency-t-00-16-10)**
 > "...ernment contracts, likely the CIA."
 
 **[00:51:29](/episodes/ep-aDlhjfW6hz8.md#ent-org-central-intelligence-agency-t-00-51-24)**
 > "...lling me a lot of stuff about CIA action at UVU, some programs that they had been r..."
-
-**[00:51:29](/episodes/ep-aDlhjfW6hz8.md#ent-org-central-intelligence-agency-t-00-51-24)**
-> "...ople that go and work for the CIA."
 
 **[00:52:40](/episodes/ep-aDlhjfW6hz8.md#ent-org-central-intelligence-agency-t-00-52-10)**
 > "Yep, our CIA line."

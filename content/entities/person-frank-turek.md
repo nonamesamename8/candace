@@ -1,6 +1,6 @@
 ---
 title: "Frank Turek"
-description: "Frank Turek (People) - 76 mentions"
+description: "Frank Turek (People) - 44 mentions"
 id: "person-frank-turek"
 type: "PERSON"
 aliases:
@@ -26,7 +26,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (6 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>
 
 **[00:27:46](/episodes/ep-ZAuuSq_j2_w.md#ent-person-frank-turek-t-00-27-46)**
 > "...uspend our rational thinking altogether and follow them. I think that's it. That's what it must be. Frank Turek has come out, and he's telling us that Blake Neff—even though he seems very insincere—you should kn..."
@@ -37,80 +37,59 @@ _Type: People_
 **[00:29:29](/episodes/ep-ZAuuSq_j2_w.md#ent-person-frank-turek-t-00-29-14)**
 > "...t thing and everyone should buy Josh Hammer's book. He had that meeting; then he had a meeting with Frank Turek, and he was like, "Blake Neff is the smartest person, and nobody should question Blake Neff." It ju..."
 
-**[00:27:46](/episodes/ep-ZAuuSq_j2_w.md#ent-person-frank-turek-t-00-27-46)**
-> "Frank Turek has come out, and he's telling us that Blake Neff..."
-
-**[00:28:02](/episodes/ep-ZAuuSq_j2_w.md#ent-person-frank-turek-t-00-27-46)**
-> "...cience. Take a listen. (Clip: Frank Turek speaking about Charlie Kirk and Blake Neff)"
-
-**[00:29:29](/episodes/ep-ZAuuSq_j2_w.md#ent-person-frank-turek-t-00-29-14)**
-> "...g; then he had a meeting with Frank Turek, and he was like, "Blake Neff is the smartest per..."
-
 </details>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
 
 **[00:10:58](/episodes/ep-his-JBjlkh8.md#ent-person-frank-turek-t-00-10-58)**
 > "...ive-stream that. Keep going. She has suggested that TPUSA Faith-affiliated pastors, like theologian Frank Turek—who we'll have on in a moment—and Pastor Rob McCoy, are part of a military, quote, "infiltration of..."
 
-**[00:10:58](/episodes/ep-his-JBjlkh8.md#ent-person-frank-turek-t-00-10-58)**
-> "...ated pastors, like theologian Frank Turek—who we'll have on in a moment—and Pastor Rob McCo..."
-
 </details>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
 **[00:48:26](/episodes/ep-a-e7HC6SeK8.md#ent-person-frank-turek-t-00-47-57)**
 > "...that's probably what Charlie (Charlie Kirk) would— He apparently had a 15–20 year plan according to Frank Turek. Or was it Rob McCoy? Rob McCoy said that, I think. I think they all said it—honestly—but Rob McCoy..."
-
-**[00:48:26](/episodes/ep-a-e7HC6SeK8.md#ent-person-frank-turek-t-00-47-57)**
-> "... 15–20 year plan according to Frank Turek."
 
 </details>
 
 <details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
-**[00:15:30](/episodes/ep-mKXdKV-OBog.md#ent-person-frank-turek-t-00-15-00)**
-> "Frank Turk was there for the assassination, naval flight officer"
-
 **[00:15:27](/episodes/ep-mKXdKV-OBog.md#ent-person-frank-turek-t-00-15-00)**
 > "Frank Turk, who's there for the assassination, is a nav..."
+
+**[00:15:30](/episodes/ep-mKXdKV-OBog.md#ent-person-frank-turek-t-00-15-00)**
+> "Frank Turk was there for the assassination, naval flight officer"
 
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (4 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
 
 **[00:31:16](/episodes/ep-SKGUzGHymcI.md#ent-person-frank-turek-t-00-31-12)**
 > "...hat was a lie, actually. Again, going back to the early interviews that a lot of TPUSA people gave, Frank Turek, who was with Charlie (Charlie Kirk), he died with Charlie (Charlie Kirk) in the hospital, and carr..."
 
-**[00:31:16](/episodes/ep-SKGUzGHymcI.md#ent-person-frank-turek-t-00-31-12)**
-> "... of TPUSA people gave, Frank (Frank Turek), who was with Charlie (Charlie Kirk), he died wi..."
-
 **[00:31:43](/episodes/ep-SKGUzGHymcI.md#ent-person-frank-turek-t-00-31-36)**
 > "He said, Frank (Frank Turek), if you can come help me the first couple of day..."
-
-**[00:31:16](/episodes/ep-SKGUzGHymcI.md#ent-person-frank-turek-t-00-31-12)**
-> "...t a lot of TPUSA people gave, Frank (Frank Turek), who was with Charlie (Charlie Kirk..."
 
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2 mentions)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1 mentions)</summary>
 
 **[00:02:04](/episodes/ep-JQjCAsfoXEE.md#ent-person-frank-turek-t-00-01-24)**
 > "...strongly suggest somebody's guilty of something for which you have no evidence. Challenge accepted, Frank Turek. Let's go, Max, today. Welcome back to Candace (Candace Owens). Pastor Rob McCoy—let's not forget h..."
 
-**[00:02:04](/episodes/ep-JQjCAsfoXEE.md#ent-person-frank-turek-t-00-01-24)**
-> "Challenge accepted, Frank Turek."
-
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (15 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (8 mentions)</summary>
+
+**[00:01:38](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23)**
+> "We should start, by the way, with Frank Turek."
 
 **[00:01:38](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23)**
 > "...ions; just accept the fed slop. It seems a little bit ridiculous. We should start, by the way, with Frank Turek. Frank Turek, as a reminder, he is the pastor friend who was next to Charlie (Charlie Kirk). Actual..."
@@ -133,34 +112,10 @@ _Type: People_
 **[00:06:19](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-05-45)**
 > "...the public. So I would very much invite Frank Turek onto the show. I don't think we've ever covered Frank Turek. He hasn't really come up in this investigation. He hasn't been caught in any lies, certainly. So I..."
 
-**[00:01:38](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23)**
-> "We should start, by the way, with Frank Turek."
-
-**[00:01:38](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23)**
-> "...hould start, by the way, with Frank Turek."
-
-**[00:01:39](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23)**
-> "Frank Turek, as a reminder, he is the pastor friend who was n..."
-
-**[00:01:57](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23)**
-> "Well, I just learned that Frank Turek was reacting to me."
-
-**[00:02:00](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-01-23)**
-> "... what he had to say. (clip of Frank Turek)"
-
-**[00:04:50](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-04-24)**
-> "I personally invited Frank Turek onto the show because we legitimately want answer..."
-
-**[00:06:17](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-05-45)**
-> "So I would very much invite Frank Turek onto the show."
-
-**[00:06:19](/episodes/ep-yAIb-NuUh_U.md#ent-person-frank-turek-t-00-05-45)**
-> "...on't think we've ever covered Frank Turek."
-
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (12 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (6 mentions)</summary>
 
 **[00:16:48](/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-16-39)**
 > "...anking military families have been around for a long time: ties to the Navy, ties to the Air Force. Frank Turek (Frank Turek), Air Force. Rob McCoy—we discussed about his background, his naval background, psycho..."
@@ -177,46 +132,22 @@ _Type: People_
 **[00:18:50](/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-18-50)**
 > "...re New Age-y or more even occult-like than they are Christian. The occult—and that is correct. Now, Frank Turek (Frank Turek)—this didn't stop him, or it didn't make him go warn Charlie (Charlie Kirk) about this..."
 
-**[00:16:48](/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-16-39)**
-> "... Navy, ties to the Air Force. Frank Turek (Frank Turek), Air Force. Rob McCoy—we discussed ..."
-
-**[00:16:48](/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-16-39)**
-> "...o the Air Force. Frank Turek (Frank Turek), Air Force. Rob McCoy—we discussed about his bac..."
-
-**[00:17:48](/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-17-23)**
-> "...do want to also be clear that Frank Turek stands out because he flat-out acknowledged on on..."
-
-**[00:18:03](/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-17-23)**
-> "Take a listen to what Frank Turek said about NAR."
-
-**[00:18:06](/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-18-06)**
-> "*(Clip from Frank Turek)* So technically a group, and NAR stands for what..."
-
-**[00:18:50](/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-18-50)**
-> "Now, Frank Turek—this didn't stop him, or it didn't make him go wa..."
-
 **[00:30:16](/episodes/ep-YaZfwLQ7vrI.md#ent-person-frank-turek-t-00-29-43)**
 > "And then some guy named Frank McCormick on X started circulating."
 
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (5 mentions)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (3 mentions)</summary>
+
+**[01:00:49](/episodes/ep-vwG1juDCQZQ.md#ent-person-frank-turek-t-01-00-33)**
+> "Frank Turek said it on stage—that he knew in the car that he was gone"
 
 **[01:00:49](/episodes/ep-vwG1juDCQZQ.md#ent-person-frank-turek-t-01-00-33)**
 > "... into surgery? Because they explained that he had died instantly. It wasn't just Erika, by the way: Frank Turek said it on stage—that he knew in the car that he was gone. But maybe he still had a pulse. Again: t..."
 
 **[01:00:58](/episodes/ep-vwG1juDCQZQ.md#ent-person-frank-turek-t-01-00-33)**
 > "...aybe he still had a pulse. Again: this would be a great thing—since they mentioned it—for Andrew or Frank Turek to respond to. It's a very easy thing for them to respond to to clear up some confusion. Jesse Webb..."
-
-**[01:00:49](/episodes/ep-vwG1juDCQZQ.md#ent-person-frank-turek-t-01-00-33)**
-> "...asn't just Erika, by the way: Frank Turek said it on stage—that he knew in the car that he ..."
-
-**[01:00:58](/episodes/ep-vwG1juDCQZQ.md#ent-person-frank-turek-t-01-00-33)**
-> "...ey mentioned it—for Andrew or Frank Turek to respond to."
-
-**[01:00:49](/episodes/ep-vwG1juDCQZQ.md#ent-person-frank-turek-t-01-00-33)**
-> "Frank Turek said it on stage—that he knew in the car that he was gone"
 
 </details>
 
@@ -232,10 +163,16 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (12 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (7 mentions)</summary>
+
+**[00:00:48](/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-00-43)**
+> "Frank Turek is also being added into the mix"
 
 **[00:00:48](/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-00-43)**
 > "... so I can return home. And if you do, I will transfer you $1 million when I get back to my kingdom. Frank Turek is also being added into the mix. He is telling me, plus other conspiracy theorists, to shut up unl..."
+
+**[00:00:57](/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-00-43)**
+> "Okay, Frank (Turek), challenge accepted."
 
 **[00:22:57](/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-22-48)**
 > "...ut together. And this is in an early phase, but it's interesting at the very least, okay? We've got Frank Turek, and Frank Turek—if we want to go through this—we've got Andrew Kolvet, Rob McCoy, Mikey McCoy, Tyl..."
@@ -249,43 +186,16 @@ _Type: People_
 **[00:48:51](/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-48-17)**
 > "... Be careful, because I might do your genealogy. You don't want me doing that. Careful. Then we have Frank Turek (Frank Turek speaking), who engages in this same sort of act of psychological manipulation, in my v..."
 
-**[00:00:48](/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-00-43)**
-> "Frank Turek is also being added into the mix"
-
-**[00:00:48](/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-00-43)**
-> "Frank Turek is also being added into the mix."
-
-**[00:22:57](/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-22-48)**
-> "We've got Frank Turek, and Frank Turek—if we want to go through this—we..."
-
-**[00:23:00](/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-22-48)**
-> "... go through. Let's start with Frank Turek if we have that card."
-
-**[00:23:08](/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-22-48)**
-> "And Frank Turek—again, has been honest—former officer in the U.S...."
-
-**[00:48:51](/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-48-17)**
-> "Then we have Frank Turek (Frank Turek speaking), who engages in this same ..."
-
-**[00:00:57](/episodes/ep-Cq7nj9rxPdo.md#ent-person-frank-turek-t-00-00-43)**
-> "Okay, Frank (Turek), challenge accepted."
-
 </details>
 
 <details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (4 mentions)</summary>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (2 mentions)</summary>
 
 **[00:56:51](/episodes/ep-c5BcKF91iec.md#ent-person-frank-turek-t-00-56-33)**
 > "...o Ian Carroll's channel— as well. He pointed out that like the only person who was acting right was Frank Turek. Like, the first thing you do is get down, right? Because you don't know if there's going to be ano..."
 
 **[00:57:17](/episodes/ep-c5BcKF91iec.md#ent-person-frank-turek-t-00-57-17)**
 > "...ground. That's like the first normal thing to do is to get low, get—make sure you're safe. And then Frank Turek kind of crawls back towards Charlie and then tries to like see him to the car. Like, all of that fe..."
-
-**[00:56:51](/episodes/ep-c5BcKF91iec.md#ent-person-frank-turek-t-00-56-33)**
-> "...rson who was acting right was Frank Turek. Like, the first thing you do is get down, right?..."
-
-**[00:57:17](/episodes/ep-c5BcKF91iec.md#ent-person-frank-turek-t-00-57-17)**
-> "And then Frank Turek kind of crawls back towards Charlie and then trie..."
 
 </details>
 
@@ -304,19 +214,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (4 mentions)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
 
 **[00:54:58](/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-54-23)**
 > "... best to come up with a story that works, and none of them do. Whitney writes: "Something about Dr. Frank Turek isn't sitting right with me. Unsure if he's having some unfounded guilt about not doing more—and th..."
 
 **[00:55:34](/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-55-02)**
 > "...ech that he wanted to give, and nothing in my research has come up about—thus far has come up about—Frank Turek. So I'm just reading your comment there. Wasn't the direction—again—that I would have taken. But I ..."
-
-**[00:54:58](/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-54-23)**
-> "... writes: "Something about Dr. Frank Turek isn't sitting right with me."
-
-**[00:55:34](/episodes/ep-ja26iltROkM.md#ent-person-frank-turek-t-00-55-02)**
-> "...ut—thus far has come up about—Frank Turek."
 
 </details>
 

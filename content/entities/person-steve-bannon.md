@@ -1,6 +1,6 @@
 ---
 title: "Steve Bannon"
-description: "Steve Bannon (People) - 6 mentions"
+description: "Steve Bannon (People) - 3 mentions"
 id: "person-steve-bannon"
 type: "PERSON"
 aliases:
@@ -17,25 +17,16 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (6 mentions)</summary>
-
-**[00:26:01](/episodes/ep-Kmt6HgRjckU.md#ent-person-steve-bannon-t-00-26-01)**
-> "Bannon has said Epstein was the key that picks the lock"
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3 mentions)</summary>
 
 **[00:25:55](/episodes/ep-Kmt6HgRjckU.md#ent-person-steve-bannon-t-00-25-55)**
 > "Jeffrey Epstein, as Bannon (Steve Bannon) has said, and who would know better than him, it..."
 
-**[00:25:55](/episodes/ep-Kmt6HgRjckU.md#ent-person-steve-bannon-t-00-25-55)**
-> "...rey Epstein, as Bannon (Steve Bannon) has said, and who would know better than him, it..."
-
 **[00:26:01](/episodes/ep-Kmt6HgRjckU.md#ent-person-steve-bannon-t-00-26-01)**
-> "...you're going to quote Bannon (Steve Bannon) who consulted for Epstein?"
+> "Bannon has said Epstein was the key that picks the lock"
 
 **[00:26:01](/episodes/ep-Kmt6HgRjckU.md#ent-person-steve-bannon-t-00-26-01)**
 > "Oh, you're going to quote Bannon (Steve Bannon) who consulted for Epstein?"
-
-**[00:26:01](/episodes/ep-Kmt6HgRjckU.md#ent-person-steve-bannon-t-00-26-01)**
-> "... going to quote Bannon (Steve Bannon) who consulted for Epstein?"
 
 </details>
 

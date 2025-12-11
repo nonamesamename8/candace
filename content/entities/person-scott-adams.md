@@ -1,6 +1,6 @@
 ---
 title: "Scott Adams"
-description: "Scott Adams (People) - 6 mentions"
+description: "Scott Adams (People) - 5 mentions"
 id: "person-scott-adams"
 type: "PERSON"
 ---
@@ -13,22 +13,19 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (5 mentions)</summary>
-
-**[00:08:03](/episodes/ep-Cq7nj9rxPdo.md#ent-person-scott-adams-t-00-07-44)**
-> "Scott Adams explained the Kanye tweet significance"
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
 
 **[00:07:58](/episodes/ep-Cq7nj9rxPdo.md#ent-person-scott-adams-t-00-07-44)**
 > "...remember that we both watched Scott Adams."
+
+**[00:08:03](/episodes/ep-Cq7nj9rxPdo.md#ent-person-scott-adams-t-00-07-44)**
+> "Scott Adams explained the Kanye tweet significance"
 
 **[00:08:08](/episodes/ep-Cq7nj9rxPdo.md#ent-person-scott-adams-t-00-07-44)**
 > "So I didn't know who Scott Adams was, but I remember vividly watching him draw on ..."
 
 **[00:08:25](/episodes/ep-Cq7nj9rxPdo.md#ent-person-scott-adams-t-00-07-44)**
 > "Let's take a listen to what Scott Adams (Scott Adams speaking) said on that day."
-
-**[00:08:25](/episodes/ep-Cq7nj9rxPdo.md#ent-person-scott-adams-t-00-07-44)**
-> "...a listen to what Scott Adams (Scott Adams speaking) said on that day."
 
 </details>
 

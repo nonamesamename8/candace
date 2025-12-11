@@ -1,6 +1,6 @@
 ---
 title: "Sara Zaafarani Zenzari"
-description: "Sara Zaafarani Zenzari (People) - 5 mentions"
+description: "Sara Zaafarani Zenzari (People) - 3 mentions"
 id: "person-sarah-zafrani"
 type: "PERSON"
 aliases:
@@ -18,19 +18,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (5 mentions)</summary>
-
-**[00:17:47](/episodes/ep-ZAuuSq_j2_w.md#ent-person-sarah-zafrani-t-00-17-47)**
-> "...al-Sisi that was aboard the jet on September 10th because he was photographed at a meeting with the Prime Minister of Tunisia, Sarah Zafrani—and it was in Egypt. We can also rule him out as having been the individual that was..."
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3 mentions)</summary>
 
 **[00:03:55](/episodes/ep-ZAuuSq_j2_w.md#ent-person-sarah-zafrani-t-00-17-47)**
 > "he was photographed at a meeting with the Prime Minister of Tunisia, Sarah Zafrani—and it was in Egypt."
 
 **[00:17:47](/episodes/ep-ZAuuSq_j2_w.md#ent-person-sarah-zafrani-t-00-17-47)**
-> "...graphed at a meeting with the Prime Minister of Tunisia, Sarah Zafrani—and it was in Egypt."
-
-**[00:17:47](/episodes/ep-ZAuuSq_j2_w.md#ent-person-sarah-zafrani-t-00-17-47)**
-> "...he Prime Minister of Tunisia, Sarah Zafrani—and it was in Egypt."
+> "...al-Sisi that was aboard the jet on September 10th because he was photographed at a meeting with the Prime Minister of Tunisia, Sarah Zafrani—and it was in Egypt. We can also rule him out as having been the individual that was..."
 
 **[00:17:55](/episodes/ep-ZAuuSq_j2_w.md#ent-person-sarah-zafrani-t-00-17-47)**
 > "We could actually officially rule out that it was President al-Sisi that was aboard the jet on September 10th because he was photographed at a meeting with the Prime Minister of Tunisia, Sarah Zafrani—and it was in Egypt."

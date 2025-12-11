@@ -2,7 +2,7 @@
 title: "Relationships"
 ---
 
-_Total relationships: 864_
+_Total relationships: 862_
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
@@ -286,7 +286,7 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Interviewed (48)</summary>
+<summary>Interviewed (47)</summary>
 
 - [Alex Clark](/entities/person-alex-clark) → [Andrew Kolvet](/entities/person-andrew-kolvet) [↗](/relationships/rel-5bf763d18964) (3)
 - [Alex Clark](/entities/person-alex-clark) → [Erika Kirk](/entities/person-erika-kirk) [↗](/relationships/rel-ef8d1e94d478) (2)
@@ -326,8 +326,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Rob McCoy](/entities/person-rob-mccoy) → [Thomas Michael Camino](/entities/person-thomas-michael-camino) [↗](/relationships/rel-888e885331d5) (1)
 - [Rob McCoy](/entities/person-rob-mccoy) → [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination) [↗](/relationships/rel-47f4a33fdc85) (1)
 - [Rob McCoy](/entities/person-rob-mccoy) → [Turning Point USA Faith](/entities/org-turning-point-usa-faith) [↗](/relationships/rel-316f9a8b61d2) (1)
-- [Sean Bryan](/entities/person-sean-bryan) → [Brian Harpole](/entities/person-brian-harpole) [↗](/relationships/rel-987f24a487a4) (1)
-- [Sean Ryan](/entities/person-sean-ryan) → [Brian Harpole](/entities/person-brian-harpole) [↗](/relationships/rel-dc56a2071f20) (4)
+- [Shawn Ryan](/entities/person-shawn-ryan) → [Brian Harpole](/entities/person-brian-harpole) [↗](/relationships/rel-25a0e8f62e74) (4)
 - [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show) → [Tyler Bowyer](/entities/person-tyler-bowyer) [↗](/relationships/rel-0905325b22d2) (1)
 - [Tim Pool](/entities/person-tim-pool) → [Milo Yiannopoulos](/entities/person-milo-yiannopoulos) [↗](/relationships/rel-8c1613754258) (1)
 - [TMZ](/entities/org-tmz) → [Erwin Steele](/entities/person-erwin-steele) [↗](/relationships/rel-13ffb5f195a2) (1)
@@ -340,7 +339,7 @@ This page shows all extracted relationships between entities. Click any relation
 </details>
 
 <details>
-<summary>Interviewed By (48)</summary>
+<summary>Interviewed By (47)</summary>
 
 - [Ami Kozak](/entities/person-ami-kozak) → [Candace Owens](/entities/person-candace-owens) [↗](/relationships/rel-4f6fe371285a) (1)
 - [Andrew Kolvet](/entities/person-andrew-kolvet) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-f8874717a175) (1)
@@ -352,8 +351,7 @@ This page shows all extracted relationships between entities. Click any relation
 - [Benjamin Netanyahu](/entities/person-benjamin-netanyahu) → [Fox News](/entities/org-fox-news) [↗](/relationships/rel-15c901aa1c6b) (1)
 - [Breland Holland](/entities/person-breland-holland) → [Charlie Kirk](/entities/person-charlie-kirk) [↗](/relationships/rel-348bb4b0f43a) (1)
 - [Brendan Carr](/entities/person-brendan-carr) → [Benny Johnson](/entities/person-benny-johnson) [↗](/relationships/rel-d0d781131fdf) (1)
-- [Brian Harpole](/entities/person-brian-harpole) → [Sean Ryan](/entities/person-sean-ryan) [↗](/relationships/rel-58b2eb7068ae) (3)
-- [Brian Harpole](/entities/person-brian-harpole) → [Sean Bryan](/entities/person-sean-bryan) [↗](/relationships/rel-8d3d48ddf53b) (1)
+- [Brian Harpole](/entities/person-brian-harpole) → [Shawn Ryan](/entities/person-shawn-ryan) [↗](/relationships/rel-692605248015) (3)
 - [Candace Owens](/entities/person-candace-owens) → [Tucker Carlson](/entities/person-tucker-carlson) [↗](/relationships/rel-489decb43312) (4)
 - [Candace Owens](/entities/person-candace-owens) → [Ben Shapiro](/entities/person-ben-shapiro) [↗](/relationships/rel-38a452869827) (1)
 - [Candace Owens](/entities/person-candace-owens) → [Eric Bolling](/entities/person-eric-bolling) [↗](/relationships/rel-fa16f0ade81a) (1)

@@ -1,6 +1,6 @@
 ---
 title: "Joyce Chernick"
-description: "Joyce Chernick (People) - 5 mentions"
+description: "Joyce Chernick (People) - 3 mentions"
 id: "person-joyce-chernick"
 type: "PERSON"
 ---
@@ -13,22 +13,16 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (5 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (3 mentions)</summary>
 
 **[00:46:52](/episodes/ep-581dILVcEE4.md#ent-person-joyce-chernick-t-00-46-30)**
 > "...elled and took away a million dollars because of the Tucker (Tucker Carlson) speech. That woman was Joyce Chernick. Joyce Chernick is married to Aubrey Chernick. He's a software tech billionaire guy. They fund a va..."
 
 **[00:46:56](/episodes/ep-581dILVcEE4.md#ent-person-joyce-chernick-t-00-46-30)**
-> "...way a million dollars because of the Tucker (Tucker Carlson) speech. That woman was Joyce Chernick. Joyce Chernick is married to Aubrey Chernick. He's a software tech billionaire guy. They fund a variety of pro-Isr..."
-
-**[00:46:56](/episodes/ep-581dILVcEE4.md#ent-person-joyce-chernick-t-00-46-30)**
 > "Joyce Chernick withdrew million dollars after Tucker Carlson speech"
 
-**[00:46:52](/episodes/ep-581dILVcEE4.md#ent-person-joyce-chernick-t-00-46-30)**
-> "That woman was Joyce Chernick."
-
 **[00:46:56](/episodes/ep-581dILVcEE4.md#ent-person-joyce-chernick-t-00-46-30)**
-> "Joyce Chernick is married to Aubrey Chernick."
+> "...way a million dollars because of the Tucker (Tucker Carlson) speech. That woman was Joyce Chernick. Joyce Chernick is married to Aubrey Chernick. He's a software tech billionaire guy. They fund a variety of pro-Isr..."
 
 </details>
 

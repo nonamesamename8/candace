@@ -1,6 +1,6 @@
 ---
 title: "Mike Mitchell"
-description: "Mike Mitchell (People) - 29 mentions"
+description: "Mike Mitchell (People) - 14 mentions"
 id: "person-mike-mitchell"
 type: "PERSON"
 aliases:
@@ -17,18 +17,15 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
 
 **[00:39:06](/episodes/ep-5autG89PW6w.md#ent-person-mike-mitchell-t-00-38-46)**
 > "...omething? They had no idea what was happening. They were going off of Mike—the mysterious detective Mike Mitchell's tip. They had no confession. They have Tyler Robinson walking in peacefully because he doesn't wa..."
 
-**[00:39:06](/episodes/ep-5autG89PW6w.md#ent-person-mike-mitchell-t-00-38-46)**
-> "...Mike—the mysterious detective Mike Mitchell's tip."
-
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (4 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
 
 **[00:19:30](/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-19-30)**
 > "...y interesting. And yes, it is true, it is a fact that Tyler Robinson, we can't confirm that this is Mike Mitchell, but there are old photos of Tyler Robinson when he's a lot younger visiting his Uncle Mikey, okay?..."
@@ -36,16 +33,10 @@ _Type: People_
 **[00:23:12](/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-23-05)**
 > "...tomorrow and we'll bring in the aspects and show you whether or not, you know, Uncle Mikey could be Mike Mitchell; could he be the detective? But I'm just seeing these recurring themes of the military, for whateve..."
 
-**[00:19:30](/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-19-30)**
-> "...we can't confirm that this is Mike Mitchell, but there are old photos of Tyler Robinson when ..."
-
-**[00:23:12](/episodes/ep-adJ4LNGp84I.md#ent-person-mike-mitchell-t-00-23-05)**
-> "...ou know, Uncle Mikey could be Mike Mitchell; could he be the detective?"
-
 </details>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (12 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (6 mentions)</summary>
 
 **[00:20:53](/episodes/ep-YA1FxrDWNIo.md#ent-person-mike-mitchell-t-00-20-22)**
 > "...So I'm thinking maybe he also came from overseas. Now quickly, regarding our question pertaining to Mike Mitchell, right? I was saying that it was pretty odd and obvious that they were trying to protect this Detec..."
@@ -65,28 +56,10 @@ _Type: People_
 **[00:22:30](/episodes/ep-YA1FxrDWNIo.md#ent-person-mike-mitchell-t-00-21-49)**
 > "...He's chatting with someone now. His words are full of typos and misspellings and childlike phrases. Mike Mitchell is not a boy. He is a police detective hunting for a pedophile. But the hunted doesn't know that. M..."
 
-**[00:20:53](/episodes/ep-YA1FxrDWNIo.md#ent-person-mike-mitchell-t-00-20-22)**
-> "...ng our question pertaining to Mike Mitchell, right?"
-
-**[00:20:58](/episodes/ep-YA1FxrDWNIo.md#ent-person-mike-mitchell-t-00-20-22)**
-> "...ing to protect this Detective Mike Mitchell."
-
-**[00:21:36](/episodes/ep-YA1FxrDWNIo.md#ent-person-mike-mitchell-t-00-21-05)**
-> "...ently, if this is the correct Mike Mitchell—and given the timeline of when he becomes an unde..."
-
-**[00:21:52](/episodes/ep-YA1FxrDWNIo.md#ent-person-mike-mitchell-t-00-21-49)**
-> "His job—Detective Mike Mitchell—was to create messages online to entrap pedophile..."
-
-**[00:22:19](/episodes/ep-YA1FxrDWNIo.md#ent-person-mike-mitchell-t-00-21-49)**
-> "And it tells us, “Mike Mitchell sits at a desk tapping on a computer keyboard and..."
-
-**[00:22:30](/episodes/ep-YA1FxrDWNIo.md#ent-person-mike-mitchell-t-00-21-49)**
-> "Mike Mitchell is not a boy."
-
 </details>
 
 <details>
-<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (11 mentions)</summary>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (5 mentions)</summary>
 
 **[00:18:57](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-mike-mitchell-t-00-18-41)**
 > "...d to get in touch with. We've tried to get in touch with him. The name of that individual is former deputy Mike Mitchell, okay? Deputy Mike Mitchell. Now, oddly, despite a career of 25 years in the police force, I can't ..."
@@ -102,24 +75,6 @@ _Type: People_
 
 **[00:50:38](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-mike-mitchell-t-00-50-29)**
 > "...some other leads that we are working on. That's how I feel. And even when I was trying to find this Mike Mitchell, I could find the Mitchell family. I don't know if it's his family, but the Mitchell name in that a..."
-
-**[00:18:57](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-mike-mitchell-t-00-18-41)**
-> "...t individual is former deputy Mike Mitchell, okay?"
-
-**[00:18:57](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-mike-mitchell-t-00-18-41)**
-> "... of that individual is former deputy Mike Mitchell, okay?"
-
-**[00:19:04](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-mike-mitchell-t-00-18-41)**
-> "Deputy Mike Mitchell."
-
-**[00:19:28](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-mike-mitchell-t-00-19-22)**
-> "...ere able to confirm that this Mike Mitchell lives on the block—"
-
-**[00:20:04](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-mike-mitchell-t-00-20-04)**
-> "...rated the career of Detective Mike Mitchell."
-
-**[00:50:38](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-mike-mitchell-t-00-50-29)**
-> "...hen I was trying to find this Mike Mitchell, I could find the Mitchell family."
 
 </details>
 

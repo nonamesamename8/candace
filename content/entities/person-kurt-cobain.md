@@ -1,6 +1,6 @@
 ---
 title: "Kurt Cobain"
-description: "Kurt Cobain (People) - 8 mentions"
+description: "Kurt Cobain (People) - 4 mentions"
 id: "person-kurt-cobain"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (8 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
 
 **[00:17:18](/episodes/ep-7RLtGgkTh9o.md#ent-person-kurt-cobain-t-00-16-49)**
 > "...se the media has convinced most people that she had something to do with the murder of her husband, Kurt Cobain, right? That's the reality, right? I didn't grow up with this music. I didn't listen to this music,..."
@@ -26,18 +26,6 @@ _Type: People_
 
 **[00:25:15](/episodes/ep-7RLtGgkTh9o.md#ent-person-kurt-cobain-t-00-25-15)**
 > "...d of course, the last way that they can hostilely take over your company is with an untimely death. Kurt Cobain, Prince, Michael Jackson, Charlie (Charlie Kirk). And I should also mention Bob Bryar—talk about a—..."
-
-**[00:17:18](/episodes/ep-7RLtGgkTh9o.md#ent-person-kurt-cobain-t-00-16-49)**
-> "...th the murder of her husband, Kurt Cobain, right?"
-
-**[00:17:28](/episodes/ep-7RLtGgkTh9o.md#ent-person-kurt-cobain-t-00-17-28)**
-> "...to this music, but I know the Kurt Cobain story, and I know that somewhere in the back of m..."
-
-**[00:22:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-kurt-cobain-t-00-21-47)**
-> "... she told me, "I did not kill Kurt Cobain.""
-
-**[00:25:15](/episodes/ep-7RLtGgkTh9o.md#ent-person-kurt-cobain-t-00-25-15)**
-> "Kurt Cobain, Prince, Michael Jackson, Charlie (Charlie Kirk)."
 
 </details>
 

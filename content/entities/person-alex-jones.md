@@ -1,6 +1,6 @@
 ---
 title: "Alex Jones"
-description: "Alex Jones (People) - 25 mentions"
+description: "Alex Jones (People) - 12 mentions"
 id: "person-alex-jones"
 type: "PERSON"
 ---
@@ -13,29 +13,23 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
 **[00:59:36](/episodes/ep-LATnak75Si0.md#ent-person-alex-jones-t-00-59-19)**
 > "... go. Raven writes: "Brandon Briggs said on his last day's show to pray for Candace (Candace Owens), Alex Jones, and Tucker (Tucker Carlson) Carlson—bold voices that are exposing darkness. May Jesus Christ of Na..."
 
-**[00:59:36](/episodes/ep-LATnak75Si0.md#ent-person-alex-jones-t-00-59-19)**
-> "... for Candace (Candace Owens), Alex Jones, and Tucker (Tucker Carlson) Carlson—bold voices ..."
-
 </details>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1 mentions)</summary>
 
 **[00:28:23](/episodes/ep-pc3pxRyNFZk.md#ent-person-alex-jones-t-00-28-07)**
 > "...oking for a shooter that was in the audience and to the left. I've seen you guys. I saw some guy on Alex Jones. I created— like he created a whole web and explained and did this all on a computer of where the t..."
 
-**[00:28:23](/episodes/ep-pc3pxRyNFZk.md#ent-person-alex-jones-t-00-28-07)**
-> "I saw some guy on Alex Jones. I created—"
-
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (4 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
 
 **[00:53:31](/episodes/ep-2Riv3I7D0Yk.md#ent-person-alex-jones-t-00-53-26)**
 > "...istake because people—it catalyzes people waking up and learning exactly how this matrix works. And Alex Jones brought this up on his show, my kill switch. Here's what he had to say. (Clip of Alex Jones:) "Boy,..."
@@ -43,38 +37,26 @@ _Type: People_
 **[00:53:33](/episodes/ep-2Riv3I7D0Yk.md#ent-person-alex-jones-t-00-53-26)**
 > "...ks. And Alex Jones brought this up on his show, my kill switch. Here's what he had to say. (Clip of Alex Jones:) "Boy, did she lay the traps for him. She comes out and says, 'Yeah, Charlie (Charlie Kirk) was ca..."
 
-**[00:53:31](/episodes/ep-2Riv3I7D0Yk.md#ent-person-alex-jones-t-00-53-26)**
-> "And Alex Jones brought this up on his show, my kill switch."
-
-**[00:53:33](/episodes/ep-2Riv3I7D0Yk.md#ent-person-alex-jones-t-00-53-26)**
-> "... what he had to say. (Clip of Alex Jones:)"
-
 </details>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
 
 **[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-person-alex-jones-t-00-21-03)**
 > "...ng. He ran for Utah governor in 2024. He featured George Zinn on his website at that time, spoke to Alex Jones, Fox News, NewsNation, really anybody that would have him. Now we have Olivia Bishop; she works for..."
 
-**[00:21:20](/episodes/ep-t1YtLS1n8Vs.md#ent-person-alex-jones-t-00-21-03)**
-> "...ebsite at that time, spoke to Alex Jones, Fox News, NewsNation, really anybody that would ..."
-
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
 **[00:22:59](/episodes/ep-adJ4LNGp84I.md#ent-person-alex-jones-t-00-22-22)**
 > "...ker Carlson) was on the hit list, and actually, I forgot the name of the individual that worked for Alex Jones who got killed, but he was similarly on a Ukrainian hit list. It's something that I think should be..."
 
-**[00:22:59](/episodes/ep-adJ4LNGp84I.md#ent-person-alex-jones-t-00-22-22)**
-> "...he individual that worked for Alex Jones who got killed, but he was similarly on a Ukraini..."
-
 </details>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (7 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (3 mentions)</summary>
 
 **[00:12:48](/episodes/ep-YA1FxrDWNIo.md#ent-person-alex-jones-t-00-12-14)**
 > "...remembered him painting a picture that he was outside. That certainly seems to be what he told both Alex Jones and NewsNation: that he was outside when the shot rang out. Let's take a listen to what he said on ..."
@@ -85,45 +67,24 @@ _Type: People_
 **[00:12:58](/episodes/ep-YA1FxrDWNIo.md#ent-person-alex-jones-t-00-12-14)**
 > "...en to what he said on Alex Jones. [Clip attribution: Phil Lyman on Alex Jones] [Clip: Phil Lyman on Alex Jones] Just yesterday, someone comes in and says, "Yeah, we've got video." He came off the roof. He walke..."
 
-**[00:12:48](/episodes/ep-YA1FxrDWNIo.md#ent-person-alex-jones-t-00-12-14)**
-> "...seems to be what he told both Alex Jones and NewsNation: that he was outside when the shot..."
-
-**[00:12:56](/episodes/ep-YA1FxrDWNIo.md#ent-person-alex-jones-t-00-12-14)**
-> "...e a listen to what he said on Alex Jones. [Clip attribution: Phil Lyman on Alex Jones]"
-
-**[00:12:56](/episodes/ep-YA1FxrDWNIo.md#ent-person-alex-jones-t-00-12-14)**
-> "...ip attribution: Phil Lyman on Alex Jones]"
-
-**[00:12:58](/episodes/ep-YA1FxrDWNIo.md#ent-person-alex-jones-t-00-12-14)**
-> "[Clip: Phil Lyman on Alex Jones] Just yesterday, someone comes in and says, "Yeah..."
-
 </details>
 
 <details>
-<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (2 mentions)</summary>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (1 mentions)</summary>
 
 **[00:31:05](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-alex-jones-t-00-30-28)**
 > "... car was in the driveway. So the issue's close to him. That kind of makes sense. Then he went on to Alex Jones and spoke about where he was when the shot rang out. And what's kind of—and I'm laughing because it..."
 
-**[00:31:05](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-alex-jones-t-00-30-28)**
-> "Then he went on to Alex Jones and spoke about where he was when the shot rang o..."
-
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (4 mentions)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
 
 **[00:12:12](/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-11-35)**
 > "...e angle went through this way. I did not imagine they were just going to say that it was a miracle. Alex Jones—he immediately took to X live. This began trending. The statement began trending, and he jumped ont..."
 
 **[00:12:16](/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-12-16)**
 > "...an trending, and he jumped onto X, and he responded to that statement, saying this. Take a listen. (Alex Jones clip) The spokesperson for TPUSA just posted two hours ago that they talked to the coroner and that..."
-
-**[00:12:12](/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-11-35)**
-> "Alex Jones—he immediately took to X live."
-
-**[00:12:16](/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-12-16)**
-> "... saying this. Take a listen. (Alex Jones clip)"
 
 </details>
 

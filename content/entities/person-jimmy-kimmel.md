@@ -1,6 +1,6 @@
 ---
 title: "Jimmy Kimmel"
-description: "Jimmy Kimmel (People) - 24 mentions"
+description: "Jimmy Kimmel (People) - 12 mentions"
 id: "person-jimmy-kimmel"
 type: "PERSON"
 ---
@@ -13,10 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (10 mentions)</summary>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (5 mentions)</summary>
 
 **[00:30:04](/episodes/ep-QZWSsq8ZWzw.md#ent-person-jimmy-kimmel-t-00-29-52)**
 > "...48 off. Kits are available to U.S. residents only, unfortunately. All right, guys. Wanted to get to Jimmy Kimmel. He's back on air. I think—I guess he was—it was a little time-out for Jimmy Kimmel. I was very sho..."
+
+**[00:30:06](/episodes/ep-QZWSsq8ZWzw.md#ent-person-jimmy-kimmel-t-00-29-52)**
+> "Wanted to get to Jimmy Kimmel. He's back on air"
 
 **[00:30:07](/episodes/ep-QZWSsq8ZWzw.md#ent-person-jimmy-kimmel-t-00-29-52)**
 > "...anted to get to Jimmy Kimmel. He's back on air. I think—I guess he was—it was a little time-out for Jimmy Kimmel. I was very shocked to see people on the right who were kind of cheering on his cancellation. And I..."
@@ -27,28 +30,10 @@ _Type: People_
 **[00:31:17](/episodes/ep-QZWSsq8ZWzw.md#ent-person-jimmy-kimmel-t-00-31-17)**
 > "...y old pal Ted Cruz, who, believe it or not, said something very beautiful on my behalf. I hate what Jimmy Kimmel said. I am thrilled that he was fired. Oh, wait. No, not that. The other part. But let me tell you:..."
 
-**[00:30:06](/episodes/ep-QZWSsq8ZWzw.md#ent-person-jimmy-kimmel-t-00-29-52)**
-> "Wanted to get to Jimmy Kimmel. He's back on air"
-
-**[00:30:04](/episodes/ep-QZWSsq8ZWzw.md#ent-person-jimmy-kimmel-t-00-29-52)**
-> "...right, guys. Wanted to get to Jimmy Kimmel."
-
-**[00:30:07](/episodes/ep-QZWSsq8ZWzw.md#ent-person-jimmy-kimmel-t-00-29-52)**
-> "...—it was a little time-out for Jimmy Kimmel."
-
-**[00:30:34](/episodes/ep-QZWSsq8ZWzw.md#ent-person-jimmy-kimmel-t-00-30-34)**
-> "And Jimmy Kimmel delivered a monologue and thanked people on the r..."
-
-**[00:30:34](/episodes/ep-QZWSsq8ZWzw.md#ent-person-jimmy-kimmel-t-00-30-34)**
-> "...ople on the right in his very Jimmy Kimmel way."
-
-**[00:31:17](/episodes/ep-QZWSsq8ZWzw.md#ent-person-jimmy-kimmel-t-00-31-17)**
-> "I hate what Jimmy Kimmel said."
-
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (14 mentions)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (7 mentions)</summary>
 
 **[00:39:06](/episodes/ep-aDlhjfW6hz8.md#ent-person-jimmy-kimmel-t-00-38-26)**
 > "...t of us. That's it. Everything else is a mirage. And speaking of free speech, I want to speak about Jimmy Kimmel because he has been pulled off air indefinitely over his comments in the aftermath of Charlie's ass..."
@@ -70,27 +55,6 @@ _Type: People_
 
 **[00:42:23](/episodes/ep-aDlhjfW6hz8.md#ent-person-jimmy-kimmel-t-00-42-18)**
 > "...d federal action against ABC affiliates who carried the show. What? Federal action if you carry the Jimmy Kimmel show? Does that seem right to you? Okay, again, if you're on the right and you cheered this on, do ..."
-
-**[00:39:06](/episodes/ep-aDlhjfW6hz8.md#ent-person-jimmy-kimmel-t-00-38-26)**
-> "...speech, I want to speak about Jimmy Kimmel because he has been pulled off air indefinitely o..."
-
-**[00:39:08](/episodes/ep-aDlhjfW6hz8.md#ent-person-jimmy-kimmel-t-00-39-08)**
-> "...o let's take a listen to what Jimmy Kimmel said on his show."
-
-**[00:41:05](/episodes/ep-aDlhjfW6hz8.md#ent-person-jimmy-kimmel-t-00-40-58)**
-> "...on—if you're angry about what Jimmy Kimmel said—is for the free markets to take him out, rig..."
-
-**[00:41:31](/episodes/ep-aDlhjfW6hz8.md#ent-person-jimmy-kimmel-t-00-40-58)**
-> "The day that it happened, Jimmy Kimmel posted a message on Instagram sending love to the..."
-
-**[00:41:47](/episodes/ep-aDlhjfW6hz8.md#ent-person-jimmy-kimmel-t-00-41-34)**
-> "...ant to be clear: I don't like Jimmy Kimmel, right?"
-
-**[00:42:07](/episodes/ep-aDlhjfW6hz8.md#ent-person-jimmy-kimmel-t-00-41-34)**
-> "... jumped up, and he criticized Jimmy Kimmel's remarks."
-
-**[00:42:23](/episodes/ep-aDlhjfW6hz8.md#ent-person-jimmy-kimmel-t-00-42-18)**
-> "...deral action if you carry the Jimmy Kimmel show?"
 
 </details>
 

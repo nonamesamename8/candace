@@ -1,6 +1,6 @@
 ---
 title: "Mr. Brumetz"
-description: "Mr. Brumetz (People) - 4 mentions"
+description: "Mr. Brumetz (People) - 3 mentions"
 id: "person-mr-brumetz"
 type: "PERSON"
 aliases:
@@ -17,16 +17,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
 
 **[00:57:09](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mr-brumetz-t-00-57-02)**
 > "Mr. Brumetz was the guy who did this—a government official."
 
 **[00:57:23](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mr-brumetz-t-00-57-02)**
 > "...e completely surprised," said Mr. Brumetz."
-
-**[00:57:23](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mr-brumetz-t-00-57-02)**
-> "...mpletely surprised," said Mr. Brumetz."
 
 **[00:57:26](/episodes/ep-Cq7nj9rxPdo.md#ent-person-mr-brumetz-t-00-57-02)**
 > "...ling, by the way—this person, Brumetz, has worked with the couple since 2017."

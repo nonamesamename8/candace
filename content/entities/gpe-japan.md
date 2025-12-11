@@ -1,6 +1,6 @@
 ---
 title: "Japan"
-description: "Japan (Places) - 9 mentions"
+description: "Japan (Places) - 8 mentions"
 id: "gpe-japan"
 type: "GPE"
 aliases:
@@ -17,7 +17,7 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (5 mentions)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (4 mentions)</summary>
 
 **[00:00:03](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-00-00)**
 > "then off to Japan"
@@ -30,9 +30,6 @@ _Type: Places_
 
 **[00:29:22](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-29-22)**
 > "And then on the 7th, he's in Japan, and he is on CNN News Japan speaking."
-
-**[00:29:22](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-29-22)**
-> "... Japan, and he is on CNN News Japan speaking."
 
 </details>
 

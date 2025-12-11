@@ -1,6 +1,6 @@
 ---
 title: "Angola"
-description: "Angola (Places) - 10 mentions"
+description: "Angola (Places) - 9 mentions"
 id: "gpe-angola"
 type: "GPE"
 ---
@@ -13,13 +13,13 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (10 mentions)</summary>
-
-**[00:12:44](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-angola-t-00-12-44)**
-> "Arms trafficking to Angola during civil war"
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (9 mentions)</summary>
 
 **[00:12:36](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-angola-t-00-12-04)**
 > "...involved, here we go, Africa, Angola in particular, Israel, France, and the United Sta..."
+
+**[00:12:44](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-angola-t-00-12-44)**
+> "Arms trafficking to Angola during civil war"
 
 **[00:12:44](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-angola-t-00-12-44)**
 > "...s scandal came to be known as Angola Gate."
@@ -38,9 +38,6 @@ _Type: Places_
 
 **[00:16:50](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-angola-t-00-16-50)**
 > "...s men, a March 25th report on Angola Gates by Global Witness, Gaidemach funneled billi..."
-
-**[00:16:50](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-angola-t-00-16-50)**
-> "... arms and oil-backed loans to Angola's government in return for lucrative oil contracts."
 
 **[00:17:08](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-angola-t-00-16-50)**
 > "... some $463 million in arms to Angola and"

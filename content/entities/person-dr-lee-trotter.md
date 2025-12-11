@@ -1,6 +1,6 @@
 ---
 title: "Dr. Lee Trotter"
-description: "Dr. Lee Trotter (People) - 10 mentions"
+description: "Dr. Lee Trotter (People) - 6 mentions"
 id: "person-dr-lee-trotter"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
 **[00:14:47](/episodes/ep-mKXdKV-OBog.md#ent-person-dr-lee-trotter-t-00-14-17)**
 > "...e list of military connects in this story is just too long, okay? Charlie (Charlie Kirk)'s surgeon, Dr. Lee Trotter—the alleged surgeon who apparently spoke about the miracle; we're supposed to assume spoke about th..."
@@ -21,34 +21,22 @@ _Type: People_
 **[00:15:11](/episodes/ep-mKXdKV-OBog.md#ent-person-dr-lee-trotter-t-00-14-17)**
 > "Dr. Lee Trotter, Charlie's surgeon, did residency at Air Force base"
 
-**[00:14:47](/episodes/ep-mKXdKV-OBog.md#ent-person-dr-lee-trotter-t-00-14-17)**
-> "...lie (Charlie Kirk)'s surgeon, Dr. Lee Trotter—the alleged surgeon who apparently spoke about th..."
-
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (7 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
 
 **[00:29:11](/episodes/ep-Cq7nj9rxPdo.md#ent-person-dr-lee-trotter-t-00-28-37)**
 > "...re's what I discovered—preliminarily. The answer is yes, okay? The doctor who worked on Charlie was Dr. Lee Trotter. And regarding Dr. Lee Trotter, he had his residency on the Air Force base. He completed residency ..."
+
+**[00:29:13](/episodes/ep-Cq7nj9rxPdo.md#ent-person-dr-lee-trotter-t-00-28-37)**
+> "Dr. Lee Trotter worked on Charlie, residency at Air Force base"
 
 **[00:29:13](/episodes/ep-Cq7nj9rxPdo.md#ent-person-dr-lee-trotter-t-00-28-37)**
 > "...arily. The answer is yes, okay? The doctor who worked on Charlie was Dr. Lee Trotter. And regarding Dr. Lee Trotter, he had his residency on the Air Force base. He completed residency at the Keesler Air Force Medica..."
 
 **[00:35:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-dr-lee-trotter-t-00-35-07)**
 > "...ve confirmed that doesn't seem to be the circumstance. It's possible that it could be because maybe Dr. Lee Trotter—which I have heard works at both—limited surgeons going back and forth. That's somehow it created a..."
-
-**[00:29:13](/episodes/ep-Cq7nj9rxPdo.md#ent-person-dr-lee-trotter-t-00-28-37)**
-> "Dr. Lee Trotter worked on Charlie, residency at Air Force base"
-
-**[00:29:11](/episodes/ep-Cq7nj9rxPdo.md#ent-person-dr-lee-trotter-t-00-28-37)**
-> "...tor who worked on Charlie was Dr. Lee Trotter."
-
-**[00:29:13](/episodes/ep-Cq7nj9rxPdo.md#ent-person-dr-lee-trotter-t-00-28-37)**
-> "And regarding Dr. Lee Trotter, he had his residency on the Air Force base."
-
-**[00:35:07](/episodes/ep-Cq7nj9rxPdo.md#ent-person-dr-lee-trotter-t-00-35-07)**
-> "maybe Dr. Lee Trotter—which I have heard works at both—limited surgeons..."
 
 </details>
 

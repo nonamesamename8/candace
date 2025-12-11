@@ -1,6 +1,6 @@
 ---
 title: "U.S. Navy"
-description: "U.S. Navy (Organizations) - 11 mentions"
+description: "U.S. Navy (Organizations) - 10 mentions"
 id: "org-us-navy"
 type: "ORG"
 aliases:
@@ -55,13 +55,10 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
 **[00:23:08](/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-navy-t-00-22-48)**
 > "... honest—former officer in the U.S. Navy, and then he turned to Christian apologetics."
-
-**[00:23:08](/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-navy-t-00-22-48)**
-> "...st—former officer in the U.S. Navy, and then he turned to Christian apologetics."
 
 **[00:24:07](/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-navy-t-00-22-48)**
 > "... psychological warfare in the Navy."

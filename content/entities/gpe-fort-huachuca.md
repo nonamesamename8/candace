@@ -1,6 +1,6 @@
 ---
 title: "Fort Huachuca"
-description: "Fort Huachuca (Places) - 15 mentions"
+description: "Fort Huachuca (Places) - 10 mentions"
 id: "gpe-fort-huachuca"
 type: "GPE"
 aliases:
@@ -18,25 +18,16 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (11 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (6 mentions)</summary>
 
 **[00:44:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-44-27)**
 > "... September 9th, it flies from Fort Huachuca to El Paso and then El Paso back to St. Andrews."
 
-**[00:44:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-44-27)**
-> "...ember 9th, it flies from Fort Huachuca to El Paso and then El Paso back to St. Andrews."
-
 **[00:46:55](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-46-55)**
 > "...oticed that this plane was in Fort Huachuca."
 
-**[00:46:55](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-46-55)**
-> "...d that this plane was in Fort Huachuca."
-
 **[00:49:01](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-49-01)**
 > "... the call sign from Tucson to Fort Huachuca is a standard reach, everything before that is as..."
-
-**[00:49:01](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-49-01)**
-> "...call sign from Tucson to Fort Huachuca is a standard reach, everything before that is as..."
 
 **[00:49:09](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-49-01)**
 > "But once it gets to Fort Huachuca and takes off, it switches to SAM."
@@ -44,14 +35,8 @@ _Type: Places_
 **[00:49:12](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-49-01)**
 > "...up someone of that stature in Fort Huachuca."
 
-**[00:49:12](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-49-01)**
-> "...meone of that stature in Fort Huachuca."
-
 **[00:49:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-49-01)**
 > "...own, or the best luck down in Fort Huachuca."
-
-**[00:49:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-fort-huachuca-t-00-49-01)**
-> "...or the best luck down in Fort Huachuca."
 
 </details>
 
@@ -85,7 +70,7 @@ _No relationships extracted yet._
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (8)</summary>
 
 - [00:41:17](/episodes/ep-6DhWawD4ZiM.md#t-00-40-53) (Claim) **Candace Owens**: ["Captain Adam Neff of the 10th Mountain Division led an interrogation o..."](/statements/statement-536d43327c41.md)
-  - Also about: [Adam Neff](/entities/person-adam-neff.md)
+  - Also about: [Captain Adam Neff](/entities/person-captain-adam-neff.md)
 
 - [00:41:25](/episodes/ep-6DhWawD4ZiM.md#t-00-40-53) (Claim) **Candace Owens**: ["A building at Fort Huachuca has been converted into a SCIF (Sensitive ..."](/statements/statement-3e770fcf90d6.md)
 

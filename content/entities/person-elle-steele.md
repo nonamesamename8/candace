@@ -39,17 +39,17 @@ _Type: People_
 **[00:20:04](/episodes/ep-sreYYcID-QY.md#ent-person-elle-steele-t-00-19-52)**
 > "We're joined now by Tiffany Barker and our nieces Elle Steele and Mia Grant"
 
-**[00:21:01](/episodes/ep-sreYYcID-QY.md#ent-person-elle-steele-t-00-19-52)**
-> "Elle and Mia, I can't imagine how scared you must have been"
-
-**[00:21:15](/episodes/ep-sreYYcID-QY.md#ent-person-elle-steele-t-00-19-52)**
-> "Elle, you go first"
-
 **[00:20:04](/episodes/ep-sreYYcID-QY.md#ent-person-elle-steele-t-00-19-52)**
 > "...Tiffany Barker and our nieces Elle Steele and Mia Grant, who were all in the audience yeste..."
 
 **[00:21:01](/episodes/ep-sreYYcID-QY.md#ent-person-elle-steele-t-00-19-52)**
+> "Elle and Mia, I can't imagine how scared you must have been"
+
+**[00:21:01](/episodes/ep-sreYYcID-QY.md#ent-person-elle-steele-t-00-19-52)**
 > "Elle and Mia, I can't imagine how scared you must have..."
+
+**[00:21:15](/episodes/ep-sreYYcID-QY.md#ent-person-elle-steele-t-00-19-52)**
+> "Elle, you go first"
 
 **[00:21:15](/episodes/ep-sreYYcID-QY.md#ent-person-elle-steele-t-00-19-52)**
 > "Elle, you go first."

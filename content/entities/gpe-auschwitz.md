@@ -19,11 +19,11 @@ _Type: Places_
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (2 mentions)</summary>
 
-**[00:18:31](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-auschwitz-t-00-17-49)**
-> "we just need you to come out to Auschwitz and take a picture"
-
 **[00:17:57](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-auschwitz-t-00-17-49)**
 > "... just need you to come out to Auschwitz and take a picture."
+
+**[00:18:31](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-auschwitz-t-00-17-49)**
+> "we just need you to come out to Auschwitz and take a picture"
 
 </details>
 

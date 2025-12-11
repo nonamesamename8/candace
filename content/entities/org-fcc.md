@@ -1,6 +1,6 @@
 ---
 title: "Federal Communications Commission"
-description: "Federal Communications Commission (Organizations) - 4 mentions"
+description: "Federal Communications Commission (Organizations) - 3 mentions"
 id: "org-fcc"
 type: "ORG"
 aliases:
@@ -17,16 +17,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (4 mentions)</summary>
-
-**[00:42:18](/episodes/ep-aDlhjfW6hz8.md#ent-org-fcc-t-00-42-18)**
-> "the chairman of the Federal Communications Commission, Brendan Carr"
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (3 mentions)</summary>
 
 **[00:42:07](/episodes/ep-aDlhjfW6hz8.md#ent-org-fcc-t-00-41-34)**
 > "...ght? Let's give the government more power. And that's what happened here, okay? The chairman of the Federal Communications Commission, Brendan Carr, jumped up, and he criticized Jimmy Kimmel's remarks. He threatened federal action ag..."
 
-**[00:42:07](/episodes/ep-aDlhjfW6hz8.md#ent-org-fcc-t-00-41-34)**
-> "The chairman of the Federal Communications Commission, Brendan Carr, jumped up, and he criticized Jimmy..."
+**[00:42:18](/episodes/ep-aDlhjfW6hz8.md#ent-org-fcc-t-00-42-18)**
+> "the chairman of the Federal Communications Commission, Brendan Carr"
 
 **[00:42:51](/episodes/ep-aDlhjfW6hz8.md#ent-org-fcc-t-00-42-18)**
 > "Brendan Carr of the FCC was joining Benny Johnson."

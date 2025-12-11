@@ -1,6 +1,6 @@
 ---
 title: "Scottsdale"
-description: "Scottsdale (Places) - 26 mentions"
+description: "Scottsdale (Places) - 22 mentions"
 id: "gpe-scottsdale"
 type: "GPE"
 aliases:
@@ -17,13 +17,13 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (5 mentions)</summary>
-
-**[00:12:17](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-scottsdale-t-00-12-04)**
-> "Pierre Falcone lives in Scottsdale Arizona where Turning Point USA is based"
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4 mentions)</summary>
 
 **[00:12:04](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-scottsdale-t-00-12-04)**
 > "this person who lives in Scottsdale, Arizona and is a billionaire, and that is where ..."
+
+**[00:12:17](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-scottsdale-t-00-12-04)**
+> "Pierre Falcone lives in Scottsdale Arizona where Turning Point USA is based"
 
 **[00:17:43](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-scottsdale-t-00-17-32)**
 > "...ut, he actually reappeared in Scottsdale."
@@ -31,22 +31,16 @@ _Type: Places_
 **[00:17:55](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-scottsdale-t-00-17-32)**
 > "...e, again, this is in he is in Scottsdale, and we know that turning point is very much invo..."
 
-**[00:17:55](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-scottsdale-t-00-17-32)**
-> "... much involved in politics in Scottsdale, as to whether or not he still has a."
-
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (6 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (5 mentions)</summary>
 
 **[00:27:44](/episodes/ep-SKGUzGHymcI.md#ent-gpe-scottsdale-t-00-27-14)**
 > "...'s the one that departed from Scottsdale at eight o'clock a.m., landed into Provo at 10:06..."
 
 **[00:27:51](/episodes/ep-SKGUzGHymcI.md#ent-gpe-scottsdale-t-00-27-51)**
 > "... and immediately departed for Scottsdale, landing into Scottsdale at 12:44 p.m."
-
-**[00:27:51](/episodes/ep-SKGUzGHymcI.md#ent-gpe-scottsdale-t-00-27-51)**
-> "... for Scottsdale, landing into Scottsdale at 12:44 p.m."
 
 **[00:28:03](/episodes/ep-SKGUzGHymcI.md#ent-gpe-scottsdale-t-00-27-51)**
 > "...Kirk) got shot because that's Scottsdale time."
@@ -93,7 +87,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (9 mentions)</summary>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (7 mentions)</summary>
 
 **[00:41:57](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-scottsdale-t-00-41-45)**
 > "and from Scottsdale, Arizona. We're trying to figure out like, "Okay,..."
@@ -103,12 +97,6 @@ _Type: Places_
 
 **[00:42:50](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-scottsdale-t-00-42-28)**
 > "...t 7:12 a.m. in the morning in Scottsdale—so that's local time in Scottsdale—it flies from ..."
-
-**[00:42:50](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-scottsdale-t-00-42-28)**
-> "...sdale—so that's local time in Scottsdale—it flies from Scottsdale to Salt Lake City."
-
-**[00:42:50](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-scottsdale-t-00-42-28)**
-> "...e in Scottsdale—it flies from Scottsdale to Salt Lake City."
 
 **[00:43:20](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-scottsdale-t-00-43-11)**
 > "But this plane flew from Scottsdale and then landed in Salt Lake City at 9:23 a.m. lo..."

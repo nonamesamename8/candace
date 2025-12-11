@@ -19,20 +19,14 @@ _Type: People_
 <details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (11 mentions)</summary>
 
-**[00:49:04](/episodes/ep-ja26iltROkM.md#ent-person-jack-posobiec-t-00-48-44)**
-> "I can tell you that I know Jack Posobiec. He has always been very solid with me."
-
-**[00:49:18](/episodes/ep-ja26iltROkM.md#ent-person-jack-posobiec-t-00-48-44)**
-> "every single time that I have been attacked publicly...it's like a trigger for Jack Posobiec"
-
-**[00:49:48](/episodes/ep-ja26iltROkM.md#ent-person-jack-posobiec-t-00-48-44)**
-> "He goes hard in the paint. If you say you can't say 'Christ is King,' Jack Posobiec wants to go to war immediately"
-
 **[00:48:29](/episodes/ep-ja26iltROkM.md#ent-person-jack-posobiec-t-00-48-05)**
 > "... "Candace (Candace Owens), is Jack Posobiec trustworthy?"
 
 **[00:48:59](/episodes/ep-ja26iltROkM.md#ent-person-jack-posobiec-t-00-48-44)**
 > "...n: I can tell you that I know Jack Posobiec."
+
+**[00:49:04](/episodes/ep-ja26iltROkM.md#ent-person-jack-posobiec-t-00-48-44)**
+> "I can tell you that I know Jack Posobiec. He has always been very solid with me."
 
 **[00:49:08](/episodes/ep-ja26iltROkM.md#ent-person-jack-posobiec-t-00-48-44)**
 > "And Jack Posobiec—by the way—every single time that I have been att..."
@@ -40,8 +34,14 @@ _Type: People_
 **[00:49:17](/episodes/ep-ja26iltROkM.md#ent-person-jack-posobiec-t-00-48-44)**
 > "it's like a trigger for Jack Posobiec."
 
+**[00:49:18](/episodes/ep-ja26iltROkM.md#ent-person-jack-posobiec-t-00-48-44)**
+> "every single time that I have been attacked publicly...it's like a trigger for Jack Posobiec"
+
 **[00:49:20](/episodes/ep-ja26iltROkM.md#ent-person-jack-posobiec-t-00-48-44)**
 > "...u can't say "Christ is King," Jack Posobiec wants to go to war immediately—him and his brothe..."
+
+**[00:49:48](/episodes/ep-ja26iltROkM.md#ent-person-jack-posobiec-t-00-48-44)**
+> "He goes hard in the paint. If you say you can't say 'Christ is King,' Jack Posobiec wants to go to war immediately"
 
 **[00:49:59](/episodes/ep-ja26iltROkM.md#ent-person-jack-posobiec-t-00-48-44)**
 > "I like Jack."

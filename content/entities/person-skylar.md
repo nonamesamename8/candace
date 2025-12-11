@@ -13,10 +13,18 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (5 mentions)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>
 
-**[00:05:24](/episodes/ep-ZAuuSq_j2_w.md#ent-person-skylar-t-00-03-51)**
-> "...I heard from Skylar, my executive producer, this morning via text..."
+**[00:42:49](/episodes/ep-DqGNvi36ol8.md#ent-person-skylar-t-00-42-13)**
+> "Thank you, Skylar."
+
+**[00:46:32](/episodes/ep-DqGNvi36ol8.md#ent-person-skylar-t-00-45-50)**
+> "...t know if I send that to you, Skylar."
+
+</details>
+
+<details>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (5 mentions)</summary>
 
 **[00:00:52](/episodes/ep-ZAuuSq_j2_w.md#ent-person-skylar-t-00-03-51)**
 > "Rather, instead of hearing anything from Turning Point, I heard from Skylar, my executive producer, this morning via text"
@@ -27,19 +35,11 @@ _Type: People_
 **[00:04:33](/episodes/ep-ZAuuSq_j2_w.md#ent-person-skylar-t-00-03-51)**
 > "...re is that text exchange with Skylar this morning."
 
+**[00:05:24](/episodes/ep-ZAuuSq_j2_w.md#ent-person-skylar-t-00-03-51)**
+> "...I heard from Skylar, my executive producer, this morning via text..."
+
 **[00:40:45](/episodes/ep-ZAuuSq_j2_w.md#ent-person-skylar-t-00-40-08)**
 > "Skylar, do I have a bad attitude today?"
-
-</details>
-
-<details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>
-
-**[00:42:49](/episodes/ep-DqGNvi36ol8.md#ent-person-skylar-t-00-42-13)**
-> "Thank you, Skylar."
-
-**[00:46:32](/episodes/ep-DqGNvi36ol8.md#ent-person-skylar-t-00-45-50)**
-> "...t know if I send that to you, Skylar."
 
 </details>
 
@@ -89,10 +89,10 @@ _Type: People_
 <details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (6 mentions)</summary>
 
-**[00:20:48](/episodes/ep-YFmRH8p5lt0.md#ent-person-skylar-t-00-14-58)**
+**[00:15:37](/episodes/ep-YFmRH8p5lt0.md#ent-person-skylar-t-00-14-58)**
 > "Skylar, can you pull this up?"
 
-**[00:15:37](/episodes/ep-YFmRH8p5lt0.md#ent-person-skylar-t-00-14-58)**
+**[00:20:48](/episodes/ep-YFmRH8p5lt0.md#ent-person-skylar-t-00-14-58)**
 > "Skylar, can you pull this up?"
 
 **[00:29:01](/episodes/ep-YFmRH8p5lt0.md#ent-person-skylar-t-00-28-55)**
@@ -120,11 +120,11 @@ _Type: People_
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
 
-**[00:16:18](/episodes/ep-pc3pxRyNFZk.md#ent-person-skylar-t-00-14-05)**
-> "And I'm not sure if we had that clip, Skylar, but if we do, let's roll it."
-
 **[00:14:31](/episodes/ep-pc3pxRyNFZk.md#ent-person-skylar-t-00-14-05)**
 > "...not sure if we had that clip, Skylar, but if we do, let's roll it. (Clip: Cooper Brown..."
+
+**[00:16:18](/episodes/ep-pc3pxRyNFZk.md#ent-person-skylar-t-00-14-05)**
+> "And I'm not sure if we had that clip, Skylar, but if we do, let's roll it."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Steve Baker"
-description: "Steve Baker (People) - 8 mentions"
+description: "Steve Baker (People) - 4 mentions"
 id: "person-steve-baker"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (8 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (4 mentions)</summary>
 
 **[00:08:30](/episodes/ep-YaZfwLQ7vrI.md#ent-person-steve-baker-t-00-08-05)**
 > "...United States Capitol Police officer named Shawna Rae Kirkhoff, right? A man named—a reporter named Steve Baker—who just deserves all of the credit on this amazing discovery. And I'm going to let you listen to G..."
@@ -22,22 +22,10 @@ _Type: People_
 > "... amazing discovery. And I'm going to let you listen to Glenn Beck (Glenn Beck), who is interviewing Steve Baker, to tell you about how he came across this footage and how that went down. *(Clip from Steve Baker ..."
 
 **[00:08:45](/episodes/ep-YaZfwLQ7vrI.md#ent-person-steve-baker-t-00-08-45)**
-> "... Steve Baker, to tell you about how he came across this footage and how that went down. *(Clip from Steve Baker on Glenn Beck)* When I stumbled on what I stumbled on, and because, as I said, I've been pulling th..."
-
-**[00:08:45](/episodes/ep-YaZfwLQ7vrI.md#ent-person-steve-baker-t-00-08-45)**
 > "Steve Baker discovered the pipe bomb planter through forensic analysis"
 
-**[00:08:30](/episodes/ep-YaZfwLQ7vrI.md#ent-person-steve-baker-t-00-08-05)**
-> "A man named—a reporter named Steve Baker—who just deserves all of the credit on this amazi..."
-
-**[00:08:35](/episodes/ep-YaZfwLQ7vrI.md#ent-person-steve-baker-t-00-08-05)**
-> "...enn Beck, who is interviewing Steve Baker (Steve Baker), to tell you about how he came acro..."
-
-**[00:08:35](/episodes/ep-YaZfwLQ7vrI.md#ent-person-steve-baker-t-00-08-05)**
-> "... is interviewing Steve Baker (Steve Baker), to tell you about how he came across this foota..."
-
 **[00:08:45](/episodes/ep-YaZfwLQ7vrI.md#ent-person-steve-baker-t-00-08-45)**
-> "*(Clip from Steve Baker on Glenn Beck)* When I stumbled on what I stumble..."
+> "... Steve Baker, to tell you about how he came across this footage and how that went down. *(Clip from Steve Baker on Glenn Beck)* When I stumbled on what I stumbled on, and because, as I said, I've been pulling th..."
 
 </details>
 

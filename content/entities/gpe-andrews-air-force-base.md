@@ -1,6 +1,6 @@
 ---
 title: "Andrews Air Force Base"
-description: "Andrews Air Force Base (Places) - 5 mentions"
+description: "Andrews Air Force Base (Places) - 4 mentions"
 id: "gpe-andrews-air-force-base"
 type: "GPE"
 aliases:
@@ -18,16 +18,13 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>
-
-**[00:43:57](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-andrews-air-force-base-t-00-43-45)**
-> "This is what I found about that particular plane that is based out of Andrews Air Force Base"
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
 
 **[00:43:49](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-andrews-air-force-base-t-00-43-45)**
 > "...ar plane that is based out of Andrews Air Force Base, shown as Camp Springs below."
 
-**[00:43:49](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-andrews-air-force-base-t-00-43-45)**
-> "...rews Air Force Base, shown as Camp Springs below."
+**[00:43:57](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-andrews-air-force-base-t-00-43-45)**
+> "This is what I found about that particular plane that is based out of Andrews Air Force Base"
 
 **[00:44:15](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-andrews-air-force-base-t-00-43-45)**
 > "...mber 7th, the plane flew from Andrews to Colorado Springs."

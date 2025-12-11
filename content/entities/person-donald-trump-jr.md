@@ -1,6 +1,6 @@
 ---
 title: "Donald Trump Jr."
-description: "Donald Trump Jr. (People) - 260 mentions"
+description: "Donald Trump Jr. (People) - 251 mentions"
 id: "person-donald-trump-jr"
 type: "PERSON"
 aliases:
@@ -218,7 +218,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (72 mentions)</summary>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (68 mentions)</summary>
 
 **[00:00:46](/episodes/ep-Qt0VHV-POCg.md#t-00-00-00)**
 > "...hat. And sticking with the Trump family, Don Jr. (Donald Trump Jr.) has come out to share his feelings regarding the FBI investigation. And man, oh man, you guys, I j..."
@@ -355,9 +355,6 @@ _Type: People_
 **[00:35:46](/episodes/ep-Qt0VHV-POCg.md#t-00-35-31)**
 > "I look at Mikey McCoy—I don't know Mikey McCoy at all—and I don't think he's ..."
 
-**[00:35:46](/episodes/ep-Qt0VHV-POCg.md#t-00-35-31)**
-> "...know Mikey McCoy at all—and I don't think he's an evil person."
-
 **[00:35:55](/episodes/ep-Qt0VHV-POCg.md#t-00-35-31)**
 > "I think Don Jr. has been probably in the shadow of his father..."
 
@@ -400,9 +397,6 @@ _Type: People_
 **[00:49:55](/episodes/ep-Qt0VHV-POCg.md#t-00-49-55)**
 > "Trust your gut; don't ignore your dreams; don't ignore your intuition..."
 
-**[00:49:55](/episodes/ep-Qt0VHV-POCg.md#t-00-49-55)**
-> "...ut; don't ignore your dreams; don't ignore your intuition."
-
 **[00:51:04](/episodes/ep-Qt0VHV-POCg.md#t-00-50-39)**
 > "I just don't care."
 
@@ -425,13 +419,7 @@ _Type: People_
 > "They don't know, but they know."
 
 **[00:53:48](/episodes/ep-Qt0VHV-POCg.md#t-00-53-32)**
-> "Yeah, if you don't know what he's referencing, Ghislaine Maxwell's..."
-
-**[00:53:48](/episodes/ep-Qt0VHV-POCg.md#t-00-53-32)**
 > "...de, I think it was Macmillan; don't quote me—it was like Maxwell Macmillan publishi..."
-
-**[00:56:43](/episodes/ep-Qt0VHV-POCg.md#t-00-56-19)**
-> "We don't know, but we do know—and we have restocked our ..."
 
 **[00:56:43](/episodes/ep-Qt0VHV-POCg.md#t-00-56-19)**
 > "...and we have restocked our "We Don't Know" cups to that effect."
@@ -439,10 +427,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (63 mentions)</summary>
-
-**[01:06:36](/episodes/ep-Cq7nj9rxPdo.md#t-01-06-20)**
-> "Don Jr may have even said that, he accepts the narrative"
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (62 mentions)</summary>
 
 **[00:02:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-01-36)**
 > "I don't know what everything means, but I know that it ..."
@@ -550,9 +535,6 @@ _Type: People_
 > "... if I get shot in the throat, don't help me and call Erika.""
 
 **[00:44:42](/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32)**
-> "I don't believe that Charlie said, "If I get shot, don'..."
-
-**[00:44:42](/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32)**
 > "...Charlie said, "If I get shot, don't help me. Calmly walk away and call Erika first...."
 
 **[00:44:46](/episodes/ep-Cq7nj9rxPdo.md#t-00-44-32)**
@@ -618,6 +600,9 @@ _Type: People_
 **[01:06:35](/episodes/ep-Cq7nj9rxPdo.md#t-01-06-20)**
 > "No, I don't hold out any hope"
 
+**[01:06:36](/episodes/ep-Cq7nj9rxPdo.md#t-01-06-20)**
+> "Don Jr may have even said that, he accepts the narrative"
+
 **[01:06:46](/episodes/ep-Cq7nj9rxPdo.md#t-01-06-20)**
 > "I think actually Don Jr. may have even said that."
 
@@ -633,7 +618,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (45 mentions)</summary>
+<summary>Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 (42 mentions)</summary>
 
 **[00:03:29](/episodes/ep-c5BcKF91iec.md#t-00-03-03)**
 > "And as soon as—I think it was Don Jr.—"
@@ -696,9 +681,6 @@ _Type: People_
 > "I don't know if he thought that I thought that he shot ..."
 
 **[00:22:40](/episodes/ep-c5BcKF91iec.md#t-00-22-27)**
-> "I actually don't know why this video—I don't know what this vide..."
-
-**[00:22:40](/episodes/ep-c5BcKF91iec.md#t-00-22-27)**
 > "...y don't know why this video—I don't know what this video could have done that he se..."
 
 **[00:24:07](/episodes/ep-c5BcKF91iec.md#t-00-23-56)**
@@ -729,13 +711,7 @@ _Type: People_
 > "I'm on the side that no, we don't have a right to take a life."
 
 **[00:44:31](/episodes/ep-c5BcKF91iec.md#t-00-44-31)**
-> "What he didn't know—I don't think he knew—was that millions of people aroun..."
-
-**[00:44:31](/episodes/ep-c5BcKF91iec.md#t-00-44-31)**
 > "...le around the world who maybe don't have a microphone, okay—who maybe don't have a ..."
-
-**[00:44:31](/episodes/ep-c5BcKF91iec.md#t-00-44-31)**
-> "... a microphone, okay—who maybe don't have a podcast, who maybe can't write articles ..."
 
 **[00:48:44](/episodes/ep-c5BcKF91iec.md#t-00-48-03)**
 > "...xplore their tallow line, and don't forget to use my code CANDACE10 at checkout, an..."
@@ -773,7 +749,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>To My Friend, Charlie Kirk. (15 mentions)</summary>
+<summary>To My Friend, Charlie Kirk. (14 mentions)</summary>
 
 **[00:06:08](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
 > "“I don't want to do this event with that new girl you hi..."
@@ -792,9 +768,6 @@ _Type: People_
 
 **[00:08:24](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
 > "But eventually, Don (Donald Trump Jr.) and Eric (Eric Trump) got him ..."
-
-**[00:09:31](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
-> "Okay, I understand that you don't do culture, but like, come on, you don't know t..."
 
 **[00:09:31](/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52)**
 > "...lture, but like, come on, you don't know the difference between Jay-Z (Jay-Z) and K..."

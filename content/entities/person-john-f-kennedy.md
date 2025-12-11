@@ -1,6 +1,6 @@
 ---
 title: "John F. Kennedy"
-description: "John F. Kennedy (People) - 48 mentions"
+description: "John F. Kennedy (People) - 47 mentions"
 id: "person-john-f-kennedy"
 type: "PERSON"
 aliases:
@@ -19,14 +19,14 @@ _Type: People_
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (14 mentions)</summary>
 
-**[00:01:44](/episodes/ep-Kmt6HgRjckU.md#ent-person-john-f-kennedy-t-00-01-20)**
-> "Charlie Kirk talks about JFK assassination at May 2024 event"
-
 **[00:00:03](/episodes/ep-Kmt6HgRjckU.md#ent-person-john-f-kennedy-t-00-01-20)**
 > "..., Charlie Kirk discussing the JFK assassination, that sure is something."
 
 **[00:01:31](/episodes/ep-Kmt6HgRjckU.md#ent-person-john-f-kennedy-t-00-01-20)**
 > "...y asked his opinion regarding John F. Kennedy's assassination down in Dallas."
+
+**[00:01:44](/episodes/ep-Kmt6HgRjckU.md#ent-person-john-f-kennedy-t-00-01-20)**
+> "Charlie Kirk talks about JFK assassination at May 2024 event"
 
 **[00:01:46](/episodes/ep-Kmt6HgRjckU.md#ent-person-john-f-kennedy-t-00-01-46)**
 > "In the JFK files, Mossad is mentioned."
@@ -66,11 +66,11 @@ _Type: People_
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
 
-**[00:48:11](/episodes/ep-ZAuuSq_j2_w.md#ent-person-john-f-kennedy-t-00-47-54)**
-> "... that he was standing up for. JFK asked too many questions as well. I cannot say to..."
-
 **[00:48:09](/episodes/ep-ZAuuSq_j2_w.md#ent-person-john-f-kennedy-t-00-47-54)**
 > "JFK asked too many questions as well."
+
+**[00:48:11](/episodes/ep-ZAuuSq_j2_w.md#ent-person-john-f-kennedy-t-00-47-54)**
+> "... that he was standing up for. JFK asked too many questions as well. I cannot say to..."
 
 </details>
 
@@ -232,11 +232,11 @@ _Type: People_
 <details>
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
 
-**[00:27:27](/episodes/ep-QZWSsq8ZWzw.md#ent-person-john-f-kennedy-t-00-27-09)**
-> "when JFK was assassinated"
-
 **[00:27:09](/episodes/ep-QZWSsq8ZWzw.md#ent-person-john-f-kennedy-t-00-27-09)**
 > "...ht from what they did to when JFK was assassinated, where the feds are obscuring. T..."
+
+**[00:27:27](/episodes/ep-QZWSsq8ZWzw.md#ent-person-john-f-kennedy-t-00-27-09)**
+> "when JFK was assassinated"
 
 </details>
 
@@ -257,13 +257,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
 
 **[00:01:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-john-f-kennedy-t-00-00-55)**
 > "...government maneuver. Like, we get a Martin Luther King Day. We've got Martin Luther King Boulevard. John F. Kennedy gets a library and a national day of mourning. But you know what? You know what I was thinking? I'd..."
-
-**[00:01:25](/episodes/ep-aDlhjfW6hz8.md#ent-person-john-f-kennedy-t-00-00-55)**
-> "...Martin Luther King Boulevard. John F. Kennedy gets a library and a national day of mourning."
 
 </details>
 

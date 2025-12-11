@@ -20,11 +20,11 @@ _Type: Organizations_
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
-**[00:41:06](/episodes/ep-6DhWawD4ZiM.md#ent-org-10th-mountain-division-t-00-40-11)**
-> "Adam Neff of the 10th Mountain Division is the individual"
-
 **[00:40:11](/episodes/ep-6DhWawD4ZiM.md#ent-org-10th-mountain-division-t-00-40-11)**
 > "...t names, but Adam Neff of the 10th Mountain Division is the individual."
+
+**[00:41:06](/episodes/ep-6DhWawD4ZiM.md#ent-org-10th-mountain-division-t-00-40-11)**
+> "Adam Neff of the 10th Mountain Division is the individual"
 
 </details>
 

@@ -15,10 +15,10 @@ _Type: Places_
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
 
-**[01:04:50](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-scotland-t-01-04-30)**
+**[01:04:48](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-scotland-t-01-04-30)**
 > "Love and prayers from Scotland."
 
-**[01:04:48](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-scotland-t-01-04-30)**
+**[01:04:50](/episodes/ep-2WEHTk0Xewg.md#ent-gpe-scotland-t-01-04-30)**
 > "Love and prayers from Scotland."
 
 </details>

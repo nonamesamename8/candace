@@ -15,11 +15,11 @@ _Type: Organizations_
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
-**[00:21:12](/episodes/ep-581dILVcEE4.md#ent-org-tw-lewis-foundation-t-00-20-39)**
-> ".... I don't think the students are flying around on private planes. It'd be great if that foundation, T.W. Lewis Foundation, could help us out. I don't think they will for some reason. We keep coming up against the wall fro..."
-
 **[00:20:35](/episodes/ep-581dILVcEE4.md#ent-org-tw-lewis-foundation-t-00-20-39)**
 > "T.W. Lewis Foundation donor plane departed Scottsdale on 9/10"
+
+**[00:21:12](/episodes/ep-581dILVcEE4.md#ent-org-tw-lewis-foundation-t-00-20-39)**
+> ".... I don't think the students are flying around on private planes. It'd be great if that foundation, T.W. Lewis Foundation, could help us out. I don't think they will for some reason. We keep coming up against the wall fro..."
 
 </details>
 

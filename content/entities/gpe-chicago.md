@@ -1,6 +1,6 @@
 ---
 title: "Chicago"
-description: "Chicago (Places) - 12 mentions"
+description: "Chicago (Places) - 6 mentions"
 id: "gpe-chicago"
 type: "GPE"
 ---
@@ -13,7 +13,7 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (10 mentions)</summary>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (5 mentions)</summary>
 
 **[00:19:46](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-chicago-t-00-19-08)**
 > "...were involved in taking that footage, and he sends him two numbers. And those two numbers were both Chicago-based. And when I looked up whose numbers those were, it looked to me like that was just kind of le..."
@@ -30,31 +30,13 @@ _Type: Places_
 **[00:21:42](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-chicago-t-00-21-19)**
 > "...ke, well, I didn't take the footage, but my friend took the footage, and his friend does not have a Chicago-based number. So I am confused, and we ask if he'd be willing to send us the footage and to get us ..."
 
-**[00:19:46](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-chicago-t-00-19-08)**
-> "...d those two numbers were both Chicago-based."
-
-**[00:20:05](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-chicago-t-00-19-52)**
-> "Like, why are these two Chicago-based numbers?"
-
-**[00:20:59](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-chicago-t-00-20-36)**
-> "... number, and Aaron also has a Chicago number."
-
-**[00:21:03](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-chicago-t-00-20-36)**
-> "...on Twitter, that all of these Chicago numbers are involved, and that's not making sense..."
-
-**[00:21:42](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-chicago-t-00-21-19)**
-> "Chicago-based number. So I am confused, and we ask if he'..."
-
 </details>
 
 <details>
-<summary>To My Friend, Charlie Kirk. (2 mentions)</summary>
+<summary>To My Friend, Charlie Kirk. (1 mentions)</summary>
 
 **[00:02:03](/episodes/ep-_dRaEO47-co.md#ent-gpe-chicago-t-00-02-03)**
 > "...locked in. And I want you guys to know about our first planning sesh, okay? It was in the middle of Chicago O'Hare airport. There is this restaurant that's called the Macaroni Grill. And I sat down with Char..."
-
-**[00:02:03](/episodes/ep-_dRaEO47-co.md#ent-gpe-chicago-t-00-02-03)**
-> "It was in the middle of Chicago O'Hare airport. There is this restaurant that's c..."
 
 </details>
 

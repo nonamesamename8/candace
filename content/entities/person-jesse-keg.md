@@ -19,11 +19,11 @@ _Type: People_
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3 mentions)</summary>
 
-**[00:30:30](/episodes/ep-Kmt6HgRjckU.md#ent-person-jesse-keg-t-00-29-56)**
-> "YouTuber Jesse Keg from One Shot TV tests .30-06 ballistics"
-
 **[00:30:19](/episodes/ep-Kmt6HgRjckU.md#ent-person-jesse-keg-t-00-29-56)**
 > "...ve, there is a YouTuber named Jesse keg, who has a channel called one shot TV, it's all a..."
+
+**[00:30:30](/episodes/ep-Kmt6HgRjckU.md#ent-person-jesse-keg-t-00-29-56)**
+> "YouTuber Jesse Keg from One Shot TV tests .30-06 ballistics"
 
 **[00:30:52](/episodes/ep-Kmt6HgRjckU.md#ent-person-jesse-keg-t-00-30-35)**
 > "But this guy, Jesse is going to test the 30 at six and I want you to ..."

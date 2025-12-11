@@ -15,11 +15,11 @@ _Type: People_
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
 
-**[00:25:53](/episodes/ep-Kmt6HgRjckU.md#ent-person-george-santos-t-00-25-47)**
-> "George Santos joins Tim Pool and Milo discussion"
-
 **[00:25:49](/episodes/ep-Kmt6HgRjckU.md#ent-person-george-santos-t-00-25-47)**
 > "... is sitting also with George (George Santos), who joined them."
+
+**[00:25:53](/episodes/ep-Kmt6HgRjckU.md#ent-person-george-santos-t-00-25-47)**
+> "George Santos joins Tim Pool and Milo discussion"
 
 </details>
 

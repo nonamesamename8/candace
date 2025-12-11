@@ -1,6 +1,6 @@
 ---
 title: "American Jewish Committee"
-description: "American Jewish Committee (Organizations) - 3 mentions"
+description: "American Jewish Committee (Organizations) - 2 mentions"
 id: "org-american-jewish-committee"
 type: "ORG"
 ---
@@ -13,16 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (3 mentions)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
 
 **[00:46:08](/episodes/ep-2WEHTk0Xewg.md#ent-org-american-jewish-committee-t-00-46-02)**
 > "...ld text me and say, "Man, I'm really taking a lot of heat for this, and people are really mad." The American Jewish Committee called—in a statement—Charlie (Charlie Kirk) an anti-Semite and quote "dangerous." Charlie (Charlie..."
 
 **[00:46:34](/episodes/ep-2WEHTk0Xewg.md#ent-org-american-jewish-committee-t-00-46-02)**
 > "The American Jewish Committee called Charlie Kirk an anti-Semite and quote dangerous"
-
-**[00:46:08](/episodes/ep-2WEHTk0Xewg.md#ent-org-american-jewish-committee-t-00-46-02)**
-> "The American Jewish Committee called—in a statement—Charlie (Charlie Kirk) an a..."
 
 </details>
 

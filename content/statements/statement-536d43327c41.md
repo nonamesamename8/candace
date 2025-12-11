@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Adam Neff](/entities/person-adam-neff.md) (person)
+- [Captain Adam Neff](/entities/person-captain-adam-neff.md) (person)
 - [Fort Huachuca](/entities/gpe-fort-huachuca.md) (gpe)
 
 ## Source

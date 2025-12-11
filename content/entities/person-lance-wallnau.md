@@ -1,6 +1,6 @@
 ---
 title: "Lance Wallnau"
-description: "Lance Wallnau (People) - 142 mentions"
+description: "Lance Wallnau (People) - 114 mentions"
 id: "person-lance-wallnau"
 type: "PERSON"
 ---
@@ -13,10 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (33 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (15 mentions)</summary>
 
 **[00:11:54](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
 > "... had to fight for justice. They went out immediately following the election results. One person was Lance Wallnau (Lance Wallnau), okay? I want you to remember this guy's name: Lance Wallnau (Lance Wallnau). Immed..."
+
+**[00:11:57](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
+> "Lance Wallnau described Seven Mountain Mandate infiltration philosophy"
 
 **[00:11:57](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
 > "...esults. One person was Lance Wallnau (Lance Wallnau), okay? I want you to remember this guy's name: Lance Wallnau (Lance Wallnau). Immediately—just three days after the election of 2020, on November 6th—he publish..."
@@ -56,63 +59,6 @@ _Type: People_
 
 **[00:20:19](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-20-07)**
 > "...tions. Now, I guess a better way for me to state this—because I want to be super clear here—is that Lance Wallnau (Lance Wallnau), who is from a military family and who is saying that he believes in infiltration a..."
-
-**[00:11:57](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
-> "Lance Wallnau described Seven Mountain Mandate infiltration philosophy"
-
-**[00:11:54](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
-> "One person was Lance Wallnau, okay?"
-
-**[00:11:57](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-11-32)**
-> "... to remember this guy's name: Lance Wallnau."
-
-**[00:12:22](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-12-17)**
-> "And Lance (Lance Wallnau), who is a charismatic preacher, wasn't the only ..."
-
-**[00:13:16](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-01)**
-> "Lance Wallnau (Lance Wallnau) is in this article."
-
-**[00:13:31](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-01)**
-> "So who is Lance Wallnau (Lance Wallnau)?"
-
-**[00:13:48](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-45)**
-> "He became friends with Lance Wallnau (Lance Wallnau)."
-
-**[00:13:48](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-45)**
-> "...e friends with Lance Wallnau (Lance Wallnau)."
-
-**[00:13:51](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-45)**
-> "...g to let you listen to Lance (Lance Wallnau) himself describe this Seven Mountain Mandate in ..."
-
-**[00:13:51](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-45)**
-> "...'m going to let you listen to Lance (Lance Wallnau) himself describe this Seven Mount..."
-
-**[00:13:59](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-59)**
-> "*(Clip from Lance Wallnau)* Hi, I'm Lance Wallnau."
-
-**[00:13:59](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-13-59)**
-> "... from Lance Wallnau)* Hi, I'm Lance Wallnau."
-
-**[00:17:09](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-16-39)**
-> "Lance Wallnau (Lance Wallnau)—he's no different."
-
-**[00:17:45](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-17-23)**
-> "So Lance (Lance Wallnau) fits the pattern well."
-
-**[00:18:50](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-18-50)**
-> "...iltrate his organization, and Lance Wallnau worked his way into Turning Point USA."
-
-**[00:19:58](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-19-33)**
-> "...e don't know publicly is that Lance Wallnau was working with him."
-
-**[00:20:07](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-20-07)**
-> "...epartment tell me that Lance (Lance Wallnau) was running the show behind the scenes through f..."
-
-**[00:20:07](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-20-07)**
-> "...faith department tell me that Lance (Lance Wallnau) was running the show behind the s..."
-
-**[00:20:19](/episodes/ep-YaZfwLQ7vrI.md#ent-person-lance-wallnau-t-00-20-07)**
-> "...o be super clear here—is that Lance Wallnau, who is from a military family"
 
 </details>
 
@@ -234,79 +180,49 @@ _Type: People_
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (24 mentions)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (14 mentions)</summary>
+
+**[00:02:15](/episodes/ep-sreYYcID-QY.md#t-00-02-05)**
+> "As he texted these Fed messages—him and Lance are texting"
 
 **[00:02:15](/episodes/ep-sreYYcID-QY.md#t-00-02-05)**
 > "...to be idling nearby the campus for a very long time, right? As he texted these Fed messages—him and Lance are texting, and he's telling him every second, minute by minute, what he's done—and he mentions th..."
 
 **[00:03:21](/episodes/ep-sreYYcID-QY.md#t-00-02-45)**
+> "He says to Lance, allegedly, quote, I worry about prints"
+
+**[00:03:21](/episodes/ep-sreYYcID-QY.md#t-00-02-45)**
 > "...That's why it didn't flag me as weird when I was reading this; it didn't flag me as odd. He says to Lance, allegedly, quote, "I worry about prints." "I had to leave it," referring to the rifle, "in a bush ..."
+
+**[00:08:48](/episodes/ep-sreYYcID-QY.md#t-00-08-13)**
+> "first correspondence between Tyler Robinson and Lance after six o'clock p.m."
 
 **[00:08:48](/episodes/ep-sreYYcID-QY.md#t-00-08-13)**
 > "...orrespondence that allegedly took place between these two had to have taken place between Tyler and Lance after six o'clock p.m. Well, there we go. 6:38 p.m. We get this confirmed photo—or I should say, I ..."
 
 **[00:16:49](/episodes/ep-sreYYcID-QY.md#t-00-16-13)**
+> "witnessed the police swarm the townhouse of Tyler Robinson and Lance"
+
+**[00:16:49](/episodes/ep-sreYYcID-QY.md#t-00-16-13)**
 > "...e spoke to the BBC about how she had witnessed the police swarm the townhouse of Tyler Robinson and Lance while she was walking her dog in the evening. Here is what she says. I'm gonna read it directly her..."
+
+**[00:18:27](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
+> "they brought in Lance, and then according to Lance's own family"
 
 **[00:18:27](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
 > "...they didn't move at all, okay? We're supposed to believe that it was overnight that they brought in Lance, and then—according to Lance's own family—it was overnight that they, after bringing Lance in aroun..."
 
 **[00:18:55](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
-> "...hing about Sherry Steele is I can't find her. We stalked; we looked through databases; we contacted Lance's family to see if they're familiar with that name. I cannot find a woman named Sherry Steele that ..."
-
-**[00:26:31](/episodes/ep-sreYYcID-QY.md#t-00-26-02)**
-> "...t? “I did it, I did it. Oh, actually, it turns out that I have child pornography”—is that Tyler and Lance could have gotten mixed up in some deep internet stuff, which makes sense because—as we have learne..."
-
-**[00:02:15](/episodes/ep-sreYYcID-QY.md#t-00-02-05)**
-> "As he texted these Fed messages—him and Lance are texting"
-
-**[00:03:21](/episodes/ep-sreYYcID-QY.md#t-00-02-45)**
-> "He says to Lance, allegedly, quote, I worry about prints"
-
-**[00:08:48](/episodes/ep-sreYYcID-QY.md#t-00-08-13)**
-> "first correspondence between Tyler Robinson and Lance after six o'clock p.m."
-
-**[00:16:49](/episodes/ep-sreYYcID-QY.md#t-00-16-13)**
-> "witnessed the police swarm the townhouse of Tyler Robinson and Lance"
-
-**[00:18:27](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
-> "they brought in Lance, and then according to Lance's own family"
+> "contacted Lance's family to see if they're familiar with that name"
 
 **[00:18:55](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
-> "contacted Lance's family to see if they're familiar with that name"
+> "...hing about Sherry Steele is I can't find her. We stalked; we looked through databases; we contacted Lance's family to see if they're familiar with that name. I cannot find a woman named Sherry Steele that ..."
 
 **[00:26:31](/episodes/ep-sreYYcID-QY.md#t-00-26-02)**
 > "Tyler Robinson and Lance could have gotten mixed up in some deep internet stuff"
 
-**[00:02:15](/episodes/ep-sreYYcID-QY.md#t-00-02-05)**
-> "...ed these Fed messages—him and Lance are texting, and he's telling him every second, m..."
-
-**[00:03:21](/episodes/ep-sreYYcID-QY.md#t-00-02-45)**
-> "He says to Lance, allegedly, quote, "I worry about prints.""
-
-**[00:08:48](/episodes/ep-sreYYcID-QY.md#t-00-08-13)**
-> "...en Tyler (Tyler Robinson) and Lance after six o'clock p.m."
-
-**[00:16:49](/episodes/ep-sreYYcID-QY.md#t-00-16-13)**
-> "...wnhouse of Tyler Robinson and Lance while she was walking her dog in the evening."
-
-**[00:18:27](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
-> "...vernight that they brought in Lance, and then—according to Lance's own family—it was ..."
-
-**[00:18:27](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
-> "... Lance, and then—according to Lance's own family—it was overnight that they, after brin..."
-
-**[00:18:27](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
-> "...ght that they, after bringing Lance in around 11 o'clock p.m.-ish, right,"
-
-**[00:18:55](/episodes/ep-sreYYcID-QY.md#t-00-18-18)**
-> "...rough databases; we contacted Lance's family to see if they're familiar with that name."
-
 **[00:26:31](/episodes/ep-sreYYcID-QY.md#t-00-26-02)**
-> "...at Tyler (Tyler Robinson) and Lance could have gotten mixed up in some deep internet ..."
-
-**[00:26:31](/episodes/ep-sreYYcID-QY.md#t-00-26-02)**
-> "...se because—as we have learned—Lance is deep on the web."
+> "...t? “I did it, I did it. Oh, actually, it turns out that I have child pornography”—is that Tyler and Lance could have gotten mixed up in some deep internet stuff, which makes sense because—as we have learne..."
 
 </details>
 

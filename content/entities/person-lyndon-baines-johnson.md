@@ -1,6 +1,6 @@
 ---
 title: "Lyndon Baines Johnson"
-description: "Lyndon Baines Johnson (People) - 10 mentions"
+description: "Lyndon Baines Johnson (People) - 9 mentions"
 id: "person-lyndon-baines-johnson"
 type: "PERSON"
 aliases:
@@ -18,19 +18,16 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (5 mentions)</summary>
-
-**[00:02:12](/episodes/ep-Kmt6HgRjckU.md#ent-person-lyndon-baines-johnson-t-00-01-46)**
-> "Lyndon Baines Johnson and parts of our own government and the Cubans wanted him dead"
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4 mentions)</summary>
 
 **[00:02:07](/episodes/ep-Kmt6HgRjckU.md#ent-person-lyndon-baines-johnson-t-00-01-46)**
 > "But definitely, Lyndon Baines Johnson and parts of our own government and the Cubans wa..."
 
+**[00:02:12](/episodes/ep-Kmt6HgRjckU.md#ent-person-lyndon-baines-johnson-t-00-01-46)**
+> "Lyndon Baines Johnson and parts of our own government and the Cubans wanted him dead"
+
 **[00:02:22](/episodes/ep-Kmt6HgRjckU.md#ent-person-lyndon-baines-johnson-t-00-01-46)**
 > "LBJ (Lyndon Baines Johnson) decided not to ride alongside of him."
-
-**[00:04:35](/episodes/ep-Kmt6HgRjckU.md#ent-person-lyndon-baines-johnson-t-00-04-16)**
-> "Lyndon Baines Johnson to be his vice president, Lyndon Baines Johnson, ..."
 
 **[00:04:35](/episodes/ep-Kmt6HgRjckU.md#ent-person-lyndon-baines-johnson-t-00-04-16)**
 > "...son to be his vice president, Lyndon Baines Johnson, who was clearly implicated in JFK's assassinatio..."

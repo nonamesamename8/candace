@@ -1,6 +1,6 @@
 ---
 title: "Hervé Hoppenot"
-description: "Hervé Hoppenot (People) - 2 mentions"
+description: "Hervé Hoppenot (People) - 1 mention"
 id: "person-herve-hoppenot"
 type: "PERSON"
 ---
@@ -13,13 +13,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:33:45](/episodes/ep-tB5SXXmd9vU.md#ent-person-herve-hoppenot-t-00-33-10)**
 > "...taking about a year. Also, guess who the longtime CEO of that biopharmaceutical company Incyte was? Hervé Hoppenot. And guess what? He's also French. He's not just French, but he is a French national. He seems to h..."
-
-**[00:33:45](/episodes/ep-tB5SXXmd9vU.md#ent-person-herve-hoppenot-t-00-33-10)**
-> "Hervé Hoppenot."
 
 </details>
 

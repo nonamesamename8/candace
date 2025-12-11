@@ -1,6 +1,6 @@
 ---
 title: "Sean Feucht"
-description: "Sean Feucht (People) - 34 mentions"
+description: "Sean Feucht (People) - 17 mentions"
 id: "person-sean-feucht"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (4 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
 
 **[00:13:18](/episodes/ep-YaZfwLQ7vrI.md#ent-person-sean-feucht-t-00-13-01)**
 > "...okay? NAR. I brought this up to you before. Lance Wallnau (Lance Wallnau) is in this article. So is Sean Feucht (Sean Feucht). Now you're thinking these names might sound familiar. Certainly Sean Feucht (Sean Fe..."
@@ -21,16 +21,10 @@ _Type: People_
 **[00:13:23](/episodes/ep-YaZfwLQ7vrI.md#ent-person-sean-feucht-t-00-13-01)**
 > "...e. So is Sean Feucht (Sean Feucht). Now you're thinking these names might sound familiar. Certainly Sean Feucht (Sean Feucht). I brought him up to you regarding TPUSA Faith, who started to lead these events that..."
 
-**[00:13:18](/episodes/ep-YaZfwLQ7vrI.md#ent-person-sean-feucht-t-00-13-01)**
-> "So is Sean Feucht (Sean Feucht)."
-
-**[00:13:23](/episodes/ep-YaZfwLQ7vrI.md#ent-person-sean-feucht-t-00-13-01)**
-> "Certainly Sean Feucht (Sean Feucht). I brought him up to you regarding ..."
-
 </details>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (30 mentions)</summary>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (15 mentions)</summary>
 
 **[00:10:20](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-10-20)**
 > "...ouri. And this is relevant because on February 27th, this person who I hadn't heard of before named Sean Feucht. I believe I'm saying that correctly. Sean Feucht is announced as the Turning Point USA Faith contr..."
@@ -76,51 +70,6 @@ _Type: People_
 
 **[01:01:38](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-01-01-05)**
 > "...s before the assassination. So take from that what you will. Tim Morgan writes, "Candace, check out Sean Feucht and the allegations of financial ministry mismanagement online. And he and Pastor McCoy are plannin..."
-
-**[00:10:20](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-10-20)**
-> "... hadn't heard of before named Sean Feucht."
-
-**[00:10:31](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-10-20)**
-> "Sean Feucht is announced as the Turning Point USA Faith contr..."
-
-**[00:11:02](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-11-02)**
-> "But to stay on this Sean Feucht thing—I had to actually look him up, and I saw it..."
-
-**[00:11:18](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-11-02)**
-> "...sassination, and they thought Sean Feucht was the guy that was standing and cheering "USA! ..."
-
-**[00:13:26](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-13-10)**
-> "He brings on Sean Feucht, presumably."
-
-**[00:13:28](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-13-10)**
-> "And on February 28th, Sean Feucht is announced that he's going to be heading up the..."
-
-**[00:13:48](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-13-10)**
-> "And sure enough, Sean Feucht is there. TPUSA Faith is there."
-
-**[00:17:44](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-17-41)**
-> "... tour with an event headed by Sean Feucht in Jefferson City, Missouri the very next day whi..."
-
-**[00:18:15](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-17-41)**
-> "You know, I'm looking in, and Sean Feucht is in Israel related to some more Faith stuff."
-
-**[00:18:37](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-18-23)**
-> "And on April 23rd, Sean Feucht heads up the TPUSA Faith Kingdom to the Capitol T..."
-
-**[00:26:39](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-26-11)**
-> "...y, is when the article broke: Sean Feucht is credibly accused of having been involved in fr..."
-
-**[00:27:36](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-27-28)**
-> "...e's something not right about Sean Feucht."
-
-**[00:31:02](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-00-30-24)**
-> "So that's Sean Feucht. That's June 2024—money's looking funny, accordin..."
-
-**[01:00:54](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-01-00-21)**
-> "...about the allegations against Sean Feucht."
-
-**[01:01:38](/episodes/ep-YFmRH8p5lt0.md#ent-person-sean-feucht-t-01-01-05)**
-> "...n writes, "Candace, check out Sean Feucht and the allegations of financial ministry mismana..."
 
 </details>
 

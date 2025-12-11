@@ -19,11 +19,11 @@ _Type: Organizations_
 <details>
 <summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
 
-**[00:01:14](/episodes/ep-5autG89PW6w.md#t-00-00-39)**
-> "Succession on HBO"
-
 **[00:01:04](/episodes/ep-5autG89PW6w.md#t-00-00-39)**
 > "...s like the show Succession on HBO.""
+
+**[00:01:14](/episodes/ep-5autG89PW6w.md#t-00-00-39)**
+> "Succession on HBO"
 
 </details>
 

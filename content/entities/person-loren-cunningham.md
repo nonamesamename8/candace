@@ -1,6 +1,6 @@
 ---
 title: "Loren Cunningham"
-description: "Loren Cunningham (People) - 2 mentions"
+description: "Loren Cunningham (People) - 1 mention"
 id: "person-loren-cunningham"
 type: "PERSON"
 ---
@@ -13,13 +13,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
 
 **[00:14:09](/episodes/ep-YaZfwLQ7vrI.md#ent-person-loren-cunningham-t-00-13-59)**
 > "...M Mandate. In reality, it started with a conversation I had in the year 2000. I had been talking to Loren Cunningham, who's the founder of Youth With A Mission, and Loren was sharing with me about a conversation he h..."
-
-**[00:14:09](/episodes/ep-YaZfwLQ7vrI.md#ent-person-loren-cunningham-t-00-13-59)**
-> "I had been talking to Loren Cunningham, who's the founder of Youth With A Mission, and L..."
 
 </details>
 

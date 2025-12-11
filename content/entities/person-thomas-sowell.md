@@ -15,14 +15,14 @@ _Type: People_
 <details>
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (3 mentions)</summary>
 
+**[00:18:16](/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-sowell-t-00-17-52)**
+> "... Inside American Education by Thomas Sowell."
+
 **[00:18:18](/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-sowell-t-00-17-52)**
 > "Inside American Education by Thomas Sowell"
 
 **[00:18:22](/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-sowell-t-00-17-52)**
 > "a must-read book is Inside American Education by Thomas Sowell"
-
-**[00:18:16](/episodes/ep-QZWSsq8ZWzw.md#ent-person-thomas-sowell-t-00-17-52)**
-> "... Inside American Education by Thomas Sowell."
 
 </details>
 

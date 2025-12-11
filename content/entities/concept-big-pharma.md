@@ -1,6 +1,6 @@
 ---
 title: "Big Pharma"
-description: "Big Pharma (Concepts) - 7 mentions"
+description: "Big Pharma (Concepts) - 4 mentions"
 id: "concept-big-pharma"
 type: "CONCEPT"
 aliases:
@@ -17,7 +17,10 @@ _Type: Concepts_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (7 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (4 mentions)</summary>
+
+**[00:50:31](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05)**
+> "The pharmaceutical complex—learn about that."
 
 **[00:50:31](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05)**
 > "...own capacity to collapse the system—great. Stop taking their pills, right? That's another part. The pharmaceutical complex—learn about that. Stop offering your children's bodies to the state. You can do that in your own ca..."
@@ -27,18 +30,6 @@ _Type: Concepts_
 
 **[00:51:03](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-48)**
 > "...cking for you. Gift that to a friend. Like I said, that came from the left. The left was on it with Big Pharma long before the right was in on it. Something else you can do is stop signing up your sons for war,..."
-
-**[00:50:31](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05)**
-> "The pharmaceutical complex—learn about that."
-
-**[00:50:53](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-48)**
-> "...ot of us who were invested in Big Pharma years ago, it's shocking."
-
-**[00:51:03](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-48)**
-> "The left was on it with Big Pharma long before the right was in on it."
-
-**[00:50:31](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05)**
-> "The pharmaceutical complex—learn about that."
 
 </details>
 

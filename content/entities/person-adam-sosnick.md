@@ -1,6 +1,6 @@
 ---
 title: "Adam Sosnick"
-description: "Adam Sosnick (People) - 17 mentions"
+description: "Adam Sosnick (People) - 14 mentions"
 id: "person-adam-sosnick"
 type: "PERSON"
 aliases:
@@ -15,17 +15,6 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Mentions</strong></summary>
-
-<details>
-<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
-
-**[00:47:23](/episodes/ep-ZAuuSq_j2_w.md#ent-person-adam-sosnick-t-00-47-08)**
-> "...w. It's like—I want nothing to do with it. I don't want to hang out with you. I don't hang out with Adam Sosnick. So can we get to the next part? Okay, we're not invited. We can't come to the party. We can't hang..."
-
-**[00:47:23](/episodes/ep-ZAuuSq_j2_w.md#ent-person-adam-sosnick-t-00-47-08)**
-> "I don't hang out with Adam Sosnick."
-
-</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5 mentions)</summary>
@@ -48,19 +37,24 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (10 mentions)</summary>
+<summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (1 mentions)</summary>
+
+**[00:47:23](/episodes/ep-ZAuuSq_j2_w.md#ent-person-adam-sosnick-t-00-47-08)**
+> "...w. It's like—I want nothing to do with it. I don't want to hang out with you. I don't hang out with Adam Sosnick. So can we get to the next part? Okay, we're not invited. We can't come to the party. We can't hang..."
+
+</details>
+
+<details>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (8 mentions)</summary>
+
+**[00:46:49](/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56)**
+> "And I see clips floating around...Adam Sosnick is reaching levels of absurdity here"
 
 **[00:46:58](/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56)**
 > "...und, so you know it's not fair to paint with a broad brush, but a broad stroke. But I will say that Adam Sosnick is reaching levels of absurdity here. Rather than at all trying to prod the narrative of whether or..."
 
 **[00:47:33](/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56)**
 > "...aughable at this moment, of people that are engaged in the sport of politics. Take a listen to what Adam Sosnick had to say on Patrick Bet-David's podcast. Disgusting. Forget about what she said about Israel and ..."
-
-**[00:46:58](/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56)**
-> "But I will say that Adam Sosnick is reaching levels of absurdity here. Rather than..."
-
-**[00:47:33](/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56)**
-> "Take a listen to what Adam Sosnick had to say on Patrick Bet-David's podcast."
 
 **[00:50:56](/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56)**
 > "... Bolling that sat across from Adam when they attacked me over Charlie Kirk (Charlie ..."
@@ -76,9 +70,6 @@ _Type: People_
 
 **[00:54:03](/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56)**
 > "... that Eric Bolling sent about Adam because it really demonstrates the fickleness of ..."
-
-**[00:46:49](/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56)**
-> "And I see clips floating around...Adam Sosnick is reaching levels of absurdity here"
 
 </details>
 

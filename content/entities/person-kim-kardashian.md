@@ -30,11 +30,11 @@ _Type: People_
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
-**[00:13:27](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kim-kardashian-t-00-12-53)**
-> "Kim Kardashian wanted nothing to do with politics"
-
 **[00:13:25](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kim-kardashian-t-00-12-53)**
 > "This is in the time of Kim Kardashian and Kanye."
+
+**[00:13:27](/episodes/ep-Cq7nj9rxPdo.md#ent-person-kim-kardashian-t-00-12-53)**
+> "Kim Kardashian wanted nothing to do with politics"
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "T. Coleman du Pont"
-description: "T. Coleman du Pont (People) - 2 mentions"
+description: "T. Coleman du Pont (People) - 1 mention"
 id: "person-t-coleman-du-pont"
 type: "PERSON"
 ---
@@ -13,13 +13,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:31:48](/episodes/ep-tB5SXXmd9vU.md#ent-person-t-coleman-du-pont-t-00-31-48)**
 > "...0, nearly all of lower Delaware branches of WSFS were sold to Wilmington Trust which was founded by T. Coleman du Pont, the French-American then-president of DuPont, to manage the growing fortune of the French-American..."
-
-**[00:31:48](/episodes/ep-tB5SXXmd9vU.md#ent-person-t-coleman-du-pont-t-00-31-48)**
-> "which was founded by T. Coleman du Pont, the French-American then-president of DuPont, to..."
 
 </details>
 

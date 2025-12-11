@@ -1,6 +1,6 @@
 ---
 title: "Robert Bowles"
-description: "Robert Bowles (People) - 6 mentions"
+description: "Robert Bowles (People) - 3 mentions"
 id: "person-robert-bowles"
 type: "PERSON"
 ---
@@ -13,30 +13,21 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (2 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
 **[00:05:19](/episodes/ep-adJ4LNGp84I.md#ent-person-robert-bowles-t-00-05-01)**
 > "...old you, cleaned house at the State Bureau. He then installs a person that has a long tenure in DC, Robert Bowles. His first case is Charlie (Charlie Kirk)'s assassination. Why would he wanna uproot and move his f..."
 
-**[00:05:19](/episodes/ep-adJ4LNGp84I.md#ent-person-robert-bowles-t-00-05-01)**
-> "a long tenure in DC, Robert Bowles. His first case is Charlie (Charlie Kirk)'s assas..."
-
 </details>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (4 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
 
 **[00:32:13](/episodes/ep-YA1FxrDWNIo.md#ent-person-robert-bowles-t-00-32-13)**
 > "...e Kirk's) assassination.” That is true. He fired the chief—among other people—and replaced her with Robert Bowles in August. I think Robert Bowles—actually, it was his first week when Charlie (Charlie Kirk) got sh..."
 
 **[00:32:20](/episodes/ep-YA1FxrDWNIo.md#ent-person-robert-bowles-t-00-32-13)**
 > "... true. He fired the chief—among other people—and replaced her with Robert Bowles in August. I think Robert Bowles—actually, it was his first week when Charlie (Charlie Kirk) got shot—and he's somebody who has been..."
-
-**[00:32:13](/episodes/ep-YA1FxrDWNIo.md#ent-person-robert-bowles-t-00-32-13)**
-> "... people—and replaced her with Robert Bowles in August."
-
-**[00:32:20](/episodes/ep-YA1FxrDWNIo.md#ent-person-robert-bowles-t-00-32-13)**
-> "I think Robert Bowles—actually, it was his first week when Charlie (Cha..."
 
 </details>
 

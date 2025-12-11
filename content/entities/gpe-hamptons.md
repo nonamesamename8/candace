@@ -1,6 +1,6 @@
 ---
 title: "Hamptons"
-description: "Hamptons (Places) - 110 mentions"
+description: "Hamptons (Places) - 56 mentions"
 id: "gpe-hamptons"
 type: "GPE"
 ---
@@ -13,29 +13,23 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
 **[00:21:40](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-hamptons-t-00-21-13)**
 > "...on in California, which is going to end on the 25th. And then, a couple of days later, we have that Hamptons retreat—which Charlie (Charlie Kirk) himself described as an intervention, as an Israel interventio..."
 
-**[00:21:40](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-hamptons-t-00-21-13)**
-> "...e of days later, we have that Hamptons retreat—which Charlie (Charlie Kirk) himself desc..."
-
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
 **[00:20:03](/episodes/ep-sImMM04XdWY.md#ent-gpe-hamptons-t-00-19-39)**
 > "...k)'s preferred location. And so it's gotta happen. From August 5th to the 6th, that's the notorious Hamptons retreat that took place. Charlie (Charlie Kirk) himself described it as an intervention, and Bill A..."
 
-**[00:20:03](/episodes/ep-sImMM04XdWY.md#ent-gpe-hamptons-t-00-19-39)**
-> "...the 6th, that's the notorious Hamptons retreat that took place."
-
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (4 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
 **[00:03:02](/episodes/ep-581dILVcEE4.md#ent-gpe-hamptons-t-00-02-51)**
 > "..., that's what they're accusing me of. Erin Wexler—now this is the girl that was at the now infamous Hamptons retreat— She wrote this: "Candace (Candace Owens) started her career by doxing teenagers." "Old hab..."
@@ -43,27 +37,18 @@ _Type: Places_
 **[00:03:17](/episodes/ep-581dILVcEE4.md#ent-gpe-hamptons-t-00-02-51)**
 > "... career by doxing teenagers." "Old habits die hard." That is just so weird. I just thought she, the Hamptons people, would be on this Egyptian thing, trying to help as best they could, but they're actually mo..."
 
-**[00:03:02](/episodes/ep-581dILVcEE4.md#ent-gpe-hamptons-t-00-02-51)**
-> "... that was at the now infamous Hamptons retreat—"
-
-**[00:03:17](/episodes/ep-581dILVcEE4.md#ent-gpe-hamptons-t-00-02-51)**
-> "she, the Hamptons people, would be on this Egyptian thing, trying t..."
-
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
 **[00:35:37](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hamptons-t-00-35-35)**
 > ".... And I go back to something that was very strange when people were telling me what happened in the Hamptons before Charlie (Charlie Kirk) died. But Bill Ackman gave a presentation—don't forget—and told these..."
 
-**[00:35:37](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hamptons-t-00-35-35)**
-> "...lling me what happened in the Hamptons before Charlie (Charlie Kirk) died."
-
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (4 mentions)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
 
 **[00:24:01](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-hamptons-t-00-23-50)**
 > "...my radar. You've been on my radar since you were involved in creating the lie—the alibi lie—for the Hamptons retreat with Seth Dillon. You lied, okay? Seth Dillon did press Charlie (Charlie Kirk). Charlie (Ch..."
@@ -71,27 +56,18 @@ _Type: Places_
 **[00:24:13](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-hamptons-t-00-23-50)**
 > "...d, okay? Seth Dillon did press Charlie (Charlie Kirk). Charlie (Charlie Kirk) himself described the Hamptons event as an intervention. And you felt the need to insert yourself to lie. And there has to be a re..."
 
-**[00:24:01](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-hamptons-t-00-23-50)**
-> "...the lie—the alibi lie—for the Hamptons retreat with Seth Dillon."
-
-**[00:24:13](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-hamptons-t-00-23-50)**
-> "...e Kirk) himself described the Hamptons event as an intervention."
-
 </details>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
 
 **[00:11:11](/episodes/ep-r1PS67aRmcA.md#ent-gpe-hamptons-t-00-10-50)**
 > "...and why they're telling certain lies. Seth Dillon, I told the truth that Seth Dillon lied about the Hamptons meeting and that he was pushing; he was pressuring Charlie (Charlie Kirk) about the topic of Israel..."
 
-**[00:11:11](/episodes/ep-r1PS67aRmcA.md#ent-gpe-hamptons-t-00-10-50)**
-> "... (Seth Dillon) lied about the Hamptons meeting and that he was pushing; he was pressurin..."
-
 </details>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (4 mentions)</summary>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
 
 **[00:35:58](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-hamptons-t-00-35-27)**
 > "...Okay. Then Charlie (Charlie Kirk) speaks to New York, and after that he heads up to New York in the Hamptons. And he—Charlie (Charlie Kirk) himself—described it as an intervention. Seth Dillon is lying throug..."
@@ -99,16 +75,10 @@ _Type: Places_
 **[00:38:37](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-hamptons-t-00-38-16)**
 > "...m not gonna take your money." Charlie (Charlie Kirk) says no. Okay. And what happens next after the Hamptons retreat is that our—and I think this is a BTT. I didn't put this on August 17th. I missed this. BTT..."
 
-**[00:35:58](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-hamptons-t-00-35-27)**
-> "...e heads up to New York in the Hamptons. And he—Charlie (Charlie Kirk) himself—described ..."
-
-**[00:38:37](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-hamptons-t-00-38-16)**
-> "...d what happens next after the Hamptons retreat is that our—and I think this is a BTT."
-
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (6 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (3 mentions)</summary>
 
 **[00:35:18](/episodes/ep-iHav0PPzUz8.md#ent-gpe-hamptons-t-00-34-51)**
 > "...through a struggle session, explaining why. And yes, this is the same Seth Dillon at that notorious Hamptons Summit—who I told you pressed Charlie (Charlie Kirk), and a couple of weeks before he died— horrifi..."
@@ -119,19 +89,10 @@ _Type: Places_
 **[00:45:22](/episodes/ep-iHav0PPzUz8.md#ent-gpe-hamptons-t-00-44-47)**
 > "...ere making Charlie (Charlie Kirk) ill with the threats, with the money—who were pressing him at the Hamptons. Seth Dillon, Josh Hammer on the text—hearing what he was going through, seeing what he was going t..."
 
-**[00:35:18](/episodes/ep-iHav0PPzUz8.md#ent-gpe-hamptons-t-00-34-51)**
-> "...Seth Dillon at that notorious Hamptons Summit—who I told you pressed Charlie (Charlie Ki..."
-
-**[00:39:32](/episodes/ep-iHav0PPzUz8.md#ent-gpe-hamptons-t-00-39-12)**
-> "...e—the struggle session in the Hamptons."
-
-**[00:45:22](/episodes/ep-iHav0PPzUz8.md#ent-gpe-hamptons-t-00-44-47)**
-> "...—who were pressing him at the Hamptons. Seth Dillon, Josh Hammer on the text—hearing wha..."
-
 </details>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (4 mentions)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
 
 **[00:44:40](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-hamptons-t-00-44-21)**
 > "...st lies through his teeth all the time. And so he was releasing a statement about how wonderful the Hamptons retreat was and that him and Seth Dillon totally did not press Charlie (Charlie Kirk) on anything. ..."
@@ -139,16 +100,10 @@ _Type: Places_
 **[00:44:50](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-hamptons-t-00-44-21)**
 > "... anything. And in this public statement, he mentioned his book again. He said, like, "I came to the Hamptons because Charlie (Charlie Kirk) wanted me to bring signed copies of my book." I mean, wacky. This ma..."
 
-**[00:44:40](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-hamptons-t-00-44-21)**
-> "...ement about how wonderful the Hamptons retreat was and that him and Seth Dillon totally ..."
-
-**[00:44:50](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-hamptons-t-00-44-21)**
-> "He said, like, "I came to the Hamptons because Charlie (Charlie Kirk) wanted me to bring..."
-
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (6 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3 mentions)</summary>
 
 **[00:04:07](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-hamptons-t-00-03-33)**
 > "...ad personal intimate knowledge that Charlie (Charlie Kirk)'s views were changing. He lied about the Hamptons meeting. I've told you the truth from day one. Seth Dillon and Josh were personally upset with Char..."
@@ -159,19 +114,10 @@ _Type: Places_
 **[00:27:45](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-hamptons-t-00-27-45)**
 > "... felt leading up to that moment of his death. And again, like I said, two weeks before that, in the Hamptons, they knew where he was at. Tucker (Tucker Carlson) told you the truth on his stance on Benjamin (B..."
 
-**[00:04:07](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-hamptons-t-00-03-33)**
-> "He lied about the Hamptons meeting."
-
-**[00:04:17](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-hamptons-t-00-04-17)**
-> "...cal of the two parties in the Hamptons, as I said, in terms of actually pressing Charlie..."
-
-**[00:27:45](/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-hamptons-t-00-27-45)**
-> "in the Hamptons, they knew where he was at."
-
 </details>
 
 <details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (6 mentions)</summary>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (3 mentions)</summary>
 
 **[00:13:31](/episodes/ep-ozWJz2spBcI.md#ent-gpe-hamptons-t-00-13-01)**
 > "...is what Pastor Rob McCoy (Pastor Rob McCoy) wrote on his Instagram after I exposed the now infamous Hamptons meeting which took place. (Pastor Rob McCoy clip:) He wrote this: "Charlie Kirk (Charlie Kirk) was ..."
@@ -182,30 +128,18 @@ _Type: Places_
 **[00:17:34](/episodes/ep-ozWJz2spBcI.md#ent-gpe-hamptons-t-00-17-17)**
 > "...s) assassination. He was very clear, and he was very explicit, and he did not back down—not in that Hamptons meeting, which they're all lying about, nor in this text thread. I'm not going to reveal the names ..."
 
-**[00:13:31](/episodes/ep-ozWJz2spBcI.md#ent-gpe-hamptons-t-00-13-01)**
-> "...er I exposed the now infamous Hamptons meeting which took place."
-
-**[00:15:14](/episodes/ep-ozWJz2spBcI.md#ent-gpe-hamptons-t-00-15-14)**
-> "...st this after I revealed that Hamptons meeting?"
-
-**[00:17:34](/episodes/ep-ozWJz2spBcI.md#ent-gpe-hamptons-t-00-17-17)**
-> "...did not back down—not in that Hamptons meeting, which they're all lying about, nor in th..."
-
 </details>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
 
 **[00:37:14](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-hamptons-t-00-36-52)**
 > "...'m saying. And while we're at it, may I ask, what is the name of the Jewish donor who sponsored the Hamptons weekend? Okay. And to Pastor Rob McCoy, were there any LLCs that you or your son were being paid th..."
 
-**[00:37:14](/episodes/ep-YA1FxrDWNIo.md#ent-gpe-hamptons-t-00-36-52)**
-> "...ewish donor who sponsored the Hamptons weekend?"
-
 </details>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (18 mentions)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (9 mentions)</summary>
 
 **[00:02:50](/episodes/ep-K5GjF53bfN4.md#ent-gpe-hamptons-t-00-02-40)**
 > "... who could forget the word length of Bill Ackman's reply. I tell you guys about this weekend in the Hamptons. I tell you about Benjamin Netanyahu (Israeli PM) calling Charlie (Charlie Kirk) and inviting him t..."
@@ -234,59 +168,29 @@ _Type: Places_
 **[00:08:02](/episodes/ep-K5GjF53bfN4.md#ent-gpe-hamptons-t-00-08-02)**
 > "...ts in the Hamptons, Ackman among them—so I don't understand. You couldn't post that you were in the Hamptons because you were going to get killed? How? I need more information there because that's just silly...."
 
-**[00:02:50](/episodes/ep-K5GjF53bfN4.md#ent-gpe-hamptons-t-00-02-40)**
-> "...uys about this weekend in the Hamptons."
-
-**[00:05:22](/episodes/ep-K5GjF53bfN4.md#ent-gpe-hamptons-t-00-05-11)**
-> "...he end of this weekend in the Hamptons because, again, they saw which way the wind was t..."
-
-**[00:07:04](/episodes/ep-K5GjF53bfN4.md#ent-gpe-hamptons-t-00-06-45)**
-> "in the Hamptons was going to get you slaughtered?"
-
-**[00:07:21](/episodes/ep-K5GjF53bfN4.md#ent-gpe-hamptons-t-00-07-21)**
-> "...there Hamas tunnels under the Hamptons?"
-
-**[00:07:35](/episodes/ep-K5GjF53bfN4.md#ent-gpe-hamptons-t-00-07-21)**
-> "... August 6 that she was in the Hamptons."
-
-**[00:07:42](/episodes/ep-K5GjF53bfN4.md#ent-gpe-hamptons-t-00-07-21)**
-> "Sorry, I'm MIA, I'm in the Hamptons.""
-
-**[00:07:45](/episodes/ep-K5GjF53bfN4.md#ent-gpe-hamptons-t-00-07-21)**
-> "...ives not allowed to be in the Hamptons?"
-
-**[00:07:59](/episodes/ep-K5GjF53bfN4.md#ent-gpe-hamptons-t-00-07-21)**
-> "...ere's tons of Zionists in the Hamptons, Ackman among them—so I don't understand."
-
-**[00:08:02](/episodes/ep-K5GjF53bfN4.md#ent-gpe-hamptons-t-00-08-02)**
-> "...n't post that you were in the Hamptons because you were going to get killed?"
-
 </details>
 
 <details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (2 mentions)</summary>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1 mentions)</summary>
 
 **[00:43:44](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-hamptons-t-00-43-33)**
 > "...s now at AmFest. And that is the truth. We told you—he said the same thing about when he was in the Hamptons—that he was feeling like he was morally blackmailed. He was telling people that he wanted—he was di..."
 
-**[00:43:44](/episodes/ep-UBkFkg4UNY8.md#ent-gpe-hamptons-t-00-43-33)**
-> "...hing about when he was in the Hamptons—that he was feeling like he was morally blackmail..."
-
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1 mentions)</summary>
 
 **[00:29:19](/episodes/ep-ja26iltROkM.md#ent-gpe-hamptons-t-00-29-05)**
 > "...ling out with Charlie Kirk (Charlie Kirk). And so this guy—Awesome Jew, who I heard was also in the Hamptons with Bill Ackman and that group of people who went out there—he then tries to cleverly release a te..."
 
-**[00:29:19](/episodes/ep-ja26iltROkM.md#ent-gpe-hamptons-t-00-29-05)**
-> "..., who I heard was also in the Hamptons with Bill Ackman and that group of people who wen..."
-
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (5 mentions)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (3 mentions)</summary>
+
+**[00:32:35](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-hamptons-t-00-52-10)**
+> "Andrew Kolvet was there on the Hamptons—no, he wasn't. Andrew Kolvet was definitely not there in the Hamptons."
 
 **[00:52:13](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-hamptons-t-00-52-10)**
 > "...ies just in that one segment. It's stunning to me. Even when he says Andrew Kolvet was there on the Hamptons—no, he wasn't. Andrew Kolvet was definitely not there in the Hamptons. What are you lying about? Ve..."
@@ -294,19 +198,10 @@ _Type: Places_
 **[00:52:15](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-hamptons-t-00-52-10)**
 > "...ndrew Kolvet was there on the Hamptons—no, he wasn't. Andrew Kolvet was definitely not there in the Hamptons. What are you lying about? Very strange. Is there—like—are you being paid to lie? Or do you actuall..."
 
-**[00:32:35](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-hamptons-t-00-52-10)**
-> "Andrew Kolvet was there on the Hamptons—no, he wasn't. Andrew Kolvet was definitely not there in the Hamptons."
-
-**[00:52:13](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-hamptons-t-00-52-10)**
-> "...ndrew Kolvet was there on the Hamptons—no, he wasn't."
-
-**[00:52:15](/episodes/ep-aDlhjfW6hz8.md#ent-gpe-hamptons-t-00-52-10)**
-> "...s definitely not there in the Hamptons."
-
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (8 mentions)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (4 mentions)</summary>
 
 **[00:37:43](/episodes/ep-sreYYcID-QY.md#ent-gpe-hamptons-t-00-37-04)**
 > "... whatever it is that you say, Bill. You can come on the program. We can talk about that trip to the Hamptons." He just kind of... which was, by the way, you guys on Instagram were so funny. I didn't even have..."
@@ -320,28 +215,19 @@ _Type: Places_
 **[00:52:24](/episodes/ep-sreYYcID-QY.md#ent-gpe-hamptons-t-00-52-09)**
 > "...system, and then they mock us for participating in the system. Like I told you, Bill Ackman at this Hamptons retreat—according to one of the attendees—told them that they shouldn't even aspire to own a home, ..."
 
-**[00:37:43](/episodes/ep-sreYYcID-QY.md#ent-gpe-hamptons-t-00-37-04)**
-> "...n talk about that trip to the Hamptons.""
-
-**[00:38:06](/episodes/ep-sreYYcID-QY.md#ent-gpe-hamptons-t-00-37-49)**
-> "...act, somebody that was at the Hamptons published a statement and said that Charlie (Char..."
-
-**[00:38:15](/episodes/ep-sreYYcID-QY.md#ent-gpe-hamptons-t-00-37-49)**
-> "...that anything happened in the Hamptons."
-
-**[00:52:24](/episodes/ep-sreYYcID-QY.md#ent-gpe-hamptons-t-00-52-09)**
-> "...told you, Bill Ackman at this Hamptons retreat—according to one of the attendees—told th..."
-
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (20 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (10 mentions)</summary>
 
 **[00:01:14](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-00-01-14)**
 > "...ay? And I am not liking what I am hearing from them about things that took place leading up to that Hamptons event, some changes at the organization in the months leading up to that event, and what had been h..."
 
 **[00:01:32](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-00-01-14)**
 > "...he last year. Speaking of which, Bill Ackman, you may have caught that he responded to me about the Hamptons. With a lot of words to really say nothing at all. And I wanna be clear, I am not done, okay? I'm c..."
+
+**[00:01:34](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-00-01-14)**
+> "what had been happening more broadly at the company over the last year. Speaking of which, Bill Ackman, you may have caught that he responded to me about the Hamptons"
 
 **[00:41:16](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-00-41-03)**
 > "...ace and I said no to your money, okay? Don't push me or I will name more names. What happens in the Hamptons? It's not going to stay in the Hamptons, okay? Bring in our movie poster. I Know What You Did This ..."
@@ -364,43 +250,10 @@ _Type: Places_
 **[01:04:14](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-01-03-56)**
 > "...hat they shouldn't own property when you gave your presentation on this now infamous meeting in the Hamptons, which wasn't publicized until I publicized it? I don't know. I'm just asking questions. Are we all..."
 
-**[00:01:34](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-00-01-14)**
-> "what had been happening more broadly at the company over the last year. Speaking of which, Bill Ackman, you may have caught that he responded to me about the Hamptons"
-
-**[00:01:14](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-00-01-14)**
-> "...took place leading up to that Hamptons event, some changes at the organization in the mo..."
-
-**[00:01:32](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-00-01-14)**
-> "... he responded to me about the Hamptons."
-
-**[00:41:16](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-00-41-03)**
-> "What happens in the Hamptons?"
-
-**[00:41:17](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-00-41-03)**
-> "It's not going to stay in the Hamptons, okay?"
-
-**[00:50:55](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-00-50-41)**
-> "..., he's with Seth, he's in the Hamptons."
-
-**[01:00:24](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-01-00-24)**
-> "...y were taking pictures in the Hamptons and all dolled up."
-
-**[01:00:48](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-01-00-24)**
-> "...ntioned that they were in the Hamptons for a Turning Point event or for a Turning Point ..."
-
-**[01:03:54](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-01-03-19)**
-> "...y, the person that was in the Hamptons—other people that were at the Hamptons, that are ..."
-
-**[01:03:54](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-01-03-19)**
-> "...other people that were at the Hamptons, that are all talking about this—said Bill Ackman..."
-
-**[01:04:14](/episodes/ep-q7f8r-THr84.md#ent-gpe-hamptons-t-01-03-56)**
-> "...s now infamous meeting in the Hamptons, which wasn't publicized until I publicized it?"
-
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (11 mentions)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (6 mentions)</summary>
 
 **[00:15:18](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-hamptons-t-00-15-01)**
 > "... couple of weeks ago before Charlie (Charlie Kirk) lost his life. Charlie (Charlie Kirk) was in the Hamptons and he had more than one event, but he had essentially what was staged an intervention. It was stag..."
@@ -414,26 +267,11 @@ _Type: Places_
 **[00:20:53](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-hamptons-t-00-20-41)**
 > "...individuals who I have not yet named but who are going to be named later this week, who were at the Hamptons when Charlie (Charlie Kirk) was put under pressure, when Benjamin Netanyahu called him and invited ..."
 
-**[00:58:43](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-hamptons-t-00-58-35)**
-> "...ction. All right, guys, what are you thinking about all of this? Kind of strange that nobody at the Hamptons meeting wants to speak about anything. Everyone's a little hush-hush right now and trying to manipu..."
-
 **[00:24:09](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-hamptons-t-00-20-41)**
 > "decided to message him last night about this Hamptons meeting"
 
-**[00:15:18](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-hamptons-t-00-15-01)**
-> "Charlie was in the Hamptons and he had more than one event, but he had essent..."
-
-**[00:18:42](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-hamptons-t-00-18-33)**
-> "...age him last night about this Hamptons meeting."
-
-**[00:20:32](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-hamptons-t-00-19-58)**
-> "...ce about what happened at the Hamptons."
-
-**[00:20:53](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-hamptons-t-00-20-41)**
-> "who were at the Hamptons when Charlie was put under pressure, when Benjami..."
-
 **[00:58:43](/episodes/ep-czVBmqZP6Ss.md#ent-gpe-hamptons-t-00-58-35)**
-> "...of strange that nobody at the Hamptons meeting wants to speak about anything."
+> "...ction. All right, guys, what are you thinking about all of this? Kind of strange that nobody at the Hamptons meeting wants to speak about anything. Everyone's a little hush-hush right now and trying to manipu..."
 
 </details>
 

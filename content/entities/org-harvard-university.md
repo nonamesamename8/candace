@@ -20,11 +20,11 @@ _Type: Organizations_
 <details>
 <summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
 
-**[00:49:14](/episodes/ep-pc3pxRyNFZk.md#ent-org-harvard-university-t-00-49-02)**
-> "when he sat down at Harvard, Assad operation, to speak about their aim"
-
 **[00:49:02](/episodes/ep-pc3pxRyNFZk.md#ent-org-harvard-university-t-00-49-02)**
 > "... Kushner) when he sat down at Harvard, Assad operation, to speak about their aim. (Clip..."
+
+**[00:49:14](/episodes/ep-pc3pxRyNFZk.md#ent-org-harvard-university-t-00-49-02)**
+> "when he sat down at Harvard, Assad operation, to speak about their aim"
 
 </details>
 

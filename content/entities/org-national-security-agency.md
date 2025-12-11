@@ -19,11 +19,11 @@ _Type: Organizations_
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
-**[00:34:18](/episodes/ep-6DhWawD4ZiM.md#ent-org-national-security-agency-t-00-26-00)**
-> "people in the NSA, the CIA are confirming that that is real"
-
 **[00:26:29](/episodes/ep-6DhWawD4ZiM.md#ent-org-national-security-agency-t-00-26-00)**
 > "And that means people in the NSA, the CIA are confirming that that is real."
+
+**[00:34:18](/episodes/ep-6DhWawD4ZiM.md#ent-org-national-security-agency-t-00-26-00)**
+> "people in the NSA, the CIA are confirming that that is real"
 
 </details>
 

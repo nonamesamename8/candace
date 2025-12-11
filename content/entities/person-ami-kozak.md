@@ -1,6 +1,6 @@
 ---
 title: "Ami Kozak"
-description: "Ami Kozak (People) - 2 mentions"
+description: "Ami Kozak (People) - 1 mention"
 id: "person-ami-kozak"
 type: "PERSON"
 ---
@@ -13,13 +13,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1 mentions)</summary>
 
 **[00:32:42](/episodes/ep-ja26iltROkM.md#ent-person-ami-kozak-t-00-32-41)**
 > "...y who was a Zionist on my show, and that's what he's referring to: the conversation that I had with Ami Kozak. And clearly Charlie (Charlie Kirk) probably said to him, "You can watch this to get her viewpoints..."
-
-**[00:32:42](/episodes/ep-ja26iltROkM.md#ent-person-ami-kozak-t-00-32-41)**
-> "... conversation that I had with Ami Kozak. And clearly Charlie (Charlie Kirk) probably said..."
 
 </details>
 

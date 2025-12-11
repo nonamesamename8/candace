@@ -15,11 +15,11 @@ _Type: People_
 <details>
 <summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (4 mentions)</summary>
 
-**[00:04:52](/episodes/ep-5autG89PW6w.md#ent-person-pontius-pilate-t-00-04-11)**
-> "Pontius Pilate discussion in clip"
-
 **[00:04:47](/episodes/ep-5autG89PW6w.md#ent-person-pontius-pilate-t-00-04-11)**
 > "He's talking about Pontius Pilate's wife warning him not to persecute Jesus."
+
+**[00:04:52](/episodes/ep-5autG89PW6w.md#ent-person-pontius-pilate-t-00-04-11)**
+> "Pontius Pilate discussion in clip"
 
 **[00:04:56](/episodes/ep-5autG89PW6w.md#ent-person-pontius-pilate-t-00-04-56)**
 > "And if you look at Pontius Pilate, at some point he flips, and he's like, "You know..."

@@ -1,6 +1,6 @@
 ---
 title: "PBS"
-description: "PBS (Organizations) - 3 mentions"
+description: "PBS (Organizations) - 2 mentions"
 id: "org-pbs"
 type: "ORG"
 aliases:
@@ -17,16 +17,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (3 mentions)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>
 
 **[00:32:48](/episodes/ep-DqGNvi36ol8.md#t-00-32-39)**
 > "if you are PBS, which I'm about to show you a clip of him speaking on PBS"
 
 **[00:32:48](/episodes/ep-DqGNvi36ol8.md#t-00-32-39)**
 > "Like, actually, if you are PBS, which I'm about to show you a clip of him speaki..."
-
-**[00:32:48](/episodes/ep-DqGNvi36ol8.md#t-00-32-39)**
-> "...you a clip of him speaking on PBS, how did you know to reach out to this man?"
 
 </details>
 

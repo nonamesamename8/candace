@@ -1,6 +1,6 @@
 ---
 title: "United States Capitol Police"
-description: "United States Capitol Police (Organizations) - 2 mentions"
+description: "United States Capitol Police (Organizations) - 1 mention"
 id: "org-united-states-capitol-police"
 type: "ORG"
 ---
@@ -13,13 +13,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
 
 **[00:08:21](/episodes/ep-YaZfwLQ7vrI.md#ent-org-united-states-capitol-police-t-00-08-05)**
 > "...dropping off those pipe bombs was revealed to be a fed—more specifically, a 31-year-old woman and a United States Capitol Police officer named Shawna Rae Kirkhoff, right? A man named—a reporter named Steve Baker—who just deserve..."
-
-**[00:08:21](/episodes/ep-YaZfwLQ7vrI.md#ent-org-united-states-capitol-police-t-00-08-05)**
-> "...ly, a 31-year-old woman and a United States Capitol Police officer named Shawna Rae Kirkhoff, right?"
 
 </details>
 

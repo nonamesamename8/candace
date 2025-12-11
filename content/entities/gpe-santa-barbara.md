@@ -1,6 +1,6 @@
 ---
 title: "Santa Barbara"
-description: "Santa Barbara (Places) - 10 mentions"
+description: "Santa Barbara (Places) - 9 mentions"
 id: "gpe-santa-barbara"
 type: "GPE"
 ---
@@ -13,16 +13,13 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (6 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (5 mentions)</summary>
 
 **[00:27:51](/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-27-51)**
 > "And then it immediately departed for Santa Barbara, landed into Santa Barbara and immediately departed for Scottsdale"
 
 **[00:27:51](/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-27-51)**
 > "...n it immediately departed for Santa Barbara, landed into Santa Barbara and immediately depart..."
-
-**[00:27:51](/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-27-51)**
-> "...or Santa Barbara, landed into Santa Barbara and immediately departed for Scottsdale, landing ..."
 
 **[00:29:13](/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-29-09)**
 > "...ave here is one that departed Santa Barbara at 2:19 p.m. local."
@@ -38,9 +35,6 @@ _Type: Places_
 <details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (4 mentions)</summary>
 
-**[00:26:59](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-57)**
-> "It departed on the morning of September 10th from Scottsdale, Arizona, and it landed into Provo at 10:06 a.m. It then immediately turned around and departed for Santa Barbara."
-
 **[00:26:38](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-14)**
 > "...urned around and departed for Santa Barbara."
 
@@ -49,6 +43,9 @@ _Type: Places_
 
 **[00:26:57](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-57)**
 > "Maybe you were in Santa Barbara; maybe you were in Scottsdale."
+
+**[00:26:59](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-57)**
+> "It departed on the morning of September 10th from Scottsdale, Arizona, and it landed into Provo at 10:06 a.m. It then immediately turned around and departed for Santa Barbara."
 
 </details>
 

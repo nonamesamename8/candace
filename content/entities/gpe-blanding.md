@@ -1,6 +1,6 @@
 ---
 title: "Blanding"
-description: "Blanding (Places) - 3 mentions"
+description: "Blanding (Places) - 2 mentions"
 id: "gpe-blanding"
 type: "GPE"
 ---
@@ -13,13 +13,10 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (3 mentions)</summary>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (2 mentions)</summary>
 
 **[00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#ent-gpe-blanding-t-00-34-49)**
 > "... 11:30 p.m. at night. Hey, it's September 10th, 2025, and I was just heading back from Salt Lake to Blanding. I'm getting a very late start. It's about 11:30 at night, and I wanted to swing back by UVU campus..."
-
-**[00:34:49](/episodes/ep-ZGxnf5cj4Uw.md#ent-gpe-blanding-t-00-34-49)**
-> "...eading back from Salt Lake to Blanding."
 
 **[00:34:55](/episodes/ep-ZGxnf5cj4Uw.md#ent-gpe-blanding-t-00-34-49)**
 > "Hey, it's September 10th, 2025, and I was just heading back from Salt Lake to Blanding."

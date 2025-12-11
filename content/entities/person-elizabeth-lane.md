@@ -1,6 +1,6 @@
 ---
 title: "Elizabeth Lane"
-description: "Elizabeth Lane (People) - 6 mentions"
+description: "Elizabeth Lane (People) - 3 mentions"
 id: "person-elizabeth-lane"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (6 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (3 mentions)</summary>
 
 **[00:28:52](/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-28-16)**
 > "...ta have a lawyer that's working for the prosecution, right? Well, that's what's going on. Recently, Elizabeth Lane went on the Redacted podcast, and she discussed how the prosecutor is picking his opponent in the T..."
@@ -23,15 +23,6 @@ _Type: People_
 
 **[00:29:07](/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-29-07)**
 > "...n that. [CLIP ATTRIBUTION: Elizabeth Lane and host speaking in this clip.] Investigative journalist Elizabeth Lane is not giving up on this story. She's been on the ground in Utah connecting the CIA dots, the three..."
-
-**[00:28:52](/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-28-16)**
-> "Recently, Elizabeth Lane went on the Redacted podcast, and she discussed h..."
-
-**[00:29:05](/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-28-16)**
-> "...lain that. [CLIP ATTRIBUTION: Elizabeth Lane and host speaking in this clip.]"
-
-**[00:29:07](/episodes/ep-t1YtLS1n8Vs.md#ent-person-elizabeth-lane-t-00-29-07)**
-> "Investigative journalist Elizabeth Lane is not giving up on this story."
 
 </details>
 

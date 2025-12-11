@@ -1,6 +1,6 @@
 ---
 title: "Andrew K. Smith"
-description: "Andrew K. Smith (People) - 3 mentions"
+description: "Andrew K. Smith (People) - 2 mentions"
 id: "person-andrew-k-smith"
 type: "PERSON"
 ---
@@ -13,16 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (3 mentions)</summary>
-
-**[00:13:16](/episodes/ep-JQjCAsfoXEE.md#ent-person-andrew-k-smith-t-00-13-16)**
-> "...an interview with a person that nobody really knows. He's a managing director of a restaurant fund. Andrew K. Smith out of nowhere does this "Restaurantology" interview with Charlie (Charlie Kirk), and so Charlie (C..."
-
-**[00:13:16](/episodes/ep-JQjCAsfoXEE.md#ent-person-andrew-k-smith-t-00-13-16)**
-> "Andrew K. Smith out of nowhere does this "Restaurantology" interv..."
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2 mentions)</summary>
 
 **[00:13:16](/episodes/ep-JQjCAsfoXEE.md#ent-person-andrew-k-smith-t-00-13-16)**
 > "Andrew K. Smith out of nowhere does this 'Restaurantology' interview with Charlie (Charlie Kirk), and so Charlie (Charlie Kirk) flew into Salt Lake to make this interview happen."
+
+**[00:13:16](/episodes/ep-JQjCAsfoXEE.md#ent-person-andrew-k-smith-t-00-13-16)**
+> "...an interview with a person that nobody really knows. He's a managing director of a restaurant fund. Andrew K. Smith out of nowhere does this "Restaurantology" interview with Charlie (Charlie Kirk), and so Charlie (C..."
 
 </details>
 

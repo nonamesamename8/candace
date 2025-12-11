@@ -29,11 +29,11 @@ _Type: People_
 <details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
-**[00:22:33](/episodes/ep-mKXdKV-OBog.md#ent-person-jacob-kasparian-t-00-20-28)**
-> "Jacob Kasparian, person behind the bush, dad is Mormon temple president"
-
 **[00:20:28](/episodes/ep-mKXdKV-OBog.md#ent-person-jacob-kasparian-t-00-20-28)**
 > "...n that was behind the bush—is Jacob Kasparian."
+
+**[00:22:33](/episodes/ep-mKXdKV-OBog.md#ent-person-jacob-kasparian-t-00-20-28)**
+> "Jacob Kasparian, person behind the bush, dad is Mormon temple president"
 
 </details>
 

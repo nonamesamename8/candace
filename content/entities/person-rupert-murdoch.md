@@ -15,11 +15,11 @@ _Type: People_
 <details>
 <summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
 
-**[00:01:22](/episodes/ep-5autG89PW6w.md#ent-person-rupert-murdoch-t-00-00-39)**
-> "Succession show fashioned after Rupert Murdoch"
-
 **[00:01:14](/episodes/ep-5autG89PW6w.md#ent-person-rupert-murdoch-t-00-00-39)**
 > "...to be kind of fashioned after Rupert Murdoch's throne."
+
+**[00:01:22](/episodes/ep-5autG89PW6w.md#ent-person-rupert-murdoch-t-00-00-39)**
+> "Succession show fashioned after Rupert Murdoch"
 
 </details>
 

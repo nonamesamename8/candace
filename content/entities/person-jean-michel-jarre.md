@@ -15,11 +15,11 @@ _Type: People_
 <details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
-**[00:38:54](/episodes/ep-mKXdKV-OBog.md#ent-person-jean-michel-jarre-t-00-38-09)**
-> "Jean-Michel Jarre disappears for decades and joins the military in Hamburg"
-
 **[00:38:42](/episodes/ep-mKXdKV-OBog.md#ent-person-jean-michel-jarre-t-00-38-09)**
 > "...resting because that is where Jean-Michel Jarre disappears for a couple of decades and joins the ..."
+
+**[00:38:54](/episodes/ep-mKXdKV-OBog.md#ent-person-jean-michel-jarre-t-00-38-09)**
+> "Jean-Michel Jarre disappears for decades and joins the military in Hamburg"
 
 </details>
 

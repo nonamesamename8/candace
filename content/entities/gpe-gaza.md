@@ -1,6 +1,6 @@
 ---
 title: "Gaza"
-description: "Gaza (Places) - 54 mentions"
+description: "Gaza (Places) - 49 mentions"
 id: "gpe-gaza"
 type: "GPE"
 ---
@@ -15,11 +15,11 @@ _Type: Places_
 <details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
 
-**[00:52:39](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-gaza-t-00-52-05)**
-> "Do you think that the Palestinians don't want to stay in Gaza where they've been"
-
 **[00:52:33](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-gaza-t-00-52-05)**
 > "...tinians don't want to stay in Gaza where they've been?"
+
+**[00:52:39](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-gaza-t-00-52-05)**
+> "Do you think that the Palestinians don't want to stay in Gaza where they've been"
 
 </details>
 
@@ -89,16 +89,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (6 mentions)</summary>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (5 mentions)</summary>
 
 **[00:39:34](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-39-34)**
 > "the single greatest contributor to me being sort of just smacked in the gut about Gaza"
 
 **[00:39:34](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-39-34)**
 > "...just smacked in the gut about Gaza and learning about Gaza."
-
-**[00:39:34](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-39-34)**
-> "...about Gaza and learning about Gaza."
 
 **[00:39:44](/episodes/ep-Qt0VHV-POCg.md#ent-gpe-gaza-t-00-39-34)**
 > "...anything about the history of Gaza; knew nothing about it because it has been such a..."
@@ -112,7 +109,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (14 mentions)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (12 mentions)</summary>
 
 **[00:46:37](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-46-58)**
 > "85% of Gaza has been destroyed in this pre-planned controlled demolition"
@@ -126,9 +123,6 @@ _Type: Places_
 **[00:48:09](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-47-32)**
 > "85% of Gaza has been destroyed in this pre-planned controlled..."
 
-**[00:48:09](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-47-32)**
-> "...nned controlled demolition of Gaza."
-
 **[00:49:14](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-49-14)**
 > "...m—who think once Gazans leave Gaza, Netanyahu's never gonna let them back in."
 
@@ -137,9 +131,6 @@ _Type: Places_
 
 **[00:49:30](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-49-14)**
 > "...about even the construct—like Gaza—Gaza was not really a historical precedent, right..."
-
-**[00:49:30](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-49-14)**
-> "... even the construct—like Gaza—Gaza was not really a historical precedent, right?"
 
 **[00:49:39](/episodes/ep-pc3pxRyNFZk.md#ent-gpe-gaza-t-00-49-14)**
 > "...in different places, but then Gaza became a thing."
@@ -159,22 +150,19 @@ _Type: Places_
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (6 mentions)</summary>
-
-**[00:31:01](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-30-33)**
-> "30 dead, raped, kidnapped, and beheaded Americans in Gaza makes the fight in Gaza America First"
-
-**[00:52:02](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-51-39)**
-> "their actions in Gaza"
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (5 mentions)</summary>
 
 **[00:30:51](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-30-33)**
 > "...ed, and beheaded Americans in Gaza makes the fight in Gaza America First.'"
 
-**[00:30:51](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-30-33)**
-> "...ns in Gaza makes the fight in Gaza America First.'"
+**[00:31:01](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-30-33)**
+> "30 dead, raped, kidnapped, and beheaded Americans in Gaza makes the fight in Gaza America First"
 
 **[00:51:59](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-51-39)**
 > "...ey're doing: their actions in Gaza."
+
+**[00:52:02](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-51-39)**
+> "their actions in Gaza"
 
 **[00:53:48](/episodes/ep-ja26iltROkM.md#ent-gpe-gaza-t-00-53-40)**
 > "... from the ongoing genocide in Gaza.""
@@ -182,34 +170,31 @@ _Type: Places_
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (9 mentions)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (8 mentions)</summary>
 
 **[00:35:14](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03)**
 > "Gaza's not helpful"
-
-**[00:35:19](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03)**
-> "Gaza just kind of being bombarded because you want to make a beachside place vacation"
-
-**[00:35:34](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03)**
-> "looking at what's happening in Gaza"
-
-**[00:35:57](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-45)**
-> "It was actually related to Gaza and what you were gonna do with Gaza thereafter"
 
 **[00:35:14](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03)**
 > "Gaza's not helpful."
 
 **[00:35:19](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03)**
+> "Gaza just kind of being bombarded because you want to make a beachside place vacation"
+
+**[00:35:19](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03)**
 > "...talking about a free country; Gaza just kind of being bombarded because you want to ..."
+
+**[00:35:34](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03)**
+> "looking at what's happening in Gaza"
 
 **[00:35:34](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03)**
 > "...ooking at what's happening in Gaza. There's no question about that—how many kids hav..."
 
 **[00:35:57](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-45)**
-> "It was actually related to Gaza and what you were gonna do with Gaza thereafter."
+> "It was actually related to Gaza and what you were gonna do with Gaza thereafter"
 
 **[00:35:57](/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-45)**
-> "...d what you were gonna do with Gaza thereafter."
+> "It was actually related to Gaza and what you were gonna do with Gaza thereafter."
 
 </details>
 

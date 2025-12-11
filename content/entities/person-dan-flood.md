@@ -1,6 +1,6 @@
 ---
 title: "Dan Flood"
-description: "Dan Flood (People) - 16 mentions"
+description: "Dan Flood (People) - 13 mentions"
 id: "person-dan-flood"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (7 mentions)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (4 mentions)</summary>
 
 **[00:04:45](/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-37)**
 > "did you see Dan Flood? No, well, that checks out because Dan Flood was with Charlie in Korea"
@@ -21,20 +21,11 @@ _Type: People_
 **[00:28:49](/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-37)**
 > "...ed him, you know, did you see Dan Flood (Dan Flood)?"
 
-**[00:28:49](/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-37)**
-> "... know, did you see Dan Flood (Dan Flood)?"
-
 **[00:28:57](/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-37)**
 > "...well, that checks out because Dan Flood (Dan Flood) was with Charlie in Korea."
 
-**[00:28:57](/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-37)**
-> "...checks out because Dan Flood (Dan Flood) was with Charlie in Korea."
-
 **[00:55:45](/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-55-15)**
 > "...has given me a chill and this Dan Flood (Dan Flood)stup has given me a chill, and maybe w..."
-
-**[00:55:45](/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-55-15)**
-> "...e a chill and this Dan Flood (Dan Flood)stup has given me a chill, and maybe we will actu..."
 
 </details>
 

@@ -20,13 +20,13 @@ _Type: People_
 <details>
 <summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (3 mentions)</summary>
 
-**[01:03:01](/episodes/ep-LATnak75Si0.md#ent-person-dana-loesch-t-01-02-57)**
-> "Don't care if Dana Loesch and every neocon wants to cry about it."
-
 **[00:16:06](/episodes/ep-LATnak75Si0.md#ent-person-dana-loesch-t-00-15-44)**
 > "Because people like Dana Loesch want to know: how are we going to win if you guys..."
 
 **[01:02:57](/episodes/ep-LATnak75Si0.md#ent-person-dana-loesch-t-01-02-57)**
+> "Don't care if Dana Loesch and every neocon wants to cry about it."
+
+**[01:03:01](/episodes/ep-LATnak75Si0.md#ent-person-dana-loesch-t-01-02-57)**
 > "Don't care if Dana Loesch and every neocon wants to cry about it."
 
 </details>

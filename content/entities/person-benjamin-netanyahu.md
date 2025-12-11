@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Netanyahu"
-description: "Benjamin Netanyahu (People) - 382 mentions"
+description: "Benjamin Netanyahu (People) - 159 mentions"
 id: "person-benjamin-netanyahu"
 type: "PERSON"
 aliases:
@@ -22,7 +22,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (16 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (5 mentions)</summary>
 
 **[00:22:11](/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-21-56)**
 > "...ntially coming on as a donor for Turning Point USA. We have what I do think is a big deal, which is Benjamin Netanyahu calling Charlie (Charlie Kirk) and offering to take Turning Point to the next level. And that, my f..."
@@ -39,43 +39,13 @@ _Type: People_
 **[00:58:08](/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-57-57)**
 > "...es. You know—America lost its way when we decided that we would do anything for money—which is what Benjamin Netanyahu said on camera. You know—"America is something you can move very easily with money." Not this Ameri..."
 
-**[00:22:11](/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-21-56)**
-> "...think is a big deal, which is Benjamin Netanyahu (Benjamin Netanyahu) calling Charlie (Charlie Kir..."
-
-**[00:22:11](/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-21-56)**
-> "... which is Benjamin Netanyahu (Benjamin Netanyahu) calling Charlie (Charlie Kirk) and offering to t..."
-
-**[00:22:42](/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-22-38)**
-> "...cause I'm going to guess that Benjamin Netanyahu (Benjamin Netanyahu) is not just going to write a..."
-
-**[00:22:42](/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-22-38)**
-> "...uess that Benjamin Netanyahu (Benjamin Netanyahu) is not just going to write a check signed by Ben..."
-
-**[00:22:42](/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-22-38)**
-> "...ng to write a check signed by Benjamin Netanyahu (Benjamin Netanyahu) and just do that as an act o..."
-
-**[00:22:42](/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-22-38)**
-> "...signed by Benjamin Netanyahu (Benjamin Netanyahu) and just do that as an act of charity."
-
-**[00:25:55](/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-25-29)**
-> "when Benjamin Netanyahu (Benjamin Netanyahu) asked to take it to the next..."
-
-**[00:33:53](/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-33-24)**
-> "...lie (Charlie Kirk) said no to Benjamin Netanyahu (Benjamin Netanyahu), he lost out on millions."
-
-**[00:33:53](/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-33-24)**
-> "...aid no to Benjamin Netanyahu (Benjamin Netanyahu), he lost out on millions."
-
-**[00:58:08](/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-57-57)**
-> "...thing for money—which is what Benjamin Netanyahu (Benjamin Netanyahu) said on camera."
-
-**[00:58:08](/episodes/ep-a-e7HC6SeK8.md#ent-person-benjamin-netanyahu-t-00-57-57)**
-> "...h is what Benjamin Netanyahu (Benjamin Netanyahu) said on camera."
-
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (6 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (3 mentions)</summary>
+
+**[00:27:27](/episodes/ep-mKXdKV-OBog.md#ent-person-benjamin-netanyahu-t-00-26-47)**
+> "Bibi met Pollard on the runway"
 
 **[00:27:27](/episodes/ep-mKXdKV-OBog.md#ent-person-benjamin-netanyahu-t-00-26-47)**
 > "...was welcomed in Israel—the red carpet was rolled out for him, I think, literally. And I think Bibi (Benjamin Netanyahu) met him on the runway like, "You served us well." You've served us well. And who cares if the Amer..."
@@ -83,39 +53,21 @@ _Type: People_
 **[00:42:42](/episodes/ep-mKXdKV-OBog.md#ent-person-benjamin-netanyahu-t-00-42-07)**
 > "...Charlie (Charlie Kirk) is in witness protection—that the FBI and the POTUS set it up to catch Bibi (Benjamin Netanyahu). Christ is King will always be king. Love you." I can tell you that that is not at all what happen..."
 
-**[00:27:27](/episodes/ep-mKXdKV-OBog.md#ent-person-benjamin-netanyahu-t-00-26-47)**
-> "Bibi met Pollard on the runway"
-
-**[00:27:27](/episodes/ep-mKXdKV-OBog.md#ent-person-benjamin-netanyahu-t-00-26-47)**
-> "And I think Bibi (Benjamin Netanyahu) met him on the runway like, "You served us well...."
-
-**[00:42:42](/episodes/ep-mKXdKV-OBog.md#ent-person-benjamin-netanyahu-t-00-42-07)**
-> "...OTUS set it up to catch Bibi (Benjamin Netanyahu)."
-
-**[00:42:42](/episodes/ep-mKXdKV-OBog.md#ent-person-benjamin-netanyahu-t-00-42-07)**
-> "... the POTUS set it up to catch Bibi (Benjamin Netanyahu)."
-
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
 **[00:20:22](/episodes/ep-sImMM04XdWY.md#ent-person-benjamin-netanyahu-t-00-20-22)**
 > "...n intervention, and Bill Ackman disputes that narrative. Seth Dillon disputes that narrative. Bibi (Benjamin Netanyahu) offers to take Turning Point to the next level financially. Charlie (Charlie Kirk) declines that o..."
 
-**[00:20:22](/episodes/ep-sImMM04XdWY.md#ent-person-benjamin-netanyahu-t-00-20-22)**
-> "Bibi (Benjamin Netanyahu) offers to take Turning Point to the next level f..."
-
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (3 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
 **[00:42:42](/episodes/ep-581dILVcEE4.md#ent-person-benjamin-netanyahu-t-00-42-16)**
 > "...hat we need to talk about more because it's pretty obvious what happened here. And of course, Bibi (Benjamin Netanyahu) Netanyahu was involved in the Calvary Chapel churches. We're gonna get to that tomorrow: his relat..."
-
-**[00:42:42](/episodes/ep-581dILVcEE4.md#ent-person-benjamin-netanyahu-t-00-42-16)**
-> "And of course, Bibi (Benjamin Netanyahu) was involved in the Calvary Chapel churches."
 
 **[00:42:45](/episodes/ep-581dILVcEE4.md#ent-person-benjamin-netanyahu-t-00-42-16)**
 > "And of course, Bibi (Benjamin Netanyahu) was involved in the Calvary Chapel churches."
@@ -123,32 +75,23 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
 **[00:04:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-benjamin-netanyahu-t-00-03-30)**
 > "...der the sun is trying to ward me off of. Well, how dare she? This is—I can't even believe it. Bibi (Benjamin Netanyahu) can blow up thousands and tens of thousands of kids, but Candace (Candace Owens) investigating the..."
 
-**[00:04:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-benjamin-netanyahu-t-00-03-30)**
-> "Bibi (Benjamin Netanyahu) can blow up thousands and tens of thousands of k..."
-
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (3 mentions)</summary>
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (1 mentions)</summary>
 
 **[00:36:29](/episodes/ep-yAIb-NuUh_U.md#ent-person-benjamin-netanyahu-t-00-36-27)**
 > "...re protecting, but if you don't see that it has gone mask off—the people who won't even speak about Benjamin (Bibi) Netanyahu's crimes against humanity (he's being tried for crimes against humanity)—all someh..."
 
-**[00:36:29](/episodes/ep-yAIb-NuUh_U.md#ent-person-benjamin-netanyahu-t-00-36-27)**
-> "...'t even speak about Benjamin (Bibi) Netanyahu's crimes against humanity (he's being ..."
-
-**[00:36:29](/episodes/ep-yAIb-NuUh_U.md#ent-person-benjamin-netanyahu-t-00-36-27)**
-> "...le who won't even speak about Benjamin (Bibi) Netanyahu's crimes against humanity (he's ..."
-
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (6 mentions)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
 
 **[00:00:26](/episodes/ep-MUA9ebCF4Ow.md#ent-person-benjamin-netanyahu-t-00-00-00)**
 > "...th and buy Josh Hammer's book." Yeah. And also, he had just written this Romeo and Juliet letter to Benjamin Netanyahu (Bibi). I feel like that was kind of the plan, but look, the best laid plans—they can fall apart. A..."
@@ -156,36 +99,18 @@ _Type: People_
 **[00:16:25](/episodes/ep-MUA9ebCF4Ow.md#ent-person-benjamin-netanyahu-t-00-15-57)**
 > "...Another lie: Charlie (Charlie Kirk) never blinked in his support for Israel. Offender: Josh Hammer, Benjamin Netanyahu (Bibi), insert Zionist here—many Zionists, Christian Zionist influencers as well. That turned out t..."
 
-**[00:00:26](/episodes/ep-MUA9ebCF4Ow.md#ent-person-benjamin-netanyahu-t-00-00-00)**
-> "...is Romeo and Juliet letter to Benjamin Netanyahu (Bibi)."
-
-**[00:00:26](/episodes/ep-MUA9ebCF4Ow.md#ent-person-benjamin-netanyahu-t-00-00-00)**
-> "...letter to Benjamin Netanyahu (Bibi)."
-
-**[00:16:25](/episodes/ep-MUA9ebCF4Ow.md#ent-person-benjamin-netanyahu-t-00-15-57)**
-> "Offender: Josh Hammer, Benjamin Netanyahu (Bibi), insert Zionist here—many Zionists, Christ..."
-
-**[00:16:25](/episodes/ep-MUA9ebCF4Ow.md#ent-person-benjamin-netanyahu-t-00-15-57)**
-> "...h Hammer, Benjamin Netanyahu (Bibi), insert Zionist here—many Zionists, Christian Zi..."
-
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (3 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
 
 **[00:43:55](/episodes/ep-YaZfwLQ7vrI.md#ent-person-benjamin-netanyahu-t-00-43-42)**
 > "... I typically think of people who say like, "Oh, you're going to get into heaven if you defend Bibi (Benjamin Netanyahu)." It says it right here in the Bible that if you don't unfollow Candace (Candace Owens) Owens, you..."
 
-**[00:43:55](/episodes/ep-YaZfwLQ7vrI.md#ent-person-benjamin-netanyahu-t-00-43-42)**
-> "...to heaven if you defend Bibi (Benjamin Netanyahu).""
-
-**[00:43:55](/episodes/ep-YaZfwLQ7vrI.md#ent-person-benjamin-netanyahu-t-00-43-42)**
-> "...get into heaven if you defend Bibi (Benjamin Netanyahu).""
-
 </details>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (14 mentions)</summary>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (8 mentions)</summary>
 
 **[00:00:42](/episodes/ep-r1PS67aRmcA.md#ent-person-benjamin-netanyahu-t-00-00-00)**
 > "... say is the pro-Israel lobby is down real bad. They're writing fan fiction. They're like, it's like Benjamin Netanyahu fan fiction. And on that note, I sat down with a woman on CNN, and it went about as bad as you migh..."
@@ -196,35 +121,17 @@ _Type: People_
 **[00:20:01](/episodes/ep-r1PS67aRmcA.md#ent-person-benjamin-netanyahu-t-00-19-31)**
 > "...mmitting a genocide, and Ben Shapiro sat down with him last month. And do you guys think he pressed Benjamin Netanyahu on the point of a genocide? I don't understand how you could just go out there with your hair on yo..."
 
-**[00:38:44](/episodes/ep-r1PS67aRmcA.md#ent-person-benjamin-netanyahu-t-00-38-17)**
-> "... occupied by Zionists and the cruelties that the Palestinian children are suffering at the hands of Benjamin Netanyahu, then so be it. I don't encourage you guys to cuss. It's a rare moment. Like I said, it was a coupl..."
-
-**[00:43:42](/episodes/ep-r1PS67aRmcA.md#ent-person-benjamin-netanyahu-t-00-43-11)**
-> "...coming in for our speech and you thought that this generation was gonna get behind it because what, Benjamin Netanyahu bought TikTok? The hypocrisy is astounding and you can't survive hypocrisy. So unfortunately, I thi..."
-
-**[00:00:42](/episodes/ep-r1PS67aRmcA.md#ent-person-benjamin-netanyahu-t-00-00-00)**
-> "They're like, it's like Benjamin Netanyahu (Benjamin Netanyahu) fan fiction."
-
-**[00:00:42](/episodes/ep-r1PS67aRmcA.md#ent-person-benjamin-netanyahu-t-00-00-00)**
-> "...it's like Benjamin Netanyahu (Benjamin Netanyahu) fan fiction."
-
-**[00:20:00](/episodes/ep-r1PS67aRmcA.md#ent-person-benjamin-netanyahu-t-00-19-31)**
-> "Benjamin Netanyahu is committing a genocide, and Ben Shapiro sat dow..."
-
-**[00:20:01](/episodes/ep-r1PS67aRmcA.md#ent-person-benjamin-netanyahu-t-00-19-31)**
-> "... do you guys think he pressed Benjamin Netanyahu on the point of a genocide?"
-
 **[00:33:42](/episodes/ep-r1PS67aRmcA.md#ent-person-benjamin-netanyahu-t-00-33-42)**
 > "You can criticize Netanyahu (Benjamin Netanyahu) without being anti-Israel, and you can criticize..."
 
 **[00:38:44](/episodes/ep-r1PS67aRmcA.md#ent-person-benjamin-netanyahu-t-00-38-17)**
-> "...are suffering at the hands of Benjamin Netanyahu, then so be it."
+> "... occupied by Zionists and the cruelties that the Palestinian children are suffering at the hands of Benjamin Netanyahu, then so be it. I don't encourage you guys to cuss. It's a rare moment. Like I said, it was a coupl..."
 
 **[00:39:51](/episodes/ep-r1PS67aRmcA.md#ent-person-benjamin-netanyahu-t-00-39-41)**
 > "... frustrations with Netanyahu (Benjamin Netanyahu) have been made clear when he cursed on national ..."
 
 **[00:43:42](/episodes/ep-r1PS67aRmcA.md#ent-person-benjamin-netanyahu-t-00-43-11)**
-> "...a get behind it because what, Benjamin Netanyahu bought TikTok?"
+> "...coming in for our speech and you thought that this generation was gonna get behind it because what, Benjamin Netanyahu bought TikTok? The hypocrisy is astounding and you can't survive hypocrisy. So unfortunately, I thi..."
 
 **[00:53:14](/episodes/ep-r1PS67aRmcA.md#ent-person-benjamin-netanyahu-t-00-53-14)**
 > "...rt, you know, baby Netanyahu (Benjamin Netanyahu), who's murderous."
@@ -232,18 +139,15 @@ _Type: People_
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
 **[00:18:31](/episodes/ep-LATnak75Si0.md#ent-person-benjamin-netanyahu-t-00-18-27)**
 > "... He's the same guy who bragged about not washing his hands after he had a handshake with Netanyahu (Benjamin Netanyahu). He's repeatedly introduced bills to criminalize anti-Semitism, infringing upon free speech. I mea..."
 
-**[00:18:31](/episodes/ep-LATnak75Si0.md#ent-person-benjamin-netanyahu-t-00-18-27)**
-> "...d a handshake with Netanyahu (Benjamin Netanyahu)."
-
 </details>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (16 mentions)</summary>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (7 mentions)</summary>
 
 **[00:20:26](/episodes/ep-Qfwr08Ebczo.md#ent-person-benjamin-netanyahu-t-00-20-26)**
 > "...ey completely fictionalized it. They've just been lying nonstop quickly, right? Right out the gate, Benjamin Netanyahu (Bibi Netanyahu) doing propaganda rounds, denying that he had anything to do with the assassination..."
@@ -266,51 +170,18 @@ _Type: People_
 **[00:50:06](/episodes/ep-Qfwr08Ebczo.md#ent-person-benjamin-netanyahu-t-00-49-32)**
 > "...ng about the Egyptian planes. That's very strange. Israel's moderator served in the IDF—we know—and Benjamin Netanyahu (Bibi Netanyahu) wants TikTok secured for Israel's future. Why do they care about Egyptian planes t..."
 
-**[00:20:26](/episodes/ep-Qfwr08Ebczo.md#ent-person-benjamin-netanyahu-t-00-20-26)**
-> "Right out the gate, Benjamin Netanyahu doing propaganda rounds, denying that he had anyt..."
-
-**[00:20:41](/episodes/ep-Qfwr08Ebczo.md#ent-person-benjamin-netanyahu-t-00-20-26)**
-> "...didn't kill Charlie Kirk, but Benjamin Netanyahu (Bibi Net and Yahoo) felt that he needed to do th..."
-
-**[00:20:41](/episodes/ep-Qfwr08Ebczo.md#ent-person-benjamin-netanyahu-t-00-20-26)**
-> "...Kirk, but Benjamin Netanyahu (Bibi Net and Yahoo) felt that he needed to do that. An..."
-
-**[00:35:22](/episodes/ep-Qfwr08Ebczo.md#ent-person-benjamin-netanyahu-t-00-34-39)**
-> "...ven if I just worship however Benjamin Netanyahu—even when he kills tens of thousands of kids—that..."
-
-**[00:42:58](/episodes/ep-Qfwr08Ebczo.md#ent-person-benjamin-netanyahu-t-00-42-38)**
-> "...ecently I've come to not like Bibi, but I still love the land where the Lord was bor..."
-
-**[00:43:11](/episodes/ep-Qfwr08Ebczo.md#ent-person-benjamin-netanyahu-t-00-42-38)**
-> "...hen these people are treating Benjamin Netanyahu (BB net and Yahoo) like he is their Christ. And t..."
-
-**[00:43:11](/episodes/ep-Qfwr08Ebczo.md#ent-person-benjamin-netanyahu-t-00-42-38)**
-> "... treating Benjamin Netanyahu (BB net and Yahoo) like he is their Christ. And that ..."
-
-**[00:43:25](/episodes/ep-Qfwr08Ebczo.md#ent-person-benjamin-netanyahu-t-00-43-16)**
-> "...platforming and honoring what Benjamin Netanyahu does—avoiding the topic, not acknowledging that w..."
-
-**[00:50:06](/episodes/ep-Qfwr08Ebczo.md#ent-person-benjamin-netanyahu-t-00-49-32)**
-> "...served in the IDF—we know—and Benjamin Netanyahu wants TikTok secured for Israel's future."
-
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (3 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
 
 **[00:28:34](/episodes/ep-K1tFD7FfoCU.md#ent-person-benjamin-netanyahu-t-00-27-53)**
 > "...d so it's a good fit. It's a fitting program for her to go on to. If she was sitting down with like Benjamin Netanyahu's (Benjamin Netanyahu) entourage, I might have something to say. But everything that she has done h..."
 
-**[00:28:34](/episodes/ep-K1tFD7FfoCU.md#ent-person-benjamin-netanyahu-t-00-27-53)**
-> "...he was sitting down with like Benjamin Netanyahu's (Benjamin Netanyahu) entourage, I might have some..."
-
-**[00:28:34](/episodes/ep-K1tFD7FfoCU.md#ent-person-benjamin-netanyahu-t-00-27-53)**
-> "...th like Benjamin Netanyahu's (Benjamin Netanyahu) entourage, I might have something to say."
-
 </details>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (13 mentions)</summary>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (6 mentions)</summary>
 
 **[00:36:35](/episodes/ep-YFmRH8p5lt0.md#ent-person-benjamin-netanyahu-t-00-36-11)**
 > "...t to go to rehab? But that phone call wasn't coming in from mom or dad. It was coming in from Bibi (Benjamin Netanyahu). And that's kind of terrifying, actually. Bibi (Benjamin Netanyahu) is like pretending to be your ..."
@@ -330,59 +201,26 @@ _Type: People_
 **[00:38:16](/episodes/ep-YFmRH8p5lt0.md#ent-person-benjamin-netanyahu-t-00-38-16)**
 > "...t. We only have just a sense of Charlie's (Charlie Kirk's) emotion at the time. He says, "No, Bibi (Benjamin Netanyahu). I don't know—maybe—where this money is coming from. I'm good. I'm not going to go to rehab in Isr..."
 
-**[00:36:35](/episodes/ep-YFmRH8p5lt0.md#ent-person-benjamin-netanyahu-t-00-36-11)**
-> "It was coming in from Bibi (Benjamin Netanyahu)."
-
-**[00:36:41](/episodes/ep-YFmRH8p5lt0.md#ent-person-benjamin-netanyahu-t-00-36-11)**
-> "Bibi (Benjamin Netanyahu) is like pretending to be your friend: "Hey, come..."
-
-**[00:36:44](/episodes/ep-YFmRH8p5lt0.md#ent-person-benjamin-netanyahu-t-00-36-11)**
-> "Because Bibi (Benjamin Netanyahu) told us himself."
-
-**[00:36:53](/episodes/ep-YFmRH8p5lt0.md#ent-person-benjamin-netanyahu-t-00-36-53)**
-> "Bibi (Benjamin Netanyahu) rushed—raced out of the gate—to establish Charli..."
-
-**[00:37:12](/episodes/ep-YFmRH8p5lt0.md#ent-person-benjamin-netanyahu-t-00-36-53)**
-> "Actually, Bibi (Benjamin Netanyahu) offered to fund Turning Point to the next level."
-
-**[00:38:16](/episodes/ep-YFmRH8p5lt0.md#ent-person-benjamin-netanyahu-t-00-38-16)**
-> "...the time. He says, "No, Bibi (Benjamin Netanyahu)."
-
-**[00:38:16](/episodes/ep-YFmRH8p5lt0.md#ent-person-benjamin-netanyahu-t-00-38-16)**
-> "...on at the time. He says, "No, Bibi (Benjamin Netanyahu)."
-
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (3 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (1 mentions)</summary>
 
 **[00:39:38](/episodes/ep-iHav0PPzUz8.md#ent-person-benjamin-netanyahu-t-00-39-12)**
 > "...n the Hamptons. What was it—August 5th and 6th? Pressing him on the things that he said about Bibi (Benjamin Netanyahu) and Yahoo. He was hosting people to have that discussion. But, you know— I guess for some Zionists..."
 
-**[00:39:38](/episodes/ep-iHav0PPzUz8.md#ent-person-benjamin-netanyahu-t-00-39-12)**
-> "...ings that he said about Bibi (Benjamin Netanyahu)."
-
-**[00:39:38](/episodes/ep-iHav0PPzUz8.md#ent-person-benjamin-netanyahu-t-00-39-12)**
-> "...the things that he said about Bibi (Benjamin Netanyahu)."
-
 </details>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (3 mentions)</summary>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (1 mentions)</summary>
 
 **[00:21:32](/episodes/ep-Qt0VHV-POCg.md#ent-person-benjamin-netanyahu-t-00-21-20)**
 > "... like, "Hey, maybe people overseas were involved in his murder." Maybe they were thinking, "Bibi's (Benjamin Netanyahu's) saying too much." "Can we just look at these files?" "That's our job: overseas terrorism." And K..."
 
-**[00:21:32](/episodes/ep-Qt0VHV-POCg.md#ent-person-benjamin-netanyahu-t-00-21-20)**
-> "... they were thinking, "Bibi's (Benjamin Netanyahu's) saying too much.""
-
-**[00:21:32](/episodes/ep-Qt0VHV-POCg.md#ent-person-benjamin-netanyahu-t-00-21-20)**
-> "Maybe they were thinking, "Bibi's (Benjamin Netanyahu's) saying too much.""
-
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
 **[00:11:41](/episodes/ep-Cq7nj9rxPdo.md#ent-person-benjamin-netanyahu-t-00-11-30)**
 > "...You should also know that he is the father—or stepfather—to Andreessen Horowitz, the one that Bibi (Benjamin Netanyahu) is insisting should be a part of this group that buys TikTok because—and this is relevant—they thi..."
@@ -390,16 +228,10 @@ _Type: People_
 **[00:11:49](/episodes/ep-Cq7nj9rxPdo.md#ent-person-benjamin-netanyahu-t-00-11-30)**
 > "Bibi insisting Andreessen Horowitz buy TikTok"
 
-**[00:11:41](/episodes/ep-Cq7nj9rxPdo.md#ent-person-benjamin-netanyahu-t-00-11-30)**
-> "... Horowitz, the one that Bibi (Benjamin Netanyahu) is insisting should be a part of this group that..."
-
-**[00:11:41](/episodes/ep-Cq7nj9rxPdo.md#ent-person-benjamin-netanyahu-t-00-11-30)**
-> "...eessen Horowitz, the one that Bibi (Benjamin Netanyahu) is insisting should be a par..."
-
 </details>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (8 mentions)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (3 mentions)</summary>
 
 **[00:48:17](/episodes/ep-pc3pxRyNFZk.md#ent-person-benjamin-netanyahu-t-00-48-17)**
 > ".... 85% of Gaza has been destroyed in this pre-planned controlled demolition of Gaza. Bibi Netanyahu (Benjamin Netanyahu) is on camera explicitly before October 7 saying we need to hit them so hard that they can't come b..."
@@ -407,31 +239,13 @@ _Type: People_
 **[00:48:53](/episodes/ep-pc3pxRyNFZk.md#ent-person-benjamin-netanyahu-t-00-48-17)**
 > "...you? Thank you to Jared Kushner (Jared Kushner) and Donald Trump (Donald Trump) and Bibi Netanyahu (Benjamin Netanyahu) who are just business partners playing a role, convinced that we're all so stupid. I mean, let's r..."
 
-**[00:48:17](/episodes/ep-pc3pxRyNFZk.md#ent-person-benjamin-netanyahu-t-00-48-17)**
-> "Bibi Netanyahu (Benjamin Netanyahu) is on camera explicitly before October 7 saying ..."
-
-**[00:48:53](/episodes/ep-pc3pxRyNFZk.md#ent-person-benjamin-netanyahu-t-00-48-17)**
-> "...ld Trump) and Bibi Netanyahu (Benjamin Netanyahu) who are just business partners playing a role, c..."
-
-**[00:48:53](/episodes/ep-pc3pxRyNFZk.md#ent-person-benjamin-netanyahu-t-00-48-17)**
-> "...nald Trump (Donald Trump) and Bibi Netanyahu (Benjamin Netanyahu) who are just busin..."
-
-**[00:48:53](/episodes/ep-pc3pxRyNFZk.md#ent-person-benjamin-netanyahu-t-00-48-17)**
-> "...Trump (Donald Trump) and Bibi Netanyahu (Benjamin Netanyahu) who are just business partne..."
-
-**[00:48:53](/episodes/ep-pc3pxRyNFZk.md#ent-person-benjamin-netanyahu-t-00-48-17)**
-> "... and Bibi Netanyahu (Benjamin Netanyahu) who are just business partners playing a role, c..."
-
 **[00:49:14](/episodes/ep-pc3pxRyNFZk.md#ent-person-benjamin-netanyahu-t-00-49-14)**
 > "...think once Gazans leave Gaza, Netanyahu's never gonna let them back in."
 
 </details>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (12 mentions)</summary>
-
-**[00:37:27](/episodes/ep-2Riv3I7D0Yk.md#ent-person-benjamin-netanyahu-t-00-36-55)**
-> "... clear that we didn't kill Charlie (Charlie Kirk)" 24 hours after he died? 'Cause that's what Bibi (Benjamin Netanyahu) did. How come there were no Mormon people that started Operation Mormon Pastor or President, feeli..."
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (5 mentions)</summary>
 
 **[00:27:47](/episodes/ep-2Riv3I7D0Yk.md#ent-person-benjamin-netanyahu-t-00-27-45)**
 > "...he Hamptons, they knew where he was at. Tucker (Tucker Carlson) told you the truth on his stance on Benjamin (Bibi) Netanyahu. Nobody wants to address or answer the question of whether or not when Benjamin (B..."
@@ -442,26 +256,8 @@ _Type: People_
 **[00:37:03](/episodes/ep-2Riv3I7D0Yk.md#ent-person-benjamin-netanyahu-t-00-36-55)**
 > "...mpelling argument that Israel had anything to do with it: is the way they're acting right now. Like Benjamin (Bibi) Netanyahu, the propaganda, the lies, the coming after Candace (Candace Owens). None of this ..."
 
-**[00:27:47](/episodes/ep-2Riv3I7D0Yk.md#ent-person-benjamin-netanyahu-t-00-27-45)**
-> "...th on his stance on Benjamin (Bibi) Netanyahu."
-
-**[00:27:47](/episodes/ep-2Riv3I7D0Yk.md#ent-person-benjamin-netanyahu-t-00-27-45)**
-> "...ou the truth on his stance on Benjamin (Bibi) Netanyahu."
-
-**[00:27:55](/episodes/ep-2Riv3I7D0Yk.md#ent-person-benjamin-netanyahu-t-00-27-45)**
-> "when Benjamin (Bibi) Netanyahu invited him to Israel, what the contex..."
-
-**[00:37:03](/episodes/ep-2Riv3I7D0Yk.md#ent-person-benjamin-netanyahu-t-00-36-55)**
-> "Like Benjamin (Bibi) Netanyahu, the propaganda, the lies, the coming ..."
-
 **[00:37:27](/episodes/ep-2Riv3I7D0Yk.md#ent-person-benjamin-netanyahu-t-00-36-55)**
-> "'Cause that's what Bibi (Benjamin Netanyahu) did."
-
-**[00:27:47](/episodes/ep-2Riv3I7D0Yk.md#ent-person-benjamin-netanyahu-t-00-27-45)**
-> "...his stance on Benjamin (Bibi) Netanyahu."
-
-**[00:37:27](/episodes/ep-2Riv3I7D0Yk.md#ent-person-benjamin-netanyahu-t-00-36-55)**
-> "...se that's what Bibi (Benjamin Netanyahu) did."
+> "... clear that we didn't kill Charlie (Charlie Kirk)" 24 hours after he died? 'Cause that's what Bibi (Benjamin Netanyahu) did. How come there were no Mormon people that started Operation Mormon Pastor or President, feeli..."
 
 **[00:56:57](/episodes/ep-2Riv3I7D0Yk.md#ent-person-benjamin-netanyahu-t-00-56-35)**
 > "...first—a few months ago—said, "Netanyahu needs to go on my show.""
@@ -469,7 +265,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (9 mentions)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
 
 **[00:17:37](/episodes/ep-5autG89PW6w.md#ent-person-benjamin-netanyahu-t-00-17-07)**
 > "...d, and it was a wrestle that was going on for months, and it's probably somewhere between the Bibi (Benjamin Netanyahu) letter and the text. So what do we think? Okay, obviously you can tell he's anxious. You can tell ..."
@@ -477,31 +273,10 @@ _Type: People_
 **[00:24:57](/episodes/ep-5autG89PW6w.md#ent-person-benjamin-netanyahu-t-00-24-50)**
 > "...uine friendship with the Jewish people and the Jewish state. But this letter that he wrote to Bibi (Benjamin Netanyahu) Netanyahu, Chris—literally begins—the first sentence of the letter is (I'm paraphrasing here, but ..."
 
-**[00:17:37](/episodes/ep-5autG89PW6w.md#ent-person-benjamin-netanyahu-t-00-17-07)**
-> "...y somewhere between the Bibi (Benjamin Netanyahu) letter and the text."
-
-**[00:17:37](/episodes/ep-5autG89PW6w.md#ent-person-benjamin-netanyahu-t-00-17-07)**
-> "...robably somewhere between the Bibi (Benjamin Netanyahu) letter and the text."
-
-**[00:24:57](/episodes/ep-5autG89PW6w.md#ent-person-benjamin-netanyahu-t-00-24-50)**
-> "...letter that he wrote to Bibi (Benjamin Netanyahu) Netanyahu, Chris—literally begins—the first sent..."
-
-**[00:24:57](/episodes/ep-5autG89PW6w.md#ent-person-benjamin-netanyahu-t-00-24-50)**
-> "... this letter that he wrote to Bibi (Benjamin Netanyahu) Netanyahu, Chris—literally b..."
-
-**[00:17:37](/episodes/ep-5autG89PW6w.md#ent-person-benjamin-netanyahu-t-00-17-07)**
-> "...re between the Bibi (Benjamin Netanyahu) letter and the text."
-
-**[00:24:57](/episodes/ep-5autG89PW6w.md#ent-person-benjamin-netanyahu-t-00-24-50)**
-> "...at he wrote to Bibi (Benjamin Netanyahu) Netanyahu, Chris—literally begins—the first sent..."
-
-**[00:24:57](/episodes/ep-5autG89PW6w.md#ent-person-benjamin-netanyahu-t-00-24-50)**
-> "... to Bibi (Benjamin Netanyahu) Netanyahu, Chris—literally begins—the first sentence of the..."
-
 </details>
 
 <details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (9 mentions)</summary>
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (3 mentions)</summary>
 
 **[00:39:13](/episodes/ep-ozWJz2spBcI.md#ent-person-benjamin-netanyahu-t-00-38-56)**
 > "... was angry. I remember feeling angry when Trump (Donald Trump) moved to kind of do a same-time post—Benjamin Netanyahu—and then published a picture of Charlie (Charlie Kirk) with an Israeli flag behind. I was pretty an..."
@@ -512,28 +287,10 @@ _Type: People_
 **[00:51:01](/episodes/ep-ozWJz2spBcI.md#ent-person-benjamin-netanyahu-t-00-50-57)**
 > "...e out that like their TikTok—which we covered this before—the moderation team—like IDF soldiers—and Benjamin Netanyahu saying, "We're taking over TikTok. My agents are going to get that inner purchase. That's what need..."
 
-**[00:39:13](/episodes/ep-ozWJz2spBcI.md#ent-person-benjamin-netanyahu-t-00-38-56)**
-> "...o kind of do a same-time post—Benjamin Netanyahu—and then published a picture of Charlie (Charlie ..."
-
-**[00:44:11](/episodes/ep-ozWJz2spBcI.md#ent-person-benjamin-netanyahu-t-00-44-05)**
-> "...ture to defend the actions of Benjamin Netanyahu, you're a fraud. Of course you're a fraud."
-
-**[00:51:01](/episodes/ep-ozWJz2spBcI.md#ent-person-benjamin-netanyahu-t-00-50-57)**
-> "...on team—like IDF soldiers—and Benjamin Netanyahu saying,"
-
-**[00:39:13](/episodes/ep-ozWJz2spBcI.md#ent-person-benjamin-netanyahu-t-00-38-56)**
-> "... do a same-time post—Benjamin Netanyahu—and then published a picture of Charlie (Charlie ..."
-
-**[00:44:11](/episodes/ep-ozWJz2spBcI.md#ent-person-benjamin-netanyahu-t-00-44-05)**
-> "...efend the actions of Benjamin Netanyahu, you're a fraud. Of course you're a fraud."
-
-**[00:51:01](/episodes/ep-ozWJz2spBcI.md#ent-person-benjamin-netanyahu-t-00-50-57)**
-> "...ike IDF soldiers—and Benjamin Netanyahu saying,"
-
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (15 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (6 mentions)</summary>
 
 **[00:26:12](/episodes/ep-adJ4LNGp84I.md#ent-person-benjamin-netanyahu-t-00-25-54)**
 > "..., that would be considered anti-Semitic. You would be called a Jew hater. Fast forward to 2025, and Benjamin Netanyahu is now hosting an on-camera meeting with American social media influencers to talk about how they a..."
@@ -553,52 +310,16 @@ _Type: People_
 **[00:32:17](/episodes/ep-adJ4LNGp84I.md#ent-person-benjamin-netanyahu-t-00-32-10)**
 > "...strikes. You can't say anything bad right now about Israel on TikTok. And this is because it's what Benjamin Netanyahu as well, right? They want to censor speech, which was something that Charlie (Charlie Kirk) was ver..."
 
-**[00:26:12](/episodes/ep-adJ4LNGp84I.md#ent-person-benjamin-netanyahu-t-00-25-54)**
-> "and Benjamin Netanyahu is now hosting an on-camera meeting with American..."
-
-**[00:26:44](/episodes/ep-adJ4LNGp84I.md#ent-person-benjamin-netanyahu-t-00-26-38)**
-> "So Deborah Lee asked Benjamin Netanyahu specifically about Charlie (Charlie Kirk)'s assas..."
-
-**[00:27:05](/episodes/ep-adJ4LNGp84I.md#ent-person-benjamin-netanyahu-t-00-26-38)**
-> "...estion is from Deborah Lee to Benjamin Netanyahu.)"
-
-**[00:28:13](/episodes/ep-adJ4LNGp84I.md#ent-person-benjamin-netanyahu-t-00-27-51)**
-> "But listen to Benjamin Netanyahu's response, because prepare yourself."
-
-**[00:28:23](/episodes/ep-adJ4LNGp84I.md#ent-person-benjamin-netanyahu-t-00-27-51)**
-> "...t he says. (Following clip is Benjamin Netanyahu speaking.)"
-
-**[00:32:17](/episodes/ep-adJ4LNGp84I.md#ent-person-benjamin-netanyahu-t-00-32-10)**
-> "And this is because it's what Benjamin Netanyahu as well, right?"
-
-**[00:27:05](/episodes/ep-adJ4LNGp84I.md#ent-person-benjamin-netanyahu-t-00-26-38)**
-> "... from Deborah Lee to Benjamin Netanyahu.)"
-
-**[00:28:23](/episodes/ep-adJ4LNGp84I.md#ent-person-benjamin-netanyahu-t-00-27-51)**
-> ".... (Following clip is Benjamin Netanyahu speaking.)"
-
-**[00:32:17](/episodes/ep-adJ4LNGp84I.md#ent-person-benjamin-netanyahu-t-00-32-10)**
-> "...is because it's what Benjamin Netanyahu as well, right?"
-
 </details>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (6 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (3 mentions)</summary>
 
 **[00:01:30](/episodes/ep-YA1FxrDWNIo.md#ent-person-benjamin-netanyahu-t-00-01-30)**
 > "...the jump, it's been weird. So welcome back to Candace. It took him a little over two weeks, but now Benjamin Netanyahu, with maybe a little help from Turning Point USA (I'm thinking), is releasing the letter, the May l..."
 
-**[00:01:30](/episodes/ep-YA1FxrDWNIo.md#ent-person-benjamin-netanyahu-t-00-01-30)**
-> "...ittle over two weeks, but now Benjamin Netanyahu, with maybe a little help from Turning Point USA ..."
-
-**[00:01:30](/episodes/ep-YA1FxrDWNIo.md#ent-person-benjamin-netanyahu-t-00-01-30)**
-> "...r two weeks, but now Benjamin Netanyahu, with maybe a little help from Turning Point USA ..."
-
 **[00:34:50](/episodes/ep-YA1FxrDWNIo.md#ent-person-benjamin-netanyahu-t-00-34-10)**
 > "for Israel. It's a letter to Netanyahu."
-
-**[00:34:52](/episodes/ep-YA1FxrDWNIo.md#ent-person-benjamin-netanyahu-t-00-34-52)**
-> "Netanyahu said they were close, but in the letter, Charlie ..."
 
 **[00:34:52](/episodes/ep-YA1FxrDWNIo.md#ent-person-benjamin-netanyahu-t-00-34-52)**
 > "...s his number—which apparently Netanyahu didn't have his number."
@@ -606,7 +327,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (13 mentions)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (5 mentions)</summary>
 
 **[00:01:40](/episodes/ep-K5GjF53bfN4.md#ent-person-benjamin-netanyahu-t-00-01-27)**
 > "...overed throughout the story that right away jumped out at me as odd, first and foremost, of course, Benjamin Netanyahu (Israeli PM) over-inserting himself, not even just on day one, minute one. He tweeted before the pr..."
@@ -623,34 +344,10 @@ _Type: People_
 **[00:05:22](/episodes/ep-K5GjF53bfN4.md#ent-person-benjamin-netanyahu-t-00-05-11)**
 > "...the Hamptons because, again, they saw which way the wind was traveling in terms of his positions on Benjamin Netanyahu (Israeli PM) and Israel. And they were, in fact, being accusatory. And again, you don't have to tak..."
 
-**[00:01:40](/episodes/ep-K5GjF53bfN4.md#ent-person-benjamin-netanyahu-t-00-01-27)**
-> "...irst and foremost, of course, Benjamin Netanyahu (Israeli PM) over-inserting himself, not even jus..."
-
-**[00:02:52](/episodes/ep-K5GjF53bfN4.md#ent-person-benjamin-netanyahu-t-00-02-40)**
-> "I tell you about Benjamin Netanyahu (Israeli PM) calling Charlie (Charlie Kirk) and i..."
-
-**[00:03:15](/episodes/ep-K5GjF53bfN4.md#ent-person-benjamin-netanyahu-t-00-02-40)**
-> "And my point about Benjamin Netanyahu (Israeli PM) and the offer to take Turning Point ..."
-
-**[00:04:24](/episodes/ep-K5GjF53bfN4.md#ent-person-benjamin-netanyahu-t-00-04-24)**
-> "... and he said something like, "Benjamin Netanyahu (Israeli PM) needs to resign" or something like t..."
-
-**[00:05:22](/episodes/ep-K5GjF53bfN4.md#ent-person-benjamin-netanyahu-t-00-05-11)**
-> "... in terms of his positions on Benjamin Netanyahu (Israeli PM) and Israel."
-
-**[00:01:40](/episodes/ep-K5GjF53bfN4.md#ent-person-benjamin-netanyahu-t-00-01-27)**
-> "...foremost, of course, Benjamin Netanyahu (Israeli PM) over-inserting himself, not even jus..."
-
-**[00:04:24](/episodes/ep-K5GjF53bfN4.md#ent-person-benjamin-netanyahu-t-00-04-24)**
-> "...aid something like, "Benjamin Netanyahu (Israeli PM) needs to resign" or something like t..."
-
-**[00:05:22](/episodes/ep-K5GjF53bfN4.md#ent-person-benjamin-netanyahu-t-00-05-11)**
-> "... of his positions on Benjamin Netanyahu (Israeli PM) and Israel."
-
 </details>
 
 <details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (13 mentions)</summary>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (3 mentions)</summary>
 
 **[00:35:55](/episodes/ep-UBkFkg4UNY8.md#ent-person-benjamin-netanyahu-t-00-35-39)**
 > "...don't know where the 150 million number came from. If I'm being honest, I said 150 million was what Benjamin Netanyahu spent on Operation Mockingpastor. Now, the way they're going to answer this question about whether ..."
@@ -658,43 +355,13 @@ _Type: People_
 **[00:37:56](/episodes/ep-UBkFkg4UNY8.md#ent-person-benjamin-netanyahu-t-00-37-27)**
 > "...ind of a working around it, right? Do I think that in the Turning Point accounts it would have said Benjamin Netanyahu wrote, you know, wants this money to go to...? Probably not. Do I know for a fact that there are fo..."
 
-**[00:35:55](/episodes/ep-UBkFkg4UNY8.md#ent-person-benjamin-netanyahu-t-00-35-39)**
-> "..., I said 150 million was what Benjamin Netanyahu (Benjamin Netanyahu) spent on Operation Mockingpa..."
-
-**[00:35:55](/episodes/ep-UBkFkg4UNY8.md#ent-person-benjamin-netanyahu-t-00-35-39)**
-> "... was what Benjamin Netanyahu (Benjamin Netanyahu) spent on Operation Mockingpastor."
-
-**[00:37:56](/episodes/ep-UBkFkg4UNY8.md#ent-person-benjamin-netanyahu-t-00-37-27)**
-> "...t accounts it would have said Benjamin Netanyahu (Benjamin Netanyahu) wrote, you know, wants this ..."
-
-**[00:37:56](/episodes/ep-UBkFkg4UNY8.md#ent-person-benjamin-netanyahu-t-00-37-27)**
-> "...have said Benjamin Netanyahu (Benjamin Netanyahu) wrote, you know, wants this money to go to...? P..."
-
 **[00:53:48](/episodes/ep-UBkFkg4UNY8.md#ent-person-benjamin-netanyahu-t-00-53-14)**
 > "...n the genocide and Netanyahu (Benjamin Netanyahu), however, are the things that changed before his..."
-
-**[00:35:55](/episodes/ep-UBkFkg4UNY8.md#ent-person-benjamin-netanyahu-t-00-35-39)**
-> "...150 million was what Benjamin Netanyahu (Benjamin Netanyahu) spent on Operation Mockingpa..."
-
-**[00:35:55](/episodes/ep-UBkFkg4UNY8.md#ent-person-benjamin-netanyahu-t-00-35-39)**
-> "... Benjamin Netanyahu (Benjamin Netanyahu) spent on Operation Mockingpastor."
-
-**[00:37:56](/episodes/ep-UBkFkg4UNY8.md#ent-person-benjamin-netanyahu-t-00-37-27)**
-> "...s it would have said Benjamin Netanyahu (Benjamin Netanyahu) wrote, you know, wants this ..."
-
-**[00:37:56](/episodes/ep-UBkFkg4UNY8.md#ent-person-benjamin-netanyahu-t-00-37-27)**
-> "... Benjamin Netanyahu (Benjamin Netanyahu) wrote, you know, wants this money to go to...? P..."
-
-**[00:53:48](/episodes/ep-UBkFkg4UNY8.md#ent-person-benjamin-netanyahu-t-00-53-14)**
-> "...lic views on the genocide and Netanyahu (Benjamin Netanyahu), however, are the things tha..."
-
-**[00:53:48](/episodes/ep-UBkFkg4UNY8.md#ent-person-benjamin-netanyahu-t-00-53-14)**
-> "...ocide and Netanyahu (Benjamin Netanyahu), however, are the things that changed before his..."
 
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (10 mentions)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (5 mentions)</summary>
 
 **[00:51:39](/episodes/ep-ja26iltROkM.md#ent-person-benjamin-netanyahu-t-00-51-39)**
 > "... it doesn't ring true. Now, they definitively have lost the most because clearly people did not buy Benjamin Netanyahu's BS. And the fact that people immediately thought that—and I wasn't the person who said this—but i..."
@@ -711,25 +378,10 @@ _Type: People_
 **[00:58:21](/episodes/ep-ja26iltROkM.md#ent-person-benjamin-netanyahu-t-00-57-53)**
 > "...I was told. That was 150 million dollars went into that. But I definitively made the statement that Benjamin Netanyahu offered Charlie Kirk (Charlie Kirk) a boatload of money, and he rejected it. So she will respond to..."
 
-**[00:51:39](/episodes/ep-ja26iltROkM.md#ent-person-benjamin-netanyahu-t-00-51-39)**
-> "...se clearly people did not buy Benjamin Netanyahu's BS."
-
-**[00:57:53](/episodes/ep-ja26iltROkM.md#ent-person-benjamin-netanyahu-t-00-57-53)**
-> "...o speak about the rumors that Benjamin Netanyahu offered him a boatload of money."
-
-**[00:58:02](/episodes/ep-ja26iltROkM.md#ent-person-benjamin-netanyahu-t-00-57-53)**
-> "...I don't know the exact amount Benjamin Netanyahu offered him."
-
-**[00:58:08](/episodes/ep-ja26iltROkM.md#ent-person-benjamin-netanyahu-t-00-57-53)**
-> "I was told Benjamin Netanyahu gave for Operation Mockingpastor."
-
-**[00:58:21](/episodes/ep-ja26iltROkM.md#ent-person-benjamin-netanyahu-t-00-57-53)**
-> "...ively made the statement that Benjamin Netanyahu offered Charlie Kirk (Charlie Kirk) a boatload of..."
-
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (12 mentions)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (6 mentions)</summary>
 
 **[00:14:18](/episodes/ep-aDlhjfW6hz8.md#ent-person-benjamin-netanyahu-t-00-14-06)**
 > "..., that they're simply pretending that I did—pretending that I blamed Israel, pretending that I said Benjamin Netanyahu killed Charlie Kirk. It is now—like I said yesterday—it feels like they are trying to get ahead of ..."
@@ -749,28 +401,13 @@ _Type: People_
 **[00:37:41](/episodes/ep-aDlhjfW6hz8.md#ent-person-benjamin-netanyahu-t-00-37-41)**
 > "... to increase antisemitism—trying to pass speech laws or labeling people antisemites for criticizing Benjamin Netanyahu. It's all out there, and they're lying to you. Am I wrong, or am I cynical for believing that, yeah..."
 
-**[00:14:18](/episodes/ep-aDlhjfW6hz8.md#ent-person-benjamin-netanyahu-t-00-14-06)**
-> "...srael, pretending that I said Benjamin Netanyahu killed Charlie Kirk."
-
-**[00:30:39](/episodes/ep-aDlhjfW6hz8.md#ent-person-benjamin-netanyahu-t-00-30-01)**
-> "And I feel like Benjamin Netanyahu is spending a lot of money right now."
-
-**[00:36:14](/episodes/ep-aDlhjfW6hz8.md#ent-person-benjamin-netanyahu-t-00-36-12)**
-> "That was Benjamin Netanyahu."
-
-**[00:36:33](/episodes/ep-aDlhjfW6hz8.md#ent-person-benjamin-netanyahu-t-00-36-12)**
-> "...g that goes against Israel or Benjamin Netanyahu."
-
-**[00:36:37](/episodes/ep-aDlhjfW6hz8.md#ent-person-benjamin-netanyahu-t-00-36-12)**
-> "It's very clear Benjamin Netanyahu is in control, and his administration is saying t..."
-
-**[00:37:41](/episodes/ep-aDlhjfW6hz8.md#ent-person-benjamin-netanyahu-t-00-37-41)**
-> "...e antisemites for criticizing Benjamin Netanyahu."
-
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (29 mentions)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (10 mentions)</summary>
+
+**[00:00:06](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-00-00)**
+> "Benjamin Netanyahu is again denying that he murdered Charlie despite the fact that no one that I know accused him"
 
 **[00:00:06](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-00-00)**
 > "All right, you guys. Let's take a pause. There is a lot happening right now, okay? Benjamin Netanyahu is again denying that he murdered Charlie Kirk despite the fact that no one that I know accused him..."
@@ -799,76 +436,19 @@ _Type: People_
 **[00:48:24](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-47-55)**
 > "...Donald Trump) has kind of given up on free speech, and his administration seems to be controlled by Benjamin Netanyahu (Bibi), so that doesn't ring true either. And then it's like, oh, over here, the trans, the trans—n..."
 
-**[00:00:06](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-00-00)**
-> "Benjamin Netanyahu is again denying that he murdered Charlie despite the fact that no one that I know accused him"
-
-**[00:00:06](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-00-00)**
-> "Benjamin Netanyahu is again denying that he murdered Charlie (Charli..."
-
-**[00:28:13](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-28-06)**
-> "We are going to get to the Benjamin Netanyahu (Bibi) that doth protest too much in just a momen..."
-
-**[00:28:13](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-28-06)**
-> "...et to the Benjamin Netanyahu (Bibi) that doth protest too much in just a moment."
-
-**[00:31:40](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-31-15)**
-> "And of course, Benjamin Netanyahu (Bibi), defending Benjamin Netanyahu (Bibi), seem..."
-
-**[00:31:40](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-31-15)**
-> "...n Netanyahu (Bibi), defending Benjamin Netanyahu (Bibi), seems to be at the center of it all."
-
-**[00:31:40](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-31-15)**
-> "...f course, Benjamin Netanyahu (Bibi), defending Benjamin Netanyahu (Bibi), seems to b..."
-
-**[00:31:40](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-31-15)**
-> "...defending Benjamin Netanyahu (Bibi), seems to be at the center of it all."
-
-**[00:31:55](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-31-15)**
-> "...h I care very much about—that Benjamin Netanyahu (Bibi) murdered Charlie (Charlie Kirk)."
-
-**[00:31:55](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-31-15)**
-> "...bout—that Benjamin Netanyahu (Bibi) murdered Charlie (Charlie Kirk)."
-
-**[00:32:10](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-31-58)**
-> "...are doing is we are disputing Benjamin Netanyahu's (Bibi (Benjamin Netanyahu)) narrative that him an..."
-
-**[00:32:10](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-31-58)**
-> "...g Benjamin Netanyahu's (Bibi (Benjamin Netanyahu)) narrative that him and Charlie (Charlie Kirk) w..."
-
-**[00:32:10](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-31-58)**
-> "...sputing Benjamin Netanyahu's (Bibi (Benjamin Netanyahu)) narrative that him and Char..."
-
-**[00:32:27](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-31-58)**
-> "...ically came out and said that Benjamin Netanyahu (Bibi) killed Charlie (Charlie Kirk), but now tha..."
-
-**[00:32:27](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-31-58)**
-> "...said that Benjamin Netanyahu (Bibi) killed Charlie (Charlie Kirk), but now that he's..."
-
-**[00:33:04](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-32-42)**
-> "But Benjamin Netanyahu (Bibi) has come out—like I said—with his second s..."
-
-**[00:35:45](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-35-45)**
-> "Who specifically, Benjamin Netanyahu (Bibi), is funded by Qatar?"
-
-**[00:35:45](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-35-45)**
-> "...ifically, Benjamin Netanyahu (Bibi), is funded by Qatar?"
-
-**[00:48:24](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-47-55)**
-> "...ion seems to be controlled by Benjamin Netanyahu (Bibi), so that doesn't ring true either."
-
-**[00:48:24](/episodes/ep-sreYYcID-QY.md#ent-person-benjamin-netanyahu-t-00-47-55)**
-> "...rolled by Benjamin Netanyahu (Bibi), so that doesn't ring true either."
-
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (62 mentions)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (22 mentions)</summary>
 
 **[00:37:11](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-36-35)**
 > "...k break. I'm going to show you some stuff. I mean, Tucker (Tucker Carlson) completely destroyed the Benjamin Netanyahu (Benjamin Netanyahu) narrative. Megyn Kelly, Dave Smith—I mean everybody yesterday. The truth is co..."
 
 **[00:37:22](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-37-18)**
 > "...about Charlie (Charlie Kirk)'s mindset. The only reason we're discussing it obviously is because of Benjamin Netanyahu (Benjamin Netanyahu) coming out and lying. But some important things that he said. First and foremo..."
+
+**[00:42:01](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-37-18)**
+> "Benjamin Netanyahu trying to spin this into he's my good friend. I just invited him."
 
 **[00:42:35](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-42-35)**
 > "...g here that is happening that is inappropriate. I wanna be very clear. Actually not the only thing: Benjamin Netanyahu (Benjamin Netanyahu) trying to spin this into "he's my good friend. I just invited him." Well, Tuck..."
@@ -927,133 +507,10 @@ _Type: People_
 **[00:57:53](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-57-40)**
 > "...nyahu) lied. You knew—if you were really his close friend and pastor—how he was feeling about Bibi (Benjamin Netanyahu). You knew—if you're his close friend and pastor—exactly the names of everybody who was intimidatin..."
 
-**[00:42:01](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-37-18)**
-> "Benjamin Netanyahu trying to spin this into he's my good friend. I just invited him."
-
-**[00:37:11](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-36-35)**
-> "...son) completely destroyed the Benjamin Netanyahu (Benjamin Netanyahu) narrative."
-
-**[00:37:11](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-36-35)**
-> "...royed the Benjamin Netanyahu (Benjamin Netanyahu) narrative."
-
-**[00:37:22](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-37-18)**
-> "...ng it obviously is because of Benjamin Netanyahu (Benjamin Netanyahu) coming out and lying."
-
-**[00:37:22](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-37-18)**
-> "...ecause of Benjamin Netanyahu (Benjamin Netanyahu) coming out and lying."
-
-**[00:42:35](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-42-35)**
-> "Actually not the only thing: Benjamin Netanyahu (Benjamin Netanyahu) trying to spin this into "he..."
-
-**[00:42:35](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-42-35)**
-> "...ly thing: Benjamin Netanyahu (Benjamin Netanyahu) trying to spin this into "he's my good friend. I..."
-
-**[00:42:45](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-42-35)**
-> "I don't like that Benjamin Netanyahu (Benjamin Netanyahu) lied so quickly."
-
-**[00:42:45](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-42-35)**
-> "...like that Benjamin Netanyahu (Benjamin Netanyahu) lied so quickly."
-
-**[00:43:13](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-43-13)**
-> "...the Prime Minister of Israel, Benjamin Netanyahu (Benjamin Netanyahu), to Charlie (Charlie Kirk)'s..."
-
-**[00:43:13](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-43-13)**
-> "...f Israel, Benjamin Netanyahu (Benjamin Netanyahu), to Charlie (Charlie Kirk)'s death."
-
-**[00:43:39](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-43-13)**
-> "And by the way, Benjamin Netanyahu (Benjamin Netanyahu) is not the same as the natio..."
-
-**[00:43:39](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-43-13)**
-> "... the way, Benjamin Netanyahu (Benjamin Netanyahu) is not the same as the nation of Israel at all."
-
-**[00:43:44](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-43-13)**
-> "Benjamin Netanyahu (Benjamin Netanyahu) is despised by many people i..."
-
-**[00:43:52](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-43-52)**
-> "... not support some things that Benjamin Netanyahu (Benjamin Netanyahu) has done recently."
-
-**[00:43:52](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-43-52)**
-> "...ings that Benjamin Netanyahu (Benjamin Netanyahu) has done recently."
-
-**[00:43:59](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-43-52)**
-> "...as attacking Israel—attacking Benjamin Netanyahu (Benjamin Netanyahu)."
-
-**[00:43:59](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-43-52)**
-> "...attacking Benjamin Netanyahu (Benjamin Netanyahu)."
-
-**[00:44:25](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-43-52)**
-> "He felt that Benjamin Netanyahu (Benjamin Netanyahu) was a very destructive force..."
-
-**[00:44:25](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-43-52)**
-> "...felt that Benjamin Netanyahu (Benjamin Netanyahu) was a very destructive force."
-
-**[00:44:34](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-44-34)**
-> "...ll—resentful that he believed Benjamin Netanyahu (Benjamin Netanyahu) was using the United States ..."
-
-**[00:44:34](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-44-34)**
-> "... believed Benjamin Netanyahu (Benjamin Netanyahu) was using the United States to prosecute his war..."
-
-**[00:44:49](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-44-34)**
-> "Didn't hate Benjamin Netanyahu (Benjamin Netanyahu)."
-
-**[00:44:49](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-44-34)**
-> "...dn't hate Benjamin Netanyahu (Benjamin Netanyahu)."
-
-**[00:44:53](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-44-34)**
-> "... And there's no question that Benjamin Netanyahu (Benjamin Netanyahu)'s defenders on the internet ..."
-
-**[00:44:53](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-44-34)**
-> "...tion that Benjamin Netanyahu (Benjamin Netanyahu)'s defenders on the internet will call me a liar ..."
-
-**[00:47:29](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-47-29)**
-> "...ecause I had said things that Benjamin Netanyahu (Benjamin Netanyahu) didn't like or that he didn'..."
-
-**[00:47:29](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-47-29)**
-> "...ings that Benjamin Netanyahu (Benjamin Netanyahu) didn't like or that he didn't like or whatever."
-
-**[00:49:15](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-48-57)**
-> "...e many liars out there trying—Benjamin Netanyahu (Benjamin Netanyahu), number one among them, sham..."
-
-**[00:49:15](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-48-57)**
-> "...re trying—Benjamin Netanyahu (Benjamin Netanyahu), number one among them, shamefully—who are tryin..."
-
-**[00:50:49](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-50-49)**
-> "...ther. He effectively died for Benjamin Netanyahu (Benjamin Netanyahu).""
-
-**[00:50:49](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-50-49)**
-> "... died for Benjamin Netanyahu (Benjamin Netanyahu).""
-
-**[00:56:03](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-55-27)**
-> "And it came from Benjamin Netanyahu (Benjamin Netanyahu)."
-
-**[00:56:03](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-55-27)**
-> "...came from Benjamin Netanyahu (Benjamin Netanyahu)."
-
-**[00:56:40](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-56-12)**
-> "when Benjamin Netanyahu (Benjamin Netanyahu) was lying about Charlie (Cha..."
-
-**[00:56:47](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-56-12)**
-> "...s voice saying anything about Benjamin Netanyahu (Benjamin Netanyahu)."
-
-**[00:56:47](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-56-12)**
-> "...ing about Benjamin Netanyahu (Benjamin Netanyahu)."
-
-**[00:57:45](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-57-40)**
-> "...ept his mouth shut when Bibi (Benjamin Netanyahu) lied."
-
-**[00:57:45](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-57-40)**
-> "...usly kept his mouth shut when Bibi (Benjamin Netanyahu) lied."
-
-**[00:57:53](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-57-40)**
-> "...ow he was feeling about Bibi (Benjamin Netanyahu)."
-
-**[00:57:53](/episodes/ep-2WEHTk0Xewg.md#ent-person-benjamin-netanyahu-t-00-57-40)**
-> "...stor—how he was feeling about Bibi (Benjamin Netanyahu)."
-
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (31 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (15 mentions)</summary>
 
 **[00:42:21](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-42-21)**
 > "...ng here, but something along the lines of Charlie (Charlie Kirk) said, "If I tweeted, 'I think that Benjamin Netanyahu should resign,'" that he would then be unfairly attacked. And Seth Dillon then allegedly pipes up a..."
@@ -1091,67 +548,22 @@ _Type: People_
 **[00:58:19](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-58-19)**
 > "...He went on to the Nelk Boys' podcast. Anybody find it weird he didn't do Charlie Kirk's show? Bibi (Benjamin Netanyahu) very quickly told us that Charlie (Charlie Kirk) was— implied that Charlie (Charlie Kirk) was—penn..."
 
+**[00:58:28](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-58-19)**
+> "Like that's the vibe that Bibi was rushing to present to the media"
+
 **[00:58:36](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-58-19)**
 > "...st come and maybe stay at my place for the weekend here in Israel?" Like that's the vibe that Bibi (Benjamin Netanyahu) was rushing to present to the media. So why didn't you do Charlie Kirk's show? I'll leave that as ..."
 
 **[00:58:52](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-58-19)**
 > "...estion for you guys. Common sense. Common sense, okay? I don't like small lies. And remember, Bibi (Benjamin Netanyahu) started this. I am responding to his shamelessness, shameless misrepresentation of what Charlie (C..."
 
-**[00:58:28](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-58-19)**
-> "Like that's the vibe that Bibi was rushing to present to the media"
-
-**[00:42:21](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-42-21)**
-> "... "If I tweeted, 'I think that Benjamin Netanyahu should resign,'" that he would then be unfairly a..."
-
-**[00:43:40](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-43-40)**
-> "...a severe misrepresentation by Benjamin Netanyahu and his echo here in America, of which I would sa..."
-
-**[00:44:06](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-43-40)**
-> "...because there's no reason for Benjamin Netanyahu to have lied, as I've said many times."
-
-**[00:44:14](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-44-14)**
-> "I talked about Benjamin Netanyahu, the phone call, the "Do you want to come to Isra..."
-
-**[00:48:06](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-47-50)**
-> "I asked you about Benjamin Netanyahu."
-
-**[00:48:43](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-48-33)**
-> "...d more money and funding from Benjamin Netanyahu."
-
-**[00:48:52](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-48-33)**
-> "Whether or not Benjamin Netanyahu invited him to Israel"
-
-**[00:49:17](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-49-17)**
-> "You didn't even mention Benjamin Netanyahu at all."
-
-**[00:49:34](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-49-17)**
-> "Love you, Bibi (Benjamin Netanyahu)."
-
-**[00:49:38](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-49-17)**
-> "...s an opinion on whether Bibi (Benjamin Netanyahu) lied by severe omission when he mentioned his la..."
-
-**[00:49:38](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-49-17)**
-> "...elf has an opinion on whether Bibi (Benjamin Netanyahu) lied by severe omission when..."
-
-**[00:57:53](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-57-35)**
-> "You guys remember Bibi (Benjamin Netanyahu) recently was on a PR blitz, despite the fact tha..."
-
-**[00:58:19](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-58-19)**
-> "Bibi (Benjamin Netanyahu) very quickly told us that Charlie (Charlie Kirk)..."
-
-**[00:58:36](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-58-19)**
-> "...ke that's the vibe that Bibi (Benjamin Netanyahu) was rushing to present to the media."
-
-**[00:58:36](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-58-19)**
-> "Like that's the vibe that Bibi (Benjamin Netanyahu) was rushing to present to th..."
-
-**[00:58:52](/episodes/ep-q7f8r-THr84.md#ent-person-benjamin-netanyahu-t-00-58-19)**
-> "And remember, Bibi (Benjamin Netanyahu) started this."
-
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (54 mentions)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (28 mentions)</summary>
+
+**[00:01:28](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16)**
+> "Benjamin Netanyahu is, who's fighting, I think, like an 84-front war with everyone"
 
 **[00:06:16](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16)**
 > "...nd doing hits in a foreign country, you know, like making time to do hits on Fox News, two of them. Benjamin Netanyahu is, who's fighting, I think, like an 84-front war with everyone, made a lot of time for Charlie (Ch..."
@@ -1168,35 +580,17 @@ _Type: People_
 **[00:07:16](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-07-02)**
 > "... Charlie (Charlie Kirk) died, what Benjamin Netanyahu had to say on Fox News. Take a listen. (Clip: Benjamin Netanyahu) We're just heartbroken. Myself, my wife, my family, my son actually, on his 2019 visit to Israel, ..."
 
-**[00:09:22](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-09-15)**
-> "...spiracies. I'm just wondering because you said a lot there, but it really sounded like it was about Benjamin Netanyahu trying to establish a narrative, a narrative that we saw reinforced by a lot of people, that, you k..."
-
-**[00:10:12](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-09-49)**
-> "...r he is holding up, he is severely misrepresenting. Those sentences are real, but I am calling upon Benjamin Netanyahu, the dear friend to Charlie (Charlie Kirk), to publish the letter's entire contents. Like, don't st..."
-
-**[00:15:10](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-15-01)**
-> "...ttle propaganda for Israel would be better than helping us track down the killer. But anyway, so... Benjamin Netanyahu and that phone call, what took place was a couple of weeks ago before Charlie (Charlie Kirk) lost h..."
-
-**[00:16:28](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-16-28)**
-> "...or one of them to go on record and to say that it didn't go down this way. It was at this time that Benjamin Netanyahu was called and Charlie (Charlie Kirk) was invited to Israel. This was an under duress situation, I ..."
-
-**[00:20:53](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-20-41)**
-> "... later this week, who were at the Hamptons when Charlie (Charlie Kirk) was put under pressure, when Benjamin Netanyahu called him and invited him to Israel, again, in a move that, when it happened to me—and it wasn't B..."
-
-**[00:24:03](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-24-03)**
-> "...hat the thing that we need here, sunlight is the best disinfectant. Now, does all of this mean that Benjamin Netanyahu and that this somehow proves that Israel was involved in the assassination of Charlie (Charlie Kirk..."
-
-**[00:26:16](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-26-07)**
-> "...epresent things. And it's not a good sign when somebody has to ask you, as Greta Van Susteren asked Benjamin Netanyahu in his secondary hit regarding Charlie (Charlie Kirk)’s assassination. It's not a good sign if some..."
-
-**[00:26:36](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-26-07)**
-> "...you a great person, okay? And that's what she asked him. Take a listen. (Clip: Greta Van Susteren / Benjamin Netanyahu) But before I let you go, I want you to address one thing, and it's just the absurdity of it, some ..."
-
 **[00:09:15](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-09-15)**
 > "...o kill me here, too. But they got Charlie (Charlie Kirk), and it's just heartbreaking. Who is they, Benjamin? Who is they who got Charlie (Charlie Kirk)? We don't have to actually speak conspiracies. I'm just..."
 
+**[00:09:22](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-09-15)**
+> "...spiracies. I'm just wondering because you said a lot there, but it really sounded like it was about Benjamin Netanyahu trying to establish a narrative, a narrative that we saw reinforced by a lot of people, that, you k..."
+
 **[00:10:01](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-09-49)**
 > "...domly, what, picks up the phone and calls Charlie (Charlie Kirk) and invites him to Israel. How did Benjamin do that? It seems like maybe there's a little more to the story. No, there definitely is a little b..."
+
+**[00:10:12](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-09-49)**
+> "...r he is holding up, he is severely misrepresenting. Those sentences are real, but I am calling upon Benjamin Netanyahu, the dear friend to Charlie (Charlie Kirk), to publish the letter's entire contents. Like, don't st..."
 
 **[00:10:50](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-10-27)**
 > "...ey were pushing things that he felt were in conflict with his beliefs, free speech here in America. Benjamin's holding it up like Charlie (Charlie Kirk), just in May, said, hey, you know what? I just want to ..."
@@ -1210,6 +604,12 @@ _Type: People_
 **[00:14:54](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-14-19)**
 > "...all, but he chose to do this, less than 24 hours after Charlie (Charlie Kirk) was shot. Personally, Benjamin, I would have appreciated if you guys used all of your spyware you had spying on us for years to ma..."
 
+**[00:15:10](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-15-01)**
+> "...ttle propaganda for Israel would be better than helping us track down the killer. But anyway, so... Benjamin Netanyahu and that phone call, what took place was a couple of weeks ago before Charlie (Charlie Kirk) lost h..."
+
+**[00:16:28](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-16-28)**
+> "...or one of them to go on record and to say that it didn't go down this way. It was at this time that Benjamin Netanyahu was called and Charlie (Charlie Kirk) was invited to Israel. This was an under duress situation, I ..."
+
 **[00:17:28](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-17-05)**
 > ".... And I know that Charlie (Charlie Kirk) was offered a ton of money in this moment. A ton of money. Benjamin would fund it, you know? Spend tons of money. And Turning Point, I guess, if it needed to go to a h..."
 
@@ -1222,98 +622,29 @@ _Type: People_
 **[00:19:39](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-19-14)**
 > "...d, trying again here, you were present when Ackman lost his mind on Charlie (Charlie Kirk) and when Benjamin invited him to Israel and Charlie (Charlie Kirk) refused. Text messages immediately following this ..."
 
+**[00:20:53](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-20-41)**
+> "... later this week, who were at the Hamptons when Charlie (Charlie Kirk) was put under pressure, when Benjamin Netanyahu called him and invited him to Israel, again, in a move that, when it happened to me—and it wasn't B..."
+
 **[00:21:58](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-21-58)**
 > "... stop referring to yourself, as I did, as a Judeo-Christian. Again, it is mystifying why, you know, Benjamin was out there doing the absolute most to make sure that Charlie (Charlie Kirk) was basically rememb..."
 
 **[00:23:49](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-23-20)**
 > "...was Charlie (Charlie Kirk)— did he seem like he was treading in the direction— do we feel like what Benjamin is saying is an honest representation of what Charlie (Charlie Kirk) was going through? This is wha..."
 
+**[00:24:03](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-24-03)**
+> "...hat the thing that we need here, sunlight is the best disinfectant. Now, does all of this mean that Benjamin Netanyahu and that this somehow proves that Israel was involved in the assassination of Charlie (Charlie Kirk..."
+
 **[00:24:31](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-24-03)**
 > "...g that I always say in my household is when there is one lie, there's 20. There's no reason to lie. Benjamin could have gone on Fox News and he could have told the truth. He could have said truthfully that Ch..."
 
+**[00:26:16](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-26-07)**
+> "...epresent things. And it's not a good sign when somebody has to ask you, as Greta Van Susteren asked Benjamin Netanyahu in his secondary hit regarding Charlie (Charlie Kirk)’s assassination. It's not a good sign if some..."
+
+**[00:26:36](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-26-07)**
+> "...you a great person, okay? And that's what she asked him. Take a listen. (Clip: Greta Van Susteren / Benjamin Netanyahu) But before I let you go, I want you to address one thing, and it's just the absurdity of it, some ..."
+
 **[00:31:03](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-31-02)**
 > "...ost powerful people on the planet. Yeah, I don't know, man. I don't know. It seems to conflict with Benjamin's narrative a little bit. Yeah, just a tiny bit. I do want to say this. It's important because I am..."
-
-**[00:01:28](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16)**
-> "Benjamin Netanyahu is, who's fighting, I think, like an 84-front war with everyone"
-
-**[00:06:16](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16)**
-> "...its on Fox News, two of them. Benjamin Netanyahu is, who's fighting, I think, like an 84-front war..."
-
-**[00:06:44](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16)**
-> "recall Erika mentioning Benjamin Netanyahu in her speech."
-
-**[00:07:02](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-07-02)**
-> "So let's first listen to what Benjamin Netanyahu, just one day, less than 24 hours after Charlie d..."
-
-**[00:07:12](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-07-02)**
-> "what Benjamin Netanyahu had to say on Fox News."
-
-**[00:09:15](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-09-15)**
-> "Who is they, Benjamin?"
-
-**[00:09:22](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-09-15)**
-> "...lly sounded like it was about Benjamin Netanyahu trying to establish a narrative, a narrative that..."
-
-**[00:10:01](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-09-49)**
-> "How did Benjamin do that?"
-
-**[00:10:12](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-09-49)**
-> "...e real, but I am calling upon Benjamin Netanyahu, the dear friend to Charlie, to publish the lette..."
-
-**[00:10:50](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-10-27)**
-> "Benjamin's holding it up like Charlie, just in May, said, he..."
-
-**[00:14:38](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-14-19)**
-> "...I would like to contextualize Benjamin."
-
-**[00:14:41](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-14-19)**
-> "Again, these are things Benjamin brought up publicly, which he didn't have to."
-
-**[00:14:54](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-14-19)**
-> "Personally, Benjamin, I would have appreciated if you guys used all of..."
-
-**[00:15:10](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-15-01)**
-> "Benjamin Netanyahu and that phone call, what took place was a couple..."
-
-**[00:16:28](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-16-28)**
-> "It was at this time that Benjamin Netanyahu was called and Charlie was invited to Israel."
-
-**[00:17:28](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-17-05)**
-> "Benjamin would fund it, you know?"
-
-**[00:17:45](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-17-05)**
-> "That Charlie denied—and what Benjamin didn't include there,"
-
-**[00:18:14](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-17-49)**
-> "Charlie said no to Benjamin, okay."
-
-**[00:19:39](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-19-14)**
-> "... his mind on Charlie and when Benjamin invited him to Israel and Charlie refused."
-
-**[00:20:53](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-20-41)**
-> "... was put under pressure, when Benjamin Netanyahu called him and invited him to Israel, again, in a..."
-
-**[00:20:53](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-20-41)**
-> "... happened to me—and it wasn't Benjamin Netanyahu—felt to me like a laced threat."
-
-**[00:21:58](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-21-58)**
-> "... is mystifying why, you know, Benjamin was out there doing the absolute most to make sur..."
-
-**[00:23:49](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-23-20)**
-> "do we feel like what Benjamin is saying is an honest representation of what Cha..."
-
-**[00:24:03](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-24-03)**
-> "...w, does all of this mean that Benjamin Netanyahu and that this somehow proves that Israel was invo..."
-
-**[00:24:31](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-24-03)**
-> "Benjamin could have gone on Fox News and he could have tol..."
-
-**[00:26:16](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-26-07)**
-> "..., as Greta Van Susteren asked Benjamin Netanyahu in his secondary hit regarding Charlie’s assassin..."
-
-**[00:31:03](/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-31-02)**
-> "It seems to conflict with Benjamin's narrative a little bit."
 
 </details>
 

@@ -15,11 +15,11 @@ _Type: People_
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
 
-**[00:16:22](/episodes/ep-aDlhjfW6hz8.md#ent-person-harley-pasternak-t-00-15-25)**
-> "like Harley Pasternak—thus far three people who I've investigated"
-
 **[00:15:40](/episodes/ep-aDlhjfW6hz8.md#ent-person-harley-pasternak-t-00-15-25)**
 > "...le that are really shady like Harley Pasternak—thus far three people who I've investigated who o..."
+
+**[00:16:22](/episodes/ep-aDlhjfW6hz8.md#ent-person-harley-pasternak-t-00-15-25)**
+> "like Harley Pasternak—thus far three people who I've investigated"
 
 </details>
 

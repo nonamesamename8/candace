@@ -1,6 +1,6 @@
 ---
 title: "National Guard regiments"
-description: "National Guard regiments (Organizations) - 2 mentions"
+description: "National Guard regiments (Organizations) - 1 mention"
 id: "org-national-guard-regiments"
 type: "ORG"
 ---
@@ -13,13 +13,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:59:13](/episodes/ep-tB5SXXmd9vU.md#ent-org-national-guard-regiments-t-00-59-13)**
 > "... information that I am getting, which I'm going to explain later this week, I think there were some National Guard regiments that were there, some French Foreign Legionnaires that were there, and yes, some Israelis that were..."
-
-**[00:59:13](/episodes/ep-tB5SXXmd9vU.md#ent-org-national-guard-regiments-t-00-59-13)**
-> "...week, I think there were some National Guard regiments that were there, some French Foreign Legionnaires..."
 
 </details>
 

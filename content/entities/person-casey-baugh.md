@@ -1,6 +1,6 @@
 ---
 title: "Casey Baugh"
-description: "Casey Baugh (People) - 7 mentions"
+description: "Casey Baugh (People) - 3 mentions"
 id: "person-casey-baugh"
 type: "PERSON"
 ---
@@ -13,28 +13,16 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (7 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (3 mentions)</summary>
+
+**[00:05:03](/episodes/ep-iHav0PPzUz8.md#ent-person-casey-baugh-t-00-04-55)**
+> "Someone who didn't hit internet radar who also co-owns that plane with them is a person named Casey Baugh"
 
 **[00:05:03](/episodes/ep-iHav0PPzUz8.md#ent-person-casey-baugh-t-00-04-55)**
 > "...wens: Someone who didn't hit internet radar who also co-owns that plane with them is a person named Casey Baugh—B-A-U-G-H. Now, I'm mentioning Casey Baugh because I found it—when I was researching—interesting th..."
 
 **[00:05:42](/episodes/ep-iHav0PPzUz8.md#ent-person-casey-baugh-t-00-05-40)**
 > "... not on the Woodbury Building or Candace Owens: on campus at all for that matter. Candace Owens: So Casey Baugh is not a suspect for having provided him access in any way. Candace Owens: But I will say that the ..."
-
-**[00:05:03](/episodes/ep-iHav0PPzUz8.md#ent-person-casey-baugh-t-00-04-55)**
-> "...e with them is a person named Casey Baugh—B-A-U-G-H. Now, I'm mentioning Casey Baugh becaus..."
-
-**[00:05:03](/episodes/ep-iHav0PPzUz8.md#ent-person-casey-baugh-t-00-04-55)**
-> "...-A-U-G-H. Now, I'm mentioning Casey Baugh because I found it—when I was researching—interes..."
-
-**[00:05:03](/episodes/ep-iHav0PPzUz8.md#ent-person-casey-baugh-t-00-04-55)**
-> "... researching—interesting that Casey Baugh has his name on an institute"
-
-**[00:05:42](/episodes/ep-iHav0PPzUz8.md#ent-person-casey-baugh-t-00-05-40)**
-> "So Casey Baugh is not a suspect for having provided him access i..."
-
-**[00:05:03](/episodes/ep-iHav0PPzUz8.md#ent-person-casey-baugh-t-00-04-55)**
-> "Someone who didn't hit internet radar who also co-owns that plane with them is a person named Casey Baugh"
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Wikipedia"
-description: "Wikipedia (Organizations) - 16 mentions"
+description: "Wikipedia (Organizations) - 14 mentions"
 id: "org-wikipedia"
 type: "ORG"
 aliases:
@@ -17,7 +17,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (16 mentions)</summary>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (14 mentions)</summary>
 
 **[00:00:02](/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00)**
 > "the Turning Point USA Wikipedia entry got a very interesting update"
@@ -40,9 +40,6 @@ _Type: Organizations_
 **[00:06:26](/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-06-26)**
 > "... long-standing section on the Wikipedia website regarding Turning Point Faith on Wikipedi..."
 
-**[00:06:26](/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-06-26)**
-> "...arding Turning Point Faith on Wikipedia."
-
 **[00:07:17](/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-07-07)**
 > "...k was alive, that is what the Wikipedia read."
 
@@ -51,9 +48,6 @@ _Type: Organizations_
 
 **[00:08:04](/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-07-51)**
 > "...ganizations to clean up their Wikipedia pages because I remember—and I still have the mes..."
-
-**[00:08:04](/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-07-51)**
-> "...our pages, which were made by Wikipedia editors, and they were horrific."
 
 **[00:08:28](/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-07-51)**
 > "...rrified when we looked at our Wikipedia pages."

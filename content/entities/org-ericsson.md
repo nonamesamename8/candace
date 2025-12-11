@@ -1,6 +1,6 @@
 ---
 title: "Ericsson"
-description: "Ericsson (Organizations) - 5 mentions"
+description: "Ericsson (Organizations) - 4 mentions"
 id: "org-ericsson"
 type: "ORG"
 aliases:
@@ -17,7 +17,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (5 mentions)</summary>
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
 
 **[00:30:00](/episodes/ep-Cq7nj9rxPdo.md#ent-org-ericsson-t-00-29-20)**
 > "She's from the Ericsson family."
@@ -30,9 +30,6 @@ _Type: Organizations_
 
 **[00:30:14](/episodes/ep-Cq7nj9rxPdo.md#ent-org-ericsson-t-00-30-02)**
 > "...ure—like I'm certain—she's an Ericsson—like a thousand percent certain that she is an Er..."
-
-**[00:30:14](/episodes/ep-Cq7nj9rxPdo.md#ent-org-ericsson-t-00-30-02)**
-> "...ercent certain that she is an Ericsson."
 
 </details>
 

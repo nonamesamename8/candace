@@ -1,6 +1,6 @@
 ---
 title: "United States Secret Service"
-description: "United States Secret Service (Organizations) - 7 mentions"
+description: "United States Secret Service (Organizations) - 4 mentions"
 id: "org-united-states-secret-service"
 type: "ORG"
 ---
@@ -13,7 +13,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (7 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (4 mentions)</summary>
+
+**[00:11:00](/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-11-00)**
+> "Today, if you punch that address into public directories, you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service"
 
 **[00:11:00](/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-11-00)**
 > "... will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801. Both are live, both are at Suite 404, both als..."
@@ -23,18 +26,6 @@ _Type: Organizations_
 
 **[00:18:47](/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-18-47)**
 > "...s been a federal resident office since at least 1997, and today it houses the DEA, the FBI, and the United States Secret Service all at the same address. The hangar the plane would have used is controlled through a DRBA lease th..."
-
-**[00:11:00](/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-11-00)**
-> "... and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 198..."
-
-**[00:17:24](/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-17-24)**
-> "...BI, the DEA, and the USS, the United States Secret Service, and others are working together in a commercial ..."
-
-**[00:18:47](/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-18-47)**
-> "...ses the DEA, the FBI, and the United States Secret Service all at the same address."
-
-**[00:11:00](/episodes/ep-SKGUzGHymcI.md#ent-org-united-states-secret-service-t-00-11-00)**
-> "Today, if you punch that address into public directories, you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service"
 
 </details>
 

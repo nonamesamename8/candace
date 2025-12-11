@@ -1,6 +1,6 @@
 ---
 title: "Michael Bloomberg"
-description: "Michael Bloomberg (People) - 2 mentions"
+description: "Michael Bloomberg (People) - 1 mention"
 id: "person-michael-bloomberg"
 type: "PERSON"
 ---
@@ -13,13 +13,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
 **[00:10:30](/episodes/ep-LATnak75Si0.md#ent-person-michael-bloomberg-t-00-10-30)**
 > "...y? Bill gave $1.75 million, and Mamdani won—irrespective of the money that was donated against him. Michael Bloomberg also gave money to a Cuomo-affiliated super PAC. He gave $8.3 million to stop Mamdani, and it didn'..."
-
-**[00:10:30](/episodes/ep-LATnak75Si0.md#ent-person-michael-bloomberg-t-00-10-30)**
-> "Michael Bloomberg also gave money to a Cuomo-affiliated super PAC."
 
 </details>
 

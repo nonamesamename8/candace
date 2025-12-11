@@ -19,11 +19,11 @@ _Type: Laws & Legislation_
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
 
-**[00:37:58](/episodes/ep-aDlhjfW6hz8.md#ent-law-patriot-act-t-00-37-41)**
-> "9/11—what did we do? We gave them so much power, right? The Patriot Act."
-
 **[00:37:57](/episodes/ep-aDlhjfW6hz8.md#ent-law-patriot-act-t-00-37-41)**
 > "The Patriot Act."
+
+**[00:37:58](/episodes/ep-aDlhjfW6hz8.md#ent-law-patriot-act-t-00-37-41)**
+> "9/11—what did we do? We gave them so much power, right? The Patriot Act."
 
 </details>
 

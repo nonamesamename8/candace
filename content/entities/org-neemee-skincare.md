@@ -46,11 +46,11 @@ _Type: Organizations_
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (4 mentions)</summary>
 
-**[00:57:53](/episodes/ep-czVBmqZP6Ss.md#ent-org-neemee-skincare-t-00-57-53)**
-> "Neemee Skincare reached out to me because they want to encourage donations to Turning Point USA"
-
 **[00:57:44](/episodes/ep-czVBmqZP6Ss.md#ent-org-neemee-skincare-t-00-57-16)**
 > "Neemee Skincare reached out to me because they want to encourage ..."
+
+**[00:57:53](/episodes/ep-czVBmqZP6Ss.md#ent-org-neemee-skincare-t-00-57-53)**
+> "Neemee Skincare reached out to me because they want to encourage donations to Turning Point USA"
 
 **[00:57:53](/episodes/ep-czVBmqZP6Ss.md#ent-org-neemee-skincare-t-00-57-53)**
 > "Neemee will be matching every donation made to Turning P..."

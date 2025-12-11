@@ -1,14 +1,14 @@
 ---
 id: "aDlhjfW6hz8"
 title: "Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239"
-description: "Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 - 69 entities, 6 events, 0 claims"
+description: "Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 - 78 entities, 6 events, 0 claims"
 published: "2025-09-19"
 youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 ---
 
 **Published:** 2025-09-19 | [Watch on YouTube](https://www.youtube.com/watch?v=aDlhjfW6hz8)
 
-**Stats:** 69 entities | 6 events | 0 claims
+**Stats:** 78 entities | 6 events | 0 claims
 
 ---
 
@@ -309,21 +309,21 @@ youtube_url: "https://www.youtube.com/watch?v=aDlhjfW6hz8"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (69)</strong></summary>
+<summary><strong>Entities Mentioned (78)</strong></summary>
 
 **Concepts:** [Bolsheviks](/entities/concept-bolsheviks.md), [Zionism](/entities/concept-zionism.md)
 
 **Dates:** [2018](/entities/date-2018.md), [October 14th](/entities/date-october-14th.md), [September 11th](/entities/date-september-11th.md)
 
-**Events:** [9/11](/entities/event-9-11.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+**Events:** [9/11](/entities/event-9-11.md), [America Fest](/entities/event-america-fest.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 **Places:** [Hamptons](/entities/gpe-hamptons.md), [Israel](/entities/gpe-israel.md), [Palestine](/entities/gpe-palestine.md), [Provo](/entities/gpe-provo.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 **Laws & Legislation:** [Patriot Act](/entities/law-patriot-act.md)
 
-**Organizations:** [ABC](/entities/org-abc.md), [AIPAC](/entities/org-aipac.md), [Black Lives Matter](/entities/org-black-lives-matter.md), [CDC](/entities/org-cdc.md), [Caldera Engineering](/entities/org-caldera-engineering.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Daily Mail](/entities/org-daily-mail.md), [FBI](/entities/org-fbi.md), [Federal Communications Commission](/entities/org-fcc.md), [Federal Reserve](/entities/org-federal-reserve.md), [Holocaust Museum](/entities/org-holocaust-museum.md), [Insight](/entities/org-insight.md), [Instagram](/entities/org-instagram.md), [Preborn](/entities/org-preborn.md), [Silver Lake](/entities/org-silver-lake.md), [TMZ](/entities/org-tmz.md), [The Daily Wire](/entities/org-the-daily-wire.md), [The Decentralized Intelligence Agency](/entities/org-decentralized-intelligence-agency.md), [TikTok](/entities/org-tiktok.md), [Turning Point USA](/entities/org-turning-point-usa.md), [United States Senate](/entities/org-us-senate.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md), [YouTube](/entities/org-youtube.md)
+**Organizations:** [ABC](/entities/org-abc.md), [AIPAC](/entities/org-aipac.md), [American Financing](/entities/org-american-financing.md), [Black Lives Matter](/entities/org-black-lives-matter.md), [CDC](/entities/org-cdc.md), [Caldera Engineering](/entities/org-caldera-engineering.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Daily Mail](/entities/org-daily-mail.md), [Dairy Queen](/entities/org-dairy-queen.md), [FBI](/entities/org-fbi.md), [Federal Communications Commission](/entities/org-fcc.md), [Federal Reserve](/entities/org-federal-reserve.md), [GNOLand](/entities/org-gnoland.md), [Gno.land](/entities/org-gno-land.md), [Holocaust Museum](/entities/org-holocaust-museum.md), [Insight](/entities/org-insight.md), [Instagram](/entities/org-instagram.md), [Preborn](/entities/org-preborn.md), [Pure Talk](/entities/org-pure-talk.md), [PureTalk](/entities/org-puretalk.md), [Silver Lake](/entities/org-silver-lake.md), [TMZ](/entities/org-tmz.md), [The Daily Wire](/entities/org-the-daily-wire.md), [The Decentralized Intelligence Agency](/entities/org-decentralized-intelligence-agency.md), [The Wellness Company](/entities/org-the-wellness-company.md), [TikTok](/entities/org-tiktok.md), [Turning Point USA](/entities/org-turning-point-usa.md), [United States Senate](/entities/org-us-senate.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md), [YouTube](/entities/org-youtube.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Benny Johnson](/entities/person-benny-johnson.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brendan Carr](/entities/person-brendan-carr.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Chris Olsen](/entities/person-chris-olsen.md), [Donald Trump](/entities/person-donald-trump.md), [Eric Bolling](/entities/person-eric-bolling.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Floyd](/entities/person-george-floyd.md), [Harley Pasternak](/entities/person-harley-pasternak.md), [Jimmy Kimmel](/entities/person-jimmy-kimmel.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Kanye West](/entities/person-kanye-west.md), [Katie Miller](/entities/person-katie-miller.md), [Kyrie Irving](/entities/person-kyrie-irving.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Marc Andreessen](/entities/person-marc-andreessen.md), [Martin Luther King Jr.](/entities/person-martin-luther-king-jr.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Pam Bondi](/entities/person-pam-bondi.md), [Patrick Bet-David](/entities/person-patrick-bet-david.md), [Sarah Milgram](/entities/person-sarah-milgram.md), [Skylar](/entities/person-skylar.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Victoria Churchill](/entities/person-victoria-churchill.md), [Yaron Lechinsky](/entities/person-yaron-lechinsky.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Benny Johnson](/entities/person-benny-johnson.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brendan Carr](/entities/person-brendan-carr.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Chris Olsen](/entities/person-chris-olsen.md), [Donald Trump](/entities/person-donald-trump.md), [Eric Bolling](/entities/person-eric-bolling.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Floyd](/entities/person-george-floyd.md), [Harley Pasternak](/entities/person-harley-pasternak.md), [Jimmy Kimmel](/entities/person-jimmy-kimmel.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Kanye West](/entities/person-kanye-west.md), [Katie Miller](/entities/person-katie-miller.md), [Kyrie Irving](/entities/person-kyrie-irving.md), [Lance](/entities/person-lance-robinson-boyfriend.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Marc Andreessen](/entities/person-marc-andreessen.md), [Martin Luther King Jr.](/entities/person-martin-luther-king-jr.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Pam Bondi](/entities/person-pam-bondi.md), [Patrick Bet-David](/entities/person-patrick-bet-david.md), [Sarah Milgram](/entities/person-sarah-milgram.md), [Skylar](/entities/person-skylar.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Victoria Churchill](/entities/person-victoria-churchill.md), [Yaron Lechinsky](/entities/person-yaron-lechinsky.md)
 
 </details>
 

@@ -15,11 +15,11 @@ _Type: People_
 <details>
 <summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
 
-**[00:12:27](/episodes/ep-5autG89PW6w.md#ent-person-the-quartering-t-00-11-47)**
-> "The Quartering X post"
-
 **[00:12:25](/episodes/ep-5autG89PW6w.md#ent-person-the-quartering-t-00-11-47)**
 > "The Quartering jumped in. He says, "A serious question:"
+
+**[00:12:27](/episodes/ep-5autG89PW6w.md#ent-person-the-quartering-t-00-11-47)**
+> "The Quartering X post"
 
 </details>
 

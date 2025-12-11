@@ -1,6 +1,6 @@
 ---
 title: "United Kingdom"
-description: "United Kingdom (Places) - 27 mentions"
+description: "United Kingdom (Places) - 26 mentions"
 id: "gpe-united-kingdom"
 type: "GPE"
 aliases:
@@ -72,11 +72,11 @@ _Type: Places_
 **[00:09:22](/episodes/ep-QZWSsq8ZWzw.md#t-00-08-46)**
 > "we must go to the UK"
 
-**[00:09:25](/episodes/ep-QZWSsq8ZWzw.md#t-00-08-46)**
-> "Charlie Kirk, we got to go to the UK"
-
 **[00:09:22](/episodes/ep-QZWSsq8ZWzw.md#t-00-08-46)**
 > "...pelled that we must go to the UK."
+
+**[00:09:25](/episodes/ep-QZWSsq8ZWzw.md#t-00-08-46)**
+> "Charlie Kirk, we got to go to the UK"
 
 **[00:09:25](/episodes/ep-QZWSsq8ZWzw.md#t-00-08-46)**
 > "...lie Kirk, we got to go to the UK.""
@@ -99,13 +99,10 @@ _Type: Places_
 </details>
 
 <details>
-<summary>To My Friend, Charlie Kirk. (3 mentions)</summary>
+<summary>To My Friend, Charlie Kirk. (2 mentions)</summary>
 
 **[00:13:27](/episodes/ep-_dRaEO47-co.md#ent-gpe-united-kingdom-t-00-13-27)**
 > "... you look cool. We really did go everywhere. I mean, all 50 states, Canada, down to the border, the United Kingdom, Israel—you name it, we were there. And there was always a new t-shirt to print out: “Justice for B..."
-
-**[00:13:27](/episodes/ep-_dRaEO47-co.md#ent-gpe-united-kingdom-t-00-13-27)**
-> "...nada, down to the border, the United Kingdom, Israel—you name it, we were there."
 
 **[00:17:19](/episodes/ep-_dRaEO47-co.md#ent-gpe-united-kingdom-t-00-13-27)**
 > "And in the UK, which I didn't expect to happen."

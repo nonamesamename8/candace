@@ -1,6 +1,6 @@
 ---
 title: "Diddy"
-description: "Diddy (People) - 8 mentions"
+description: "Diddy (People) - 7 mentions"
 id: "person-diddy"
 type: "PERSON"
 aliases:
@@ -19,13 +19,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (8 mentions)</summary>
-
-**[00:23:04](/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-22-28)**
-> "...to find online because it was during his cancellation—that he knew (again, this was before Diddy got into trouble) that Diddy had been blackmailed by the feds. And that part of his deal was that he had to keep certain other..."
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (7 mentions)</summary>
 
 **[00:22:52](/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-22-28)**
 > "It's why I did not cover the Diddy case."
+
+**[00:23:04](/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-22-28)**
+> "...to find online because it was during his cancellation—that he knew (again, this was before Diddy got into trouble) that Diddy had been blackmailed by the feds. And that part of his deal was that he had to keep certain other..."
 
 **[00:23:04](/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-22-28)**
 > "...e anybody knew anything about Diddy."
@@ -38,9 +38,6 @@ _Type: People_
 
 **[00:23:35](/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-23-11)**
 > "... knew (again, this was before Diddy got into trouble) that Diddy had been blackmailed..."
-
-**[00:23:35](/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-23-11)**
-> "... Diddy got into trouble) that Diddy had been blackmailed by the feds."
 
 **[00:24:10](/episodes/ep-yAIb-NuUh_U.md#ent-person-diddy-t-00-23-51)**
 > "...ow, flipping back to—from the Diddy insinuations here—flipping back to Rob McCoy, tha..."

@@ -1,6 +1,6 @@
 ---
 title: "James Gray"
-description: "James Gray (People) - 4 mentions"
+description: "James Gray (People) - 2 mentions"
 id: "person-james-gray"
 type: "PERSON"
 ---
@@ -13,19 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (4 mentions)</summary>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (2 mentions)</summary>
 
 **[01:00:55](/episodes/ep-his-JBjlkh8.md#ent-person-james-gray-t-01-00-40)**
 > "...cond. You and your family's safety, money—everything is compromised. Team Candace. Christ is king." James Gray writes, "The TPUSA response seemed fake, calculated, scared. That guy's body language was just comp..."
 
 **[01:01:59](/episodes/ep-his-JBjlkh8.md#ent-person-james-gray-t-01-01-23)**
 > "...uys would be smarter than to listen to her. Oh, you guys are Antifa." What is that? It's such crap. James Gray writes—sorry, I read that one. Tara writes, "Licensed psychotherapist here. This is obviously an at..."
-
-**[01:00:55](/episodes/ep-his-JBjlkh8.md#ent-person-james-gray-t-01-00-40)**
-> "James Gray writes, "The TPUSA response seemed fake, calculat..."
-
-**[01:01:59](/episodes/ep-his-JBjlkh8.md#ent-person-james-gray-t-01-01-23)**
-> "James Gray writes—sorry, I read that one."
 
 </details>
 

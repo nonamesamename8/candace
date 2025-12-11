@@ -1,6 +1,6 @@
 ---
 title: "Democratic Socialists of America"
-description: "Democratic Socialists of America (Organizations) - 3 mentions"
+description: "Democratic Socialists of America (Organizations) - 1 mention"
 id: "org-democratic-socialists-of-america"
 type: "ORG"
 aliases:
@@ -17,16 +17,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (3 mentions)</summary>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
 
 **[00:04:38](/episodes/ep-r1PS67aRmcA.md#ent-org-democratic-socialists-of-america-t-00-04-34)**
 > "...ing. It means the world. It truly does. Should we do a show together, talking about the DSA threat, Democratic Socialists of America threat, and orienting in the same direction? Happy to do whatever it takes to bring everyone back t..."
-
-**[00:04:38](/episodes/ep-r1PS67aRmcA.md#ent-org-democratic-socialists-of-america-t-00-04-34)**
-> "...talking about the DSA threat, Democratic Socialists of America threat, and orienting in the same direction?"
-
-**[00:04:38](/episodes/ep-r1PS67aRmcA.md#ent-org-democratic-socialists-of-america-t-00-04-34)**
-> "...w together, talking about the DSA threat, Democratic Socialists of America threat, ..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Tulsi Gabbard"
-description: "Tulsi Gabbard (People) - 13 mentions"
+description: "Tulsi Gabbard (People) - 8 mentions"
 id: "person-tulsi-gabbard"
 type: "PERSON"
 aliases:
@@ -25,16 +25,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (3 mentions)</summary>
-
-**[00:10:23](/episodes/ep-581dILVcEE4.md#ent-person-tulsi-gabbard-t-00-10-23)**
-> "...nner? I don't know, but that could be compelling. That would be something that perhaps Joe Kent and Tulsi Gabbard—who are warring, or at least that's what the press said, warring with the FBI, or warring with Kash..."
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
 **[00:10:23](/episodes/ep-581dILVcEE4.md#ent-person-tulsi-gabbard-t-00-10-23)**
 > "Tulsi Gabbard warring with FBI could investigate"
 
 **[00:10:23](/episodes/ep-581dILVcEE4.md#ent-person-tulsi-gabbard-t-00-10-23)**
-> "...ing that perhaps Joe Kent and Tulsi Gabbard—who are warring, or at least that's what the pres..."
+> "...nner? I don't know, but that could be compelling. That would be something that perhaps Joe Kent and Tulsi Gabbard—who are warring, or at least that's what the press said, warring with the FBI, or warring with Kash..."
 
 </details>
 
@@ -47,18 +44,15 @@ _Type: People_
 </details>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (1 mentions)</summary>
 
 **[00:25:27](/episodes/ep-YFmRH8p5lt0.md#ent-person-tulsi-gabbard-t-00-25-27)**
 > "...d, right? I don't know what this plane is doing. I don't know who's on the plane. I do know that if Tulsi Gabbard or Kash Patel is potentially watching this—or if they are, as they have stated, or as the public fi..."
 
-**[00:25:27](/episodes/ep-YFmRH8p5lt0.md#ent-person-tulsi-gabbard-t-00-25-27)**
-> "I do know that if Tulsi Gabbard or Kash Patel is potentially watching this—or if ..."
-
 </details>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (6 mentions)</summary>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (3 mentions)</summary>
 
 **[00:20:54](/episodes/ep-Qt0VHV-POCg.md#ent-person-tulsi-gabbard-t-00-20-35)**
 > "...yesterday—pertaining to how upset Kash Patel was when he received an inquiry from Joe Kent's office—Tulsi Gabbard's office. They lead the National Counterterrorism Center—Joe Kent does—and him inquiring about deta..."
@@ -68,15 +62,6 @@ _Type: People_
 
 **[00:22:54](/episodes/ep-Qt0VHV-POCg.md#ent-person-tulsi-gabbard-t-00-22-39)**
 > "...hat day. And I'm getting the suspicion that there were some foreign entities involved. So Joe Kent, Tulsi Gabbard—if you guys by any chance see this episode—keep going, right? We're just going very slowly here. Se..."
-
-**[00:20:54](/episodes/ep-Qt0VHV-POCg.md#ent-person-tulsi-gabbard-t-00-20-35)**
-> "...nquiry from Joe Kent's office—Tulsi Gabbard's office."
-
-**[00:21:58](/episodes/ep-Qt0VHV-POCg.md#ent-person-tulsi-gabbard-t-00-21-58)**
-> "... Susie Wiles and Joe Kent and Tulsi Gabbard and Trump officials."
-
-**[00:22:54](/episodes/ep-Qt0VHV-POCg.md#ent-person-tulsi-gabbard-t-00-22-39)**
-> "So Joe Kent, Tulsi Gabbard—if you guys by any chance see this episode—keep g..."
 
 </details>
 

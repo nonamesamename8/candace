@@ -1,6 +1,6 @@
 ---
 title: "Aubrey Chernick"
-description: "Aubrey Chernick (People) - 3 mentions"
+description: "Aubrey Chernick (People) - 2 mentions"
 id: "person-aubrey-chernick"
 type: "PERSON"
 ---
@@ -13,16 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (3 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
 **[00:46:56](/episodes/ep-581dILVcEE4.md#ent-person-aubrey-chernick-t-00-46-30)**
 > "... of the Tucker (Tucker Carlson) speech. That woman was Joyce Chernick. Joyce Chernick is married to Aubrey Chernick. He's a software tech billionaire guy. They fund a variety of pro-Israel causes through the David H..."
 
 **[00:46:58](/episodes/ep-581dILVcEE4.md#ent-person-aubrey-chernick-t-00-46-30)**
 > "Aubrey Chernick, software tech billionaire married to Joyce"
-
-**[00:46:56](/episodes/ep-581dILVcEE4.md#ent-person-aubrey-chernick-t-00-46-30)**
-> "Joyce Chernick is married to Aubrey Chernick."
 
 </details>
 

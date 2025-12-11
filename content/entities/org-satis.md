@@ -1,6 +1,6 @@
 ---
 title: "Satis"
-description: "Satis (Organizations) - 35 mentions"
+description: "Satis (Organizations) - 17 mentions"
 id: "org-satis"
 type: "ORG"
 aliases:
@@ -17,18 +17,15 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
 **[00:15:27](/episodes/ep-a-e7HC6SeK8.md#ent-org-satis-t-00-15-27)**
 > "... right? We learn about this French and Israeli ACE Partners being the second largest shareholder of Satis. They decide to lease out this hangar. We learn that that requires federal approval because it sits..."
 
-**[00:15:27](/episodes/ep-a-e7HC6SeK8.md#ent-org-satis-t-00-15-27)**
-> "...second largest shareholder of Satis."
-
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (10 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (5 mentions)</summary>
 
 **[00:23:42](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-23-42)**
 > "...assassination from Provo, went over to Wilmington, Delaware. We learned that regarding that hangar, Satis, which is a French company, injected $1.5 million ostensibly to paint planes, okay, in Wilmington, ..."
@@ -45,25 +42,10 @@ _Type: Organizations_
 **[00:38:47](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-38-43)**
 > "...m not being anti-Semitic. That's what ACE Partners does. They are the second-largest shareholder to Satis. Why is Israel interested in this hangar in Wilmington, Delaware, you guys? And in case you don't t..."
 
-**[00:23:42](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-23-42)**
-> "...d that regarding that hangar, Satis, which is a French company, injected $1.5 million..."
-
-**[00:25:26](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-25-07)**
-> "..., because we're talking about Satis being French-owned,"
-
-**[00:34:39](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-34-38)**
-> "...rcraft hangar and its company Satis, which is French-aligned, connected to 920 North ..."
-
-**[00:38:00](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-38-00)**
-> "...econd-largest shareholder for Satis is Israel."
-
-**[00:38:47](/episodes/ep-tB5SXXmd9vU.md#ent-org-satis-t-00-38-43)**
-> "...second-largest shareholder to Satis."
-
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (9 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
 
 **[00:00:04](/episodes/ep-mKXdKV-OBog.md#ent-org-satis-t-00-00-00)**
 > "...ight, you guys. Happy Friday. Some more interesting tips are coming in. It seems that that company, Satis—that French company—the Satis angle has opened up a whole new level of possibilities here in this C..."
@@ -77,25 +59,13 @@ _Type: Organizations_
 **[00:38:59](/episodes/ep-mKXdKV-OBog.md#ent-org-satis-t-00-38-54)**
 > "...ey certainly did. And the CEO is an Israeli, and it's in Hamburg. There's a lot going on there with Satis. And like I said, we're information-sharing in the background, and we are definitely getting closer..."
 
-**[00:00:04](/episodes/ep-mKXdKV-OBog.md#ent-org-satis-t-00-00-00)**
-> "It seems that that company, Satis—that French company—the Satis angle has opened up..."
-
-**[00:00:04](/episodes/ep-mKXdKV-OBog.md#ent-org-satis-t-00-00-00)**
-> "...Satis—that French company—the Satis angle has opened up a whole new level of possibil..."
-
-**[00:22:17](/episodes/ep-mKXdKV-OBog.md#ent-org-satis-t-00-21-55)**
-> "...definitively were pulled into Satis, and that person was then escorted for whatever r..."
-
-**[00:38:30](/episodes/ep-mKXdKV-OBog.md#ent-org-satis-t-00-38-09)**
-> "..., we should look further into Satis."
-
-**[00:38:59](/episodes/ep-mKXdKV-OBog.md#ent-org-satis-t-00-38-54)**
-> "...e's a lot going on there with Satis."
-
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (14 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (7 mentions)</summary>
+
+**[00:00:55](/episodes/ep-sImMM04XdWY.md#ent-org-satis-t-00-04-54)**
+> "that odd French company in Delaware... Satis... was more than likely a front for something else"
 
 **[00:05:21](/episodes/ep-sImMM04XdWY.md#ent-org-satis-t-00-04-54)**
 > "...that you will be next if you don't shut up. Like, really, "It was supposed to be you." And this new Satis angle is not something that seems subtle to me. When I consider that it was Charlie (Charlie Kirk) ..."
@@ -114,30 +84,6 @@ _Type: Organizations_
 
 **[00:29:08](/episodes/ep-sImMM04XdWY.md#ent-org-satis-t-00-28-31)**
 > "... that to you guys—that we should prod that narrative more. We should learn more about that company, Satis. We should see—we are receiving a bunch of tips about that company, and we are going to chase down ..."
-
-**[00:00:55](/episodes/ep-sImMM04XdWY.md#ent-org-satis-t-00-04-54)**
-> "that odd French company in Delaware... Satis... was more than likely a front for something else"
-
-**[00:05:21](/episodes/ep-sImMM04XdWY.md#ent-org-satis-t-00-04-54)**
-> "And this new Satis angle is not something that seems subtle to me."
-
-**[00:05:28](/episodes/ep-sImMM04XdWY.md#ent-org-satis-t-00-04-54)**
-> "And now I consider Satis, which according to our source—our well-placed so..."
-
-**[00:09:08](/episodes/ep-sImMM04XdWY.md#ent-org-satis-t-00-09-03)**
-> "...r is when it's announced that Satis—that's when it's publicly announced that Satis, t..."
-
-**[00:09:08](/episodes/ep-sImMM04XdWY.md#ent-org-satis-t-00-09-03)**
-> "... it's publicly announced that Satis, that French company, has inked a deal in Wilming..."
-
-**[00:13:20](/episodes/ep-sImMM04XdWY.md#ent-org-satis-t-00-13-11)**
-> "...ts Tucker (Tucker Carlson) at Satis."
-
-**[00:18:35](/episodes/ep-sImMM04XdWY.md#ent-org-satis-t-00-18-13)**
-> "...bviously, I didn't know about Satis. Nothing."
-
-**[00:29:08](/episodes/ep-sImMM04XdWY.md#ent-org-satis-t-00-28-31)**
-> "...earn more about that company, Satis."
 
 </details>
 

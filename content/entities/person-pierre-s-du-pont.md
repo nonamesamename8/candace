@@ -1,6 +1,6 @@
 ---
 title: "Pierre S. du Pont"
-description: "Pierre S. du Pont (People) - 4 mentions"
+description: "Pierre S. du Pont (People) - 2 mentions"
 id: "person-pierre-s-du-pont"
 type: "PERSON"
 ---
@@ -13,19 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (4 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
 **[00:29:28](/episodes/ep-tB5SXXmd9vU.md#ent-person-pierre-s-du-pont-t-00-29-13)**
 > "...provide financial support to the Longwood Foundation, a philanthropic nonprofit that was founded by Pierre S. du Pont to make it function as a quote-unquote educational center. There's just one problem with that. Pier..."
 
 **[00:29:47](/episodes/ep-tB5SXXmd9vU.md#ent-person-pierre-s-du-pont-t-00-29-47)**
 > "...Pont to make it function as a quote-unquote educational center. There's just one problem with that. Pierre S. du Pont was a member of the French-American family du Pont, which was descended from Pierre Samuel du Pont ..."
-
-**[00:29:28](/episodes/ep-tB5SXXmd9vU.md#ent-person-pierre-s-du-pont-t-00-29-13)**
-> "...nonprofit that was founded by Pierre S. du Pont to make it function as a quote-unquote educationa..."
-
-**[00:29:47](/episodes/ep-tB5SXXmd9vU.md#ent-person-pierre-s-du-pont-t-00-29-47)**
-> "Pierre S. du Pont was a member of the French-American family du Pon..."
 
 </details>
 

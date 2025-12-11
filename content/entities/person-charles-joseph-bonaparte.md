@@ -1,6 +1,6 @@
 ---
 title: "Charles Joseph Bonaparte"
-description: "Charles Joseph Bonaparte (People) - 2 mentions"
+description: "Charles Joseph Bonaparte (People) - 1 mention"
 id: "person-charles-joseph-bonaparte"
 type: "PERSON"
 aliases:
@@ -17,13 +17,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
 **[00:04:29](/episodes/ep-a-e7HC6SeK8.md#ent-person-charles-joseph-bonaparte-t-00-04-18)**
 > "...big picture that I'm beginning to see. All of this to say, did you know that our FBI was founded by Charles Joseph Bonaparte? I had no idea. I hate to be American ignorant, but I had no idea. And yes, that man was the founde..."
-
-**[00:04:29](/episodes/ep-a-e7HC6SeK8.md#ent-person-charles-joseph-bonaparte-t-00-04-18)**
-> "...w that our FBI was founded by Charles Joseph Bonaparte?"
 
 </details>
 

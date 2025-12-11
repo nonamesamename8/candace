@@ -19,11 +19,11 @@ _Type: Organizations_
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (3 mentions)</summary>
 
-**[00:43:51](/episodes/ep-aDlhjfW6hz8.md#ent-org-silver-lake-t-00-43-41)**
-> "in on a deal with, I think it's Silver Lake Capital"
-
 **[00:43:49](/episodes/ep-aDlhjfW6hz8.md#ent-org-silver-lake-t-00-43-41)**
 > "... on a deal with, I think it's Silver Lake Capital."
+
+**[00:43:51](/episodes/ep-aDlhjfW6hz8.md#ent-org-silver-lake-t-00-43-41)**
+> "in on a deal with, I think it's Silver Lake Capital"
 
 **[00:43:53](/episodes/ep-aDlhjfW6hz8.md#ent-org-silver-lake-t-00-43-41)**
 > "Silver Lake—they're all coming together, and we knew this was..."

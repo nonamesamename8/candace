@@ -1,14 +1,14 @@
 ---
 id: "ozWJz2spBcI"
 title: "TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248"
-description: "TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 - 73 entities, 6 events, 0 claims"
+description: "TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 - 77 entities, 6 events, 0 claims"
 published: "2025-10-06"
 youtube_url: "https://www.youtube.com/watch?v=ozWJz2spBcI"
 ---
 
 **Published:** 2025-10-06 | [Watch on YouTube](https://www.youtube.com/watch?v=ozWJz2spBcI)
 
-**Stats:** 73 entities | 6 events | 0 claims
+**Stats:** 77 entities | 6 events | 0 claims
 
 ---
 
@@ -279,7 +279,7 @@ youtube_url: "https://www.youtube.com/watch?v=ozWJz2spBcI"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (73)</strong></summary>
+<summary><strong>Entities Mentioned (77)</strong></summary>
 
 **Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [Jewish mystical tradition](/entities/concept-jewish-mystical-tradition.md), [Kabbalah](/entities/concept-kabbalah.md), [MAGA movement](/entities/concept-maga-movement.md)
 
@@ -291,9 +291,9 @@ youtube_url: "https://www.youtube.com/watch?v=ozWJz2spBcI"
 
 **Laws & Legislation:** [Foreign Agents Registration Act](/entities/law-fara.md)
 
-**Organizations:** [Amazon](/entities/org-amazon.md), [American Financing](/entities/org-american-financing.md), [Apple](/entities/org-apple.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Club Candace](/entities/org-club-candace.md), [Cracker Barrel](/entities/org-cracker-barrel.md), [Department of Justice](/entities/org-department-of-justice.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [IDF](/entities/org-idf.md), [IRS](/entities/org-irs.md), [Instagram](/entities/org-instagram.md), [Neemi Skin Care](/entities/org-neemi-skin-care.md), [Perplexity](/entities/org-perplexity.md), [Preborn](/entities/org-preborn.md), [PureTalk](/entities/org-puretalk.md), [TP Action](/entities/org-tp-action.md), [TikTok](/entities/org-tiktok.md), [Turning Point Action](/entities/org-turning-point-action.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Wall Street Journal](/entities/org-wall-street-journal.md), [YouTube](/entities/org-youtube.md), [the federal government](/entities/org-the-federal-government.md)
+**Organizations:** [Amazon](/entities/org-amazon.md), [American Financing](/entities/org-american-financing.md), [Apple](/entities/org-apple.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Club Candace](/entities/org-club-candace.md), [Cracker Barrel](/entities/org-cracker-barrel.md), [Department of Justice](/entities/org-department-of-justice.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [IDF](/entities/org-idf.md), [IRS](/entities/org-irs.md), [Instagram](/entities/org-instagram.md), [Neemi Skin Care](/entities/org-neemi-skin-care.md), [Perplexity](/entities/org-perplexity.md), [Preborn](/entities/org-preborn.md), [Pure Talk](/entities/org-pure-talk.md), [PureTalk](/entities/org-puretalk.md), [TP Action](/entities/org-tp-action.md), [The Wellness Company](/entities/org-the-wellness-company.md), [TikTok](/entities/org-tiktok.md), [Turning Point Action](/entities/org-turning-point-action.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Wall Street Journal](/entities/org-wall-street-journal.md), [YouTube](/entities/org-youtube.md), [the federal government](/entities/org-the-federal-government.md)
 
-**People:** [Alex Clark](/entities/person-alex-clark.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [David Bakan](/entities/person-david-bakan.md), [David Hogg](/entities/person-david-hogg.md), [Donald Trump](/entities/person-donald-trump.md), [Elon Musk](/entities/person-elon-musk.md), [Erika Kirk](/entities/person-erika-kirk.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Josh Hammer](/entities/person-josh-hammer.md), [Justin Streiff](/entities/person-justin-strief.md), [Kash Patel](/entities/person-kash-patel.md), [Kyle Kashuv](/entities/person-kyle-kashuv.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael Knowles](/entities/person-michael-knowles.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Saint Michael](/entities/person-saint-michael.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Vivek Ramaswamy](/entities/person-vivek-ramaswamy.md)
+**People:** [Alex Clark](/entities/person-alex-clark.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [David Bakan](/entities/person-david-bakan.md), [David Hogg](/entities/person-david-hogg.md), [Donald Trump](/entities/person-donald-trump.md), [Elon Musk](/entities/person-elon-musk.md), [Erika Kirk](/entities/person-erika-kirk.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Josh Hammer](/entities/person-josh-hammer.md), [Justin Streiff](/entities/person-justin-strief.md), [Kash Patel](/entities/person-kash-patel.md), [Kyle Kashuv](/entities/person-kyle-kashuv.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Melissa](/entities/person-melissa.md), [Michael Knowles](/entities/person-michael-knowles.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Rob O'Neill](/entities/person-rob-oneill.md), [Saint Michael](/entities/person-saint-michael.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Vivek Ramaswamy](/entities/person-vivek-ramaswamy.md)
 
 **Works & Media:** [Chaos](/entities/work-chaos.md), [The Assault on Truth](/entities/work-the-assault-on-truth.md)
 

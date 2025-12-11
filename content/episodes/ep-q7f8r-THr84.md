@@ -1,14 +1,14 @@
 ---
 id: "q7f8r-THr84"
 title: "Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236"
-description: "Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 - 74 entities, 13 events, 0 claims"
+description: "Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 - 80 entities, 13 events, 0 claims"
 published: "2025-09-16"
 youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
 ---
 
 **Published:** 2025-09-16 | [Watch on YouTube](https://www.youtube.com/watch?v=q7f8r-THr84)
 
-**Stats:** 74 entities | 13 events | 0 claims
+**Stats:** 80 entities | 13 events | 0 claims
 
 ---
 
@@ -341,7 +341,7 @@ youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (74)</strong></summary>
+<summary><strong>Entities Mentioned (80)</strong></summary>
 
 **Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [MAGA movement](/entities/concept-maga-movement.md), [Me Too](/entities/concept-me-too.md)
 
@@ -349,11 +349,11 @@ youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
 
 **Events:** [America Fest](/entities/event-america-fest.md), [COVID-19 Pandemic](/entities/event-covid-19-pandemic.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-**Places:** [Arizona](/entities/gpe-arizona.md), [Hamptons](/entities/gpe-hamptons.md), [Israel](/entities/gpe-israel.md), [Middle East](/entities/gpe-middle-east.md), [Orem](/entities/gpe-orem.md), [Russia](/entities/gpe-russia.md), [Saudi Arabia](/entities/gpe-saudi-arabia.md), [Ukraine](/entities/gpe-ukraine.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md), [Washington County](/entities/gpe-washington-county.md)
+**Places:** [Arizona](/entities/gpe-arizona.md), [Douglas, Arizona](/entities/gpe-douglas-arizona.md), [Hamptons](/entities/gpe-hamptons.md), [Israel](/entities/gpe-israel.md), [Middle East](/entities/gpe-middle-east.md), [Orem](/entities/gpe-orem.md), [Russia](/entities/gpe-russia.md), [Saudi Arabia](/entities/gpe-saudi-arabia.md), [Ukraine](/entities/gpe-ukraine.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md), [Washington](/entities/gpe-washington-state.md), [Washington County](/entities/gpe-washington-county.md)
 
 **Organizations:** [4th Company, 2nd Foreign Infantry Regiment](/entities/org-4th-company-2nd-foreign-infantry-regiment.md), [American Financing](/entities/org-american-financing.md), [Black Lives Matter](/entities/org-black-lives-matter.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fox News](/entities/org-fox-news.md), [Gno.land](/entities/org-gno-land.md), [Hamas](/entities/org-hamas.md), [IRS](/entities/org-irs.md), [Mossad](/entities/org-mossad.md), [Neemee Skincare](/entities/org-neemee-skincare.md), [Neemi Skin Care](/entities/org-neemi-skin-care.md), [Paleo Valley](/entities/org-paleo-valley.md), [Preborn](/entities/org-preborn.md), [TMZ](/entities/org-tmz.md), [Tax Network USA](/entities/org-tax-network-usa.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md)
 
-**People:** [Aaron Wexler](/entities/person-aaron-wexler.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brandon Tatum](/entities/person-brandon-tatum.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Rubin](/entities/person-dave-rubin.md), [Dave Smith](/entities/person-dave-smith.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Governor Cox](/entities/person-governor-cox.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jesus Christ](/entities/person-jesus-christ.md), [Josh Hammer](/entities/person-josh-hammer.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Laura Loomer](/entities/person-laura-loomer.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Patrick Bet-David](/entities/person-patrick-bet-david.md), [Phil Lyman](/entities/person-phil-lyman.md), [Sarah Stockton](/entities/person-sarah-stockton.md), [Seth Dillon](/entities/person-seth-dillon.md), [Spencer Cox](/entities/person-spencer-cox.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Aaron Wexler](/entities/person-aaron-wexler.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brandon Tatum](/entities/person-brandon-tatum.md), [Brian Mast](/entities/person-brian-mast.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Rubin](/entities/person-dave-rubin.md), [Dave Smith](/entities/person-dave-smith.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Governor Cox](/entities/person-governor-cox.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jesus Christ](/entities/person-jesus-christ.md), [Josh Hammer](/entities/person-josh-hammer.md), [Lance](/entities/person-lance-robinson-boyfriend.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Laura Loomer](/entities/person-laura-loomer.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Melissa (Village Crazy Lady)](/entities/person-melissa-village-crazy-lady.md), [Patrick Bet-David](/entities/person-patrick-bet-david.md), [Phil Lyman](/entities/person-phil-lyman.md), [Sarah Stockton](/entities/person-sarah-stockton.md), [Seth Dillon](/entities/person-seth-dillon.md), [Skyler](/entities/person-skyler.md), [Spencer Cox](/entities/person-spencer-cox.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 **Works & Media:** [PBD podcast](/entities/work-pbd-podcast.md), [The Matrix](/entities/work-the-matrix.md), [The Matrix](/entities/work-the-matrix.md)
 

@@ -1,6 +1,6 @@
 ---
 title: "Andrew Tate"
-description: "Andrew Tate (People) - 12 mentions"
+description: "Andrew Tate (People) - 6 mentions"
 id: "person-andrew-tate"
 type: "PERSON"
 aliases:
@@ -17,22 +17,16 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (5 mentions)</summary>
-
-**[00:27:19](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27)**
-> "messaged me about Andrew Tate accusers lawyer"
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
 
 **[00:26:50](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27)**
 > "...er when she messaged me about Andrew Tate."
 
-**[00:26:50](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27)**
-> "... she messaged me about Andrew Tate."
-
 **[00:26:59](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27)**
 > "... someone on her show that was Andrew Tate's—one of the accusers' lawyers."
 
-**[00:26:59](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27)**
-> "...e on her show that was Andrew Tate's—one of the accusers' lawyers."
+**[00:27:19](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27)**
+> "messaged me about Andrew Tate accusers lawyer"
 
 </details>
 
@@ -45,30 +39,18 @@ _Type: People_
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
 
 **[00:27:42](/episodes/ep-5autG89PW6w.md#ent-person-andrew-tate-t-00-27-17)**
 > "...anging from Max Blumenthal to Andrew Tate."
 
-**[00:27:42](/episodes/ep-5autG89PW6w.md#ent-person-andrew-tate-t-00-27-17)**
-> "...from Max Blumenthal to Andrew Tate."
-
 </details>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (4 mentions)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
 
 **[00:36:20](/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-tate-t-00-36-02)**
 > "...unded by Qatar, I'm funded by Andrew Tate, because Andrew Tate is also from the UK, and my ..."
-
-**[00:36:20](/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-tate-t-00-36-02)**
-> "...unded by Andrew Tate, because Andrew Tate is also from the UK, and my husband knew him befo..."
-
-**[00:36:20](/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-tate-t-00-36-02)**
-> "...y Qatar, I'm funded by Andrew Tate, because Andrew Tate is also from the UK, and my ..."
-
-**[00:36:20](/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-tate-t-00-36-02)**
-> "...y Andrew Tate, because Andrew Tate is also from the UK, and my husband knew him befo..."
 
 </details>
 

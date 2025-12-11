@@ -1,14 +1,14 @@
 ---
 id: "ja26iltROkM"
 title: "Erika Kirk Forgives. The Feds Forget... | Candace Ep 240"
-description: "Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 - 81 entities, 10 events, 0 claims"
+description: "Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 - 87 entities, 10 events, 0 claims"
 published: "2025-09-22"
 youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
 ---
 
 **Published:** 2025-09-22 | [Watch on YouTube](https://www.youtube.com/watch?v=ja26iltROkM)
 
-**Stats:** 81 entities | 10 events | 0 claims
+**Stats:** 87 entities | 10 events | 0 claims
 
 ---
 
@@ -278,9 +278,9 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (81)</strong></summary>
+<summary><strong>Entities Mentioned (87)</strong></summary>
 
-**Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [MAGA movement](/entities/concept-maga-movement.md), [Zionism](/entities/concept-zionism.md)
+**Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [MAGA movement](/entities/concept-maga-movement.md), [Operation Mockingpastor](/entities/concept-operation-mockingpastor.md), [Palestinians](/entities/concept-palestinians.md), [Zionism](/entities/concept-zionism.md)
 
 **Dates:** [2023](/entities/date-2023.md), [2024](/entities/date-2024.md), [2025](/entities/date-2025.md), [September 10, 2025](/entities/date-september-10-2025.md), [September 10th](/entities/date-september-10th.md)
 
@@ -290,7 +290,7 @@ youtube_url: "https://www.youtube.com/watch?v=ja26iltROkM"
 
 **Laws & Legislation:** [Foreign Agents Registration Act](/entities/law-fara.md)
 
-**Organizations:** [AIPAC](/entities/org-aipac.md), [Amazon](/entities/org-amazon.md), [American Financing](/entities/org-american-financing.md), [Caldera Engineering](/entities/org-caldera-engineering.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Daily Mail](/entities/org-daily-mail.md), [Discord](/entities/org-discord.md), [FBI](/entities/org-fbi.md), [Federal Aviation Administration](/entities/org-faa.md), [Federal Reserve](/entities/org-federal-reserve.md), [Instagram](/entities/org-instagram.md), [LDS church](/entities/org-lds-church.md), [Preborn](/entities/org-preborn.md), [TMZ](/entities/org-tmz.md), [The Daily Wire](/entities/org-the-daily-wire.md), [TikTok](/entities/org-tiktok.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [U.S. Marines](/entities/org-us-marines.md), [U.S. Navy](/entities/org-us-navy.md), [United States Congress](/entities/org-united-states-congress.md), [United States Navy](/entities/org-united-states-navy.md), [Utah Valley University](/entities/org-utah-valley-university.md), [the federal government](/entities/org-the-federal-government.md)
+**Organizations:** [AIPAC](/entities/org-aipac.md), [Amazon](/entities/org-amazon.md), [American Financing](/entities/org-american-financing.md), [Caldera Engineering](/entities/org-caldera-engineering.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Daily Mail](/entities/org-daily-mail.md), [Dairy Queen](/entities/org-dairy-queen.md), [Discord](/entities/org-discord.md), [FBI](/entities/org-fbi.md), [Federal Aviation Administration](/entities/org-faa.md), [Federal Reserve](/entities/org-federal-reserve.md), [Instagram](/entities/org-instagram.md), [Just Thrive](/entities/org-just-thrive.md), [LDS church](/entities/org-lds-church.md), [Nimi Skincare](/entities/org-nimi-skincare.md), [Preborn](/entities/org-preborn.md), [TMZ](/entities/org-tmz.md), [The Daily Wire](/entities/org-the-daily-wire.md), [TikTok](/entities/org-tiktok.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [U.S. Marines](/entities/org-us-marines.md), [U.S. Navy](/entities/org-us-navy.md), [United States Congress](/entities/org-united-states-congress.md), [United States Navy](/entities/org-united-states-navy.md), [United States Senate](/entities/org-us-senate.md), [Utah Valley University](/entities/org-utah-valley-university.md), [the federal government](/entities/org-the-federal-government.md)
 
 **People:** [Alex Clark](/entities/person-alex-clark.md), [Alex Jones](/entities/person-alex-jones.md), [Ami Kozak](/entities/person-ami-kozak.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Bob Schulman](/entities/person-bob-schulman.md), [Brian Mast](/entities/person-brian-mast.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Rubin](/entities/person-dave-rubin.md), [Derek Maxfield](/entities/person-derek-maxfield.md), [Eric Bolling](/entities/person-eric-bolling.md), [Erika Kirk](/entities/person-erika-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [George Zinn](/entities/person-george-zinn.md), [Jack Posobiec](/entities/person-jack-posobiec.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jesus Christ](/entities/person-jesus-christ.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Laura Loomer](/entities/person-laura-loomer.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Seth Dillon](/entities/person-seth-dillon.md), [Skyler](/entities/person-skyler.md), [Ted Cruz](/entities/person-ted-cruz.md), [Timothy McVeigh](/entities/person-timothy-mcveigh.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 

@@ -1,6 +1,6 @@
 ---
 title: "Greta Van Susteren"
-description: "Greta Van Susteren (People) - 8 mentions"
+description: "Greta Van Susteren (People) - 5 mentions"
 id: "person-greta-van-susteren"
 type: "PERSON"
 ---
@@ -13,36 +13,27 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (3 mentions)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
 
 **[00:01:58](/episodes/ep-K5GjF53bfN4.md#ent-person-greta-van-susteren-t-00-01-58)**
 > "...d not forget how weird that is, especially because when he went on multiple hits doing Fox News and Greta Van Susteren's (Greta Van Susteren) show, he lied about the contents of a letter that Charlie (Charlie Kirk) had..."
 
-**[00:01:58](/episodes/ep-K5GjF53bfN4.md#ent-person-greta-van-susteren-t-00-01-58)**
-> "...tiple hits doing Fox News and Greta Van Susteren's (Greta Van Susteren) show, he lied about the cont..."
-
-**[00:01:58](/episodes/ep-K5GjF53bfN4.md#ent-person-greta-van-susteren-t-00-01-58)**
-> "...ews and Greta Van Susteren's (Greta Van Susteren) show, he lied about the contents of a letter tha..."
-
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (5 mentions)</summary>
-
-**[00:26:16](/episodes/ep-czVBmqZP6Ss.md#ent-person-greta-van-susteren-t-00-26-07)**
-> "...t people who rush to misrepresent things. And it's not a good sign when somebody has to ask you, as Greta Van Susteren asked Benjamin Netanyahu in his secondary hit regarding Charlie (Charlie Kirk)’s assassination. It'..."
-
-**[00:26:36](/episodes/ep-czVBmqZP6Ss.md#ent-person-greta-van-susteren-t-00-26-07)**
-> "...ion. It doesn't make you a great person, okay? And that's what she asked him. Take a listen. (Clip: Greta Van Susteren / Benjamin Netanyahu) But before I let you go, I want you to address one thing, and it's just the a..."
-
-**[00:26:30](/episodes/ep-czVBmqZP6Ss.md#ent-person-greta-van-susteren-t-00-26-07)**
-> "as Greta Van Susteren asked Benjamin Netanyahu in his secondary hit"
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (4 mentions)</summary>
 
 **[00:26:16](/episodes/ep-czVBmqZP6Ss.md#ent-person-greta-van-susteren-t-00-26-07)**
 > "as Greta Van Susteren asked Benjamin Netanyahu"
 
 **[00:26:16](/episodes/ep-czVBmqZP6Ss.md#ent-person-greta-van-susteren-t-00-26-07)**
-> "...n somebody has to ask you, as Greta Van Susteren asked Benjamin Netanyahu in his secondary hit reg..."
+> "...t people who rush to misrepresent things. And it's not a good sign when somebody has to ask you, as Greta Van Susteren asked Benjamin Netanyahu in his secondary hit regarding Charlie (Charlie Kirk)’s assassination. It'..."
+
+**[00:26:30](/episodes/ep-czVBmqZP6Ss.md#ent-person-greta-van-susteren-t-00-26-07)**
+> "as Greta Van Susteren asked Benjamin Netanyahu in his secondary hit"
+
+**[00:26:36](/episodes/ep-czVBmqZP6Ss.md#ent-person-greta-van-susteren-t-00-26-07)**
+> "...ion. It doesn't make you a great person, okay? And that's what she asked him. Take a listen. (Clip: Greta Van Susteren / Benjamin Netanyahu) But before I let you go, I want you to address one thing, and it's just the a..."
 
 </details>
 

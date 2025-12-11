@@ -1,6 +1,6 @@
 ---
 title: "St. Louis"
-description: "St. Louis (Places) - 10 mentions"
+description: "St. Louis (Places) - 5 mentions"
 id: "gpe-st-louis"
 type: "GPE"
 ---
@@ -13,18 +13,15 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
 **[00:20:11](/episodes/ep-SKGUzGHymcI.md#ent-gpe-st-louis-t-00-20-11)**
 > "...ernment Falcon 7X on two separate Wilmington runs for no reason. I mean, just look at the choice of St. Louis, Wichita, Omaha, Lincoln, Williston, Minot, and Provo. None of these are standard diplomatic hubs. ..."
 
-**[00:20:11](/episodes/ep-SKGUzGHymcI.md#ent-gpe-st-louis-t-00-20-11)**
-> "...n, just look at the choice of St. Louis, Wichita, Omaha, Lincoln, Williston, Minot, and P..."
-
 </details>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (8 mentions)</summary>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (4 mentions)</summary>
 
 **[00:09:55](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-st-louis-t-00-09-40)**
 > "...erceived—was a bit of a hostile takeover. Okay? February 21st, we now have BND, okay? It flies into St. Louis, Missouri, and it lands at 2:38 p.m., and it's gonna stay until May. The blue one you're gonna see ..."
@@ -37,18 +34,6 @@ _Type: Places_
 
 **[00:17:23](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-st-louis-t-00-16-57)**
 > "...e yellow plane for the sake of this timeline. The yellow plane flies from Cairo—always via Paris—to St. Louis again, and it lands in Missouri. And guess what? April 2nd, TPUSA Faith— co-chaired by Rob McCoy—ki..."
-
-**[00:09:55](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-st-louis-t-00-09-40)**
-> "It flies into St. Louis, Missouri, and it lands at 2:38 p.m., and it's go..."
-
-**[00:10:09](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-st-louis-t-00-09-40)**
-> "...gh Paris—and it then lands in St. Louis, Missouri."
-
-**[00:13:39](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-st-louis-t-00-13-10)**
-> "...ned to you—that plane gets to St. Louis, Missouri."
-
-**[00:17:23](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-st-louis-t-00-16-57)**
-> "...rom Cairo—always via Paris—to St. Louis again, and it lands in Missouri."
 
 </details>
 

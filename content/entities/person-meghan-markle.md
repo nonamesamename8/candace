@@ -15,14 +15,14 @@ _Type: People_
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
 
-**[00:05:18](/episodes/ep-6DhWawD4ZiM.md#ent-person-meghan-markle-t-00-04-36)**
-> "this is going to be read as Meghan Markle syndrome"
-
 **[00:04:58](/episodes/ep-6DhWawD4ZiM.md#ent-person-meghan-markle-t-00-04-36)**
 > "..., this is going to be read as Meghan Markle syndrome, okay?"
 
 **[00:05:07](/episodes/ep-6DhWawD4ZiM.md#ent-person-meghan-markle-t-00-04-36)**
 > "Meghan Markle syndrome where you want privacy when you want it,..."
+
+**[00:05:18](/episodes/ep-6DhWawD4ZiM.md#ent-person-meghan-markle-t-00-04-36)**
+> "this is going to be read as Meghan Markle syndrome"
 
 </details>
 

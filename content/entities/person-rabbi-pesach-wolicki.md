@@ -1,6 +1,6 @@
 ---
 title: "Rabbi Pesach Wolicki"
-description: "Rabbi Pesach Wolicki (People) - 19 mentions"
+description: "Rabbi Pesach Wolicki (People) - 9 mentions"
 id: "person-rabbi-pesach-wolicki"
 type: "PERSON"
 aliases:
@@ -17,7 +17,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (19 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (9 mentions)</summary>
+
+**[00:19:41](/episodes/ep-2Riv3I7D0Yk.md#ent-person-rabbi-pesach-wolicki-t-00-19-30)**
+> "... (Charlie Kirk) the night before he died—probably in that three-hour window. He bragged that he and Rabbi Wolicki had a Zoom call with Charlie (Charlie Kirk). Why? Because they said Charlie (Charlie Kirk) wanted t..."
 
 **[00:26:39](/episodes/ep-2Riv3I7D0Yk.md#ent-person-rabbi-pesach-wolicki-t-00-26-31)**
 > "...hers say he was going in, you know, very, very simple point: Would he have had on me and our friend Rabbi Pesach Wolicki literally the night before his death to spend an entire hour talking about how to respond to anti-I..."
@@ -42,39 +45,6 @@ _Type: People_
 
 **[00:32:53](/episodes/ep-2Riv3I7D0Yk.md#ent-person-rabbi-pesach-wolicki-t-00-32-53)**
 > "...ng that. He was aware that they had lost the PR war, and it was weighing on him that he was seen—as Rabbi Pesach Wolicki accurately states—as this person who just defends Israel, especially when what they are doing is so..."
-
-**[00:19:41](/episodes/ep-2Riv3I7D0Yk.md#ent-person-rabbi-pesach-wolicki-t-00-19-30)**
-> "... (Charlie Kirk) the night before he died—probably in that three-hour window. He bragged that he and Rabbi Wolicki had a Zoom call with Charlie (Charlie Kirk). Why? Because they said Charlie (Charlie Kirk) wanted t..."
-
-**[00:19:41](/episodes/ep-2Riv3I7D0Yk.md#ent-person-rabbi-pesach-wolicki-t-00-19-30)**
-> "He bragged that he and Rabbi Wolicki (Pesach Wolicki) had a Zoom call with Charlie (Ch..."
-
-**[00:26:39](/episodes/ep-2Riv3I7D0Yk.md#ent-person-rabbi-pesach-wolicki-t-00-26-31)**
-> "...have had on me and our friend Rabbi Pesach Wolicki literally the night before his death to spend an ..."
-
-**[00:27:21](/episodes/ep-2Riv3I7D0Yk.md#ent-person-rabbi-pesach-wolicki-t-00-27-00)**
-> "...—to tell you that that rabbi, Rabbi Pesach Wolicki, was also on the now infamous text chain."
-
-**[00:28:37](/episodes/ep-2Riv3I7D0Yk.md#ent-person-rabbi-pesach-wolicki-t-00-28-30)**
-> "Now I will say that regarding Rabbi Pesach Wolicki,"
-
-**[00:29:01](/episodes/ep-2Riv3I7D0Yk.md#ent-person-rabbi-pesach-wolicki-t-00-28-30)**
-> "Give us our hindsight 20/20, Rabbi Pesach Wolicki. (Clip of Rabbi Pesach Wolicki:)"
-
-**[00:29:01](/episodes/ep-2Riv3I7D0Yk.md#ent-person-rabbi-pesach-wolicki-t-00-28-30)**
-> "...abbi Pesach Wolicki. (Clip of Rabbi Pesach Wolicki:)"
-
-**[00:31:39](/episodes/ep-2Riv3I7D0Yk.md#ent-person-rabbi-pesach-wolicki-t-00-31-38)**
-> "Now that you know that Rabbi Pesach Wolicki actually mentioned both Tucker (Tucker Carlson) a..."
-
-**[00:32:03](/episodes/ep-2Riv3I7D0Yk.md#ent-person-rabbi-pesach-wolicki-t-00-31-38)**
-> "Now, I would say again, Rabbi Pesach Wolicki, more of a soul."
-
-**[00:32:28](/episodes/ep-2Riv3I7D0Yk.md#ent-person-rabbi-pesach-wolicki-t-00-32-20)**
-> "At least Rabbi Pesach Wolicki is like, he was under some pressure, okay?"
-
-**[00:32:53](/episodes/ep-2Riv3I7D0Yk.md#ent-person-rabbi-pesach-wolicki-t-00-32-53)**
-> "...ng on him that he was seen—as Rabbi Pesach Wolicki accurately states—as this person who just defends..."
 
 </details>
 

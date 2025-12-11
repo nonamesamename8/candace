@@ -1,6 +1,6 @@
 ---
 title: "Etsy"
-description: "Etsy (Organizations) - 7 mentions"
+description: "Etsy (Organizations) - 4 mentions"
 id: "org-etsy"
 type: "ORG"
 ---
@@ -13,28 +13,19 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (7 mentions)</summary>
-
-**[00:34:25](/episodes/ep-QZWSsq8ZWzw.md#ent-org-etsy-t-00-33-55)**
-> "... women, Jezebel is more than happy to be the hag of his nightmares." And they went onto the website Etsy—yes, Etsy—to, quote, "cast a curse on him." Yes, this is actually a thing. Etsy, the website known ..."
-
-**[00:34:32](/episodes/ep-QZWSsq8ZWzw.md#ent-org-etsy-t-00-34-32)**
-> "...nt onto the website Etsy—yes, Etsy—to, quote, "cast a curse on him." Yes, this is actually a thing. Etsy, the website known for making arts and crafts on demand, will happily cast a hex through its witche..."
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (4 mentions)</summary>
 
 **[00:34:25](/episodes/ep-QZWSsq8ZWzw.md#ent-org-etsy-t-00-33-55)**
 > "the website Etsy...cast a curse"
 
+**[00:34:25](/episodes/ep-QZWSsq8ZWzw.md#ent-org-etsy-t-00-33-55)**
+> "... women, Jezebel is more than happy to be the hag of his nightmares." And they went onto the website Etsy—yes, Etsy—to, quote, "cast a curse on him." Yes, this is actually a thing. Etsy, the website known ..."
+
 **[00:34:30](/episodes/ep-QZWSsq8ZWzw.md#ent-org-etsy-t-00-33-55)**
 > "they went onto the website Etsy to cast a curse on him"
 
-**[00:34:25](/episodes/ep-QZWSsq8ZWzw.md#ent-org-etsy-t-00-33-55)**
-> "...nd they went onto the website Etsy—yes, Etsy—to, quote, "cast a curse on him.""
-
-**[00:34:25](/episodes/ep-QZWSsq8ZWzw.md#ent-org-etsy-t-00-33-55)**
-> "...nt onto the website Etsy—yes, Etsy—to, quote, "cast a curse on him.""
-
 **[00:34:32](/episodes/ep-QZWSsq8ZWzw.md#ent-org-etsy-t-00-34-32)**
-> "Etsy, the website known for making arts and crafts on ..."
+> "...nt onto the website Etsy—yes, Etsy—to, quote, "cast a curse on him." Yes, this is actually a thing. Etsy, the website known for making arts and crafts on demand, will happily cast a hex through its witche..."
 
 </details>
 

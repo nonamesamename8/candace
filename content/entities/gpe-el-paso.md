@@ -1,6 +1,6 @@
 ---
 title: "El Paso"
-description: "El Paso (Places) - 9 mentions"
+description: "El Paso (Places) - 6 mentions"
 id: "gpe-el-paso"
 type: "GPE"
 ---
@@ -13,16 +13,13 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>
-
-**[00:45:06](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-44-27)**
-> "However, at 12 31 p.m. on September 9th, it flies from Fort Huachuca to El Paso"
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
 
 **[00:44:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-44-27)**
 > "...t flies from Fort Huachuca to El Paso and then El Paso back to St. Andrews."
 
-**[00:44:34](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-44-27)**
-> "... Huachuca to El Paso and then El Paso back to St. Andrews."
+**[00:45:06](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-44-27)**
+> "However, at 12 31 p.m. on September 9th, it flies from Fort Huachuca to El Paso"
 
 **[00:45:06](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-el-paso-t-00-44-27)**
 > "And he also brings an El Paso."
@@ -33,19 +30,13 @@ _Type: Places_
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (4 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
 **[00:01:44](/episodes/ep-iHav0PPzUz8.md#ent-gpe-el-paso-t-00-01-22)**
 > "...y for whatever reason. This plane departed from the Biggs Army Airfield at 6:13 a.m. That's down in El Paso, Texas, right? Candace Owens: And despite the fact that they were heading to Montana, they decided ..."
 
 **[00:03:47](/episodes/ep-iHav0PPzUz8.md#ent-gpe-el-paso-t-00-03-31)**
 > "...lace 26 minutes after. Candace Owens: And then the plane went back home or back to the home base in El Paso. Candace Owens: Now, it's possible—just to be fair here—that the plane was running a military train..."
-
-**[00:01:44](/episodes/ep-iHav0PPzUz8.md#ent-gpe-el-paso-t-00-01-22)**
-> "...d at 6:13 a.m. That's down in El Paso, Texas, right?"
-
-**[00:03:47](/episodes/ep-iHav0PPzUz8.md#ent-gpe-el-paso-t-00-03-31)**
-> "...e or back to the home base in El Paso."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Governor Cox"
-description: "Governor Cox (People) - 67 mentions"
+description: "Governor Cox (People) - 34 mentions"
 id: "person-governor-cox"
 type: "PERSON"
 aliases:
@@ -18,32 +18,23 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
 
 **[00:38:16](/episodes/ep-5autG89PW6w.md#ent-person-governor-cox-t-00-38-02)**
 > "... Anyways, I can tell you guys—I can break this for you—that the government—and this would implicate Governor Cox and whoever else was a part of that press conference the morning after, the 33 hours after they app..."
 
-**[00:38:16](/episodes/ep-5autG89PW6w.md#ent-person-governor-cox-t-00-38-02)**
-> "...ment—and this would implicate Governor Cox and whoever else was a part of that press confere..."
-
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (3 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
 **[00:06:32](/episodes/ep-adJ4LNGp84I.md#t-00-06-18)**
 > "...son is Judge Tony F. Graf Jr. He was recently appointed to the 4th District Court in May of 2025 by Governor Spencer Cox. I was also informed that the coroner in this case was also brand spanking new. That name has not y..."
 
-**[00:06:32](/episodes/ep-adJ4LNGp84I.md#t-00-06-18)**
-> "...trict Court in May of 2025 by Governor Spencer Cox."
-
-**[00:06:32](/episodes/ep-adJ4LNGp84I.md#t-00-06-18)**
-> "...rt in May of 2025 by Governor Spencer Cox."
-
 </details>
 
 <details>
-<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (18 mentions)</summary>
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (8 mentions)</summary>
 
 **[00:25:53](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-governor-cox-t-00-25-45)**
 > "...stigation that he worked on Phil Lyman's gubernatorial campaign. Phil Lyman ran against the current Governor Cox, and he lost. And one day—very early on; this must have been like day three—Nick cold calls me, and..."
@@ -69,65 +60,32 @@ _Type: People_
 **[00:41:33](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-governor-cox-t-00-41-28)**
 > "...—that Tyler Bowyer and the Lyman have been speaking, and that they're—you know—really going to make Governor Cox—and I'm paraphrasing here—but apparently there's another Utah event—USU event—coming up, and Govern..."
 
-**[00:25:53](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-governor-cox-t-00-25-45)**
-> "...Lyman ran against the current Governor Cox, and he lost."
-
-**[00:36:15](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-governor-cox-t-00-35-53)**
-> "...trying to get me to look into Governor Cox because he's—according to Tiffany—very supportive..."
-
-**[00:36:20](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-governor-cox-t-00-35-53)**
-> "...d look into—Tiffany said—into Governor Cox."
-
-**[00:36:36](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-governor-cox-t-00-36-36)**
-> "...e, “You should look into this Governor Cox because he likes trans.”"
-
-**[00:36:57](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-governor-cox-t-00-36-36)**
-> "... ask a question further about Governor Cox on that day."
-
-**[00:37:09](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-governor-cox-t-00-36-36)**
-> "Oh, pushing that because Governor Cox is his—sorry, I said Democrat—because he's his—yo..."
-
-**[00:41:28](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-governor-cox-t-00-41-28)**
-> "And then he mentioned Governor Cox, and he mentions Tyler Bowyer of Turning Point US..."
-
-**[00:41:33](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-governor-cox-t-00-41-28)**
-> "...you know—really going to make Governor Cox—and I'm paraphrasing here—but apparently there's ..."
-
-**[00:41:33](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-governor-cox-t-00-41-28)**
-> "...vent—USU event—coming up, and Governor Cox is supposed to speak, and Phil Lyman intimates th..."
-
-**[00:41:33](/episodes/ep-ZGxnf5cj4Uw.md#ent-person-governor-cox-t-00-41-28)**
-> "...you know—at this TPUSA event, Governor Cox isn't going to look great."
-
 </details>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (1 mentions)</summary>
 
 **[00:15:57](/episodes/ep-K5GjF53bfN4.md#ent-person-governor-cox-t-00-15-27)**
 > "...e offense and getting them the footage. But the feds never reached out to him until the 15th. After Governor Cox said the investigation was over and they had the guy, the feds reached out to him and said, "Hey, y..."
 
-**[00:15:57](/episodes/ep-K5GjF53bfN4.md#ent-person-governor-cox-t-00-15-27)**
-> "After Governor Cox said the investigation was over and they had the ..."
-
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (2 mentions)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1 mentions)</summary>
 
 **[00:27:52](/episodes/ep-sreYYcID-QY.md#ent-person-governor-cox-t-00-27-27)**
 > "...operty and it's yours, I don't know how they can tell you it's not yours anymore since—don't forget—Governor Cox said, "It's all wrapped up. It's over. We've got him; move on." I don't see how you showing us a Do..."
 
-**[00:27:52](/episodes/ep-sreYYcID-QY.md#ent-person-governor-cox-t-00-27-27)**
-> "...rs anymore since—don't forget—Governor Cox said, "It's all wrapped up."
-
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (14 mentions)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (7 mentions)</summary>
 
 **[00:07:58](/episodes/ep-2WEHTk0Xewg.md#ent-person-governor-cox-t-00-07-58)**
 > "...which I find to be strange. We don't know what that second suspect is wearing until 5:30 p.m., when Governor Cox—12 minutes into a press conference; the press conference began at 5:30 p.m.—mentions that the secon..."
+
+**[00:08:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-governor-cox-t-00-07-58)**
+> "Governor Cox has confirmed this is him. Not mentioned in the indictment."
 
 **[00:15:17](/episodes/ep-2WEHTk0Xewg.md#ent-person-governor-cox-t-00-15-06)**
 > "...at's how this day begins—that is walking through a neighborhood just outside of university grounds. Governor Cox has confirmed this is him. Not mentioned in the indictment. That's curious. Seems very relevant. Su..."
@@ -144,40 +102,19 @@ _Type: People_
 **[00:31:04](/episodes/ep-2WEHTk0Xewg.md#ent-person-governor-cox-t-00-30-29)**
 > "... six-minute clip, but listen to how he wraps up this conference too because it's relevant. (Clip of Governor Cox) Good morning, ladies and gentlemen. We got him. This is a very sad day again for our country—a ter..."
 
-**[00:08:18](/episodes/ep-2WEHTk0Xewg.md#ent-person-governor-cox-t-00-07-58)**
-> "Governor Cox has confirmed this is him. Not mentioned in the indictment."
-
-**[00:07:58](/episodes/ep-2WEHTk0Xewg.md#ent-person-governor-cox-t-00-07-58)**
-> "...wearing until 5:30 p.m., when Governor Cox—12 minutes into a press conference; the press con..."
-
-**[00:15:17](/episodes/ep-2WEHTk0Xewg.md#ent-person-governor-cox-t-00-15-06)**
-> "Governor Cox has confirmed this is him."
-
-**[00:25:09](/episodes/ep-2WEHTk0Xewg.md#ent-person-governor-cox-t-00-24-54)**
-> "...we're going to hear that from Governor Cox the following morning."
-
-**[00:27:49](/episodes/ep-2WEHTk0Xewg.md#ent-person-governor-cox-t-00-27-33)**
-> "Governor Cox (clip): He's gonna make it seem like Lance doesn'..."
-
-**[00:27:49](/episodes/ep-2WEHTk0Xewg.md#ent-person-governor-cox-t-00-27-33)**
-> "...l give the synopsis. (Clip of Governor Cox)"
-
-**[00:29:09](/episodes/ep-2WEHTk0Xewg.md#ent-person-governor-cox-t-00-29-06)**
-> "I don't like Governor Cox."
-
-**[00:31:04](/episodes/ep-2WEHTk0Xewg.md#ent-person-governor-cox-t-00-30-29)**
-> "...cause it's relevant. (Clip of Governor Cox)"
-
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (11 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (6 mentions)</summary>
 
 **[00:06:18](/episodes/ep-q7f8r-THr84.md#ent-person-governor-cox-t-00-06-16)**
 > "...ere's been a lot that's been said that I think a lot of the miscommunication is perhaps coming from Governor Cox. I think he, in and of himself, I probably should look into Governor Cox. I'm not sure why he said ..."
 
 **[00:06:29](/episodes/ep-q7f8r-THr84.md#ent-person-governor-cox-t-00-06-16)**
 > "...ion is perhaps coming from Governor Cox. I think he, in and of himself, I probably should look into Governor Cox. I'm not sure why he said some things that are apparently untrue. Maybe he misspoke. I understand t..."
+
+**[00:06:36](/episodes/ep-q7f8r-THr84.md#ent-person-governor-cox-t-00-06-16)**
+> "I think a lot of the miscommunication is perhaps coming from Governor Cox. I think he, in and of himself, I probably should look into Governor Cox"
 
 **[00:10:32](/episodes/ep-q7f8r-THr84.md#ent-person-governor-cox-t-00-10-09)**
 > "...Z? Also, you will notice that nowhere in this indictment as we go on are they going to mention what Governor Cox spoke about. Like, first, he came in a different outfit. Remember, Governor Cox said he was wearing..."
@@ -188,28 +125,10 @@ _Type: People_
 **[01:12:00](/episodes/ep-q7f8r-THr84.md#ent-person-governor-cox-t-01-11-54)**
 > "...eal spiritual evil and you felt inclined to go to church. Maple Leaf Girl writes, "Please look into Governor Cox. He's a corrupt RINO. He stole the election." I've gotten a lot of emails that are saying that. I o..."
 
-**[00:06:36](/episodes/ep-q7f8r-THr84.md#ent-person-governor-cox-t-00-06-16)**
-> "I think a lot of the miscommunication is perhaps coming from Governor Cox. I think he, in and of himself, I probably should look into Governor Cox"
-
-**[00:06:18](/episodes/ep-q7f8r-THr84.md#ent-person-governor-cox-t-00-06-16)**
-> "...cation is perhaps coming from Governor Cox."
-
-**[00:06:29](/episodes/ep-q7f8r-THr84.md#ent-person-governor-cox-t-00-06-16)**
-> "..., I probably should look into Governor Cox."
-
-**[00:10:32](/episodes/ep-q7f8r-THr84.md#ent-person-governor-cox-t-00-10-09)**
-> "...re they going to mention what Governor Cox spoke about."
-
-**[00:10:41](/episodes/ep-q7f8r-THr84.md#ent-person-governor-cox-t-00-10-09)**
-> "Remember, Governor Cox said he was wearing the light shorts and maroon s..."
-
-**[01:12:00](/episodes/ep-q7f8r-THr84.md#ent-person-governor-cox-t-01-11-54)**
-> "...irl writes, "Please look into Governor Cox."
-
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (15 mentions)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (9 mentions)</summary>
 
 **[00:40:10](/episodes/ep-czVBmqZP6Ss.md#ent-person-governor-cox-t-00-39-50)**
 > "...een right now, hands in his pockets, that is just walking outside of university grounds, okay? Now, Governor Cox tells us that at 8:29, which is an interesting timeline, Governor Cox tells us that that is when th..."
@@ -219,6 +138,9 @@ _Type: People_
 
 **[00:40:42](/episodes/ep-czVBmqZP6Ss.md#ent-person-governor-cox-t-00-40-33)**
 > "...campus at 8:29. I'm going to allow you to hear Governor Cox say that himself. Take a listen. (Clip: Governor Cox) Investigators reviewed additional video footage from UVU surveillance and identified Robinson arri..."
+
+**[00:41:47](/episodes/ep-czVBmqZP6Ss.md#ent-person-governor-cox-t-00-40-33)**
+> "Now, Governor Cox tells us that at 8:29, which is an interesting timeline"
 
 **[00:50:16](/episodes/ep-czVBmqZP6Ss.md#ent-person-governor-cox-t-00-50-00)**
 > "...n't do it. Dad says you did. Okay, how did they arrest him without a confession? I'm gonna show you Governor Cox's statement where he says that the kid has not confessed. Take a listen. (Clip: Governor Cox) I kno..."
@@ -234,27 +156,6 @@ _Type: People_
 
 **[00:52:24](/episodes/ep-czVBmqZP6Ss.md#ent-person-governor-cox-t-00-51-44)**
 > "...on this social media app, Discord, they were discussing the rifle drop point. Take a listen. (Clip: Governor Cox) Investigators identified an individual as the roommate of Robinson. Investigators interviewed that..."
-
-**[00:41:47](/episodes/ep-czVBmqZP6Ss.md#ent-person-governor-cox-t-00-40-33)**
-> "Now, Governor Cox tells us that at 8:29, which is an interesting timeline"
-
-**[00:40:10](/episodes/ep-czVBmqZP6Ss.md#ent-person-governor-cox-t-00-39-50)**
-> "Now, Governor Cox tells us that at 8:29, which is an interesting ti..."
-
-**[00:40:10](/episodes/ep-czVBmqZP6Ss.md#ent-person-governor-cox-t-00-39-50)**
-> "...h is an interesting timeline, Governor Cox tells us that that is when the shooter, Tyler Rob..."
-
-**[00:40:40](/episodes/ep-czVBmqZP6Ss.md#ent-person-governor-cox-t-00-40-33)**
-> "...'m going to allow you to hear Governor Cox say that himself."
-
-**[00:50:16](/episodes/ep-czVBmqZP6Ss.md#ent-person-governor-cox-t-00-50-00)**
-> "I'm gonna show you Governor Cox's statement where he says that the kid has not conf..."
-
-**[00:52:06](/episodes/ep-czVBmqZP6Ss.md#ent-person-governor-cox-t-00-51-44)**
-> "So Governor Cox came out and told us that there were messages abo..."
-
-**[00:52:16](/episodes/ep-czVBmqZP6Ss.md#ent-person-governor-cox-t-00-51-44)**
-> "Let's listen to Governor Cox say that on this social media app, Discord, they ..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "James Comey"
-description: "James Comey (People) - 2 mentions"
+description: "James Comey (People) - 1 mention"
 id: "person-james-comey"
 type: "PERSON"
 ---
@@ -13,13 +13,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (2 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
 
 **[00:09:33](/episodes/ep-t1YtLS1n8Vs.md#ent-person-james-comey-t-00-09-05)**
 > "...ip, sharing intel. They were training agents. And he says, no more. Okay, he wrote this in a tweet. James Comey wrote love letters to the ADL and embedded FBI agents with them, a group that ran disgraceful ops s..."
-
-**[00:09:33](/episodes/ep-t1YtLS1n8Vs.md#ent-person-james-comey-t-00-09-05)**
-> "James Comey wrote love letters to the ADL and embedded FBI ag..."
 
 </details>
 

@@ -15,11 +15,11 @@ _Type: Organizations_
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
 
-**[00:18:33](/episodes/ep-2WEHTk0Xewg.md#ent-org-in-n-out-t-00-18-10)**
-> "The New York Post (every exclusive ever: Jeffrey Epstein's death pictures, Ghislaine Maxwell found at an In-N-Out)"
-
 **[00:18:20](/episodes/ep-2WEHTk0Xewg.md#ent-org-in-n-out-t-00-18-10)**
 > "...Ghislaine Maxwell found at an In-N-Out)—it's always the New York Post, okay?"
+
+**[00:18:33](/episodes/ep-2WEHTk0Xewg.md#ent-org-in-n-out-t-00-18-10)**
+> "The New York Post (every exclusive ever: Jeffrey Epstein's death pictures, Ghislaine Maxwell found at an In-N-Out)"
 
 </details>
 

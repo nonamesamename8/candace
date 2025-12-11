@@ -15,11 +15,11 @@ _Type: People_
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
 
-**[00:42:52](/episodes/ep-aDlhjfW6hz8.md#ent-person-benny-johnson-t-00-42-18)**
-> "Brendan Carr of the FCC was joining Benny Johnson"
-
 **[00:42:51](/episodes/ep-aDlhjfW6hz8.md#ent-person-benny-johnson-t-00-42-18)**
 > "...n Carr of the FCC was joining Benny Johnson."
+
+**[00:42:52](/episodes/ep-aDlhjfW6hz8.md#ent-person-benny-johnson-t-00-42-18)**
+> "Brendan Carr of the FCC was joining Benny Johnson"
 
 </details>
 

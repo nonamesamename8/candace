@@ -1,14 +1,14 @@
 ---
 id: "Qfwr08Ebczo"
 title: "EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258"
-description: "EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 - 78 entities, 7 events, 0 claims"
+description: "EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 - 88 entities, 7 events, 0 claims"
 published: "2025-11-04"
 youtube_url: "https://www.youtube.com/watch?v=Qfwr08Ebczo"
 ---
 
 **Published:** 2025-11-04 | [Watch on YouTube](https://www.youtube.com/watch?v=Qfwr08Ebczo)
 
-**Stats:** 78 entities | 7 events | 0 claims
+**Stats:** 88 entities | 7 events | 0 claims
 
 ---
 
@@ -268,19 +268,19 @@ youtube_url: "https://www.youtube.com/watch?v=Qfwr08Ebczo"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (78)</strong></summary>
+<summary><strong>Entities Mentioned (88)</strong></summary>
 
-**Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [Zionism](/entities/concept-zionism.md), [devil](/entities/concept-devil.md)
+**Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [Palestinians](/entities/concept-palestinians.md), [Zionism](/entities/concept-zionism.md), [devil](/entities/concept-devil.md)
 
 **Dates:** [2018](/entities/date-2018.md), [2025](/entities/date-2025.md), [2028](/entities/date-2028.md), [August 20th](/entities/date-august-20th.md), [August 25th](/entities/date-august-25th.md), [August 27th](/entities/date-august-27th.md), [August 29th](/entities/date-august-29th.md), [July 11th](/entities/date-july-11th.md), [September 10th](/entities/date-september-10th.md), [September 11th](/entities/date-september-11th.md), [mid-July](/entities/date-mid-july.md)
 
 **Events:** [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Moon landing](/entities/event-moon-landing.md)
 
-**Places:** [Australia](/entities/gpe-australia.md), [California](/entities/gpe-california.md), [Connecticut](/entities/gpe-connecticut.md), [Egypt](/entities/gpe-egypt.md), [Florida](/entities/gpe-florida.md), [Israel](/entities/gpe-israel.md), [Jerusalem](/entities/gpe-jerusalem.md), [Maine](/entities/gpe-maine.md), [New York](/entities/gpe-new-york.md), [Phoenix](/entities/gpe-phoenix.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Texas](/entities/gpe-texas.md), [Thousand Oaks](/entities/gpe-thousand-oaks.md), [Thousand Oaks, California](/entities/gpe-thousand-oaks-california.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md)
+**Places:** [Australia](/entities/gpe-australia.md), [California](/entities/gpe-california.md), [Connecticut](/entities/gpe-connecticut.md), [Egypt](/entities/gpe-egypt.md), [Europe](/entities/gpe-europe.md), [Florida](/entities/gpe-florida.md), [Hall of Flags](/entities/gpe-hall-of-flags.md), [India](/entities/gpe-india.md), [Israel](/entities/gpe-israel.md), [Jerusalem](/entities/gpe-jerusalem.md), [Maine](/entities/gpe-maine.md), [New York](/entities/gpe-new-york.md), [Phoenix](/entities/gpe-phoenix.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Tennessee](/entities/gpe-tennessee.md), [Texas](/entities/gpe-texas.md), [Thousand Oaks](/entities/gpe-thousand-oaks.md), [Thousand Oaks, California](/entities/gpe-thousand-oaks-california.md), [Turkey](/entities/gpe-turkey.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md)
 
-**Organizations:** [AIPAC](/entities/org-aipac.md), [Calvary Chapel](/entities/org-calvary-chapel.md), [Club Candace](/entities/org-club-candace.md), [DailyWire](/entities/org-dailywire.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fortune](/entities/org-fortune.md), [Fox News](/entities/org-fox-news.md), [Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md), [IDF](/entities/org-idf.md), [IRS](/entities/org-irs.md), [Instagram](/entities/org-instagram.md), [Liberty University](/entities/org-liberty-university.md), [PragerU](/entities/org-prageru.md), [Preborn](/entities/org-preborn.md), [The Daily Wire](/entities/org-the-daily-wire.md), [TikTok](/entities/org-tiktok.md), [Turning Point USA](/entities/org-turning-point-usa.md), [United States Congress](/entities/org-united-states-congress.md), [Utah Valley Hospital](/entities/org-utah-valley-hospital.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+**Organizations:** [AIPAC](/entities/org-aipac.md), [American Financing](/entities/org-american-financing.md), [Calvary Chapel](/entities/org-calvary-chapel.md), [Club Candace](/entities/org-club-candace.md), [DailyWire](/entities/org-dailywire.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fortune](/entities/org-fortune.md), [Fox News](/entities/org-fox-news.md), [Godspeak Calvary Chapel](/entities/org-godspeak-calvary-chapel.md), [IDF](/entities/org-idf.md), [IRS](/entities/org-irs.md), [Instagram](/entities/org-instagram.md), [Liberty University](/entities/org-liberty-university.md), [PragerU](/entities/org-prageru.md), [Preborn](/entities/org-preborn.md), [Tax Network USA](/entities/org-tax-network-usa.md), [The Daily Wire](/entities/org-the-daily-wire.md), [TikTok](/entities/org-tiktok.md), [Turning Point USA](/entities/org-turning-point-usa.md), [United States Congress](/entities/org-united-states-congress.md), [University of Utah](/entities/org-university-of-utah.md), [Utah Valley Hospital](/entities/org-utah-valley-hospital.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Blake Neff](/entities/person-blake-neff.md), [C.S. Lewis](/entities/person-cs-lewis.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kash Patel](/entities/person-kash-patel.md), [Mark Levin](/entities/person-mark-levin.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Sam Parker](/entities/person-sam-parker.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Wilks Brothers](/entities/person-wilks-brothers.md)
+**People:** [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Blake Neff](/entities/person-blake-neff.md), [C.S. Lewis](/entities/person-cs-lewis.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Kash Patel](/entities/person-kash-patel.md), [Mark Levin](/entities/person-mark-levin.md), [Melissa (Village Crazy Lady)](/entities/person-melissa-village-crazy-lady.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Sam Parker](/entities/person-sam-parker.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Wilks Brothers](/entities/person-wilks-brothers.md)
 
 **Works & Media:** [Make Him a Sandwich](/entities/work-make-him-a-sandwich.md), [Succession](/entities/work-succession.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
 

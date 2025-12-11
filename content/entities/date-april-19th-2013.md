@@ -1,6 +1,6 @@
 ---
 title: "April 19th, 2013"
-description: "April 19th, 2013 (Dates) - 2 mentions"
+description: "April 19th, 2013 (Dates) - 1 mention"
 id: "date-april-19th-2013"
 type: "DATE"
 ---
@@ -13,13 +13,10 @@ _Type: Dates_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (2 mentions)</summary>
+<summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (1 mentions)</summary>
 
 **[00:06:41](/episodes/ep-2Riv3I7D0Yk.md#ent-date-april-19th-2013-t-00-06-13)**
 > "... sent a full 12 years ago about public executions. Here it is. Here is that retweet. Trump wrote on April 19th, 2013: "Should be public execution for all to see. You will end this bull fast." And Josh Hammer just rep..."
-
-**[00:06:41](/episodes/ep-2Riv3I7D0Yk.md#ent-date-april-19th-2013-t-00-06-13)**
-> "... that retweet. Trump wrote on April 19th, 2013:"
 
 </details>
 

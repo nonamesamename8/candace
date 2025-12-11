@@ -1,6 +1,6 @@
 ---
 title: "United States military"
-description: "United States military (Organizations) - 9 mentions"
+description: "United States military (Organizations) - 5 mentions"
 id: "org-united-states-military"
 type: "ORG"
 aliases:
@@ -25,41 +25,29 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (1 mentions)</summary>
 
 **[00:24:34](/episodes/ep-a-e7HC6SeK8.md#ent-org-united-states-military-t-00-24-09)**
 > "...hich commences—that joint operation that we told you about, which is biennial between Egypt and the United States military and other countries that are coming together. And it is being reported that it is going to run thro..."
 
-**[00:24:34](/episodes/ep-a-e7HC6SeK8.md#ent-org-united-states-military-t-00-24-09)**
-> "...iennial between Egypt and the United States military and other countries that are coming together."
-
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (4 mentions)</summary>
-
-**[00:56:02](/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-military-t-00-55-54)**
-> "...ng behind the scenes? It's almost like Tucker (Tucker Carlson) and I were being threatened from the United States military. And I should really say the global state military, because I do believe that we are run by the mil..."
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
 **[00:18:42](/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-military-t-00-18-18)**
 > "...his for you: "Tyler Robinson was never part of the French Foreign Legion. If he did not serve in an American military unit, he could not have trained with the French Foreign Legion," end quote. That's quite a way to d..."
 
-**[00:18:42](/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-military-t-00-18-18)**
-> "If he did not serve in an American military unit, he could not have trained with the French F..."
-
 **[00:56:02](/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-military-t-00-55-54)**
-> "...ere being threatened from the United States military."
+> "...ng behind the scenes? It's almost like Tucker (Tucker Carlson) and I were being threatened from the United States military. And I should really say the global state military, because I do believe that we are run by the mil..."
 
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
 **[00:51:29](/episodes/ep-LATnak75Si0.md#ent-org-united-states-military-t-00-50-59)**
 > "...dministration has been infiltrated, and there are extremely evil people that are at the helm of the United States military and that are... not caring at all about American lives in my viewpoint—not taking a stance whatsoev..."
-
-**[00:51:29](/episodes/ep-LATnak75Si0.md#ent-org-united-states-military-t-00-50-59)**
-> "...e that are at the helm of the United States military and that are..."
 
 </details>
 

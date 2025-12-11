@@ -1,6 +1,6 @@
 ---
 title: "Mike Lee"
-description: "Mike Lee (People) - 2 mentions"
+description: "Mike Lee (People) - 1 mention"
 id: "person-mike-lee"
 type: "PERSON"
 ---
@@ -13,13 +13,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
 
 **[00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55)**
 > "... probably part of the reason—politically speaking—that he was chosen for an internship with Senator Mike Lee of Utah. I feel like that was a little bit of political maneuvering. So I'm not clear why he's sudd..."
-
-**[00:07:09](/episodes/ep-YA1FxrDWNIo.md#t-00-06-55)**
-> "...or an internship with Senator Mike Lee of Utah."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "U.S. Marines"
-description: "U.S. Marines (Organizations) - 6 mentions"
+description: "U.S. Marines (Organizations) - 5 mentions"
 id: "org-us-marines"
 type: "ORG"
 aliases:
@@ -17,13 +17,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:16:09](/episodes/ep-tB5SXXmd9vU.md#ent-org-us-marines-t-00-16-09)**
 > "...the 4th Company, 2nd Foreign Infantry Regiment, the 6th Light Armored Brigade, were integrated with U.S. Marines of the 6th Marine Regiment for a three-week training deployment. That took place in California. And..."
-
-**[00:16:09](/episodes/ep-tB5SXXmd9vU.md#ent-org-us-marines-t-00-16-09)**
-> "...Brigade, were integrated with U.S. Marines of the 6th Marine Regiment for a three-week train..."
 
 </details>
 

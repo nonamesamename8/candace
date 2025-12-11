@@ -1,6 +1,6 @@
 ---
 title: "NAR"
-description: "NAR (Organizations) - 25 mentions"
+description: "NAR (Organizations) - 24 mentions"
 id: "org-nar"
 type: "ORG"
 aliases:
@@ -19,14 +19,14 @@ _Type: Organizations_
 <details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (7 mentions)</summary>
 
-**[00:15:32](/episodes/ep-YaZfwLQ7vrI.md#ent-org-nar-t-00-18-06)**
-> "NAR - New Apostolic Reformation described as aberrant theology bordering on occult"
-
 **[00:13:14](/episodes/ep-YaZfwLQ7vrI.md#ent-org-nar-t-00-18-06)**
 > "NAR. I brought this up to you before."
 
 **[00:13:32](/episodes/ep-YaZfwLQ7vrI.md#ent-org-nar-t-00-18-06)**
 > "Well, he is one of these NAR preachers—like I said—who came up with their Seve..."
+
+**[00:15:32](/episodes/ep-YaZfwLQ7vrI.md#ent-org-nar-t-00-18-06)**
+> "NAR - New Apostolic Reformation described as aberrant theology bordering on occult"
 
 **[00:17:48](/episodes/ep-YaZfwLQ7vrI.md#ent-org-nar-t-00-18-06)**
 > "...d on one of his podcasts that NAR was a cult—actually darker than a cult."
@@ -87,10 +87,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (5 mentions)</summary>
-
-**[00:24:54](/episodes/ep-Cq7nj9rxPdo.md#t-00-24-39)**
-> "Charlie meeting with NAR, New Apostolic Reformation"
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
 
 **[00:24:47](/episodes/ep-Cq7nj9rxPdo.md#t-00-24-39)**
 > "...postolic revival that he is a NAR person."
@@ -101,8 +98,8 @@ _Type: Organizations_
 **[00:24:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-24-39)**
 > "...rlie—Charlie was meeting with NAR, and NAR were the $25 million and above donors in..."
 
-**[00:24:51](/episodes/ep-Cq7nj9rxPdo.md#t-00-24-39)**
-> "...lie was meeting with NAR, and NAR were the $25 million and above donors in—from the..."
+**[00:24:54](/episodes/ep-Cq7nj9rxPdo.md#t-00-24-39)**
+> "Charlie meeting with NAR, New Apostolic Reformation"
 
 </details>
 

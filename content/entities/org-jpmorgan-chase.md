@@ -1,6 +1,6 @@
 ---
 title: "JPMorgan Chase"
-description: "JPMorgan Chase (Organizations) - 2 mentions"
+description: "JPMorgan Chase (Organizations) - 1 mention"
 id: "org-jpmorgan-chase"
 type: "ORG"
 ---
@@ -13,13 +13,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
 
 **[00:11:37](/episodes/ep-YA1FxrDWNIo.md#ent-org-jpmorgan-chase-t-00-11-29)**
 > "...d love to get in touch with him. In May of 2024, he moved to Utah to become a software engineer for JPMorgan Chase. And I guess the story goes that he became best friends with Shaner Broderick. I don't know. We'll ..."
-
-**[00:11:37](/episodes/ep-YA1FxrDWNIo.md#ent-org-jpmorgan-chase-t-00-11-29)**
-> "...ecome a software engineer for JPMorgan Chase."
 
 </details>
 

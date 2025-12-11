@@ -18,11 +18,11 @@ _Type: Organizations_
 **[00:29:33](/episodes/ep-MUA9ebCF4Ow.md#ent-org-utah-valley-hospital-t-00-29-28)**
 > "...e Kirk) had a medical file at Utah Valley Hospital despite the fact that he went to Timpanogos, righ..."
 
-**[00:30:12](/episodes/ep-MUA9ebCF4Ow.md#ent-org-utah-valley-hospital-t-00-30-12)**
-> "Utah Valley Hospital is owned by IHC, and they run on a system called ..."
-
 **[00:29:43](/episodes/ep-MUA9ebCF4Ow.md#ent-org-utah-valley-hospital-t-00-29-28)**
 > "why Charlie had a medical file at Utah Valley Hospital despite the fact that he went to Timpanogos"
+
+**[00:30:12](/episodes/ep-MUA9ebCF4Ow.md#ent-org-utah-valley-hospital-t-00-30-12)**
+> "Utah Valley Hospital is owned by IHC, and they run on a system called ..."
 
 </details>
 

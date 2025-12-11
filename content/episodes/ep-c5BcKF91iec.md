@@ -1,14 +1,14 @@
 ---
 id: "c5BcKF91iec"
 title: "Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252"
-description: "Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 - 68 entities, 5 events, 0 claims"
+description: "Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252 - 70 entities, 5 events, 0 claims"
 published: "2025-10-27"
 youtube_url: "https://www.youtube.com/watch?v=c5BcKF91iec"
 ---
 
 **Published:** 2025-10-27 | [Watch on YouTube](https://www.youtube.com/watch?v=c5BcKF91iec)
 
-**Stats:** 68 entities | 5 events | 0 claims
+**Stats:** 70 entities | 5 events | 0 claims
 
 ---
 
@@ -268,7 +268,7 @@ youtube_url: "https://www.youtube.com/watch?v=c5BcKF91iec"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (68)</strong></summary>
+<summary><strong>Entities Mentioned (70)</strong></summary>
 
 **Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [Zionism](/entities/concept-zionism.md), [devil](/entities/concept-devil.md)
 
@@ -278,9 +278,9 @@ youtube_url: "https://www.youtube.com/watch?v=c5BcKF91iec"
 
 **Places:** [Arizona](/entities/gpe-arizona.md), [British Columbia](/entities/gpe-british-columbia.md), [Ireland](/entities/gpe-ireland.md), [Israel](/entities/gpe-israel.md), [Russia](/entities/gpe-russia.md), [United States](/entities/gpe-united-states.md), [Wyoming](/entities/gpe-wyoming.md)
 
-**Organizations:** [Air Force Two](/entities/org-air-force-two.md), [American Financing](/entities/org-american-financing.md), [CDC](/entities/org-cdc.md), [CNN](/entities/org-cnn.md), [Daily Mail](/entities/org-daily-mail.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fox News](/entities/org-fox-news.md), [Google](/entities/org-google.md), [Just Thrive](/entities/org-just-thrive.md), [Nimi Skincare](/entities/org-nimi-skincare.md), [Perplexity](/entities/org-perplexity.md), [Riverbend Ranch](/entities/org-riverbend-ranch.md), [The Wellness Company](/entities/org-the-wellness-company.md), [Turning Point USA](/entities/org-turning-point-usa.md), [United States Air Force](/entities/org-united-states-air-force.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
+**Organizations:** [Air Force Two](/entities/org-air-force-two.md), [American Financing](/entities/org-american-financing.md), [CDC](/entities/org-cdc.md), [CNN](/entities/org-cnn.md), [Daily Mail](/entities/org-daily-mail.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fox News](/entities/org-fox-news.md), [Google](/entities/org-google.md), [HBO](/entities/org-hbo.md), [Just Thrive](/entities/org-just-thrive.md), [Nimi Skincare](/entities/org-nimi-skincare.md), [Perplexity](/entities/org-perplexity.md), [Riverbend Ranch](/entities/org-riverbend-ranch.md), [The Wellness Company](/entities/org-the-wellness-company.md), [Turning Point USA](/entities/org-turning-point-usa.md), [United States Air Force](/entities/org-united-states-air-force.md), [Utah Valley University](/entities/org-utah-valley-university.md), [White House](/entities/org-white-house.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Cardi B](/entities/person-cardi-b.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Corey Lewandowski](/entities/person-corey-lewandowski.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Eminem](/entities/person-eminem.md), [Erika Kirk](/entities/person-erika-kirk.md), [Foster Friess](/entities/person-foster-friess.md), [Frank Turek](/entities/person-frank-turek.md), [Ian Carroll](/entities/person-ian-carroll.md), [Ivanka Trump](/entities/person-ivanka-trump.md), [James Lee](/entities/person-james-lee.md), [Joe Rogan](/entities/person-joe-rogan.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Josh Hammer](/entities/person-josh-hammer.md), [Judas](/entities/person-judas.md), [Kanye West](/entities/person-kanye-west.md), [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md), [Martin Luther King Jr.](/entities/person-martin-luther-king-jr.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Ryan Matta](/entities/person-ryan-matta.md), [Sam Parker](/entities/person-sam-parker.md), [Scott Adams](/entities/person-scott-adams.md), [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Zeb Boykin](/entities/person-zeb-boykin.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Candace Owens](/entities/person-candace-owens.md), [Cardi B](/entities/person-cardi-b.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Corey Lewandowski](/entities/person-corey-lewandowski.md), [Donald Trump Jr.](/entities/person-donald-trump-jr.md), [Eminem](/entities/person-eminem.md), [Erika Kirk](/entities/person-erika-kirk.md), [Foster Friess](/entities/person-foster-friess.md), [Frank Turek](/entities/person-frank-turek.md), [Ian Carroll](/entities/person-ian-carroll.md), [Ivanka Trump](/entities/person-ivanka-trump.md), [James Lee](/entities/person-james-lee.md), [Joe Rogan](/entities/person-joe-rogan.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Josh Hammer](/entities/person-josh-hammer.md), [Judas](/entities/person-judas.md), [Kanye West](/entities/person-kanye-west.md), [Lance](/entities/person-lance-robinson-boyfriend.md), [Lyndon Baines Johnson](/entities/person-lyndon-baines-johnson.md), [Martin Luther King Jr.](/entities/person-martin-luther-king-jr.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Ryan Matta](/entities/person-ryan-matta.md), [Sam Parker](/entities/person-sam-parker.md), [Scott Adams](/entities/person-scott-adams.md), [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Zeb Boykin](/entities/person-zeb-boykin.md)
 
 **Works & Media:** [Make Him a Sandwich](/entities/work-make-him-a-sandwich.md), [Succession](/entities/work-succession.md)
 

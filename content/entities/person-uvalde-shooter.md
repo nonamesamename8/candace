@@ -19,14 +19,14 @@ _Type: People_
 <details>
 <summary>Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250 (3 mentions)</summary>
 
-**[00:17:06](/episodes/ep-2Riv3I7D0Yk.md#ent-person-uvalde-shooter-t-00-14-29)**
-> "...in reference to the Uvalde shooter...this level of pure evil would have been another ideal time for a public execution."
-
 **[00:14:39](/episodes/ep-2Riv3I7D0Yk.md#ent-person-uvalde-shooter-t-00-14-29)**
 > "...rorist account. Oh sorry, the Uvalde shooter."
 
 **[00:14:54](/episodes/ep-2Riv3I7D0Yk.md#ent-person-uvalde-shooter-t-00-14-29)**
 > ""The Uvalde shooter is apparently dead, but just as with the Buffalo ..."
+
+**[00:17:06](/episodes/ep-2Riv3I7D0Yk.md#ent-person-uvalde-shooter-t-00-14-29)**
+> "...in reference to the Uvalde shooter...this level of pure evil would have been another ideal time for a public execution."
 
 </details>
 

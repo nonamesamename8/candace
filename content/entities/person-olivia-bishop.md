@@ -1,6 +1,6 @@
 ---
 title: "Olivia Bishop"
-description: "Olivia Bishop (People) - 8 mentions"
+description: "Olivia Bishop (People) - 4 mentions"
 id: "person-olivia-bishop"
 type: "PERSON"
 aliases:
@@ -17,7 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (8 mentions)</summary>
+<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (4 mentions)</summary>
 
 **[00:17:21](/episodes/ep-t1YtLS1n8Vs.md#ent-person-olivia-bishop-t-00-16-46)**
 > "...oter limping up close. And her name, and we know this because she spoke to the news—they all did—is Olivia Robertson Cobb Bishop. Let's listen to her testimony now. [CLIP ATTRIBUTION: Olivia Bishop speaking in this clip.] I kind..."
@@ -30,18 +30,6 @@ _Type: People_
 
 **[00:21:28](/episodes/ep-t1YtLS1n8Vs.md#ent-person-olivia-bishop-t-00-21-03)**
 > "...at time, spoke to Alex Jones, Fox News, NewsNation, really anybody that would have him. Now we have Olivia Bishop; she works for the Orem Police, records specialist, and yeah, she works as the Orem Police records ..."
-
-**[00:17:21](/episodes/ep-t1YtLS1n8Vs.md#ent-person-olivia-bishop-t-00-16-46)**
-> "...e to the news—they all did—is Olivia Robertson Cobb Bishop."
-
-**[00:17:29](/episodes/ep-t1YtLS1n8Vs.md#ent-person-olivia-bishop-t-00-16-46)**
-> "...imony now. [CLIP ATTRIBUTION: Olivia Bishop speaking in this clip.]"
-
-**[00:17:32](/episodes/ep-t1YtLS1n8Vs.md#ent-person-olivia-bishop-t-00-17-32)**
-> "... bit more secluded, you know. Olivia Bishop retraces her steps where she came face to face wi..."
-
-**[00:21:28](/episodes/ep-t1YtLS1n8Vs.md#ent-person-olivia-bishop-t-00-21-03)**
-> "Now we have Olivia Bishop; she works for the Orem Police, records specialis..."
 
 </details>
 

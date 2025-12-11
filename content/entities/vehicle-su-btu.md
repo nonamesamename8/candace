@@ -20,10 +20,10 @@ _Type: Vehicles_
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (2 mentions)</summary>
 
-**[00:15:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-09)**
+**[00:15:12](/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-btu-t-00-15-09)**
 > "He was aboard another Egyptian military plane, and the tail number for that plane is SUBTU."
 
-**[00:16:49](/episodes/ep-ZAuuSq_j2_w.md#t-00-16-27)**
+**[00:16:49](/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-btu-t-00-16-27)**
 > "The Egyptian government website confirms that Egyptian President el-Sisi flew on SUBTU"
 
 </details>

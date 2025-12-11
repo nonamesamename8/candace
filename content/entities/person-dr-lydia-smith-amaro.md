@@ -19,11 +19,11 @@ _Type: People_
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
-**[00:29:45](/episodes/ep-Cq7nj9rxPdo.md#ent-person-dr-lydia-smith-amaro-t-00-29-20)**
-> "Dr Lydia Smith-Amaro, major in the Army, medical examiner"
-
 **[00:29:42](/episodes/ep-Cq7nj9rxPdo.md#ent-person-dr-lydia-smith-amaro-t-00-29-20)**
 > "The medical examiner, Dr. Lydia Smith-Amaro—who that would be the appropriate person to have ..."
+
+**[00:29:45](/episodes/ep-Cq7nj9rxPdo.md#ent-person-dr-lydia-smith-amaro-t-00-29-20)**
+> "Dr Lydia Smith-Amaro, major in the Army, medical examiner"
 
 </details>
 

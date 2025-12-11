@@ -1,6 +1,6 @@
 ---
 title: "PureTalk"
-description: "PureTalk (Organizations) - 39 mentions"
+description: "PureTalk (Organizations) - 36 mentions"
 id: "org-puretalk"
 type: "ORG"
 aliases:
@@ -17,13 +17,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (7 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (6 mentions)</summary>
 
 **[00:52:11](/episodes/ep-tB5SXXmd9vU.md#ent-org-puretalk-t-00-51-40)**
 > "All right, you guys, I want to remind you about PureTalk"
-
-**[00:52:11](/episodes/ep-tB5SXXmd9vU.md#ent-org-puretalk-t-00-51-40)**
-> "...s, I want to remind you about PureTalk."
 
 **[00:52:13](/episodes/ep-tB5SXXmd9vU.md#ent-org-puretalk-t-00-51-40)**
 > "...ndorsing my wireless company, PureTalk, I've never seen an offer like this."
@@ -43,13 +40,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (6 mentions)</summary>
-
-**[00:45:17](/episodes/ep-JQjCAsfoXEE.md#ent-org-puretalk-t-00-45-17)**
-> "In all the time that I've been endorsing my wireless company, PureTalk, I have never seen an offer like this."
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (5 mentions)</summary>
 
 **[00:45:11](/episodes/ep-JQjCAsfoXEE.md#ent-org-puretalk-t-00-44-36)**
 > "...ndorsing my wireless company, PureTalk, I have never seen an offer like this."
+
+**[00:45:17](/episodes/ep-JQjCAsfoXEE.md#ent-org-puretalk-t-00-45-17)**
+> "In all the time that I've been endorsing my wireless company, PureTalk, I have never seen an offer like this."
 
 **[00:45:25](/episodes/ep-JQjCAsfoXEE.md#ent-org-puretalk-t-00-45-17)**
 > "This is PureTalk's top-tier plan, which is normally $65 a month."
@@ -59,9 +56,6 @@ _Type: Organizations_
 
 **[00:45:54](/episodes/ep-JQjCAsfoXEE.md#ent-org-puretalk-t-00-45-17)**
 > "Again, that's puretalk.com/Owens to switch to my wireless company, PureT..."
-
-**[00:45:54](/episodes/ep-JQjCAsfoXEE.md#ent-org-puretalk-t-00-45-17)**
-> "...witch to my wireless company, PureTalk."
 
 </details>
 
@@ -106,7 +100,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (8 mentions)</summary>
+<summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (7 mentions)</summary>
 
 **[00:39:28](/episodes/ep-adJ4LNGp84I.md#ent-org-puretalk-t-00-39-18)**
 > "I first want to throw it to PureTalk because our society works because of the freedoms guaranteed by the First Amendment."
@@ -125,9 +119,6 @@ _Type: Organizations_
 
 **[00:40:10](/episodes/ep-adJ4LNGp84I.md#ent-org-puretalk-t-00-40-00)**
 > "Go to puretalk.com/Owens to switch to my wireless company, which..."
-
-**[00:40:10](/episodes/ep-adJ4LNGp84I.md#ent-org-puretalk-t-00-40-00)**
-> "...my wireless company, which is PureTalk."
 
 **[00:40:18](/episodes/ep-adJ4LNGp84I.md#ent-org-puretalk-t-00-40-00)**
 > "Again, that's puretalk.com/Owens to make the switch today."

@@ -1,6 +1,6 @@
 ---
 title: "Salt Lake County Sheriff's Office"
-description: "Salt Lake County Sheriff's Office (Organizations) - 2 mentions"
+description: "Salt Lake County Sheriff's Office (Organizations) - 1 mention"
 id: "org-salt-lake-county-sheriff-s-office"
 type: "ORG"
 ---
@@ -13,13 +13,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
 
 **[00:22:36](/episodes/ep-YA1FxrDWNIo.md#ent-org-salt-lake-county-sheriff-s-office-t-00-22-32)**
 > "...detective hunting for a pedophile. But the hunted doesn't know that. Mitchell, a detective with the Salt Lake County Sheriff's Office, has been investigating child sex crimes on the Internet for about a year. ‘I don't think people re..."
-
-**[00:22:36](/episodes/ep-YA1FxrDWNIo.md#ent-org-salt-lake-county-sheriff-s-office-t-00-22-32)**
-> "...itchell, a detective with the Salt Lake County Sheriff's Office, has been investigating child sex crimes on the I..."
 
 </details>
 

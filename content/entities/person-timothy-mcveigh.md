@@ -15,11 +15,11 @@ _Type: People_
 <details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
 
-**[00:56:21](/episodes/ep-ja26iltROkM.md#ent-person-timothy-mcveigh-t-00-55-47)**
-> "Tyler looks like a Fed—like Timothy McVeigh"
-
 **[00:56:17](/episodes/ep-ja26iltROkM.md#ent-person-timothy-mcveigh-t-00-55-47)**
 > "...: Tyler looks like a Fed—like Timothy McVeigh."
+
+**[00:56:21](/episodes/ep-ja26iltROkM.md#ent-person-timothy-mcveigh-t-00-55-47)**
+> "Tyler looks like a Fed—like Timothy McVeigh"
 
 </details>
 

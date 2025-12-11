@@ -1,6 +1,6 @@
 ---
 title: "MKUltra"
-description: "MKUltra (Concepts) - 33 mentions"
+description: "MKUltra (Concepts) - 20 mentions"
 id: "concept-mkultra"
 type: "CONCEPT"
 aliases:
@@ -29,7 +29,7 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (6 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (3 mentions)</summary>
 
 **[00:37:32](/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-37-15)**
 > "... convinced that Brigitte Macron has been involved, on the basis of my lawsuit and the mentioning of MKUltra 18 times absurdly in my lawsuit, even though all we said was, hey, Brigitte's fake birthday happens..."
@@ -40,34 +40,16 @@ _Type: Concepts_
 **[00:41:05](/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-40-44)**
 > "...termining the answer to that. I could go on, by the way—Wilmington, Delaware also being the hub for MKUltra is especially sweet. The email that we got, that it's also the hub for transgenderism in America—li..."
 
-**[00:37:32](/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-37-15)**
-> "...lawsuit and the mentioning of MKUltra 18 times"
-
-**[00:37:42](/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-37-15)**
-> "...ens to be the same day as the MKUltra program, I'm thinking there might be something th..."
-
-**[00:41:05](/episodes/ep-tB5SXXmd9vU.md#ent-concept-mkultra-t-00-40-44)**
-> "...laware also being the hub for MKUltra is especially sweet."
-
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (5 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
 
 **[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-22-25)**
 > "...bit too loud—you know, a thief that nobody was pursuing was running. And that was us discussing the MKUltra program and Brigitte Macron strangely and Emmanuel mentioning MKUltra in the lawsuit to us 18 times..."
 
 **[00:23:42](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-23-08)**
 > "...ght track. And it was something that was so sinister, you know, involving maybe another step of the MKUltra program being used to foster serial killers and to give serial killers new identities and allowing ..."
-
-**[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-22-25)**
-> "...nd that was us discussing the MKUltra program and Brigitte Macron strangely and Emmanue..."
-
-**[00:22:49](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-22-25)**
-> "...ngely and Emmanuel mentioning MKUltra in the lawsuit to us 18 times struck us as odd"
-
-**[00:23:42](/episodes/ep-sImMM04XdWY.md#ent-concept-mkultra-t-00-23-08)**
-> "...ing maybe another step of the MKUltra program being used to foster serial killers and t..."
 
 </details>
 
@@ -89,7 +71,7 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (12 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (6 mentions)</summary>
 
 **[00:02:01](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-01-21)**
 > "... we end up, by the way? Where did we leave off on Brigitte Macron? I was speaking to you guys about MKUltra. How odd it was that of everything I said in my series, Brigitte Macron and Emmanuel had a heart at..."
@@ -109,40 +91,19 @@ _Type: Concepts_
 **[00:30:07](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-30-07)**
 > "...ch investigating the Brigitte Macron thing and was arriving very quickly at this weird backstory of MKUltra and the Haight-Ashbury Clinic when it seems like a button was pressed in America— and big psycholog..."
 
-**[00:02:01](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-01-21)**
-> "...as speaking to you guys about MKUltra."
-
-**[00:02:03](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-02-03)**
-> "...ack when I started discussing MKUltra."
-
-**[00:02:48](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-02-48)**
-> "And effectively, he had been MKUltra'd, right? By putting on that psych 5150 hold."
-
-**[00:18:14](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-18-12)**
-> "...e '60s and the military-grade MKUltra program that our government employed in place aft..."
-
-**[00:23:05](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-22-30)**
-> "...we got into his backstory and MKUltra—suddenly puts him in a hospital on a psych 5150 h..."
-
-**[00:30:07](/episodes/ep-7RLtGgkTh9o.md#ent-concept-mkultra-t-00-30-07)**
-> "...ly at this weird backstory of MKUltra and the Haight-Ashbury Clinic when it seems like ..."
-
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (4 mentions)</summary>
-
-**[00:26:49](/episodes/ep-QZWSsq8ZWzw.md#ent-concept-mkultra-t-00-26-44)**
-> "... was looking through the period and learning the reality of what happened throughout the 1960s when MKUltra—when that program was running. And I have no reason to believe that that program was ever discontin..."
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (3 mentions)</summary>
 
 **[00:26:49](/episodes/ep-QZWSsq8ZWzw.md#ent-concept-mkultra-t-00-26-44)**
 > "when MKUltra—when that program was running"
 
+**[00:26:49](/episodes/ep-QZWSsq8ZWzw.md#ent-concept-mkultra-t-00-26-44)**
+> "... was looking through the period and learning the reality of what happened throughout the 1960s when MKUltra—when that program was running. And I have no reason to believe that that program was ever discontin..."
+
 **[00:27:02](/episodes/ep-QZWSsq8ZWzw.md#ent-concept-mkultra-t-00-26-44)**
 > "the reality of what happened throughout the 1960s when MKUltra—when that program was running"
-
-**[00:26:49](/episodes/ep-QZWSsq8ZWzw.md#ent-concept-mkultra-t-00-26-44)**
-> "...ned throughout the 1960s when MKUltra—when that program was running."
 
 </details>
 

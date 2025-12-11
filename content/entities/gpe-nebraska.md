@@ -1,6 +1,6 @@
 ---
 title: "Nebraska"
-description: "Nebraska (Places) - 60 mentions"
+description: "Nebraska (Places) - 27 mentions"
 id: "gpe-nebraska"
 type: "GPE"
 aliases:
@@ -17,7 +17,7 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (7 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3 mentions)</summary>
 
 **[00:17:51](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-nebraska-t-00-17-39)**
 > "...see no proof of this. We do know that right after that, our Egyptian yellow plane flies to Lincoln, Nebraska, and two days later, it is announced in Nebraska that they're going to be doing a trade and investm..."
@@ -28,22 +28,10 @@ _Type: Places_
 **[00:18:36](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-nebraska-t-00-18-23)**
 > "...ka who did that. I received your emails—even if I was not able to respond. Anyways, then it departs Nebraska—our yellow planes—and it heads to Wilmington, and then it goes back to Cairo. We then know that in ..."
 
-**[00:17:51](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-nebraska-t-00-17-39)**
-> "...ellow plane flies to Lincoln, Nebraska, and two days later, it is announced in Nebraska ..."
-
-**[00:17:51](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-nebraska-t-00-17-39)**
-> "...ays later, it is announced in Nebraska that they're going to be doing a trade and invest..."
-
-**[00:18:30](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-nebraska-t-00-18-23)**
-> "..., by the way, the citizens of Nebraska who did that."
-
-**[00:18:36](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-nebraska-t-00-18-23)**
-> "Anyways, then it departs Nebraska—our yellow planes—and it heads to Wilmington, and..."
-
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (12 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
 
 **[00:11:11](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-10-47)**
 > "...or its longest trip—that's correct—from Cairo. It went through to Paris, and then it went to Omaha, Nebraska. I think yesterday I said that it stayed in Wilmington for six days. No, it only stayed in Wilmingt..."
@@ -60,31 +48,10 @@ _Type: Places_
 **[00:13:06](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-12-57)**
 > "...et with, because I feel like that idea might be related to our planes. I just don't think people in Nebraska are sitting around like, "Hey, we should go to Cairo or Egypt," and it happens to line up with this..."
 
-**[00:11:11](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-10-47)**
-> "...s, and then it went to Omaha, Nebraska."
-
-**[00:11:22](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-10-47)**
-> "It stayed in Nebraska for the longest stretch yet, departing from Linco..."
-
-**[00:11:22](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-10-47)**
-> "... yet, departing from Lincoln, Nebraska, in particular."
-
-**[00:11:30](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-11-30)**
-> "...ch of what they were doing in Nebraska actually might offer us a clue because during thi..."
-
-**[00:11:30](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-11-30)**
-> "...is stretch, on July 22nd, the Nebraska Secretary of State, Bob Evnen, announced that the..."
-
-**[00:12:13](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-12-13)**
-> "(News clip) Nebraska Secretary of State Bob Evnen is inviting business..."
-
-**[00:13:06](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-12-57)**
-> "I just don't think people in Nebraska are sitting around like, "Hey, we should go to Ca..."
-
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (6 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3 mentions)</summary>
 
 **[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-nebraska-t-00-16-53)**
 > ".... This is really interesting because BTT then comes in from Cairo through Paris and lands in Omaha, Nebraska, and it's the longest stay actually that they have in Wilmington, okay? They do this long stay, and..."
@@ -95,30 +62,18 @@ _Type: Places_
 **[00:20:29](/episodes/ep-sImMM04XdWY.md#ent-gpe-nebraska-t-00-20-22)**
 > "...ie (Charlie Kirk) declines that offer, okay? Fast forward to the 17th; BBT flies again. It does its Nebraska route. Charlie (Charlie Kirk)'s speaking on August 23rd. It again goes through to Wilmington, and i..."
 
-**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-nebraska-t-00-16-53)**
-> "...ugh Paris and lands in Omaha, Nebraska, and it's the longest stay actually that they hav..."
-
-**[00:16:56](/episodes/ep-sImMM04XdWY.md#ent-gpe-nebraska-t-00-16-53)**
-> "... long stay, and that's not in Nebraska."
-
-**[00:20:29](/episodes/ep-sImMM04XdWY.md#ent-gpe-nebraska-t-00-20-22)**
-> "It does its Nebraska route."
-
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2 mentions)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1 mentions)</summary>
 
 **[00:17:22](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-nebraska-t-00-16-57)**
 > "...arlie (Charlie Kirk) is?" The flights were majority clustered within five states: Kansas, Missouri, Nebraska, Delaware, and Utah. And it's a pattern that she believes is statistically not random. I'm telling ..."
 
-**[00:17:22](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-nebraska-t-00-16-57)**
-> "...ive states: Kansas, Missouri, Nebraska, Delaware, and Utah."
-
 </details>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (33 mentions)</summary>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (15 mentions)</summary>
 
 **[00:20:32](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-20-27)**
 > "...February 9th... our plane comes in. Our Egyptian military plane comes in. This time it is headed to Nebraska, and it lands in Nebraska and then flies straight to Lincoln, Nebraska. It lands in Omaha—pardon—an..."
@@ -164,60 +119,6 @@ _Type: Places_
 
 **[00:39:28](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-38-56)**
 > "...that you guys that are watching this can update that in your timeline. What is going on in Lincoln, Nebraska? I feel like something very relevant is happening here. Then we have, of course, the final time tha..."
-
-**[00:20:32](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-20-27)**
-> "This time it is headed to Nebraska, and it lands in Nebraska and then flies straight..."
-
-**[00:20:32](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-20-27)**
-> "... to Nebraska, and it lands in Nebraska and then flies straight to Lincoln, Nebraska."
-
-**[00:20:32](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-20-27)**
-> "...en flies straight to Lincoln, Nebraska."
-
-**[00:20:46](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-20-27)**
-> "... in Turning Point in Lincoln, Nebraska, because that's a pretty precise location for thi..."
-
-**[00:21:02](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-20-27)**
-> "starts a chapter in Lincoln, Nebraska."
-
-**[00:21:06](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-20-27)**
-> "...d events at the University of Nebraska"—"
-
-**[00:21:25](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-21-11)**
-> "...d not have a Lincoln-specific Nebraska chapter"
-
-**[00:21:37](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-21-11)**
-> "This is the UNL—University of Nebraska, Lincoln."
-
-**[00:21:53](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-21-11)**
-> "Okay. February 20th, Nebraska City Campus."
-
-**[00:22:07](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-21-56)**
-> "Who started the Lincoln, Nebraska chapter?"
-
-**[00:22:15](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-21-56)**
-> "... And maybe you're in Lincoln, Nebraska, and you can ask around: who said, "Hey, let's st..."
-
-**[00:22:15](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-21-56)**
-> "...tart this chapter in Lincoln, Nebraska all by ourselves. We're not going to be regional ..."
-
-**[00:23:48](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-23-21)**
-> "...e (Charlie Kirk) is in Omaha, Nebraska, speaking at the Lord of Hosts Church."
-
-**[00:35:19](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-34-46)**
-> "...later, it goes through Omaha, Nebraska at 11:37 a.m."
-
-**[00:35:26](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-34-46)**
-> "...and it heads over to Lincoln, Nebraska, and it stays there for six days."
-
-**[00:38:56](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-38-56)**
-> "...s our yellow plane—comes into Nebraska and again does that trip into Lincoln immediately..."
-
-**[00:39:10](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-38-56)**
-> "what was going on in Nebraska?"
-
-**[00:39:28](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-nebraska-t-00-38-56)**
-> "What is going on in Lincoln, Nebraska?"
 
 </details>
 

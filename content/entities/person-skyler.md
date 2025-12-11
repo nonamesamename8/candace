@@ -51,17 +51,17 @@ _Type: People_
 <details>
 <summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (4 mentions)</summary>
 
-**[00:24:03](/episodes/ep-ja26iltROkM.md#ent-person-skyler-t-00-22-30)**
-> "I mean, was it 48 hours, Skyler?"
-
-**[00:35:18](/episodes/ep-ja26iltROkM.md#ent-person-skyler-t-00-34-47)**
-> "Skyler, let's first run the clip of—just before we get into the AIPAC clip"
-
 **[00:22:56](/episodes/ep-ja26iltROkM.md#ent-person-skyler-t-00-22-30)**
 > "...ours—I mean, was it 48 hours, Skyler?—"
 
+**[00:24:03](/episodes/ep-ja26iltROkM.md#ent-person-skyler-t-00-22-30)**
+> "I mean, was it 48 hours, Skyler?"
+
 **[00:35:09](/episodes/ep-ja26iltROkM.md#ent-person-skyler-t-00-34-47)**
 > "Skyler, let's first run the clip of—just before we get i..."
+
+**[00:35:18](/episodes/ep-ja26iltROkM.md#ent-person-skyler-t-00-34-47)**
+> "Skyler, let's first run the clip of—just before we get into the AIPAC clip"
 
 </details>
 

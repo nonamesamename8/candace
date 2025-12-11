@@ -1,6 +1,6 @@
 ---
 title: "Milo Yiannopoulos"
-description: "Milo Yiannopoulos (People) - 17 mentions"
+description: "Milo Yiannopoulos (People) - 10 mentions"
 id: "person-milo-yiannopoulos"
 type: "PERSON"
 aliases:
@@ -17,21 +17,18 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
-
-**[00:03:06](/episodes/ep-6DhWawD4ZiM.md#ent-person-milo-yiannopoulos-t-00-02-53)**
-> "Milo (Milo Yiannopoulos) and a few others have asserted with absolute certainty"
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
 **[00:03:01](/episodes/ep-6DhWawD4ZiM.md#ent-person-milo-yiannopoulos-t-00-02-53)**
 > "...ek in a big way because Milo (Milo Yiannopoulos) and a few others have asserted with absolute cer..."
 
-**[00:03:01](/episodes/ep-6DhWawD4ZiM.md#ent-person-milo-yiannopoulos-t-00-02-53)**
-> "...his week in a big way because Milo (Milo Yiannopoulos) and a few others have asserte..."
+**[00:03:06](/episodes/ep-6DhWawD4ZiM.md#ent-person-milo-yiannopoulos-t-00-02-53)**
+> "Milo (Milo Yiannopoulos) and a few others have asserted with absolute certainty"
 
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (9 mentions)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (3 mentions)</summary>
 
 **[00:07:39](/episodes/ep-t4U7NjnUEgc.md#ent-person-milo-yiannopoulos-t-00-44-11)**
 > "full episode with Milo Yiannopoulos"
@@ -39,37 +36,19 @@ _Type: People_
 **[00:44:31](/episodes/ep-t4U7NjnUEgc.md#ent-person-milo-yiannopoulos-t-00-44-11)**
 > "... in a full episode with Milo (Milo Yiannopoulos) Yiannopoulos (Milo Yiannopoulos), which we showe..."
 
-**[00:44:31](/episodes/ep-t4U7NjnUEgc.md#ent-person-milo-yiannopoulos-t-00-44-11)**
-> "...o Yiannopoulos) Yiannopoulos (Milo Yiannopoulos), which we showed and contextualized of being som..."
-
-**[00:44:31](/episodes/ep-t4U7NjnUEgc.md#ent-person-milo-yiannopoulos-t-00-44-11)**
-> "...sed me in a full episode with Milo (Milo Yiannopoulos) Yiannopoulos (Milo Yiannopoul..."
-
 **[00:44:49](/episodes/ep-t4U7NjnUEgc.md#ent-person-milo-yiannopoulos-t-00-44-49)**
 > "...s two hour episode with Milo (Milo Yiannopoulos) Yiannopoulos (Milo Yiannopoulos) in which Milo (..."
-
-**[00:44:49](/episodes/ep-t4U7NjnUEgc.md#ent-person-milo-yiannopoulos-t-00-44-49)**
-> "...o Yiannopoulos) Yiannopoulos (Milo Yiannopoulos) in which Milo (Milo Yiannopoulos) defended me an..."
-
-**[00:44:49](/episodes/ep-t4U7NjnUEgc.md#ent-person-milo-yiannopoulos-t-00-44-49)**
-> "... Yiannopoulos) in which Milo (Milo Yiannopoulos) defended me and explained that I am not to blame..."
-
-**[00:44:49](/episodes/ep-t4U7NjnUEgc.md#ent-person-milo-yiannopoulos-t-00-44-49)**
-> "... it was two hour episode with Milo (Milo Yiannopoulos) Yiannopoulos (Milo Yiannopoul..."
-
-**[00:44:49](/episodes/ep-t4U7NjnUEgc.md#ent-person-milo-yiannopoulos-t-00-44-49)**
-> "... (Milo Yiannopoulos) in which Milo (Milo Yiannopoulos) defended me and explained tha..."
 
 </details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4 mentions)</summary>
 
-**[00:24:45](/episodes/ep-Kmt6HgRjckU.md#ent-person-milo-yiannopoulos-t-00-24-33)**
-> "Milo explains why people are upset about Epstein files and Charlie Kirk investigation"
-
 **[00:24:43](/episodes/ep-Kmt6HgRjckU.md#ent-person-milo-yiannopoulos-t-00-24-33)**
 > "So he hosted Milo (Milo Yiannopoulos) on his show."
+
+**[00:24:45](/episodes/ep-Kmt6HgRjckU.md#ent-person-milo-yiannopoulos-t-00-24-33)**
+> "Milo explains why people are upset about Epstein files and Charlie Kirk investigation"
 
 **[00:25:22](/episodes/ep-Kmt6HgRjckU.md#ent-person-milo-yiannopoulos-t-00-25-04)**
 > "Regardless of that, Milo (Milo Yiannopoulos) breaks down the real reason why people are upset..."

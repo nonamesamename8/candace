@@ -1,6 +1,6 @@
 ---
 title: "Randy Fine"
-description: "Randy Fine (People) - 46 mentions"
+description: "Randy Fine (People) - 20 mentions"
 id: "person-randy-fine"
 type: "PERSON"
 ---
@@ -13,18 +13,15 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
 
 **[00:19:31](/episodes/ep-r1PS67aRmcA.md#ent-person-randy-fine-t-00-19-31)**
 > "...t this is the same Ben Shapiro that roots the destruction of Gaza on. He supports and congratulated Randy Fine, who has literally tweeted, laughing at photos of dead Palestinian babies. But I guess Tucker (Tuck..."
 
-**[00:19:31](/episodes/ep-r1PS67aRmcA.md#ent-person-randy-fine-t-00-19-31)**
-> "He supports and congratulated Randy Fine, who has literally tweeted, laughing at photos of..."
-
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (6 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (3 mentions)</summary>
 
 **[00:18:15](/episodes/ep-LATnak75Si0.md#ent-person-randy-fine-t-00-17-51)**
 > "... to what it means to be a conservative. So I'm gonna let you listen to what Brett Cooper said about Randy Fine. And let me know if you're just so offended that you think that she needs to be canceled and destro..."
@@ -35,19 +32,10 @@ _Type: People_
 **[00:18:45](/episodes/ep-LATnak75Si0.md#ent-person-randy-fine-t-00-18-27)**
 > "...about Israel than he does, you know, principles like free speech. So, buddy—like, my advice to you, Randy Fine—is just move to Israel at this point. Like, considering you had to go through anger management clas..."
 
-**[00:18:15](/episodes/ep-LATnak75Si0.md#ent-person-randy-fine-t-00-17-51)**
-> "... what Brett Cooper said about Randy Fine."
-
-**[00:18:27](/episodes/ep-LATnak75Si0.md#ent-person-randy-fine-t-00-18-27)**
-> "Like Randy Fine—if you don't know who he is—he's a representative..."
-
-**[00:18:45](/episodes/ep-LATnak75Si0.md#ent-person-randy-fine-t-00-18-27)**
-> "...buddy—like, my advice to you, Randy Fine—is just move to Israel at this point."
-
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (38 mentions)</summary>
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (16 mentions)</summary>
 
 **[00:02:28](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-02-14)**
 > "...se we know how these things go. He was joined on stage by many others, including the very genocidal Randy Fine (Randy Fine). Randy Fine (Randy Fine), just to be clear, he has been so disgusting in his rhetoric ..."
@@ -96,72 +84,6 @@ _Type: People_
 
 **[00:48:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-48-38)**
 > "... a conversation." It's not cool to hold up like some donor-printed signs and do a dance in front of Randy Fine (Randy Fine). "Tucker (Tucker Carlson) is not MAGA." People can see which way the wind is blowing, ..."
-
-**[00:02:28](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-02-14)**
-> "... including the very genocidal Randy Fine (Randy Fine)."
-
-**[00:02:28](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-02-14)**
-> "...he very genocidal Randy Fine (Randy Fine)."
-
-**[00:02:34](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-02-14)**
-> "Randy Fine (Randy Fine), just to be clear, he has been so di..."
-
-**[00:02:50](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-02-14)**
-> "Irrespective of this, Randy Fine (Randy Fine) decided that he, I guess, is the arb..."
-
-**[00:02:50](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-02-14)**
-> "...spective of this, Randy Fine (Randy Fine) decided that he, I guess, is the arbiter of the ..."
-
-**[00:03:03](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-02-58)**
-> "Can't sit with me, Randy Fine (Randy Fine), and Lindsey Graham (Lindsey Graham)..."
-
-**[00:03:03](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-02-58)**
-> "...an't sit with me, Randy Fine (Randy Fine), and Lindsey Graham (Lindsey Graham)."
-
-**[00:04:15](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-03-41)**
-> "...ve the posters on stage while Randy Fine (Randy Fine) of all people spoke."
-
-**[00:04:15](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-03-41)**
-> "...rs on stage while Randy Fine (Randy Fine) of all people spoke."
-
-**[00:04:28](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-04-24)**
-> ""You go, Randy Fine (Randy Fine).""
-
-**[00:04:30](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-04-24)**
-> "And Randy Fine (Randy Fine) was getting them all fired up."
-
-**[00:04:44](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-04-24)**
-> "Take it away, Randy Fine (Randy Fine)."
-
-**[00:04:45](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-04-45)**
-> "Randy Fine (clip): But make no mistake."
-
-**[00:04:48](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-04-45)**
-> "Randy Fine (clip): Today,"
-
-**[00:04:50](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-04-45)**
-> "Randy Fine (clip): Tucker Carlson (Tucker Carlson) is the mo..."
-
-**[00:04:51](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-04-45)**
-> "Randy Fine (clip): He has chosen to take on the mantle of le..."
-
-**[00:04:57](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-04-45)**
-> "Randy Fine (clip): Friends, make no mistake."
-
-**[00:05:18](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-04-45)**
-> "Randy Fine (clip): Tucker (Tucker Carlson) is not MAGA."
-
-**[00:06:07](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-06-07)**
-> "...emn them even when they, like Randy Fine (Randy Fine), just come right out with genocidal ..."
-
-**[00:06:07](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-06-07)**
-> "...n when they, like Randy Fine (Randy Fine), just come right out with genocidal language aga..."
-
-**[00:48:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-48-38)**
-> "...ns and do a dance in front of Randy Fine (Randy Fine)."
-
-**[00:48:53](/episodes/ep-K1tFD7FfoCU.md#ent-person-randy-fine-t-00-48-38)**
-> "...dance in front of Randy Fine (Randy Fine)."
 
 </details>
 

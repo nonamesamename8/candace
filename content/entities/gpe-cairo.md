@@ -1,6 +1,6 @@
 ---
 title: "Cairo"
-description: "Cairo (Places) - 55 mentions"
+description: "Cairo (Places) - 27 mentions"
 id: "gpe-cairo"
 type: "GPE"
 aliases:
@@ -17,7 +17,7 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
 **[00:18:36](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-cairo-t-00-18-23)**
 > "...ys, then it departs Nebraska—our yellow planes—and it heads to Wilmington, and then it goes back to Cairo. We then know that in this same time frame-ish is when Charlie (Charlie Kirk) vacations up to Maine..."
@@ -25,27 +25,18 @@ _Type: Places_
 **[00:25:29](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-cairo-t-00-25-29)**
 > "...he gets assassinated. And that also happens to be the same day that that Operation Bright Star—that Cairo joint operation—formally ends. Okay. So that timeline makes me uncomfortable. Okay. It makes me ver..."
 
-**[00:18:36](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-cairo-t-00-18-23)**
-> "...ton, and then it goes back to Cairo."
-
-**[00:25:29](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-cairo-t-00-25-29)**
-> "...at Operation Bright Star—that Cairo joint operation—formally ends."
-
 </details>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:22:00](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-cairo-t-00-21-46)**
 > "...harlie (Charlie Kirk) was shot. And that was known as Operation Bright Star, and that took place in Cairo, Egypt. Now, it is a biannual joint military operation. It's co-hosted by the United States and Egy..."
 
-**[00:22:00](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-cairo-t-00-21-46)**
-> "... Star, and that took place in Cairo, Egypt."
-
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (10 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (5 mentions)</summary>
 
 **[00:11:04](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-10-47)**
 > "... foremost, July 20th, we talked about SUBTT, which came in for its longest trip—that's correct—from Cairo. It went through to Paris, and then it went to Omaha, Nebraska. I think yesterday I said that it st..."
@@ -62,25 +53,10 @@ _Type: Places_
 **[00:13:06](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-12-57)**
 > "...to our planes. I just don't think people in Nebraska are sitting around like, "Hey, we should go to Cairo or Egypt," and it happens to line up with this plane that comes in—literally comes in on the exact ..."
 
-**[00:11:04](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-10-47)**
-> "...gest trip—that's correct—from Cairo."
-
-**[00:11:30](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-11-30)**
-> "... and investment delegation to Cairo, Egypt."
-
-**[00:11:54](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-11-30)**
-> "You got this plane from Cairo, Egypt, and we're gonna pull this up and show you..."
-
-**[00:11:57](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-11-30)**
-> "...ow what? Let's plan a trip to Cairo and see if we can make some money with them.""
-
-**[00:13:06](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-12-57)**
-> "...d like, "Hey, we should go to Cairo or Egypt," and it happens to line up with this pl..."
-
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (6 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (3 mentions)</summary>
 
 **[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-16-53)**
 > "...quests, but this one's happening quickly. This is really interesting because BTT then comes in from Cairo through Paris and lands in Omaha, Nebraska, and it's the longest stay actually that they have in Wi..."
@@ -91,19 +67,10 @@ _Type: Places_
 **[00:20:40](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-20-22)**
 > "...s through to Wilmington, and it stays one night on August 23rd in Wilmington before heading back to Cairo. On September 3rd, Brigitte Macron is basically opening up Paris Design Week, and she's photographe..."
 
-**[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-16-53)**
-> "...ecause BTT then comes in from Cairo through Paris and lands in Omaha, Nebraska, and i..."
-
-**[00:18:18](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-18-13)**
-> "...om Wilmington heading back to Cairo."
-
-**[00:20:40](/episodes/ep-sImMM04XdWY.md#ent-gpe-cairo-t-00-20-22)**
-> "...ington before heading back to Cairo."
-
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (5 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
 
 **[00:19:26](/episodes/ep-SKGUzGHymcI.md#ent-gpe-cairo-t-00-19-26)**
 > "...hrough this logic and ask yourself how this makes any sense. On November 13, 2022, SUBTT flies from Cairo to Paris to Wichita, Kansas, to Wilmington, Delaware, back to Cairo. That is already a four-legged ..."
@@ -111,19 +78,10 @@ _Type: Places_
 **[00:19:59](/episodes/ep-SKGUzGHymcI.md#ent-gpe-cairo-t-00-19-26)**
 > "...ng at 8:54 a.m., and this time it stays in Wilmington until November 20th. And only then returns to Cairo. So that is two Wilmington arrivals in the same week. Nobody burns a government Falcon 7X on two se..."
 
-**[00:19:26](/episodes/ep-SKGUzGHymcI.md#ent-gpe-cairo-t-00-19-26)**
-> "...er 13, 2022, SUBTT flies from Cairo to Paris to Wichita, Kansas, to Wilmington, Delaw..."
-
-**[00:19:26](/episodes/ep-SKGUzGHymcI.md#ent-gpe-cairo-t-00-19-26)**
-> "...Wilmington, Delaware, back to Cairo."
-
-**[00:19:59](/episodes/ep-SKGUzGHymcI.md#ent-gpe-cairo-t-00-19-26)**
-> "And only then returns to Cairo."
-
 </details>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (22 mentions)</summary>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (11 mentions)</summary>
 
 **[00:10:09](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-cairo-t-00-09-40)**
 > "...ll come behind it, okay? So on February 25th, BTT comes in. And BTT—again, they're both flying from Cairo every time, typically through Paris—and it then lands in St. Louis, Missouri. And this is relevant ..."
@@ -158,43 +116,10 @@ _Type: Places_
 **[00:40:36](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-cairo-t-00-40-17)**
 > "...does. It's going to leave Provo. That's going to go through Canada, through Paris, and back home to Cairo— three days following Charlie (Charlie Kirk)'s assassination. Did that plane perhaps have the rest ..."
 
-**[00:10:09](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-cairo-t-00-09-40)**
-> "...ain, they're both flying from Cairo every time, typically through Paris—and it then l..."
-
-**[00:17:23](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-cairo-t-00-16-57)**
-> ".... The yellow plane flies from Cairo—always via Paris—to St. Louis again, and it lands..."
-
-**[00:17:59](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-cairo-t-00-17-41)**
-> "...en it leaves and goes back to Cairo."
-
-**[00:18:34](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-cairo-t-00-18-23)**
-> "Cairo to Kansas."
-
-**[00:22:33](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-cairo-t-00-21-56)**
-> "...h, our plane departs back for Cairo."
-
-**[00:22:39](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-cairo-t-00-22-39)**
-> "And this time, BTT departs Cairo,"
-
-**[00:22:45](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-cairo-t-00-22-39)**
-> "... days, and then heads back to Cairo on the 16th."
-
-**[00:24:09](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-cairo-t-00-24-03)**
-> "It comes in from Cairo"
-
-**[00:24:21](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-cairo-t-00-24-03)**
-> "...is then going to come in from Cairo via Paris through North Dakota to Provo."
-
-**[00:38:46](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-cairo-t-00-38-16)**
-> "...s? Yet because I went back to Cairo—BTT."
-
-**[00:40:36](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-cairo-t-00-40-17)**
-> "...rough Paris, and back home to Cairo—"
-
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (6 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (3 mentions)</summary>
 
 **[00:16:07](/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-15-42)**
 > "...actors. And for a fact, they were dropped off in Provo, okay? And that they did not make it back to Cairo. They showed you—I showed you—the plane left. They left on September 10th. It then laid over in Wil..."
@@ -204,15 +129,6 @@ _Type: Places_
 
 **[00:19:07](/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-19-07)**
 > ".... If you look under 2025, you will see this is what it did. It went from September 4th—it went from Cairo to Paris to France to Minot, North Dakota. On September 10th, it departed Provo—I think I'm missing..."
-
-**[00:16:07](/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-15-42)**
-> "... they did not make it back to Cairo."
-
-**[00:16:16](/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-15-42)**
-> "...laware, and departed back for Cairo on the 11th."
-
-**[00:19:07](/episodes/ep-iHav0PPzUz8.md#ent-gpe-cairo-t-00-19-07)**
-> "...om September 4th—it went from Cairo to Paris to France to Minot, North Dakota."
 
 </details>
 

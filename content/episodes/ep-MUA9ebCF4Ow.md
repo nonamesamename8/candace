@@ -1,14 +1,14 @@
 ---
 id: "MUA9ebCF4Ow"
 title: "Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263"
-description: "Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 - 93 entities, 8 events, 0 claims"
+description: "Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 - 96 entities, 8 events, 0 claims"
 published: "2025-11-12"
 youtube_url: "https://www.youtube.com/watch?v=MUA9ebCF4Ow"
 ---
 
 **Published:** 2025-11-12 | [Watch on YouTube](https://www.youtube.com/watch?v=MUA9ebCF4Ow)
 
-**Stats:** 93 entities | 8 events | 0 claims
+**Stats:** 96 entities | 8 events | 0 claims
 
 ---
 
@@ -282,17 +282,17 @@ youtube_url: "https://www.youtube.com/watch?v=MUA9ebCF4Ow"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (93)</strong></summary>
+<summary><strong>Entities Mentioned (96)</strong></summary>
 
-**Concepts:** [Christians](/entities/concept-christians.md), [Doge](/entities/concept-doge.md), [God](/entities/concept-god.md), [Zionism](/entities/concept-zionism.md)
+**Concepts:** [Christians](/entities/concept-christians.md), [Doge](/entities/concept-doge.md), [God](/entities/concept-god.md), [Palestinians](/entities/concept-palestinians.md), [Zionism](/entities/concept-zionism.md)
 
 **Dates:** [2009](/entities/date-2009.md), [2024](/entities/date-2024.md), [2025](/entities/date-2025.md), [July 11th](/entities/date-july-11th.md), [September 10, 2025](/entities/date-september-10-2025.md), [September 10th](/entities/date-september-10th.md), [September 11th](/entities/date-september-11th.md)
 
 **Events:** [9/11](/entities/event-9-11.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-**Places:** [Afghanistan](/entities/gpe-afghanistan.md), [Australia](/entities/gpe-australia.md), [California](/entities/gpe-california.md), [Canada](/entities/gpe-canada.md), [Egypt](/entities/gpe-egypt.md), [France](/entities/gpe-france.md), [Gaza](/entities/gpe-gaza.md), [Hamptons](/entities/gpe-hamptons.md), [Hollywood](/entities/gpe-hollywood.md), [Iran](/entities/gpe-iran.md), [Iraq](/entities/gpe-iraq.md), [Israel](/entities/gpe-israel.md), [Syria](/entities/gpe-syria.md), [Texas](/entities/gpe-texas.md), [Thousand Oaks](/entities/gpe-thousand-oaks.md), [Thousand Oaks, California](/entities/gpe-thousand-oaks-california.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md), [Wyoming](/entities/gpe-wyoming.md)
+**Places:** [Afghanistan](/entities/gpe-afghanistan.md), [Australia](/entities/gpe-australia.md), [California](/entities/gpe-california.md), [Canada](/entities/gpe-canada.md), [Egypt](/entities/gpe-egypt.md), [Europe](/entities/gpe-europe.md), [France](/entities/gpe-france.md), [Gaza](/entities/gpe-gaza.md), [Hamptons](/entities/gpe-hamptons.md), [Hollywood](/entities/gpe-hollywood.md), [Iran](/entities/gpe-iran.md), [Iraq](/entities/gpe-iraq.md), [Israel](/entities/gpe-israel.md), [Syria](/entities/gpe-syria.md), [Texas](/entities/gpe-texas.md), [Thousand Oaks](/entities/gpe-thousand-oaks.md), [Thousand Oaks, California](/entities/gpe-thousand-oaks-california.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md), [Wyoming](/entities/gpe-wyoming.md)
 
-**Organizations:** [American Financing](/entities/org-american-financing.md), [Calvary Chapel](/entities/org-calvary-chapel.md), [Canines for Warriors](/entities/org-canines-for-warriors.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Freemasons](/entities/org-freemasons.md), [French intelligence](/entities/org-french-intelligence.md), [IDF](/entities/org-idf.md), [Little Oaks](/entities/org-little-oaks.md), [Mossad](/entities/org-mossad.md), [Operation Underground Railroad](/entities/org-operation-underground-railroad.md), [Paleo Valley](/entities/org-paleo-valley.md), [PragerU](/entities/org-prageru.md), [PureTalk](/entities/org-puretalk.md), [Riverbend Ranch](/entities/org-riverbend-ranch.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Twitter](/entities/org-twitter.md), [U.S. Navy](/entities/org-us-navy.md), [United States Navy](/entities/org-united-states-navy.md), [Utah Valley Hospital](/entities/org-utah-valley-hospital.md), [Utah Valley University](/entities/org-utah-valley-university.md), [YouTube](/entities/org-youtube.md)
+**Organizations:** [American Financing](/entities/org-american-financing.md), [Calvary Chapel](/entities/org-calvary-chapel.md), [Canines for Warriors](/entities/org-canines-for-warriors.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Freemasons](/entities/org-freemasons.md), [French intelligence](/entities/org-french-intelligence.md), [IDF](/entities/org-idf.md), [Little Oaks](/entities/org-little-oaks.md), [Mossad](/entities/org-mossad.md), [Operation Underground Railroad](/entities/org-operation-underground-railroad.md), [Paleo Valley](/entities/org-paleo-valley.md), [PragerU](/entities/org-prageru.md), [Pure Talk](/entities/org-pure-talk.md), [PureTalk](/entities/org-puretalk.md), [Riverbend Ranch](/entities/org-riverbend-ranch.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Twitter](/entities/org-twitter.md), [U.S. Navy](/entities/org-us-navy.md), [United States Navy](/entities/org-united-states-navy.md), [Utah Valley Hospital](/entities/org-utah-valley-hospital.md), [Utah Valley University](/entities/org-utah-valley-university.md), [YouTube](/entities/org-youtube.md)
 
 **People:** [Alex Clark](/entities/person-alex-clark.md), [Alexis Wilkins](/entities/person-alexis-wilkins.md), [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Austin Erickson](/entities/person-austin-erickson.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Brittany Watson](/entities/person-brittany-watson.md), [Burton Hibbs](/entities/person-burton-hibbs.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Rubin](/entities/person-dave-rubin.md), [Donald Trump](/entities/person-donald-trump.md), [Dylan Erickson](/entities/person-dylan-erickson.md), [Elijah Schaffer](/entities/person-elijah-schaffer.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Erika Kirk](/entities/person-erika-kirk.md), [Jack Hibbs](/entities/person-jack-hibbs.md), [Jared Kushner](/entities/person-jared-kushner.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kanye West](/entities/person-kanye-west.md), [Kash Patel](/entities/person-kash-patel.md), [Marissa Streit](/entities/person-marissa-streit.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Seth Dillon](/entities/person-seth-dillon.md), [Taylor Lorenz](/entities/person-taylor-lorenz.md), [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Tim Ballard](/entities/person-tim-ballard.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 

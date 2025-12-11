@@ -20,14 +20,14 @@ _Type: Places_
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>
 
-**[00:44:54](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-tucson-t-00-44-27)**
-> "On September 8th, it flew from Colorado Springs to Tucson"
-
 **[00:44:22](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-tucson-t-00-43-45)**
 > "...flew from Colorado Springs to Tucson."
 
 **[00:44:27](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-tucson-t-00-44-27)**
 > "Then five hours later from Tucson,"
+
+**[00:44:54](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-tucson-t-00-44-27)**
+> "On September 8th, it flew from Colorado Springs to Tucson"
 
 **[00:48:22](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-tucson-t-00-48-17)**
 > "You can see it goes from Tucson, the transponder goes dark."

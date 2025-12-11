@@ -1,6 +1,6 @@
 ---
 title: "Brett Cooper"
-description: "Brett Cooper (People) - 50 mentions"
+description: "Brett Cooper (People) - 23 mentions"
 id: "person-brett-cooper"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (11 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (5 mentions)</summary>
 
 **[00:06:01](/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-05-39)**
 > "...Got involved and pushed for this conservatorship. That is what has been alleged. I'm going to allow Brett Cooper—I'm just gonna rip this content from her show, hopefully she doesn't mind—to explain how Britney Sp..."
@@ -30,28 +30,10 @@ _Type: People_
 **[00:17:11](/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-16-49)**
 > "...ry of this year, someone notified me that Courtney Love wanted to reach out to me. So there you go. Brett Cooper has mentioned that Courtney Love has also had allegations about Lou Taylor. We all know who Courtne..."
 
-**[00:06:01](/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-05-39)**
-> "I'm going to allow Brett Cooper—I'm just gonna rip this content from her show, ho..."
-
-**[00:06:12](/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-05-39)**
-> "Take a listen. (Brett Cooper clip)"
-
-**[00:10:35](/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-10-20)**
-> "And as Brett Cooper is about to lay out, Lou Taylor's qualifications ..."
-
-**[00:10:41](/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-10-20)**
-> "Take it away again, Brett Cooper. (Brett Cooper clip)"
-
-**[00:10:41](/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-10-20)**
-> "...it away again, Brett Cooper. (Brett Cooper clip)"
-
-**[00:17:11](/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-16-49)**
-> "Brett Cooper has mentioned that Courtney Love has also had all..."
-
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (37 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (17 mentions)</summary>
 
 **[00:00:38](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-00-38)**
 > "...e are really sick of Zionism. We are really sick of lies. In that same vein, in case you missed it, Brett Cooper is apparently the new Hitler—which I'm just wondering, can we just get these on iPhone alerts, like..."
@@ -104,76 +86,13 @@ _Type: People_
 **[00:26:57](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-26-36)**
 > "...omething just to laugh at. It's something to pay attention to, okay? Because if they're going after Brett Cooper in this demonic of a way—someone who's just a bubbly girl who speaks mostly about pop culture—and n..."
 
-**[00:00:38](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-00-38)**
-> "... vein, in case you missed it, Brett Cooper is apparently the new Hitler—which I'm just wonde..."
-
-**[00:00:58](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-00-38)**
-> "Today it is in fact Brett Cooper."
-
-**[00:17:12](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-17-12)**
-> "...terday they started attacking Brett Cooper."
-
-**[00:17:17](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-17-12)**
-> "Brett Cooper—23-year-old, bubbly Brett Cooper."
-
-**[00:17:17](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-17-12)**
-> "...tt Cooper—23-year-old, bubbly Brett Cooper."
-
-**[00:17:51](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-17-51)**
-> "...hat's what they want to do to Brett Cooper because she watched the totally deranged "Tucker ..."
-
-**[00:18:15](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-17-51)**
-> "... gonna let you listen to what Brett Cooper said about Randy Fine."
-
-**[00:18:25](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-17-51)**
-> "Take a listen to what Brett Cooper said. (Clip of Brett Cooper)"
-
-**[00:18:25](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-17-51)**
-> "...t Brett Cooper said. (Clip of Brett Cooper)"
-
-**[00:19:15](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-19-15)**
-> "... regarding Ted Cruz. (Clip of Brett Cooper on Ted Cruz)"
-
-**[00:20:53](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-20-53)**
-> "...and say to Gen Z or to say to Brett Cooper, "Hey, I'd love to have you on our show," or "Hey..."
-
-**[00:21:21](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-20-53)**
-> "Why are you calling Brett Cooper the white Candace (Candace Owens)?"
-
-**[00:21:23](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-20-53)**
-> "... thinking about the fact that Brett Cooper is white?"
-
-**[00:22:21](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-22-10)**
-> "...were featured in a movie that Brett Cooper starred in at the Daily Wire: "Lady Ballers.""
-
-**[00:22:28](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-22-10)**
-> "You know fully well who Brett Cooper is."
-
-**[00:23:30](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-22-50)**
-> "Brett Cooper and her mom engage in witchcraft."
-
-**[00:23:39](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-23-34)**
-> "...ey are referring to. (Clip of Brett Cooper on Sean Ryan Show)"
-
-**[00:25:08](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-25-08)**
-> "... conversations I've ever seen Brett Cooper have."
-
-**[00:26:57](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-26-36)**
-> "...ecause if they're going after Brett Cooper in this demonic of a way—someone who's just a bub..."
-
-**[00:26:57](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-26-36)**
-> "...e supposed to drown her, burn Brett Cooper at the stake—then where does that put the rest of..."
-
 </details>
 
 <details>
-<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (2 mentions)</summary>
+<summary>TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249 (1 mentions)</summary>
 
 **[00:58:31](/episodes/ep-5autG89PW6w.md#ent-person-brett-cooper-t-00-58-31)**
 > "...itics is a nasty business, Amir. As you know—you know—you're a friend of someone who's in politics: Brett Cooper. Corey Henry writes: "Give me the Kool-Aid in a juice box LMAO" regarding Ashton Forbes' cult comme..."
-
-**[00:58:31](/episodes/ep-5autG89PW6w.md#ent-person-brett-cooper-t-00-58-31)**
-> "...of someone who's in politics: Brett Cooper."
 
 </details>
 

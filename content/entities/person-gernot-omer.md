@@ -1,6 +1,6 @@
 ---
 title: "Gernot Omer"
-description: "Gernot Omer (People) - 2 mentions"
+description: "Gernot Omer (People) - 1 mention"
 id: "person-gernot-omer"
 type: "PERSON"
 ---
@@ -13,13 +13,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
 
 **[00:10:16](/episodes/ep-YA1FxrDWNIo.md#ent-person-gernot-omer-t-00-10-16)**
 > ".... I mean, what? Austrian? What's this Austrian guy doing? How did we get here? Anyways, his name is Gernot Omer, and we were able to find that his face matched with photos from a blog post that was written in Ge..."
-
-**[00:10:16](/episodes/ep-YA1FxrDWNIo.md#ent-person-gernot-omer-t-00-10-16)**
-> "Anyways, his name is Gernot Omer, and we were able"
 
 </details>
 

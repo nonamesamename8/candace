@@ -1,6 +1,6 @@
 ---
 title: "Terrell Farnsworth"
-description: "Terrell Farnsworth (People) - 4 mentions"
+description: "Terrell Farnsworth (People) - 3 mentions"
 id: "person-terrell-farnsworth"
 type: "PERSON"
 ---
@@ -13,16 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (3 mentions)</summary>
-
-**[00:12:15](/episodes/ep-JQjCAsfoXEE.md#ent-person-terrell-farnsworth-t-00-11-52)**
-> "... the general public. For example, one of the earliest alarms that went off for me was the fact that Terrell Farnsworth, the guy who takes out the SD cards, was there at all. Okay, Terrell does not do college campus eve..."
-
-**[00:12:15](/episodes/ep-JQjCAsfoXEE.md#ent-person-terrell-farnsworth-t-00-11-52)**
-> "... off for me was the fact that Terrell Farnsworth, the guy who takes out the SD cards, was there at..."
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2 mentions)</summary>
 
 **[00:12:10](/episodes/ep-JQjCAsfoXEE.md#ent-person-terrell-farnsworth-t-00-11-52)**
 > "For example, one of the earliest alarms that went off for me was the fact that Terrell Farnsworth, the guy who takes out the SD cards, was there at all."
+
+**[00:12:15](/episodes/ep-JQjCAsfoXEE.md#ent-person-terrell-farnsworth-t-00-11-52)**
+> "... the general public. For example, one of the earliest alarms that went off for me was the fact that Terrell Farnsworth, the guy who takes out the SD cards, was there at all. Okay, Terrell does not do college campus eve..."
 
 </details>
 

@@ -19,11 +19,11 @@ _Type: Organizations_
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
-**[00:46:13](/episodes/ep-Cq7nj9rxPdo.md#ent-org-breitbart-news-t-00-45-51)**
-> "Alex Marlow who runs Breitbart News"
-
 **[00:46:06](/episodes/ep-Cq7nj9rxPdo.md#ent-org-breitbart-news-t-00-45-51)**
 > "...ex Marlow speaking), who runs Breitbart News, was their guest for the day on the show."
+
+**[00:46:13](/episodes/ep-Cq7nj9rxPdo.md#ent-org-breitbart-news-t-00-45-51)**
+> "Alex Marlow who runs Breitbart News"
 
 </details>
 

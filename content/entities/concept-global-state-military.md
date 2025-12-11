@@ -1,6 +1,6 @@
 ---
 title: "global state military"
-description: "global state military (Concepts) - 2 mentions"
+description: "global state military (Concepts) - 1 mention"
 id: "concept-global-state-military"
 type: "CONCEPT"
 ---
@@ -13,13 +13,10 @@ _Type: Concepts_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:56:06](/episodes/ep-tB5SXXmd9vU.md#ent-concept-global-state-military-t-00-55-54)**
 > "...r Carlson) and I were being threatened from the United States military. And I should really say the global state military, because I do believe that we are run by the military and that the idea of democracy is an utter de..."
-
-**[00:56:06](/episodes/ep-tB5SXXmd9vU.md#ent-concept-global-state-military-t-00-55-54)**
-> "And I should really say the global state military, because I do believe that we are run by the mili..."
 
 </details>
 

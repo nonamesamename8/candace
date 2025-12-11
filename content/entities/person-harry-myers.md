@@ -1,6 +1,6 @@
 ---
 title: "Harry Myers"
-description: "Harry Myers (People) - 20 mentions"
+description: "Harry Myers (People) - 13 mentions"
 id: "person-harry-myers"
 type: "PERSON"
 aliases:
@@ -17,7 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (5 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (4 mentions)</summary>
 
 **[00:40:24](/episodes/ep-6DhWawD4ZiM.md#ent-person-harry-myers-t-00-42-19)**
 > "Remember, Harry, told me that seeing that many"
@@ -31,13 +31,10 @@ _Type: People_
 **[00:59:46](/episodes/ep-6DhWawD4ZiM.md#ent-person-harry-myers-t-00-59-39)**
 > "... but you're referring to what Harry, I mean, Harry thinks he has an idea and he shoul..."
 
-**[00:59:46](/episodes/ep-6DhWawD4ZiM.md#ent-person-harry-myers-t-00-59-39)**
-> "...erring to what Harry, I mean, Harry thinks he has an idea and he should come out and ..."
-
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (15 mentions)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (9 mentions)</summary>
 
 **[00:00:31](/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-03-26)**
 > "The person that I spoke with, his name is or was Harry"
@@ -46,25 +43,13 @@ _Type: People_
 > "this young man named Harry Myers discovered something"
 
 **[00:03:43](/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-03-26)**
-> "...th, his name is or was Harry (Harry Myers)."
-
-**[00:03:43](/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-03-26)**
 > "...poke with, his name is or was Harry (Harry Myers)."
 
 **[00:05:00](/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-04-35)**
 > "..., this young man named Harry (Harry Myers) Myers discovered something that would shape the ..."
 
-**[00:05:00](/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-04-35)**
-> "In 1990, this young man named Harry (Harry Myers) Myers discovered something that wou..."
-
-**[00:07:34](/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-07-30)**
-> "...gonist in the story is Harry (Harry Myers), right?"
-
 **[00:07:34](/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-07-30)**
 > "...r protagonist in the story is Harry (Harry Myers), right?"
-
-**[00:09:43](/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-09-43)**
-> "...plosive discovery that Harry (Harry Myers) made."
 
 **[00:09:43](/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-09-43)**
 > "...this explosive discovery that Harry (Harry Myers) made."
@@ -75,14 +60,8 @@ _Type: People_
 **[00:15:15](/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-15-15)**
 > "... May of this year, and Harry (Harry Myers) Myers, who now has a new name, by the way, which..."
 
-**[00:15:15](/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-15-15)**
-> "...f 2025, May of this year, and Harry (Harry Myers) Myers, who now has a new name, by t..."
-
 **[00:15:51](/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-15-15)**
 > "...hy didn't they protect Harry (Harry Myers)?"
-
-**[00:15:51](/episodes/ep-t4U7NjnUEgc.md#ent-person-harry-myers-t-00-15-15)**
-> "Why didn't they protect Harry (Harry Myers)?"
 
 </details>
 

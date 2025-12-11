@@ -1,6 +1,6 @@
 ---
 title: "Prager University"
-description: "Prager University (Organizations) - 2 mentions"
+description: "Prager University (Organizations) - 1 mention"
 id: "org-prager-university"
 type: "ORG"
 ---
@@ -13,13 +13,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (1 mentions)</summary>
 
 **[00:06:29](/episodes/ep-YA1FxrDWNIo.md#ent-org-prager-university-t-00-06-12)**
 > "...ed to donate to that charity because I was so moved by my interview with him when I was working for Prager University. But moving on from that, Phil also disputes something that was quite strange: that Shaner Broderic..."
-
-**[00:06:29](/episodes/ep-YA1FxrDWNIo.md#ent-org-prager-university-t-00-06-12)**
-> "...th him when I was working for Prager University."
 
 </details>
 

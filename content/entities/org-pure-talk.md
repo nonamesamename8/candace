@@ -1,6 +1,6 @@
 ---
 title: "Pure Talk"
-description: "Pure Talk (Organizations) - 15 mentions"
+description: "Pure Talk (Organizations) - 13 mentions"
 id: "org-pure-talk"
 type: "ORG"
 aliases:
@@ -18,7 +18,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (7 mentions)</summary>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (6 mentions)</summary>
 
 **[00:49:54](/episodes/ep-6DhWawD4ZiM.md#ent-org-pure-talk-t-00-49-45)**
 > "I also want to tell you guys about PureTalk"
@@ -28,9 +28,6 @@ _Type: Organizations_
 
 **[00:50:11](/episodes/ep-6DhWawD4ZiM.md#ent-org-pure-talk-t-00-49-45)**
 > "Well, my friends at PureTalk would like to say thank you from the bottom of th..."
-
-**[00:50:11](/episodes/ep-6DhWawD4ZiM.md#ent-org-pure-talk-t-00-49-45)**
-> "... of their hearts for choosing PureTalk for your wireless needs because of you."
 
 **[00:50:31](/episodes/ep-6DhWawD4ZiM.md#ent-org-pure-talk-t-00-50-28)**
 > "Your patronage has allowed PureTalk to donate a thousand hand-sewn Made in America fl..."
@@ -44,7 +41,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (8 mentions)</summary>
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (7 mentions)</summary>
 
 **[00:54:34](/episodes/ep-pc3pxRyNFZk.md#ent-org-pure-talk-t-00-54-00)**
 > "Pure Talk, first and foremost. Our society works because of the freedoms that are guaranteed by the First Amendment"
@@ -63,9 +60,6 @@ _Type: Organizations_
 
 **[00:55:14](/episodes/ep-pc3pxRyNFZk.md#ent-org-pure-talk-t-00-54-44)**
 > "Go to puretalk.com/Owens and switch to my wireless company, Pure..."
-
-**[00:55:14](/episodes/ep-pc3pxRyNFZk.md#ent-org-pure-talk-t-00-54-44)**
-> "...witch to my wireless company, PureTalk."
 
 **[00:55:22](/episodes/ep-pc3pxRyNFZk.md#ent-org-pure-talk-t-00-54-44)**
 > "Go to puretalk.com/Owens to make the switch today."

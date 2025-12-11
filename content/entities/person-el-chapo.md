@@ -1,6 +1,6 @@
 ---
 title: "El Chapo"
-description: "El Chapo (People) - 8 mentions"
+description: "El Chapo (People) - 5 mentions"
 id: "person-el-chapo"
 type: "PERSON"
 aliases:
@@ -17,7 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (8 mentions)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (5 mentions)</summary>
 
 **[00:01:19](/episodes/ep-t4U7NjnUEgc.md#ent-person-el-chapo-t-00-08-59)**
 > "in the photos in that house posing with El Chapo and Felipe"
@@ -28,20 +28,11 @@ _Type: People_
 **[00:09:08](/episodes/ep-t4U7NjnUEgc.md#ent-person-el-chapo-t-00-08-59)**
 > "...tos in that house posing with El Chapo (El Chapo) and Felipe, his architect, and there w..."
 
-**[00:09:08](/episodes/ep-t4U7NjnUEgc.md#ent-person-el-chapo-t-00-08-59)**
-> "...t house posing with El Chapo (El Chapo) and Felipe, his architect, and there were other ..."
-
 **[00:09:34](/episodes/ep-t4U7NjnUEgc.md#ent-person-el-chapo-t-00-08-59)**
 > "...the military in pictures with El Chapo (El Chapo), what's going on here?"
 
-**[00:09:34](/episodes/ep-t4U7NjnUEgc.md#ent-person-el-chapo-t-00-08-59)**
-> "...ry in pictures with El Chapo (El Chapo), what's going on here?"
-
 **[00:12:30](/episodes/ep-t4U7NjnUEgc.md#ent-person-el-chapo-t-00-11-53)**
 > "whose picture was with El Chapo (El Chapo) and about to be discovered."
-
-**[00:12:30](/episodes/ep-t4U7NjnUEgc.md#ent-person-el-chapo-t-00-11-53)**
-> "...se picture was with El Chapo (El Chapo) and about to be discovered."
 
 </details>
 

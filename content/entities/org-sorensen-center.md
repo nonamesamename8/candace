@@ -1,6 +1,6 @@
 ---
 title: "Sorensen Center"
-description: "Sorensen Center (Organizations) - 13 mentions"
+description: "Sorensen Center (Organizations) - 7 mentions"
 id: "org-sorensen-center"
 type: "ORG"
 aliases:
@@ -18,7 +18,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
 
 **[00:34:07](/episodes/ep-sImMM04XdWY.md#ent-org-sorensen-center-t-00-33-57)**
 > "...oup. There is a student roof access pretty close to where CK will be set up at the Utah Valley, the Sorensen Center. It has a couple of staircases that go up to walkways on the roofs." He comes back— for edification..."
@@ -26,16 +26,13 @@ _Type: Organizations_
 **[00:34:21](/episodes/ep-sImMM04XdWY.md#ent-org-sorensen-center-t-00-33-57)**
 > "...as a couple of staircases that go up to walkways on the roofs." He comes back— for edification, the Sorensen Center was the building in front of the Locke Center— and so he comes back, and he says, "You want access ..."
 
-**[00:34:07](/episodes/ep-sImMM04XdWY.md#ent-org-sorensen-center-t-00-33-57)**
-> "...et up at the Utah Valley, the Sorensen Center. It has a couple of staircases that go up to walk..."
-
-**[00:34:21](/episodes/ep-sImMM04XdWY.md#ent-org-sorensen-center-t-00-33-57)**
-> "for edification, the Sorensen Center was the building in front of the Locke Center—"
-
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (5 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (3 mentions)</summary>
+
+**[00:25:18](/episodes/ep-581dILVcEE4.md#ent-org-sorensen-center-t-00-25-08)**
+> "There is a student roof access pretty close to where CK will be set up at the Utah Valley—the Sorensen Center."
 
 **[00:25:18](/episodes/ep-581dILVcEE4.md#ent-org-sorensen-center-t-00-25-08)**
 > "...up." "There is a student roof access pretty close to where CK will be set up at the Utah Valley—the Sorensen Center." "It has a couple of staircases that go up to walkways on the roofs." He comes back for edificatio..."
@@ -43,31 +40,16 @@ _Type: Organizations_
 **[00:25:33](/episodes/ep-581dILVcEE4.md#ent-org-sorensen-center-t-00-25-08)**
 > "...has a couple of staircases that go up to walkways on the roofs." He comes back for edification: the Sorensen Center was the building in front of the Lozier Center. And so he comes back, and he says, "You want access..."
 
-**[00:25:18](/episodes/ep-581dILVcEE4.md#ent-org-sorensen-center-t-00-25-08)**
-> "...set up at the Utah Valley—the Sorensen Center.""
-
-**[00:25:33](/episodes/ep-581dILVcEE4.md#ent-org-sorensen-center-t-00-25-08)**
-> "for edification: the Sorensen Center was the building in front of the Lozier Center."
-
-**[00:25:18](/episodes/ep-581dILVcEE4.md#ent-org-sorensen-center-t-00-25-08)**
-> "There is a student roof access pretty close to where CK will be set up at the Utah Valley—the Sorensen Center."
-
 </details>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (4 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (2 mentions)</summary>
 
 **[00:16:15](/episodes/ep-YA1FxrDWNIo.md#ent-org-sorensen-center-t-00-15-56)**
 > "... then—immediately, according to our timeline—hit record, and he didn't run. He calmly walked out of Sorensen Building. I hope I'm saying that right: the Sorensen Building. And he wasn't the only one that was walking c..."
 
 **[00:16:17](/episodes/ep-YA1FxrDWNIo.md#ent-org-sorensen-center-t-00-15-56)**
 > "...rd, and he didn't run. He calmly walked out of Sorensen Building. I hope I'm saying that right: the Sorensen Building. And he wasn't the only one that was walking calmly. And I'm not, by the way, none of these people ..."
-
-**[00:16:15](/episodes/ep-YA1FxrDWNIo.md#ent-org-sorensen-center-t-00-15-56)**
-> "calmly walked out of Sorensen Building."
-
-**[00:16:17](/episodes/ep-YA1FxrDWNIo.md#ent-org-sorensen-center-t-00-15-56)**
-> "...pe I'm saying that right: the Sorensen Building."
 
 </details>
 

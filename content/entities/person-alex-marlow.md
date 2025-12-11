@@ -1,6 +1,6 @@
 ---
 title: "Alex Marlow"
-description: "Alex Marlow (People) - 4 mentions"
+description: "Alex Marlow (People) - 3 mentions"
 id: "person-alex-marlow"
 type: "PERSON"
 ---
@@ -13,16 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (4 mentions)</summary>
-
-**[00:46:13](/episodes/ep-Cq7nj9rxPdo.md#ent-person-alex-marlow-t-00-45-51)**
-> "Alex Marlow, who runs Breitbart News"
+<summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
 
 **[00:46:06](/episodes/ep-Cq7nj9rxPdo.md#ent-person-alex-marlow-t-00-45-51)**
 > "...e interesting though, because Alex Marlow (Alex Marlow speaking), who runs Breitbart News, ..."
 
-**[00:46:06](/episodes/ep-Cq7nj9rxPdo.md#ent-person-alex-marlow-t-00-45-51)**
-> "... though, because Alex Marlow (Alex Marlow speaking), who runs Breitbart News, was their gue..."
+**[00:46:13](/episodes/ep-Cq7nj9rxPdo.md#ent-person-alex-marlow-t-00-45-51)**
+> "Alex Marlow, who runs Breitbart News"
 
 **[00:48:39](/episodes/ep-Cq7nj9rxPdo.md#ent-person-alex-marlow-t-00-48-17)**
 > "...t me answer you back on that, Alex Marlow."

@@ -20,11 +20,11 @@ _Type: Events_
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (4 mentions)</summary>
 
-**[00:12:53](/episodes/ep-Kmt6HgRjckU.md#t-00-12-44)**
-> "Angola Gate scandal involving arms trafficking that almost brought down the French government"
-
 **[00:12:44](/episodes/ep-Kmt6HgRjckU.md#t-00-12-44)**
 > "...s scandal came to be known as Angola Gate."
+
+**[00:12:53](/episodes/ep-Kmt6HgRjckU.md#t-00-12-44)**
+> "Angola Gate scandal involving arms trafficking that almost brought down the French government"
 
 **[00:16:23](/episodes/ep-Kmt6HgRjckU.md#t-00-16-13)**
 > "...ells us that, quote, known as Angola Gate, in France, the scandal involves arms for oil dea..."

@@ -1,6 +1,6 @@
 ---
 title: "Miriam Deeds"
-description: "Miriam Deeds (People) - 2 mentions"
+description: "Miriam Deeds (People) - 1 mention"
 id: "person-miriam-deeds"
 type: "PERSON"
 ---
@@ -13,13 +13,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:30:22](/episodes/ep-tB5SXXmd9vU.md#ent-person-miriam-deeds-t-00-29-47)**
 > "...even shared concerns about what was actually happening at that building. There was a resident named Miriam Deeds who said, quote, 'I just feel like I don't understand why we're doing this without there being more..."
-
-**[00:30:22](/episodes/ep-tB5SXXmd9vU.md#ent-person-miriam-deeds-t-00-29-47)**
-> "There was a resident named Miriam Deeds who said, quote, 'I just feel like I don't unders..."
 
 </details>
 

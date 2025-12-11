@@ -15,11 +15,11 @@ _Type: Works & Media_
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
-**[00:11:30](/episodes/ep-6DhWawD4ZiM.md#ent-work-the-five-t-00-09-46)**
-> "She's done Hannity, she's done The Five, she's done Fox and Friends"
-
 **[00:09:59](/episodes/ep-6DhWawD4ZiM.md#ent-work-the-five-t-00-09-46)**
 > "...ty (Sean Hannity), she's done The Five, she's done Fox and Friends, she's done Outnumber..."
+
+**[00:11:30](/episodes/ep-6DhWawD4ZiM.md#ent-work-the-five-t-00-09-46)**
+> "She's done Hannity, she's done The Five, she's done Fox and Friends"
 
 </details>
 

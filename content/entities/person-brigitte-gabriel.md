@@ -1,6 +1,6 @@
 ---
 title: "Brigitte Gabriel"
-description: "Brigitte Gabriel (People) - 3 mentions"
+description: "Brigitte Gabriel (People) - 2 mentions"
 id: "person-brigitte-gabriel"
 type: "PERSON"
 aliases:
@@ -17,16 +17,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>To My Friend, Charlie Kirk. (3 mentions)</summary>
-
-**[00:20:05](/episodes/ep-_dRaEO47-co.md#ent-person-brigitte-gabriel-t-00-19-31)**
-> "Brigitte was Charlie Kirk"
-
-**[00:19:57](/episodes/ep-_dRaEO47-co.md#ent-person-brigitte-gabriel-t-00-19-31)**
-> "...Trump) called about Brigitte (Brigitte Gabriel) was Charlie Kirk (Charlie Kirk).""
+<summary>To My Friend, Charlie Kirk. (2 mentions)</summary>
 
 **[00:19:57](/episodes/ep-_dRaEO47-co.md#ent-person-brigitte-gabriel-t-00-19-31)**
 > "...p (Donald Trump) called about Brigitte (Brigitte Gabriel) was Charlie Kirk (Charlie Kirk..."
+
+**[00:20:05](/episodes/ep-_dRaEO47-co.md#ent-person-brigitte-gabriel-t-00-19-31)**
+> "Brigitte was Charlie Kirk"
 
 </details>
 

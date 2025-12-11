@@ -1,14 +1,14 @@
 ---
 id: "QZWSsq8ZWzw"
 title: "BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242"
-description: "BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 - 72 entities, 9 events, 0 claims"
+description: "BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 - 78 entities, 9 events, 0 claims"
 published: "2025-09-24"
 youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 ---
 
 **Published:** 2025-09-24 | [Watch on YouTube](https://www.youtube.com/watch?v=QZWSsq8ZWzw)
 
-**Stats:** 72 entities | 9 events | 0 claims
+**Stats:** 78 entities | 9 events | 0 claims
 
 ---
 
@@ -233,7 +233,7 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (72)</strong></summary>
+<summary><strong>Entities Mentioned (78)</strong></summary>
 
 **Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [Luciferianism](/entities/concept-luciferianism.md), [MAGA movement](/entities/concept-maga-movement.md), [MKUltra](/entities/concept-mkultra.md)
 
@@ -241,13 +241,13 @@ youtube_url: "https://www.youtube.com/watch?v=QZWSsq8ZWzw"
 
 **Events:** [COVID-19 Pandemic](/entities/event-covid-19-pandemic.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [JFK assassination](/entities/event-jfk-assassination.md), [Oklahoma City bombing](/entities/event-oklahoma-city-bombing.md), [Orlando nightclub shooting](/entities/event-orlando-nightclub-shooting.md)
 
-**Places:** [Arizona](/entities/gpe-arizona.md), [Canada](/entities/gpe-canada.md), [Dallas](/entities/gpe-dallas.md), [Iran](/entities/gpe-iran.md), [London](/entities/gpe-london.md), [United Kingdom](/entities/gpe-united-kingdom.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md)
+**Places:** [Arizona](/entities/gpe-arizona.md), [Canada](/entities/gpe-canada.md), [Dallas](/entities/gpe-dallas.md), [Germany](/entities/gpe-germany.md), [Iran](/entities/gpe-iran.md), [London](/entities/gpe-london.md), [United Kingdom](/entities/gpe-united-kingdom.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md)
 
 **Organizations:** [American Financing](/entities/org-american-financing.md), [Apple](/entities/org-apple.md), [CDC](/entities/org-cdc.md), [Caldera Engineering](/entities/org-caldera-engineering.md), [Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md), [Club Candace](/entities/org-club-candace.md), [Discord](/entities/org-discord.md), [Etsy](/entities/org-etsy.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Google](/entities/org-google.md), [Immigration and Customs Enforcement](/entities/org-immigration-and-customs-enforcement.md), [Jezebel](/entities/org-jezebel.md), [Riverbend Ranch](/entities/org-riverbend-ranch.md), [Spotify](/entities/org-spotify.md), [The Wellness Company](/entities/org-the-wellness-company.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Vice](/entities/org-vice.md), [YouTube](/entities/org-youtube.md)
 
-**People:** [Ben Shapiro](/entities/person-ben-shapiro.md), [C.S. Lewis](/entities/person-cs-lewis.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Clay Travis](/entities/person-clay-travis.md), [Corey Comparatore](/entities/person-corey-comparatore.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [Jesus Christ](/entities/person-jesus-christ.md), [Jimmy Kimmel](/entities/person-jimmy-kimmel.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Margarethe Schurz](/entities/person-margarethe-schurz.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Mitch McConnell](/entities/person-mitch-mcconnell.md), [Rand Paul](/entities/person-rand-paul.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Skylar](/entities/person-skylar.md), [Ted Cruz](/entities/person-ted-cruz.md), [Thomas Crooks](/entities/person-thomas-crooks.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [Thomas Sowell](/entities/person-thomas-sowell.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Ben Shapiro](/entities/person-ben-shapiro.md), [C.S. Lewis](/entities/person-cs-lewis.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Clay Travis](/entities/person-clay-travis.md), [Corey Comparatore](/entities/person-corey-comparatore.md), [Donald Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [Jesus Christ](/entities/person-jesus-christ.md), [Jimmy Kimmel](/entities/person-jimmy-kimmel.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [Lance](/entities/person-lance-robinson-boyfriend.md), [Margarethe Schurz](/entities/person-margarethe-schurz.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Mitch McConnell](/entities/person-mitch-mcconnell.md), [Rand Paul](/entities/person-rand-paul.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Ronald Reagan](/entities/person-ronald-reagan.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Skylar](/entities/person-skylar.md), [Skyler](/entities/person-skyler.md), [Ted Cruz](/entities/person-ted-cruz.md), [Thomas Crooks](/entities/person-thomas-crooks.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [Thomas Sowell](/entities/person-thomas-sowell.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
-**Works & Media:** [A Shot in the Dark](/entities/work-a-shot-in-the-dark.md), [Inside American Education](/entities/work-inside-american-education.md), [The Assault on Truth](/entities/work-the-assault-on-truth.md)
+**Works & Media:** [A Shot in the Dark](/entities/work-a-shot-in-the-dark.md), [Blackout](/entities/work-blackout.md), [Inside American Education](/entities/work-inside-american-education.md), [The Assault on Truth](/entities/work-the-assault-on-truth.md), [The Matrix](/entities/work-the-matrix.md)
 
 </details>
 

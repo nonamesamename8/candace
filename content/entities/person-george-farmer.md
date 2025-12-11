@@ -1,6 +1,6 @@
 ---
 title: "George Farmer"
-description: "George Farmer (People) - 27 mentions"
+description: "George Farmer (People) - 25 mentions"
 id: "person-george-farmer"
 type: "PERSON"
 aliases:
@@ -97,22 +97,16 @@ _Type: People_
 </details>
 
 <details>
-<summary>To My Friend, Charlie Kirk. (6 mentions)</summary>
-
-**[00:00:37](/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37)**
-> "discussion with George this morning"
-
-**[00:17:44](/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-17-19)**
-> "he sat down and he spent just one evening with George"
+<summary>To My Friend, Charlie Kirk. (4 mentions)</summary>
 
 **[00:00:37](/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37)**
 > "... this discussion with George (George Farmer) this morning, obviously through a lot of tears, ..."
 
-**[00:00:37](/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-00-37)**
-> "...s having this discussion with George (George Farmer) this morning, obviously through a..."
-
 **[00:17:36](/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-17-19)**
 > "...e spent just one evening with George, and he—Charlie (Charlie Kirk)—was just the most ..."
+
+**[00:17:44](/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-17-19)**
+> "he sat down and he spent just one evening with George"
 
 **[00:18:02](/episodes/ep-_dRaEO47-co.md#ent-person-george-farmer-t-00-18-02)**
 > "...u know, when I got married to George."

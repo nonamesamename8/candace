@@ -15,11 +15,11 @@ _Type: People_
 <details>
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (2 mentions)</summary>
 
-**[00:13:23](/episodes/ep-sreYYcID-QY.md#ent-person-kathy-bechel-t-00-13-21)**
-> "Kathy Bechel led us to her backyard"
-
 **[00:13:21](/episodes/ep-sreYYcID-QY.md#ent-person-kathy-bechel-t-00-13-21)**
 > "Kathy Bechel led us to her backyard."
+
+**[00:13:23](/episodes/ep-sreYYcID-QY.md#ent-person-kathy-bechel-t-00-13-21)**
+> "Kathy Bechel led us to her backyard"
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Austin Erickson"
-description: "Austin Erickson (People) - 5 mentions"
+description: "Austin Erickson (People) - 3 mentions"
 id: "person-austin-erickson"
 type: "PERSON"
 ---
@@ -13,22 +13,16 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (5 mentions)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (3 mentions)</summary>
+
+**[00:23:18](/episodes/ep-MUA9ebCF4Ow.md#ent-person-austin-erickson-t-00-23-07)**
+> "I would like to give a special shout-out to Dylan Erickson and Austin Erickson, the bros"
 
 **[00:23:18](/episodes/ep-MUA9ebCF4Ow.md#ent-person-austin-erickson-t-00-23-07)**
 > "...Now, to my Turning Point USA people, I would like to give a special shout-out to Dylan Erickson and Austin Erickson, the bros that work at TPUSA. I want you both to know that I am onto you. I have known every word t..."
 
 **[00:28:43](/episodes/ep-MUA9ebCF4Ow.md#ent-person-austin-erickson-t-00-28-43)**
 > "...c—by the way, since we're going max—if you went to high school with Mikey McCoy, Dylan Erickson, or Austin Erickson, I would like to hear from you because I'm having some trouble tracking these people. It's like the..."
-
-**[00:23:18](/episodes/ep-MUA9ebCF4Ow.md#ent-person-austin-erickson-t-00-23-07)**
-> "...out-out to Dylan Erickson and Austin Erickson, the bros"
-
-**[00:28:43](/episodes/ep-MUA9ebCF4Ow.md#ent-person-austin-erickson-t-00-28-43)**
-> "...key McCoy, Dylan Erickson, or Austin Erickson, I would like to hear from you because I'm having..."
-
-**[00:23:18](/episodes/ep-MUA9ebCF4Ow.md#ent-person-austin-erickson-t-00-23-07)**
-> "I would like to give a special shout-out to Dylan Erickson and Austin Erickson, the bros"
 
 </details>
 

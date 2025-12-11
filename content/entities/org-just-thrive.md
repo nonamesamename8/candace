@@ -1,6 +1,6 @@
 ---
 title: "Just Thrive"
-description: "Just Thrive (Organizations) - 20 mentions"
+description: "Just Thrive (Organizations) - 19 mentions"
 id: "org-just-thrive"
 type: "ORG"
 aliases:
@@ -63,16 +63,10 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (8 mentions)</summary>
-
-**[00:37:22](/episodes/ep-czVBmqZP6Ss.md#ent-org-just-thrive-t-00-35-22)**
-> "Also telling you guys about Just Thrive because the biggest health secret that's not being talked about"
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (7 mentions)</summary>
 
 **[00:34:42](/episodes/ep-czVBmqZP6Ss.md#ent-org-just-thrive-t-00-34-41)**
 > "Also telling you guys about Just Thrive because the biggest health secret that's not bein..."
-
-**[00:35:06](/episodes/ep-czVBmqZP6Ss.md#ent-org-just-thrive-t-00-34-41)**
-> "And that's what makes Just Thrive spore-based probiotic completely different. Just ..."
 
 **[00:35:06](/episodes/ep-czVBmqZP6Ss.md#ent-org-just-thrive-t-00-34-41)**
 > "...obiotic completely different. Just Thrive is the only probiotic that's clinically proven to..."
@@ -88,6 +82,9 @@ _Type: Organizations_
 
 **[00:35:53](/episodes/ep-czVBmqZP6Ss.md#ent-org-just-thrive-t-00-35-22)**
 > "So take control today with Just Thrive."
+
+**[00:37:22](/episodes/ep-czVBmqZP6Ss.md#ent-org-just-thrive-t-00-35-22)**
+> "Also telling you guys about Just Thrive because the biggest health secret that's not being talked about"
 
 </details>
 

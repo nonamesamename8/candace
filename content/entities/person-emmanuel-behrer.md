@@ -20,11 +20,11 @@ _Type: People_
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (3 mentions)</summary>
 
-**[00:32:15](/episodes/ep-DqGNvi36ol8.md#ent-person-emmanuel-behrer-t-00-31-57)**
-> "Emmanuel Behrer - suspicious eyewitness from Salt Lake City, former Oracle employee"
-
 **[00:32:11](/episodes/ep-DqGNvi36ol8.md#ent-person-emmanuel-behrer-t-00-31-57)**
 > "His name is Emanuel Bierer, and there are a million and one reasons why I wa..."
+
+**[00:32:15](/episodes/ep-DqGNvi36ol8.md#ent-person-emmanuel-behrer-t-00-31-57)**
+> "Emmanuel Behrer - suspicious eyewitness from Salt Lake City, former Oracle employee"
 
 **[00:33:26](/episodes/ep-DqGNvi36ol8.md#ent-person-emmanuel-behrer-t-00-33-14)**
 > "How did Emmanuel Behrer get picked out in Salt Lake City?"

@@ -15,11 +15,11 @@ _Type: People_
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
 
-**[00:33:23](/episodes/ep-aDlhjfW6hz8.md#ent-person-yaron-lechinsky-t-00-32-45)**
-> "the assassination of Sarah Milgram and Yaron Lechinsky in D.C."
-
 **[00:33:22](/episodes/ep-aDlhjfW6hz8.md#ent-person-yaron-lechinsky-t-00-32-45)**
 > "...sination of Sarah Milgram and Yaron Lechinsky in D.C.,"
+
+**[00:33:23](/episodes/ep-aDlhjfW6hz8.md#ent-person-yaron-lechinsky-t-00-32-45)**
+> "the assassination of Sarah Milgram and Yaron Lechinsky in D.C."
 
 </details>
 

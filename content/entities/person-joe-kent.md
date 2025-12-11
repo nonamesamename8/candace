@@ -1,6 +1,6 @@
 ---
 title: "Joe Kent"
-description: "Joe Kent (People) - 13 mentions"
+description: "Joe Kent (People) - 7 mentions"
 id: "person-joe-kent"
 type: "PERSON"
 aliases:
@@ -17,21 +17,18 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (3 mentions)</summary>
-
-**[00:10:23](/episodes/ep-581dILVcEE4.md#ent-person-joe-kent-t-00-10-23)**
-> "...the black 4Runner? I don't know, but that could be compelling. That would be something that perhaps Joe Kent and Tulsi Gabbard—who are warring, or at least that's what the press said, warring with the FBI, or..."
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
 **[00:10:23](/episodes/ep-581dILVcEE4.md#ent-person-joe-kent-t-00-10-23)**
 > "Joe Kent could look into Egyptian rental cars"
 
 **[00:10:23](/episodes/ep-581dILVcEE4.md#ent-person-joe-kent-t-00-10-23)**
-> "...uld be something that perhaps Joe Kent and Tulsi Gabbard—who are warring, or at least th..."
+> "...the black 4Runner? I don't know, but that could be compelling. That would be something that perhaps Joe Kent and Tulsi Gabbard—who are warring, or at least that's what the press said, warring with the FBI, or..."
 
 </details>
 
 <details>
-<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (10 mentions)</summary>
+<summary>Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 (5 mentions)</summary>
 
 **[00:20:54](/episodes/ep-Qt0VHV-POCg.md#ent-person-joe-kent-t-00-20-35)**
 > "...ne—New York Times yesterday—pertaining to how upset Kash Patel was when he received an inquiry from Joe Kent's office—Tulsi Gabbard's office. They lead the National Counterterrorism Center—Joe Kent does—and h..."
@@ -47,21 +44,6 @@ _Type: People_
 
 **[00:22:54](/episodes/ep-Qt0VHV-POCg.md#ent-person-joe-kent-t-00-22-39)**
 > "...pened on that day. And I'm getting the suspicion that there were some foreign entities involved. So Joe Kent, Tulsi Gabbard—if you guys by any chance see this episode—keep going, right? We're just going very ..."
-
-**[00:20:54](/episodes/ep-Qt0VHV-POCg.md#ent-person-joe-kent-t-00-20-35)**
-> "...n he received an inquiry from Joe Kent's office—Tulsi Gabbard's office."
-
-**[00:21:09](/episodes/ep-Qt0VHV-POCg.md#ent-person-joe-kent-t-00-20-35)**
-> "...ional Counterterrorism Center—Joe Kent does—and"
-
-**[00:21:23](/episodes/ep-Qt0VHV-POCg.md#ent-person-joe-kent-t-00-21-20)**
-> "...ssassination—pretending to be Joe Kent."
-
-**[00:21:58](/episodes/ep-Qt0VHV-POCg.md#ent-person-joe-kent-t-00-21-58)**
-> "... meeting with Susie Wiles and Joe Kent and Tulsi Gabbard and Trump officials."
-
-**[00:22:54](/episodes/ep-Qt0VHV-POCg.md#ent-person-joe-kent-t-00-22-39)**
-> "So Joe Kent, Tulsi Gabbard—if you guys by any chance see this..."
 
 </details>
 

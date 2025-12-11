@@ -15,11 +15,11 @@ _Type: Organizations_
 <details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
 
-**[00:34:36](/episodes/ep-mKXdKV-OBog.md#ent-org-paramount-t-00-34-21)**
-> "Blacklist of actors who will never work at Paramount"
-
 **[00:34:34](/episodes/ep-mKXdKV-OBog.md#ent-org-paramount-t-00-34-21)**
 > "...actors who will never work at Paramount."
+
+**[00:34:36](/episodes/ep-mKXdKV-OBog.md#ent-org-paramount-t-00-34-21)**
+> "Blacklist of actors who will never work at Paramount"
 
 </details>
 

@@ -20,11 +20,11 @@ _Type: People_
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (2 mentions)</summary>
 
-**[01:07:10](/episodes/ep-czVBmqZP6Ss.md#ent-person-abraham-polak-t-01-07-02)**
-> "Look up Abraham Polak. He won awards for saying they were the Khazars"
-
 **[01:07:08](/episodes/ep-czVBmqZP6Ss.md#ent-person-abraham-polak-t-01-07-02)**
 > "Look up Abraham Polak."
+
+**[01:07:10](/episodes/ep-czVBmqZP6Ss.md#ent-person-abraham-polak-t-01-07-02)**
+> "Look up Abraham Polak. He won awards for saying they were the Khazars"
 
 </details>
 

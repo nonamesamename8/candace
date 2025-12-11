@@ -1,6 +1,6 @@
 ---
 title: "Zohran Mamdani"
-description: "Zohran Mamdani (People) - 17 mentions"
+description: "Zohran Mamdani (People) - 9 mentions"
 id: "person-zohran-mamdani"
 type: "PERSON"
 ---
@@ -13,7 +13,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (17 mentions)</summary>
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (9 mentions)</summary>
+
+**[00:04:23](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-04-12)**
+> "...on) somehow supports Mamdani (Zohran Mamdani)."
 
 **[00:05:23](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-05-14)**
 > "...art of the conservative push to win. The number of times that Tucker (Tucker Carlson) has mentioned Zohran Mamdani since October 7th on his show is once. And it was in the context of Marjorie Taylor Greene and Tuck..."
@@ -26,33 +29,6 @@ _Type: People_
 
 **[00:05:41](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-05-14)**
 > "... talked about Zohran Mamdani a lot, a lot of us have. Since October 7th, I did 17 separate shows on Zohran Mamdani, including four in the last week before the election. Because when you're orienting against the lef..."
-
-**[00:04:23](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-04-12)**
-> "...on) somehow supports Mamdani (Zohran Mamdani)."
-
-**[00:05:23](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-05-14)**
-> "...Tucker Carlson) has mentioned Zohran Mamdani (Zohran Mamdani) since October 7th on his show is..."
-
-**[00:05:23](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-05-14)**
-> "...has mentioned Zohran Mamdani (Zohran Mamdani) since October 7th on his show is once."
-
-**[00:05:30](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-05-14)**
-> "...) talking about the appeal of Zohran Mamdani (Zohran Mamdani)."
-
-**[00:05:30](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-05-14)**
-> "...the appeal of Zohran Mamdani (Zohran Mamdani)."
-
-**[00:05:36](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-05-14)**
-> "...t because you've talked about Zohran Mamdani (Zohran Mamdani) a lot, a lot of us have."
-
-**[00:05:36](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-05-14)**
-> "... talked about Zohran Mamdani (Zohran Mamdani) a lot, a lot of us have."
-
-**[00:05:41](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-05-14)**
-> "...h, I did 17 separate shows on Zohran Mamdani (Zohran Mamdani), including four in the last week..."
-
-**[00:05:41](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-05-14)**
-> "...rate shows on Zohran Mamdani (Zohran Mamdani), including four in the last week before the elec..."
 
 **[00:06:44](/episodes/ep-r1PS67aRmcA.md#ent-person-zohran-mamdani-t-00-06-42)**
 > "...tform to speak about Mamdani (Zohran Mamdani) 17 times."

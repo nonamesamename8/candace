@@ -1,6 +1,6 @@
 ---
 title: "Joseph Goebbels"
-description: "Joseph Goebbels (People) - 5 mentions"
+description: "Joseph Goebbels (People) - 4 mentions"
 id: "person-joseph-goebbels"
 type: "PERSON"
 ---
@@ -13,19 +13,16 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (5 mentions)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (4 mentions)</summary>
+
+**[00:33:10](/episodes/ep-sreYYcID-QY.md#ent-person-joseph-goebbels-t-00-33-10)**
+> "Joseph Goebbels,"
 
 **[00:33:10](/episodes/ep-sreYYcID-QY.md#ent-person-joseph-goebbels-t-00-33-10)**
 > "Joseph Goebbels,"
 
 **[00:36:19](/episodes/ep-sreYYcID-QY.md#ent-person-joseph-goebbels-t-00-35-45)**
 > "Joseph Goebbels said... Bro, Joseph Goebbels has nothing on the Zionists"
-
-**[00:33:10](/episodes/ep-sreYYcID-QY.md#ent-person-joseph-goebbels-t-00-33-10)**
-> "Joseph Goebbels,"
-
-**[00:36:19](/episodes/ep-sreYYcID-QY.md#ent-person-joseph-goebbels-t-00-35-45)**
-> "“Joseph Goebbels said...” Bro, Joseph Goebbels has nothing on the ..."
 
 **[00:36:19](/episodes/ep-sreYYcID-QY.md#ent-person-joseph-goebbels-t-00-35-45)**
 > "...Joseph Goebbels said...” Bro, Joseph Goebbels has nothing on the Zionists in America and the pr..."

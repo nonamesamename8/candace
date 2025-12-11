@@ -15,14 +15,14 @@ _Type: Places_
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
 
-**[00:11:54](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-11-42)**
-> "to be sworn into the ambassador to India"
-
 **[00:10:14](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-09-46)**
 > "to India as the ambassador to India, which feels kind of o..."
 
 **[00:11:42](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-11-42)**
 > "That's just an ambassador to India swearing in ceremony."
+
+**[00:11:54](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-india-t-00-11-42)**
+> "to be sworn into the ambassador to India"
 
 </details>
 

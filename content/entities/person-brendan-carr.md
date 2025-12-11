@@ -1,6 +1,6 @@
 ---
 title: "Brendan Carr"
-description: "Brendan Carr (People) - 4 mentions"
+description: "Brendan Carr (People) - 2 mentions"
 id: "person-brendan-carr"
 type: "PERSON"
 ---
@@ -13,19 +13,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (4 mentions)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
 
 **[00:42:07](/episodes/ep-aDlhjfW6hz8.md#ent-person-brendan-carr-t-00-41-34)**
 > "... power. And that's what happened here, okay? The chairman of the Federal Communications Commission, Brendan Carr, jumped up, and he criticized Jimmy Kimmel's remarks. He threatened federal action against ABC affi..."
 
 **[00:42:51](/episodes/ep-aDlhjfW6hz8.md#ent-person-brendan-carr-t-00-42-18)**
 > "...es to speech? Okay, we're all losing. We are all losing. You have to wake up. That's what happened. Brendan Carr of the FCC was joining Benny Johnson. And that's what he said—that he absolutely wants to make sure..."
-
-**[00:42:07](/episodes/ep-aDlhjfW6hz8.md#ent-person-brendan-carr-t-00-41-34)**
-> "...al Communications Commission, Brendan Carr, jumped up, and he criticized Jimmy Kimmel's rema..."
-
-**[00:42:51](/episodes/ep-aDlhjfW6hz8.md#ent-person-brendan-carr-t-00-42-18)**
-> "Brendan Carr of the FCC was joining Benny Johnson."
 
 </details>
 

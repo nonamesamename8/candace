@@ -1,6 +1,6 @@
 ---
 title: "Shaner Broderick"
-description: "Shaner Broderick (People) - 10 mentions"
+description: "Shaner Broderick (People) - 5 mentions"
 id: "person-shaner-broderick"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (10 mentions)</summary>
+<summary>DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245 (5 mentions)</summary>
 
 **[00:02:50](/episodes/ep-YA1FxrDWNIo.md#ent-person-shaner-broderick-t-00-02-50)**
 > "...stigation. We introduced—and I said his name was Shane; I'd like to correct that record—his nephew, Shaner Broderick, who rather notoriously retraced the footpath of the killer with his two close friends. They were l..."
@@ -29,21 +29,6 @@ _Type: People_
 
 **[00:20:37](/episodes/ep-YA1FxrDWNIo.md#ent-person-shaner-broderick-t-00-20-22)**
 > "...dentified, pardon, as a gothic person. And he is also as of yet unidentified as the close friend of Shaner Broderick who cannot be found anywhere else, or people are not familiar with this person. So I'm thinking may..."
-
-**[00:02:50](/episodes/ep-YA1FxrDWNIo.md#ent-person-shaner-broderick-t-00-02-50)**
-> "...rrect that record—his nephew, Shaner Broderick, who rather notoriously retraced the footpath of ..."
-
-**[00:06:36](/episodes/ep-YA1FxrDWNIo.md#ent-person-shaner-broderick-t-00-06-12)**
-> "... that was quite strange: that Shaner Broderick is his nephew."
-
-**[00:06:44](/episodes/ep-YA1FxrDWNIo.md#ent-person-shaner-broderick-t-00-06-12)**
-> "Actually, Shaner Broderick literally posted that on his Instagram."
-
-**[00:11:45](/episodes/ep-YA1FxrDWNIo.md#ent-person-shaner-broderick-t-00-11-29)**
-> "...t he became best friends with Shaner Broderick."
-
-**[00:20:37](/episodes/ep-YA1FxrDWNIo.md#ent-person-shaner-broderick-t-00-20-22)**
-> "...tified as the close friend of Shaner Broderick who cannot be found anywhere else, or people are ..."
 
 </details>
 

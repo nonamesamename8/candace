@@ -1,6 +1,6 @@
 ---
 title: "Sherry Steele"
-description: "Sherry Steele (People) - 8 mentions"
+description: "Sherry Steele (People) - 4 mentions"
 id: "person-sherry-steele"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (8 mentions)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (4 mentions)</summary>
 
 **[00:16:49](/episodes/ep-sreYYcID-QY.md#ent-person-sherry-steele-t-00-16-13)**
 > "... last name also happens to be Steele, but this one witnessed something four hours away. Her name is Sherry Steele, and she spoke to the BBC about how she had witnessed the police swarm the townhouse of Tyler Robin..."
@@ -26,18 +26,6 @@ _Type: People_
 
 **[00:18:59](/episodes/ep-sreYYcID-QY.md#ent-person-sherry-steele-t-00-18-59)**
 > "... we contacted Lance's family to see if they're familiar with that name. I cannot find a woman named Sherry Steele that lives in that building complex, nor can I find her alleged footage that the BBC mentions the f..."
-
-**[00:16:49](/episodes/ep-sreYYcID-QY.md#ent-person-sherry-steele-t-00-16-13)**
-> "Her name is Sherry Steele, and she spoke to the BBC about how she had witne..."
-
-**[00:17:13](/episodes/ep-sreYYcID-QY.md#ent-person-sherry-steele-t-00-16-56)**
-> "It reads, “Sherry Steele, who lives across the street from the residence, ..."
-
-**[00:18:52](/episodes/ep-sreYYcID-QY.md#ent-person-sherry-steele-t-00-18-18)**
-> "Second thing about Sherry Steele is I can't find her."
-
-**[00:18:59](/episodes/ep-sreYYcID-QY.md#ent-person-sherry-steele-t-00-18-59)**
-> "I cannot find a woman named Sherry Steele that lives in that building complex, nor can I fi..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Bracebridge Complex"
-description: "Bracebridge Complex (Organizations) - 2 mentions"
+description: "Bracebridge Complex (Organizations) - 1 mention"
 id: "org-bracebridge-complex"
 type: "ORG"
 ---
@@ -13,13 +13,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:28:46](/episodes/ep-tB5SXXmd9vU.md#ent-org-bracebridge-complex-t-00-28-30)**
 > "... here, okay? What I found on 1100, 1100 North King Street is big. The actual building is called the Bracebridge Complex. It spans over 1 million square feet. It seems it was originally built for the Maryland Bank as the..."
-
-**[00:28:46](/episodes/ep-tB5SXXmd9vU.md#ent-org-bracebridge-complex-t-00-28-30)**
-> "...actual building is called the Bracebridge Complex."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Thomas Crooks"
-description: "Thomas Crooks (People) - 14 mentions"
+description: "Thomas Crooks (People) - 11 mentions"
 id: "person-thomas-crooks"
 type: "PERSON"
 aliases:
@@ -26,16 +26,13 @@ _Type: People_
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (3 mentions)</summary>
-
-**[00:31:04](/episodes/ep-581dILVcEE4.md#ent-person-thomas-crooks-t-00-30-43)**
-> "Reference to Thomas Crooks and Trump assassination attempt comparison"
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
 **[00:30:59](/episodes/ep-581dILVcEE4.md#ent-person-thomas-crooks-t-00-30-43)**
 > "...he White House level with the Thomas Crooks thing?"
 
-**[00:30:59](/episodes/ep-581dILVcEE4.md#ent-person-thomas-crooks-t-00-30-43)**
-> "...e House level with the Thomas Crooks thing?"
+**[00:31:04](/episodes/ep-581dILVcEE4.md#ent-person-thomas-crooks-t-00-30-43)**
+> "Reference to Thomas Crooks and Trump assassination attempt comparison"
 
 </details>
 
@@ -48,10 +45,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
-
-**[00:46:02](/episodes/ep-K1tFD7FfoCU.md#t-00-45-48)**
-> ""Thomas Matthew Crooks' (Thomas Matthew Crooks) SAT score was in the 99 ..."
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
 
 **[00:46:02](/episodes/ep-K1tFD7FfoCU.md#t-00-45-48)**
 > "...tthew Crooks' (Thomas Matthew Crooks) SAT score was in the 99 percentile.""
@@ -67,7 +61,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (6 mentions)</summary>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (5 mentions)</summary>
 
 **[00:00:36](/episodes/ep-QZWSsq8ZWzw.md#t-00-00-01)**
 > "...o you remember Thomas Matthew Crooks?"
@@ -77,9 +71,6 @@ _Type: People_
 
 **[00:20:29](/episodes/ep-QZWSsq8ZWzw.md#t-00-20-29)**
 > "...h brings me to Thomas Matthew Crooks because that's exactly what we were told—or not t..."
-
-**[00:20:29](/episodes/ep-QZWSsq8ZWzw.md#t-00-20-29)**
-> "... a 20-year-old Thomas Matthew Crooks climbs onto a roof and tries to assassinate Presi..."
 
 **[00:21:34](/episodes/ep-QZWSsq8ZWzw.md#t-00-21-12)**
 > "...erything about Thomas Matthew Crooks before the feds got rid of everything.""

@@ -60,11 +60,11 @@ _Type: Organizations_
 <details>
 <summary>To My Friend, Charlie Kirk. (2 mentions)</summary>
 
-**[00:17:09](/episodes/ep-_dRaEO47-co.md#ent-org-blexit-t-00-16-36)**
-> "Charlie was right by my side when I started Blexit"
-
 **[00:17:05](/episodes/ep-_dRaEO47-co.md#ent-org-blexit-t-00-16-36)**
 > "...ght by my side when I started Blexit, obviously."
+
+**[00:17:09](/episodes/ep-_dRaEO47-co.md#ent-org-blexit-t-00-16-36)**
+> "Charlie was right by my side when I started Blexit"
 
 </details>
 

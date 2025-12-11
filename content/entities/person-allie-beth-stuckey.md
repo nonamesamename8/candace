@@ -1,6 +1,6 @@
 ---
 title: "Allie Beth Stuckey"
-description: "Allie Beth Stuckey (People) - 75 mentions"
+description: "Allie Beth Stuckey (People) - 41 mentions"
 id: "person-allie-beth-stuckey"
 type: "PERSON"
 aliases:
@@ -26,13 +26,10 @@ _Type: People_
 </details>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (3 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
 **[00:19:54](/episodes/ep-a-e7HC6SeK8.md#ent-person-allie-beth-stuckey-t-00-19-44)**
 > "... planning them at least a semester ahead. And then it was like mass panic. I got like Lila Rose and Allie Stuckey—who have never headlined their tours—suddenly saying, "That's not true. That's not true." "What are..."
-
-**[00:19:54](/episodes/ep-a-e7HC6SeK8.md#ent-person-allie-beth-stuckey-t-00-19-44)**
-> "I got like Lila Rose and Allie Stuckey—who have never headlined their tours—sudd..."
 
 **[00:58:33](/episodes/ep-a-e7HC6SeK8.md#ent-person-allie-beth-stuckey-t-00-19-44)**
 > "...y thought there would be more allies."
@@ -40,13 +37,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (6 mentions)</summary>
-
-**[00:56:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-36)**
-> "...rry. What is that? Actually, what op are we in right now? Where the heiress to Turning Point USA is Allie Stuckey. That is a wild headline. And they repeated that—the heir apparent—in the Wall Street Journal. That..."
-
-**[00:56:36](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-36)**
-> "...orter, Victoria Churchill— publishes an article—the most bizarre headline I've—what? All respect to Allie and the work she's done. "Charlie (Charlie Kirk) Kirk's TPUSA heiress" is how we're describing her—..."
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (4 mentions)</summary>
 
 **[00:37:21](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-36)**
 > "...you would want to do and what allies you want to have when bullets are flying."
@@ -55,27 +46,15 @@ _Type: People_
 > "We definitely know who our allies are."
 
 **[00:56:36](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-36)**
-> "...ine I've—what? All respect to Allie and the work she's done. "Charlie (Charlie Kirk) ..."
+> "...orter, Victoria Churchill— publishes an article—the most bizarre headline I've—what? All respect to Allie and the work she's done. "Charlie (Charlie Kirk) Kirk's TPUSA heiress" is how we're describing her—..."
 
 **[00:56:59](/episodes/ep-7RLtGgkTh9o.md#ent-person-allie-beth-stuckey-t-00-56-36)**
-> "...iress to Turning Point USA is Allie Stuckey."
+> "...rry. What is that? Actually, what op are we in right now? Where the heiress to Turning Point USA is Allie Stuckey. That is a wild headline. And they repeated that—the heir apparent—in the Wall Street Journal. That..."
 
 </details>
 
 <details>
-<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (12 mentions)</summary>
-
-**[00:04:24](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
-> "...t. What they know is that on one episode, Candace (Candace Owens) said that she had a dream, right? Allie Stuckey just did this—shot a video and was like, "I don't have these dreams." The idea here is this must ju..."
-
-**[00:43:52](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-43-52)**
-> "...the way forward when people are trying this on you—trying to manipulate you using Bible verses like Allie did after she just seated so much—essentially fundamentally called me a liar in her own way about v..."
-
-**[00:44:25](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-43-52)**
-> "...dreams like Candace (Candace Owens)." We see what you're doing. It's petty. Now you're being petty, Allie. If you want to get involved in this case, do it. If you don't, step aside. You are not required to..."
-
-**[00:04:27](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
-> "Allie Stuckey just did this—shot a video and was like, 'I don't have these dreams.'"
+<summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (8 mentions)</summary>
 
 **[00:00:09](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
 > "...e were discussing the kind of allies that you need when bullets are flying at you."
@@ -86,36 +65,33 @@ _Type: People_
 **[00:00:57](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
 > "...Charlie (Charlie Kirk)'s real allies are and who his real allies were."
 
-**[00:00:57](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
-> "...l allies are and who his real allies were."
-
 **[00:01:23](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
 > "...re his actual friends and his allies because somehow too many of them are trying to cr..."
 
 **[00:04:24](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
-> "Allie Stuckey just did this—shot a video and was like, ..."
+> "...t. What they know is that on one episode, Candace (Candace Owens) said that she had a dream, right? Allie Stuckey just did this—shot a video and was like, "I don't have these dreams." The idea here is this must ju..."
+
+**[00:04:27](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-04-24)**
+> "Allie Stuckey just did this—shot a video and was like, 'I don't have these dreams.'"
 
 **[00:43:52](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-43-52)**
-> "...e you using Bible verses like Allie did after she just seated so much—essentially fun..."
+> "...the way forward when people are trying this on you—trying to manipulate you using Bible verses like Allie did after she just seated so much—essentially fundamentally called me a liar in her own way about v..."
 
 **[00:44:25](/episodes/ep-yAIb-NuUh_U.md#ent-person-allie-beth-stuckey-t-00-43-52)**
-> "Now you're being petty, Allie."
+> "...dreams like Candace (Candace Owens)." We see what you're doing. It's petty. Now you're being petty, Allie. If you want to get involved in this case, do it. If you don't, step aside. You are not required to..."
 
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
 
 **[00:18:47](/episodes/ep-MUA9ebCF4Ow.md#ent-person-allie-beth-stuckey-t-00-18-09)**
 > "...June of 2024, okay? And they were mass-panicking about this. They were all coming out of the gates. Allie Stuckey debunking. I was like, totally bizarre—as if I didn't work for Turning Point and go on these tours ..."
 
-**[00:18:47](/episodes/ep-MUA9ebCF4Ow.md#ent-person-allie-beth-stuckey-t-00-18-09)**
-> "... all coming out of the gates. Allie Stuckey debunking."
-
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (22 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (10 mentions)</summary>
 
 **[00:32:53](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-32-33)**
 > "...e money; we have truth. That's what's on our side. Also, to build upon that, I saw a clip of Allie (Allie Beth Stuckey) Stuckey—who I very much like. I've been clear about that. I very much like Allie (Allie Beth Stuck..."
@@ -128,6 +104,9 @@ _Type: People_
 
 **[00:33:23](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-33-23)**
 > "..., I'm not going to put words in my mouth. Listen to Allie (Allie Beth Stuckey) Stuckey. *(Clip from Allie Beth Stuckey)* I'm just really tired of some of y'all not thinking. I really am. You say that you're seeking tru..."
+
+**[00:34:23](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-33-23)**
+> "Allie Beth Stuckey said people shouldn't ask questions about Charlie Kirk assassination"
 
 **[00:34:52](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-34-52)**
 > "...I don't have that time; I don't have that energy; I don't have that capacity. I don't. Look, Allie (Allie Beth Stuckey), I just think she should take a break. I genuinely didn't even know she was going through it like ..."
@@ -144,49 +123,10 @@ _Type: People_
 **[00:38:00](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-37-38)**
 > "...'s fine—but you're not required to interject here. I just want everybody to know that. Grok, Allie (Allie Beth Stuckey), everyone—you are not required to take part in this, and we're not stopping, okay? And I just sens..."
 
-**[00:34:23](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-33-23)**
-> "Allie Beth Stuckey said people shouldn't ask questions about Charlie Kirk assassination"
-
-**[00:32:53](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-32-33)**
-> "... that, I saw a clip of Allie (Allie Beth Stuckey)—who I very much like."
-
-**[00:32:53](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-32-33)**
-> "...ld upon that, I saw a clip of Allie (Allie Beth Stuckey)—who I very much like."
-
-**[00:32:58](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-32-33)**
-> "I very much like Allie (Allie Beth Stuckey)."
-
-**[00:33:20](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-33-14)**
-> "Listen to Allie (Allie Beth Stuckey)."
-
-**[00:33:23](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-33-23)**
-> "*(Clip from Allie Beth Stuckey)* I'm just really tired of some of y'all not thin..."
-
-**[00:34:52](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-34-52)**
-> "Look, Allie (Allie Beth Stuckey), I just think she should take a break."
-
-**[00:35:09](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-34-52)**
-> "Allie (Allie Beth Stuckey), that was Charlie's (Charlie Kirk's) real life w..."
-
-**[00:36:48](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-36-14)**
-> "...lie Kirk's) real life, Allie (Allie Beth Stuckey), right?"
-
-**[00:36:48](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-36-14)**
-> "...s (Charlie Kirk's) real life, Allie (Allie Beth Stuckey), right?"
-
-**[00:37:46](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-37-38)**
-> "...re exhausting—not just Allie (Allie Beth Stuckey); you're exhausting Grok."
-
-**[00:37:46](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-37-38)**
-> "... guys are exhausting—not just Allie (Allie Beth Stuckey); you're exhausting Grok."
-
-**[00:38:00](/episodes/ep-YaZfwLQ7vrI.md#ent-person-allie-beth-stuckey-t-00-37-38)**
-> "Grok, Allie (Allie Beth Stuckey), everyone—you are not required to take part in t..."
-
 </details>
 
 <details>
-<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (29 mentions)</summary>
+<summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (15 mentions)</summary>
 
 **[00:29:11](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-28-47)**
 > "...ce. Again, pdsdebt.com/candace. All right, let's start with a little back-and-forth that I had with Allie Beth Stuckey online. I'll start actually by saying some nice things about Allie Beth Stuckey because one of the ..."
@@ -212,6 +152,9 @@ _Type: People_
 **[00:31:03](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-30-42)**
 > ".... It was this weird need to assert his legacy as a Christian Zionist. By the way, I'm not including Allie in the downright nasty category whatsoever, but she was one of the voices who cast unnecessary shad..."
 
+**[00:31:55](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-30-42)**
+> "We are natural allies because we are committed to wanting there to be j..."
+
 **[00:35:49](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-35-26)**
 > "...ultiple locations—and I'm telling you this as someone who did that; I worked for this organization, Allie, okay? It's probably because these are the— this is already approved. They're doing these campuses ..."
 
@@ -229,51 +172,6 @@ _Type: People_
 
 **[00:49:10](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-48-55)**
 > "...y podcast, and we're investigating this murder. And every person who is doing podcasts—whether it's Allie speaking about his Catholic journey, Lila speaking about what happens, whatever context they're put..."
-
-**[00:29:11](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-28-47)**
-> "...ack-and-forth that I had with Allie Beth Stuckey online."
-
-**[00:29:15](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-28-47)**
-> "...saying some nice things about Allie Beth Stuckey because one of the things that I am working on is..."
-
-**[00:29:20](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-29-20)**
-> "...s a lot of great things about Allie Stuckey."
-
-**[00:29:36](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-29-20)**
-> "I've actually worked with Allie Stuckey at various events."
-
-**[00:29:38](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-29-20)**
-> "I've spoken with Allie Stuckey."
-
-**[00:29:50](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-29-20)**
-> "...a—there actually isn't any on Allie Stuckey."
-
-**[00:30:05](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-30-05)**
-> "...m not addressing this because Allie is a bad human being."
-
-**[00:31:03](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-30-42)**
-> "By the way, I'm not including Allie in the downright nasty category whatsoever,"
-
-**[00:31:55](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-30-42)**
-> "We are natural allies because we are committed to wanting there to be j..."
-
-**[00:35:49](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-35-26)**
-> "...worked for this organization, Allie, okay?"
-
-**[00:37:33](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-37-33)**
-> "...so far off the mark. At least Allie's showing something relevant to Turning Point USA—e..."
-
-**[00:43:10](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-42-32)**
-> "...pooh it—which is kind of what Allie did regarding the fed Discord messages."
-
-**[00:44:37](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-44-37)**
-> "I will also mention that Allie has strangely hired Alyssa Cordova."
-
-**[00:45:26](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-45-21)**
-> "...I'll add this as well—to have Allie or Lila Rose on this show tomorrow if you guys wo..."
-
-**[00:49:10](/episodes/ep-vwG1juDCQZQ.md#ent-person-allie-beth-stuckey-t-00-48-55)**
-> "...s doing podcasts—whether it's Allie speaking about his Catholic journey, Lila speakin..."
 
 </details>
 

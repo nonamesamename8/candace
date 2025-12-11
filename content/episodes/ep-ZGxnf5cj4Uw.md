@@ -1,14 +1,14 @@
 ---
 id: "ZGxnf5cj4Uw"
 title: "They Are Lying About Tyler Robinson. | Candace Ep 244"
-description: "They Are Lying About Tyler Robinson. | Candace Ep 244 - 56 entities, 5 events, 0 claims"
+description: "They Are Lying About Tyler Robinson. | Candace Ep 244 - 60 entities, 5 events, 0 claims"
 published: "2025-09-29"
 youtube_url: "https://www.youtube.com/watch?v=ZGxnf5cj4Uw"
 ---
 
 **Published:** 2025-09-29 | [Watch on YouTube](https://www.youtube.com/watch?v=ZGxnf5cj4Uw)
 
-**Stats:** 56 entities | 5 events | 0 claims
+**Stats:** 60 entities | 5 events | 0 claims
 
 ---
 
@@ -293,7 +293,7 @@ youtube_url: "https://www.youtube.com/watch?v=ZGxnf5cj4Uw"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (56)</strong></summary>
+<summary><strong>Entities Mentioned (60)</strong></summary>
 
 **Concepts:** [God](/entities/concept-god.md)
 
@@ -301,11 +301,11 @@ youtube_url: "https://www.youtube.com/watch?v=ZGxnf5cj4Uw"
 
 **Events:** [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-**Places:** [Blanding](/entities/gpe-blanding.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md), [Washington County](/entities/gpe-washington-county.md)
+**Places:** [Blanding](/entities/gpe-blanding.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md), [Washington](/entities/gpe-washington-state.md), [Washington County](/entities/gpe-washington-county.md)
 
-**Organizations:** [American Financing](/entities/org-american-financing.md), [Dairy Queen](/entities/org-dairy-queen.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [IRS](/entities/org-irs.md), [Instagram](/entities/org-instagram.md), [LDS church](/entities/org-lds-church.md), [Lozier Center](/entities/org-lozier-center.md), [Orem Police Department](/entities/org-orem-police-department.md), [Preborn](/entities/org-preborn.md), [TMZ](/entities/org-tmz.md), [Turning Point USA](/entities/org-turning-point-usa.md), [UVU students](/entities/org-uvu-students.md), [United States Air Force](/entities/org-united-states-air-force.md), [Utah State University](/entities/org-utah-state-university.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Vice](/entities/org-vice.md), [the federal government](/entities/org-the-federal-government.md)
+**Organizations:** [American Financing](/entities/org-american-financing.md), [Dairy Queen](/entities/org-dairy-queen.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [IRS](/entities/org-irs.md), [Instagram](/entities/org-instagram.md), [LDS church](/entities/org-lds-church.md), [Lozier Center](/entities/org-lozier-center.md), [Orem Police Department](/entities/org-orem-police-department.md), [Preborn](/entities/org-preborn.md), [TMZ](/entities/org-tmz.md), [Tax Network USA](/entities/org-tax-network-usa.md), [Turning Point USA](/entities/org-turning-point-usa.md), [UVU students](/entities/org-uvu-students.md), [United States Air Force](/entities/org-united-states-air-force.md), [Utah State University](/entities/org-utah-state-university.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Vice](/entities/org-vice.md), [the federal government](/entities/org-the-federal-government.md)
 
-**People:** [Alex Jones](/entities/person-alex-jones.md), [Candace Owens](/entities/person-candace-owens.md), [Cassie](/entities/person-cassie.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Governor Cox](/entities/person-governor-cox.md), [Ian Carroll](/entities/person-ian-carroll.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jesus Christ](/entities/person-jesus-christ.md), [Kayleigh McEnany](/entities/person-kayleigh-mcenany.md), [Lance](/entities/person-lance-robinson-boyfriend.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Max Blumenthal](/entities/person-max-blumenthal.md), [Mike Mitchell](/entities/person-mike-mitchell.md), [Nate Brooksby](/entities/person-nate-brooksby.md), [Phil Lyman](/entities/person-phil-lyman.md), [Shane Lyman](/entities/person-shane-lyman.md), [Shumway](/entities/person-shumway.md), [Skylar](/entities/person-skylar.md), [Tayler Hansen](/entities/person-tayler-hansen.md), [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Agatha Christie](/entities/person-agatha-christie.md), [Alex Jones](/entities/person-alex-jones.md), [Candace Owens](/entities/person-candace-owens.md), [Cassie](/entities/person-cassie.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Governor Cox](/entities/person-governor-cox.md), [Ian Carroll](/entities/person-ian-carroll.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jesus Christ](/entities/person-jesus-christ.md), [Jordan Peterson](/entities/person-jordan-peterson.md), [Kayleigh McEnany](/entities/person-kayleigh-mcenany.md), [Lance](/entities/person-lance-robinson-boyfriend.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Max Blumenthal](/entities/person-max-blumenthal.md), [Mike Mitchell](/entities/person-mike-mitchell.md), [Nate Brooksby](/entities/person-nate-brooksby.md), [Phil Lyman](/entities/person-phil-lyman.md), [Shane Lyman](/entities/person-shane-lyman.md), [Shumway](/entities/person-shumway.md), [Skylar](/entities/person-skylar.md), [Tayler Hansen](/entities/person-tayler-hansen.md), [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 **Works & Media:** [Good Morning America](/entities/work-good-morning-america.md)
 

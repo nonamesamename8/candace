@@ -1,6 +1,6 @@
 ---
 title: "Safari Club"
-description: "Safari Club (Organizations) - 4 mentions"
+description: "Safari Club (Organizations) - 2 mentions"
 id: "org-safari-club"
 type: "ORG"
 ---
@@ -13,19 +13,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (4 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
 
 **[00:11:47](/episodes/ep-tB5SXXmd9vU.md#ent-org-safari-club-t-00-13-15)**
 > "...peration, Now, if you haven't heard of that, this was the article that he wrote: "Past as Prologue: Safari Club Illuminates Candace Owens' Allegations." I had never heard of this. I really hadn't, okay? Because ..."
 
 **[00:13:15](/episodes/ep-tB5SXXmd9vU.md#ent-org-safari-club-t-00-13-15)**
 > "...m just pulling up the Wikipedia page here, you should go read that article in its entirety, but the Safari Club, man, a covert alliance of intelligence services formed in 1976, that ran operations around Africa...."
-
-**[00:11:47](/episodes/ep-tB5SXXmd9vU.md#ent-org-safari-club-t-00-13-15)**
-> "... he wrote: "Past as Prologue: Safari Club Illuminates Candace Owens' Allegations.""
-
-**[00:13:15](/episodes/ep-tB5SXXmd9vU.md#ent-org-safari-club-t-00-13-15)**
-> "...icle in its entirety, but the Safari Club, man, a covert alliance of intelligence services ..."
 
 </details>
 

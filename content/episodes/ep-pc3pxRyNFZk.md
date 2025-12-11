@@ -1,14 +1,14 @@
 ---
 id: "pc3pxRyNFZk"
 title: "REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251"
-description: "REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 - 81 entities, 10 events, 0 claims"
+description: "REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 - 83 entities, 10 events, 0 claims"
 published: "2025-10-09"
 youtube_url: "https://www.youtube.com/watch?v=pc3pxRyNFZk"
 ---
 
 **Published:** 2025-10-09 | [Watch on YouTube](https://www.youtube.com/watch?v=pc3pxRyNFZk)
 
-**Stats:** 81 entities | 10 events | 0 claims
+**Stats:** 83 entities | 10 events | 0 claims
 
 ---
 
@@ -306,7 +306,7 @@ youtube_url: "https://www.youtube.com/watch?v=pc3pxRyNFZk"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (81)</strong></summary>
+<summary><strong>Entities Mentioned (83)</strong></summary>
 
 **Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [Palestinians](/entities/concept-palestinians.md)
 
@@ -316,7 +316,7 @@ youtube_url: "https://www.youtube.com/watch?v=pc3pxRyNFZk"
 
 **Places:** [Arizona](/entities/gpe-arizona.md), [California](/entities/gpe-california.md), [Egypt](/entities/gpe-egypt.md), [Gaza](/entities/gpe-gaza.md), [Hamptons](/entities/gpe-hamptons.md), [Israel](/entities/gpe-israel.md), [Missouri](/entities/gpe-missouri.md), [New Hampshire](/entities/gpe-new-hampshire.md), [Phoenix](/entities/gpe-phoenix.md), [Qatar](/entities/gpe-qatar.md), [Texas](/entities/gpe-texas.md), [Turkey](/entities/gpe-turkey.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md)
 
-**Organizations:** [American Financing](/entities/org-american-financing.md), [Caldera Engineering](/entities/org-caldera-engineering.md), [Club Candace](/entities/org-club-candace.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fortune](/entities/org-fortune.md), [Fox News](/entities/org-fox-news.md), [Hamas](/entities/org-hamas.md), [Harvard University](/entities/org-harvard-university.md), [Insight](/entities/org-insight.md), [Instagram](/entities/org-instagram.md), [LASI Aviation LLC](/entities/org-lasi-aviation.md), [Leadership Institute](/entities/org-leadership-institute.md), [Nimi Skincare](/entities/org-nimi-skincare.md), [Paleo Valley](/entities/org-paleo-valley.md), [Preborn](/entities/org-preborn.md), [Pure Talk](/entities/org-pure-talk.md), [Southern New Hampshire University](/entities/org-southern-new-hampshire-university.md), [Students for Life](/entities/org-students-for-life.md), [The Decentralized Intelligence Agency](/entities/org-decentralized-intelligence-agency.md), [TikTok](/entities/org-tiktok.md), [Turning Point USA](/entities/org-turning-point-usa.md), [UVU students](/entities/org-uvu-students.md), [Utah Valley University](/entities/org-utah-valley-university.md), [YouTube](/entities/org-youtube.md), [Young Americans for Liberty](/entities/org-young-americans-for-liberty.md)
+**Organizations:** [American Financing](/entities/org-american-financing.md), [Caldera Engineering](/entities/org-caldera-engineering.md), [Club Candace](/entities/org-club-candace.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fortune](/entities/org-fortune.md), [Fox News](/entities/org-fox-news.md), [Hamas](/entities/org-hamas.md), [Harvard University](/entities/org-harvard-university.md), [Insight](/entities/org-insight.md), [Instagram](/entities/org-instagram.md), [LASI Aviation LLC](/entities/org-lasi-aviation.md), [Leadership Institute](/entities/org-leadership-institute.md), [Nimi Skincare](/entities/org-nimi-skincare.md), [Paleo Valley](/entities/org-paleo-valley.md), [Preborn](/entities/org-preborn.md), [Pure Talk](/entities/org-pure-talk.md), [PureTalk](/entities/org-puretalk.md), [Southern New Hampshire University](/entities/org-southern-new-hampshire-university.md), [Students for Life](/entities/org-students-for-life.md), [The Decentralized Intelligence Agency](/entities/org-decentralized-intelligence-agency.md), [TikTok](/entities/org-tiktok.md), [Truth Social](/entities/org-truth-social.md), [Turning Point USA](/entities/org-turning-point-usa.md), [UVU students](/entities/org-uvu-students.md), [Utah Valley University](/entities/org-utah-valley-university.md), [YouTube](/entities/org-youtube.md), [Young Americans for Liberty](/entities/org-young-americans-for-liberty.md)
 
 **People:** [Alex Jones](/entities/person-alex-jones.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Bashar al-Assad](/entities/person-bashar-al-assad.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Cooper Brown](/entities/person-cooper-brown.md), [Derek Maxfield](/entities/person-derek-maxfield.md), [Donald Trump](/entities/person-donald-trump.md), [Erwin Steele](/entities/person-erwin-steele.md), [Irina Matlin](/entities/person-irina-matlin.md), [Jared Kushner](/entities/person-jared-kushner.md), [Jason Chaffetz](/entities/person-jason-chavitz.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jesse Watters](/entities/person-jesse-watters.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [John Matlin](/entities/person-john-matlin.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kanye West](/entities/person-kanye-west.md), [Kash Patel](/entities/person-kash-patel.md), [Matt Walsh](/entities/person-matt-walsh.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Phil Lyman](/entities/person-phil-lyman.md), [Seth Dillon](/entities/person-seth-dillon.md), [Shalane Maxfield](/entities/person-shalane-maxfield.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Skylar](/entities/person-skylar.md), [Steve Witkoff](/entities/person-steve-witkoff.md), [Tiffany Peterson Barker](/entities/person-tiffany-peterson-barker.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 

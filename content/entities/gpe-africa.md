@@ -15,10 +15,10 @@ _Type: Places_
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (6 mentions)</summary>
 
-**[00:12:36](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-africa-t-00-12-04)**
+**[00:06:35](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-africa-t-00-06-27)**
 > "which is in Africa."
 
-**[00:06:35](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-africa-t-00-06-27)**
+**[00:12:36](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-africa-t-00-12-04)**
 > "which is in Africa."
 
 **[00:12:36](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-africa-t-00-12-04)**

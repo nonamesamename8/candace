@@ -1,6 +1,6 @@
 ---
 title: "6th Marine Regiment"
-description: "6th Marine Regiment (Organizations) - 2 mentions"
+description: "6th Marine Regiment (Organizations) - 1 mention"
 id: "org-6th-marine-regiment"
 type: "ORG"
 ---
@@ -13,13 +13,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:16:09](/episodes/ep-tB5SXXmd9vU.md#ent-org-6th-marine-regiment-t-00-16-09)**
 > "... Foreign Infantry Regiment, the 6th Light Armored Brigade, were integrated with U.S. Marines of the 6th Marine Regiment for a three-week training deployment. That took place in California. And then once that training en..."
-
-**[00:16:09](/episodes/ep-tB5SXXmd9vU.md#ent-org-6th-marine-regiment-t-00-16-09)**
-> "...ated with U.S. Marines of the 6th Marine Regiment for a three-week training deployment."
 
 </details>
 

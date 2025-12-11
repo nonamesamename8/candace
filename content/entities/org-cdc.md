@@ -59,11 +59,11 @@ _Type: Organizations_
 <details>
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
 
-**[00:29:04](/episodes/ep-QZWSsq8ZWzw.md#t-00-28-31)**
-> "according to the CDC's own data, the flu shot is moderately effective at best"
-
 **[00:28:56](/episodes/ep-QZWSsq8ZWzw.md#t-00-28-31)**
 > "...he fact that according to the CDC's own data, the flu shot is moderately effective at..."
+
+**[00:29:04](/episodes/ep-QZWSsq8ZWzw.md#t-00-28-31)**
+> "according to the CDC's own data, the flu shot is moderately effective at best"
 
 </details>
 

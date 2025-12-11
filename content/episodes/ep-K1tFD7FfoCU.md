@@ -1,14 +1,14 @@
 ---
 id: "K1tFD7FfoCU"
 title: "MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257"
-description: "MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 - 87 entities, 9 events, 0 claims"
+description: "MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 - 97 entities, 9 events, 0 claims"
 published: "2025-11-03"
 youtube_url: "https://www.youtube.com/watch?v=K1tFD7FfoCU"
 ---
 
 **Published:** 2025-11-03 | [Watch on YouTube](https://www.youtube.com/watch?v=K1tFD7FfoCU)
 
-**Stats:** 87 entities | 9 events | 0 claims
+**Stats:** 97 entities | 9 events | 0 claims
 
 ---
 
@@ -256,21 +256,21 @@ youtube_url: "https://www.youtube.com/watch?v=K1tFD7FfoCU"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (87)</strong></summary>
+<summary><strong>Entities Mentioned (97)</strong></summary>
 
-**Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [MAGA movement](/entities/concept-maga-movement.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md), [Zionism](/entities/concept-zionism.md), [transgenderism](/entities/concept-transgenderism.md)
+**Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [MAGA movement](/entities/concept-maga-movement.md), [Operation Mockingbird](/entities/concept-operation-mockingbird.md), [Palestinians](/entities/concept-palestinians.md), [Zionism](/entities/concept-zionism.md), [transgenderism](/entities/concept-transgenderism.md)
 
 **Dates:** [2018](/entities/date-2018.md), [2025](/entities/date-2025.md)
 
 **Events:** [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
-**Places:** [Australia](/entities/gpe-australia.md), [California](/entities/gpe-california.md), [Connecticut](/entities/gpe-connecticut.md), [Iran](/entities/gpe-iran.md), [Israel](/entities/gpe-israel.md), [Jerusalem](/entities/gpe-jerusalem.md), [Nashville](/entities/gpe-nashville.md), [Russia](/entities/gpe-russia.md), [Tel Aviv](/entities/gpe-tel-aviv.md), [Ukraine](/entities/gpe-ukraine.md), [United States](/entities/gpe-united-states.md)
+**Places:** [Australia](/entities/gpe-australia.md), [California](/entities/gpe-california.md), [Connecticut](/entities/gpe-connecticut.md), [Douglas, Arizona](/entities/gpe-douglas-arizona.md), [Iran](/entities/gpe-iran.md), [Israel](/entities/gpe-israel.md), [Jerusalem](/entities/gpe-jerusalem.md), [Namibia](/entities/gpe-namibia.md), [Nashville](/entities/gpe-nashville.md), [Russia](/entities/gpe-russia.md), [Sherman Oaks](/entities/gpe-sherman-oaks.md), [Tel Aviv](/entities/gpe-tel-aviv.md), [Ukraine](/entities/gpe-ukraine.md), [United States](/entities/gpe-united-states.md)
 
-**Organizations:** [AIPAC](/entities/org-aipac.md), [Club Candace](/entities/org-club-candace.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fortune](/entities/org-fortune.md), [Fox News](/entities/org-fox-news.md), [Hamas](/entities/org-hamas.md), [Jerusalem Post](/entities/org-jerusalem-post.md), [One Shot TV](/entities/org-one-shot-tv.md), [Republican Jewish Coalition](/entities/org-republican-jewish-coalition.md), [Sallie Mae](/entities/org-sallie-mae.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [United States Congress](/entities/org-united-states-congress.md), [Vice](/entities/org-vice.md), [YouTube](/entities/org-youtube.md)
+**Organizations:** [7 Weeks Coffee](/entities/org-7-weeks-coffee.md), [AIPAC](/entities/org-aipac.md), [American Financing](/entities/org-american-financing.md), [Club Candace](/entities/org-club-candace.md), [Cracker Barrel](/entities/org-cracker-barrel.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fortune](/entities/org-fortune.md), [Fox News](/entities/org-fox-news.md), [Hamas](/entities/org-hamas.md), [Jerusalem Post](/entities/org-jerusalem-post.md), [One Shot TV](/entities/org-one-shot-tv.md), [Purdue Pharma](/entities/org-purdue-pharma.md), [Republican Jewish Coalition](/entities/org-republican-jewish-coalition.md), [Sackler Family](/entities/org-sackler-family.md), [Sallie Mae](/entities/org-sallie-mae.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [United States Congress](/entities/org-united-states-congress.md), [Vice](/entities/org-vice.md), [YouTube](/entities/org-youtube.md)
 
 **People:** [Adam Lanza](/entities/person-adam-lanza.md), [Adolf Hitler](/entities/person-adolf-hitler.md), [Al Goldstein](/entities/person-al-goldstein.md), [Alex Clark](/entities/person-alex-clark.md), [Alice Marie Johnson](/entities/person-alice-marie-johnson.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Andy Cohen](/entities/person-andy-cohen.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Douglas Murray](/entities/person-douglas-murray.md), [Emma Goldman](/entities/person-emma-goldman.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Erika Kirk](/entities/person-erika-kirk.md), [Jesse Watters](/entities/person-jesse-watters.md), [Joe Rogan](/entities/person-joe-rogan.md), [John F. Kennedy](/entities/person-john-f-kennedy.md), [John Mappin](/entities/person-john-mappin.md), [Juergen Buehler](/entities/person-juergen-buehler.md), [Jussie Smollett](/entities/person-jussie-smollett.md), [Justin Streiff](/entities/person-justin-strief.md), [Justin Trudeau](/entities/person-justin-trudeau.md), [Kash Patel](/entities/person-kash-patel.md), [Lindsey Graham](/entities/person-lindsey-graham.md), [Magnus Hirschfeld](/entities/person-magnus-hirschfeld.md), [Marina Mappin](/entities/person-marina-mappin.md), [Matt Walsh](/entities/person-matt-walsh.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael Starr](/entities/person-michael-starr.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Randy Fine](/entities/person-randy-fine.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Saint Michael](/entities/person-saint-michael.md), [Samuel Roth](/entities/person-samuel-roth.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Skylar](/entities/person-skylar.md), [Thomas Crooks](/entities/person-thomas-crooks.md), [Thomas Matthew Crooks](/entities/person-thomas-matthew-crooks.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Vladimir Putin](/entities/person-vladimir-putin.md), [Volodymyr Zelensky](/entities/person-volodymyr-zelensky.md), [Yael Eckstein](/entities/person-yael-eckstein.md)
 
-**Works & Media:** [Make Him a Sandwich](/entities/work-make-him-a-sandwich.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
+**Works & Media:** [Make Him a Sandwich](/entities/work-make-him-a-sandwich.md), [Real Housewives](/entities/work-real-housewives.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
 
 </details>
 

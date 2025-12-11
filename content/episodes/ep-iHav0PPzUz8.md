@@ -1,14 +1,14 @@
 ---
 id: "iHav0PPzUz8"
 title: "BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255"
-description: "BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 - 90 entities, 11 events, 0 claims"
+description: "BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 - 96 entities, 11 events, 0 claims"
 published: "2025-10-30"
 youtube_url: "https://www.youtube.com/watch?v=iHav0PPzUz8"
 ---
 
 **Published:** 2025-10-30 | [Watch on YouTube](https://www.youtube.com/watch?v=iHav0PPzUz8)
 
-**Stats:** 90 entities | 11 events | 0 claims
+**Stats:** 96 entities | 11 events | 0 claims
 
 ---
 
@@ -360,23 +360,23 @@ youtube_url: "https://www.youtube.com/watch?v=iHav0PPzUz8"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (90)</strong></summary>
+<summary><strong>Entities Mentioned (96)</strong></summary>
 
-**Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [MAGA movement](/entities/concept-maga-movement.md), [Me Too](/entities/concept-me-too.md), [Zionism](/entities/concept-zionism.md), [devil](/entities/concept-devil.md)
+**Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [MAGA movement](/entities/concept-maga-movement.md), [Me Too](/entities/concept-me-too.md), [Palestinians](/entities/concept-palestinians.md), [Zionism](/entities/concept-zionism.md), [devil](/entities/concept-devil.md)
 
 **Dates:** [2022](/entities/date-2022.md), [2025](/entities/date-2025.md), [August 25th](/entities/date-august-25th.md), [October 7th](/entities/date-october-7th.md), [September 10th](/entities/date-september-10th.md), [September 11th](/entities/date-september-11th.md), [September 4th](/entities/date-september-4th.md)
 
-**Events:** [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+**Events:** [America Fest](/entities/event-america-fest.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 
 **Places:** [Arizona](/entities/gpe-arizona.md), [Cairo](/entities/gpe-cairo.md), [Delaware](/entities/gpe-delaware.md), [Egypt](/entities/gpe-egypt.md), [El Paso](/entities/gpe-el-paso.md), [France](/entities/gpe-france.md), [Gaza](/entities/gpe-gaza.md), [Hamptons](/entities/gpe-hamptons.md), [Hollywood](/entities/gpe-hollywood.md), [Idaho](/entities/gpe-idaho.md), [Israel](/entities/gpe-israel.md), [Malibu](/entities/gpe-malibu.md), [Middle East](/entities/gpe-middle-east.md), [Minot](/entities/gpe-minot.md), [Montana](/entities/gpe-montana.md), [North Dakota](/entities/gpe-north-dakota.md), [Paris](/entities/gpe-paris.md), [Provo](/entities/gpe-provo.md), [Qatar](/entities/gpe-qatar.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Texas](/entities/gpe-texas.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md), [Wilmington](/entities/gpe-wilmington.md), [Wyoming](/entities/gpe-wyoming.md)
 
-**Organizations:** [American Financing](/entities/org-american-financing.md), [CDC](/entities/org-cdc.md), [CNN](/entities/org-cnn.md), [Club Candace](/entities/org-club-candace.md), [Daily Mail](/entities/org-daily-mail.md), [Egyptian Air Force](/entities/org-egyptian-air-force.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [FlightRadar](/entities/org-flightradar.md), [Newsweek](/entities/org-newsweek.md), [Nimi Skincare](/entities/org-nimi-skincare.md), [Paleo Valley](/entities/org-paleo-valley.md), [Perplexity](/entities/org-perplexity.md), [Preborn](/entities/org-preborn.md), [Snopes](/entities/org-snopes.md), [The Decentralized Intelligence Agency](/entities/org-decentralized-intelligence-agency.md), [The Wellness Company](/entities/org-the-wellness-company.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [United States Air Force](/entities/org-united-states-air-force.md), [United States Army](/entities/org-united-states-army.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+**Organizations:** [American Financing](/entities/org-american-financing.md), [CDC](/entities/org-cdc.md), [CNN](/entities/org-cnn.md), [Club Candace](/entities/org-club-candace.md), [Daily Mail](/entities/org-daily-mail.md), [Dairy Queen](/entities/org-dairy-queen.md), [Egyptian Air Force](/entities/org-egyptian-air-force.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [FlightRadar](/entities/org-flightradar.md), [HBO](/entities/org-hbo.md), [Newsweek](/entities/org-newsweek.md), [Nimi Skincare](/entities/org-nimi-skincare.md), [Paleo Valley](/entities/org-paleo-valley.md), [Perplexity](/entities/org-perplexity.md), [Preborn](/entities/org-preborn.md), [Snopes](/entities/org-snopes.md), [The Decentralized Intelligence Agency](/entities/org-decentralized-intelligence-agency.md), [The Wellness Company](/entities/org-the-wellness-company.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [United States Air Force](/entities/org-united-states-air-force.md), [United States Army](/entities/org-united-states-army.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
-**People:** [Adolf Hitler](/entities/person-adolf-hitler.md), [Anna Kasparian](/entities/person-anna-kasparian.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Casey Baugh](/entities/person-casey-baugh.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Derek Maxfield](/entities/person-derek-maxfield.md), [Donald Trump](/entities/person-donald-trump.md), [Elon Musk](/entities/person-elon-musk.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Farmer](/entities/person-george-farmer.md), [George Zinn](/entities/person-george-zinn.md), [JD Vance](/entities/person-jd-vance.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Norman Finkelstein](/entities/person-norman-finkelstein.md), [Seth Dillon](/entities/person-seth-dillon.md), [Shalane Maxfield](/entities/person-shalane-maxfield.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Adolf Hitler](/entities/person-adolf-hitler.md), [Anna Kasparian](/entities/person-anna-kasparian.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Casey Baugh](/entities/person-casey-baugh.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Smith](/entities/person-dave-smith.md), [Derek Maxfield](/entities/person-derek-maxfield.md), [Donald Trump](/entities/person-donald-trump.md), [Elon Musk](/entities/person-elon-musk.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Farmer](/entities/person-george-farmer.md), [George Zinn](/entities/person-george-zinn.md), [JD Vance](/entities/person-jd-vance.md), [Josh Hammer](/entities/person-josh-hammer.md), [Kash Patel](/entities/person-kash-patel.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Norman Finkelstein](/entities/person-norman-finkelstein.md), [Seth Dillon](/entities/person-seth-dillon.md), [Shalane Maxfield](/entities/person-shalane-maxfield.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Skyler](/entities/person-skyler.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 **Vehicles:** [N888KG](/entities/vehicle-n888kg.md), [SU-BND](/entities/vehicle-su-bnd.md), [SU-BTT](/entities/vehicle-su-btt.md)
 
-**Works & Media:** [Make Him a Sandwich](/entities/work-make-him-a-sandwich.md), [Succession](/entities/work-succession.md)
+**Works & Media:** [Make Him a Sandwich](/entities/work-make-him-a-sandwich.md), [Succession](/entities/work-succession.md), [The Matrix](/entities/work-the-matrix.md)
 
 </details>
 

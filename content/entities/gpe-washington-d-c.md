@@ -21,11 +21,11 @@ _Type: Places_
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
 
-**[00:11:42](/episodes/ep-6DhWawD4ZiM.md#t-00-11-39)**
-> "she made to fly to DC for Sergio"
-
 **[00:10:05](/episodes/ep-6DhWawD4ZiM.md#t-00-09-46)**
 > "...you don't remember, to fly to DC for Sergio (Sergio Gore) to be sworn into the amb..."
+
+**[00:11:42](/episodes/ep-6DhWawD4ZiM.md#t-00-11-39)**
+> "she made to fly to DC for Sergio"
 
 **[00:47:20](/episodes/ep-6DhWawD4ZiM.md#t-00-46-55)**
 > "...s ago from Tampa area back to DC."

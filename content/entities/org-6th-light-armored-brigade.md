@@ -1,6 +1,6 @@
 ---
 title: "6th Light Armored Brigade"
-description: "6th Light Armored Brigade (Organizations) - 2 mentions"
+description: "6th Light Armored Brigade (Organizations) - 1 mention"
 id: "org-6th-light-armored-brigade"
 type: "ORG"
 ---
@@ -13,13 +13,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:16:09](/episodes/ep-tB5SXXmd9vU.md#ent-org-6th-light-armored-brigade-t-00-16-09)**
 > "...August 25th of this year, the legionnaires from the 4th Company, 2nd Foreign Infantry Regiment, the 6th Light Armored Brigade, were integrated with U.S. Marines of the 6th Marine Regiment for a three-week training deployment...."
-
-**[00:16:09](/episodes/ep-tB5SXXmd9vU.md#ent-org-6th-light-armored-brigade-t-00-16-09)**
-> "...oreign Infantry Regiment, the 6th Light Armored Brigade, were integrated with U.S. Marines of the 6th Mar..."
 
 </details>
 

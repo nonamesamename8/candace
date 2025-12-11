@@ -1,14 +1,14 @@
 ---
 id: "K5GjF53bfN4"
 title: "Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243"
-description: "Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 - 72 entities, 8 events, 0 claims"
+description: "Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 - 73 entities, 8 events, 0 claims"
 published: "2025-09-25"
 youtube_url: "https://www.youtube.com/watch?v=K5GjF53bfN4"
 ---
 
 **Published:** 2025-09-25 | [Watch on YouTube](https://www.youtube.com/watch?v=K5GjF53bfN4)
 
-**Stats:** 72 entities | 8 events | 0 claims
+**Stats:** 73 entities | 8 events | 0 claims
 
 ---
 
@@ -238,7 +238,7 @@ youtube_url: "https://www.youtube.com/watch?v=K5GjF53bfN4"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (72)</strong></summary>
+<summary><strong>Entities Mentioned (73)</strong></summary>
 
 **Concepts:** [Christians](/entities/concept-christians.md), [Doge](/entities/concept-doge.md), [God](/entities/concept-god.md), [Operation Mockingpastor](/entities/concept-operation-mockingpastor.md), [Zionism](/entities/concept-zionism.md)
 
@@ -250,7 +250,7 @@ youtube_url: "https://www.youtube.com/watch?v=K5GjF53bfN4"
 
 **Organizations:** [Amazon](/entities/org-amazon.md), [Better Business Bureau](/entities/org-better-business-bureau.md), [Club Candace](/entities/org-club-candace.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fox News](/entities/org-fox-news.md), [Freemasons](/entities/org-freemasons.md), [Google](/entities/org-google.md), [Hamas](/entities/org-hamas.md), [IDF](/entities/org-idf.md), [Instagram](/entities/org-instagram.md), [Just Thrive](/entities/org-just-thrive.md), [Orem Police Department](/entities/org-orem-police-department.md), [PDS Debt](/entities/org-pds-debt.md), [PragerU](/entities/org-prageru.md), [Riverbend Ranch](/entities/org-riverbend-ranch.md), [Trustpilot](/entities/org-trustpilot.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Twitter](/entities/org-twitter.md), [Wendy's](/entities/org-wendys.md), [YouTube](/entities/org-youtube.md), [the federal government](/entities/org-the-federal-government.md)
 
-**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Andrew Tate](/entities/person-andrew-tate.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Elon Musk](/entities/person-elon-musk.md), [Emily (Emily Saves America)](/entities/person-emily-saves-america.md), [Erika Kirk](/entities/person-erika-kirk.md), [Governor Cox](/entities/person-governor-cox.md), [Greta Van Susteren](/entities/person-greta-van-susteren.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jesus Christ](/entities/person-jesus-christ.md), [Josh Hammer](/entities/person-josh-hammer.md), [Justin Bieber](/entities/person-justin-bieber.md), [Justin Streiff](/entities/person-justin-strief.md), [Marissa Streit](/entities/person-marissa-streit.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Natasha Hausdorff](/entities/person-natasha-hausdorff.md), [Nikki Haley](/entities/person-nikki-haley.md), [Seth Dillon](/entities/person-seth-dillon.md), [Skylar](/entities/person-skylar.md), [Taylor Lorenz](/entities/person-taylor-lorenz.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Vivek Ramaswamy](/entities/person-vivek-ramaswamy.md), [Xavier DeRusso](/entities/person-xavier-derusso.md)
+**People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Andrew Tate](/entities/person-andrew-tate.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald Trump](/entities/person-donald-trump.md), [Elon Musk](/entities/person-elon-musk.md), [Emily (Emily Saves America)](/entities/person-emily-saves-america.md), [Erika Kirk](/entities/person-erika-kirk.md), [Governor Cox](/entities/person-governor-cox.md), [Greta Van Susteren](/entities/person-greta-van-susteren.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jesus Christ](/entities/person-jesus-christ.md), [Josh Hammer](/entities/person-josh-hammer.md), [Justin Bieber](/entities/person-justin-bieber.md), [Justin Streiff](/entities/person-justin-strief.md), [Lance](/entities/person-lance-robinson-boyfriend.md), [Marissa Streit](/entities/person-marissa-streit.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Natasha Hausdorff](/entities/person-natasha-hausdorff.md), [Nikki Haley](/entities/person-nikki-haley.md), [Seth Dillon](/entities/person-seth-dillon.md), [Skylar](/entities/person-skylar.md), [Taylor Lorenz](/entities/person-taylor-lorenz.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Vivek Ramaswamy](/entities/person-vivek-ramaswamy.md), [Xavier DeRusso](/entities/person-xavier-derusso.md)
 
 **Works & Media:** [Blackout](/entities/work-blackout.md), [Chaos](/entities/work-chaos.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
 

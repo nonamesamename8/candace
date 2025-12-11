@@ -15,11 +15,11 @@ _Type: People_
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (3 mentions)</summary>
 
-**[00:12:33](/episodes/ep-Cq7nj9rxPdo.md#ent-person-rick-rubin-t-00-12-11)**
-> "Rick Rubin wanted to facilitate certain meetings"
-
 **[00:12:27](/episodes/ep-Cq7nj9rxPdo.md#ent-person-rick-rubin-t-00-12-11)**
 > "Another player in this was Rick Rubin."
+
+**[00:12:33](/episodes/ep-Cq7nj9rxPdo.md#ent-person-rick-rubin-t-00-12-11)**
+> "Rick Rubin wanted to facilitate certain meetings"
 
 **[00:12:33](/episodes/ep-Cq7nj9rxPdo.md#ent-person-rick-rubin-t-00-12-11)**
 > "Yeah, the big music industry—Rick Rubin—also got into the mix and wanted to facilitate ce..."

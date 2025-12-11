@@ -1,6 +1,6 @@
 ---
 title: "Federal Reserve"
-description: "Federal Reserve (Organizations) - 29 mentions"
+description: "Federal Reserve (Organizations) - 15 mentions"
 id: "org-federal-reserve"
 type: "ORG"
 aliases:
@@ -17,10 +17,7 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (2 mentions)</summary>
-
-**[00:36:20](/episodes/ep-mKXdKV-OBog.md#ent-org-federal-reserve-t-00-36-08)**
-> "...merican Financing because the Fed just dropped interest rates again, and that is ob..."
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
 
 **[00:36:20](/episodes/ep-mKXdKV-OBog.md#ent-org-federal-reserve-t-00-36-08)**
 > "...ut American Financing because the Fed just dropped interest rates again, and that is ob..."
@@ -28,10 +25,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (2 mentions)</summary>
-
-**[00:45:34](/episodes/ep-sImMM04XdWY.md#ent-org-federal-reserve-t-00-45-05)**
-> "...merican Financing because the Fed just dropped interest rates again, and that is go..."
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1 mentions)</summary>
 
 **[00:45:34](/episodes/ep-sImMM04XdWY.md#ent-org-federal-reserve-t-00-45-05)**
 > "...ut American Financing because the Fed just dropped interest rates again, and that is go..."
@@ -39,10 +33,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (2 mentions)</summary>
-
-**[00:45:53](/episodes/ep-SKGUzGHymcI.md#ent-org-federal-reserve-t-00-45-30)**
-> "...merican Financing because the Fed just dropped interest rates again, and that is gr..."
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (1 mentions)</summary>
 
 **[00:45:53](/episodes/ep-SKGUzGHymcI.md#ent-org-federal-reserve-t-00-45-30)**
 > "...ut American Financing because the Fed just dropped interest rates again, and that is gr..."
@@ -50,10 +41,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
-
-**[00:22:49](/episodes/ep-581dILVcEE4.md#ent-org-federal-reserve-t-00-22-49)**
-> "...merican Financing because the Fed just dropped interest rates again, and that is gr..."
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
 
 **[00:22:49](/episodes/ep-581dILVcEE4.md#ent-org-federal-reserve-t-00-22-49)**
 > "...ut American Financing because the Fed just dropped interest rates again, and that is gr..."
@@ -61,10 +49,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2 mentions)</summary>
-
-**[00:45:59](/episodes/ep-JQjCAsfoXEE.md#ent-org-federal-reserve-t-00-45-59)**
-> "...merican Financing because the Fed just dropped interest rates again, and that is gr..."
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (1 mentions)</summary>
 
 **[00:45:59](/episodes/ep-JQjCAsfoXEE.md#ent-org-federal-reserve-t-00-45-59)**
 > "...ut American Financing because the Fed just dropped interest rates again, and that is gr..."
@@ -72,10 +57,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
-
-**[00:34:04](/episodes/ep-7RLtGgkTh9o.md#ent-org-federal-reserve-t-00-33-25)**
-> "...merican Financing because the Fed just dropped interest rates again."
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
 **[00:34:04](/episodes/ep-7RLtGgkTh9o.md#ent-org-federal-reserve-t-00-33-25)**
 > "...ut American Financing because the Fed just dropped interest rates again."
@@ -83,10 +65,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
-
-**[00:43:56](/episodes/ep-MUA9ebCF4Ow.md#ent-org-federal-reserve-t-00-43-39)**
-> "...merican Financing because the Fed just dropped interest rates again, and that's gre..."
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
 
 **[00:43:56](/episodes/ep-MUA9ebCF4Ow.md#ent-org-federal-reserve-t-00-43-39)**
 > "...ut American Financing because the Fed just dropped interest rates again, and that's gre..."
@@ -94,10 +73,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
-
-**[00:51:17](/episodes/ep-YaZfwLQ7vrI.md#ent-org-federal-reserve-t-00-51-13)**
-> "...merican Financing because the Fed just dropped interest rates again, and that is gr..."
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
 
 **[00:51:17](/episodes/ep-YaZfwLQ7vrI.md#ent-org-federal-reserve-t-00-51-13)**
 > "...ut American Financing because the Fed just dropped interest rates again, and that is gr..."
@@ -105,10 +81,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (2 mentions)</summary>
-
-**[00:45:57](/episodes/ep-r1PS67aRmcA.md#ent-org-federal-reserve-t-00-45-22)**
-> "...erican Financing, because the Fed just dropped interest rates again, and that's gre..."
+<summary>Ben Shapiro Is Crying Again. | Candace Ep 261 (1 mentions)</summary>
 
 **[00:45:57](/episodes/ep-r1PS67aRmcA.md#ent-org-federal-reserve-t-00-45-22)**
 > "...t American Financing, because the Fed just dropped interest rates again, and that's gre..."
@@ -124,10 +97,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
-
-**[00:40:40](/episodes/ep-Qfwr08Ebczo.md#ent-org-federal-reserve-t-00-40-27)**
-> "...inancing, as I always do. The Fed just dropped interest rates again, and that is go..."
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
 
 **[00:40:40](/episodes/ep-Qfwr08Ebczo.md#ent-org-federal-reserve-t-00-40-27)**
 > "...an Financing, as I always do. The Fed just dropped interest rates again, and that is go..."
@@ -135,10 +105,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (2 mentions)</summary>
-
-**[00:42:11](/episodes/ep-K1tFD7FfoCU.md#ent-org-federal-reserve-t-00-42-11)**
-> "...merican Financing because the Fed just dropped interest rates again, and that is gr..."
+<summary>MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257 (1 mentions)</summary>
 
 **[00:42:11](/episodes/ep-K1tFD7FfoCU.md#ent-org-federal-reserve-t-00-42-11)**
 > "...ut American Financing because the Fed just dropped interest rates again, and that is gr..."
@@ -146,10 +113,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (2 mentions)</summary>
-
-**[00:34:53](/episodes/ep-pc3pxRyNFZk.md#ent-org-federal-reserve-t-00-34-17)**
-> "...to tell you about because the Fed has finally dropped interest rates, and that is g..."
+<summary>REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 (1 mentions)</summary>
 
 **[00:34:53](/episodes/ep-pc3pxRyNFZk.md#ent-org-federal-reserve-t-00-34-17)**
 > "...ant to tell you about because the Fed has finally dropped interest rates, and that is g..."
@@ -157,10 +121,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (2 mentions)</summary>
-
-**[00:48:08](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-federal-reserve-t-00-47-41)**
-> "...merican Financing because the Fed has finally dropped interest rates, and that's gr..."
+<summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (1 mentions)</summary>
 
 **[00:48:08](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-federal-reserve-t-00-47-41)**
 > "...ut American Financing because the Fed has finally dropped interest rates, and that's gr..."
@@ -168,10 +129,7 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
-
-**[00:39:36](/episodes/ep-QZWSsq8ZWzw.md#ent-org-federal-reserve-t-00-38-57)**
-> "...merican Financing because the Fed has finally dropped interest rates, and that is g..."
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (1 mentions)</summary>
 
 **[00:39:36](/episodes/ep-QZWSsq8ZWzw.md#ent-org-federal-reserve-t-00-38-57)**
 > "...ut American Financing because the Fed has finally dropped interest rates, and that is g..."

@@ -15,14 +15,14 @@ _Type: Organizations_
 <details>
 <summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (3 mentions)</summary>
 
-**[00:20:28](/episodes/ep-K5GjF53bfN4.md#ent-org-wendys-t-00-16-52)**
-> "Like if a CEO steps down from Wendy's, you could just replace that person as another CEO and nobody cares"
-
 **[00:17:22](/episodes/ep-K5GjF53bfN4.md#ent-org-wendys-t-00-16-52)**
 > "Like if a CEO steps down from Wendy's, you could just replace that person as another CE..."
 
 **[00:17:28](/episodes/ep-K5GjF53bfN4.md#ent-org-wendys-t-00-16-52)**
 > "...e buying chicken nuggets from Wendy's, you don't really care who the CEO is."
+
+**[00:20:28](/episodes/ep-K5GjF53bfN4.md#ent-org-wendys-t-00-16-52)**
+> "Like if a CEO steps down from Wendy's, you could just replace that person as another CEO and nobody cares"
 
 </details>
 

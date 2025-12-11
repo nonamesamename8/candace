@@ -1,6 +1,6 @@
 ---
 title: "John McCain"
-description: "John McCain (People) - 5 mentions"
+description: "John McCain (People) - 4 mentions"
 id: "person-john-mccain"
 type: "PERSON"
 aliases:
@@ -17,7 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5 mentions)</summary>
+<summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (4 mentions)</summary>
 
 **[00:18:18](/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15)**
 > "John McCain leading protesters in Ukraine 2014 color revolution"
@@ -30,9 +30,6 @@ _Type: People_
 
 **[00:19:34](/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-19-27)**
 > "...ation was about as organic as John McCain, he rest in peace, leading the people of Ukraine."
-
-**[00:19:34](/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-19-27)**
-> "... was about as organic as John McCain, he rest in peace, leading the people of Ukraine."
 
 </details>
 

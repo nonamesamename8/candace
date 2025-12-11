@@ -1,6 +1,6 @@
 ---
 title: "Joe Gebbia"
-description: "Joe Gebbia (People) - 2 mentions"
+description: "Joe Gebbia (People) - 1 mention"
 id: "person-joe-gebbia"
 type: "PERSON"
 ---
@@ -13,13 +13,10 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
 **[00:10:41](/episodes/ep-LATnak75Si0.md#ent-person-joe-gebbia-t-00-10-30)**
 > "...iated super PAC. He gave $8.3 million to stop Mamdani, and it didn't matter. The Airbnb co-founder, Joe Gebbia, gave $3.1 million. It didn't matter. The Tisch family gave $1.2 million. It didn't matter. Still M..."
-
-**[00:10:41](/episodes/ep-LATnak75Si0.md#ent-person-joe-gebbia-t-00-10-30)**
-> "The Airbnb co-founder, Joe Gebbia, gave $3.1 million."
 
 </details>
 

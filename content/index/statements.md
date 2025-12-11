@@ -6242,7 +6242,7 @@ _1162 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:41:17](/episodes/ep-6DhWawD4ZiM.md#t-00-40-53) [○] **Candace Owens**: ["Captain Adam Neff of the 10th Mountain Division led an interrogation of a milita..."](/statements/statement-536d43327c41.md)
-  - About: [Adam Neff](/entities/person-adam-neff.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+  - About: [Captain Adam Neff](/entities/person-captain-adam-neff.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
 <div class="filter-item">
@@ -14697,7 +14697,7 @@ _1162 statements extracted from podcast episodes._
 <div class="filter-item">
 
 - [00:41:17](/episodes/ep-6DhWawD4ZiM.md#t-00-40-53) [○] (Claim) **Candace Owens**: ["Captain Adam Neff of the 10th Mountain Division led an interrogation of a milita..."](/statements/statement-536d43327c41.md)
-  - About: [Adam Neff](/entities/person-adam-neff.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+  - About: [Captain Adam Neff](/entities/person-captain-adam-neff.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
 <div class="filter-item">
@@ -14766,4 +14766,4 @@ _1162 statements extracted from podcast episodes._
 
 ---
 
-*Generated: 2025-12-11 12:41:45*
+*Generated: 2025-12-11 13:23:25*

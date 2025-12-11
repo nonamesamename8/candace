@@ -1,6 +1,6 @@
 ---
 title: "SU-BTT"
-description: "SU-BTT (Vehicles) - 74 mentions"
+description: "SU-BTT (Vehicles) - 38 mentions"
 id: "vehicle-su-btt"
 type: "VEHICLE"
 aliases:
@@ -20,21 +20,15 @@ _Type: Vehicles_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (3 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:23:24](/episodes/ep-tB5SXXmd9vU.md#ent-vehicle-su-btt-t-00-23-12)**
 > "...e learned about that weird hangar lease in Delaware and we were trying to track the Egyptian plane, SU-BTT, our yellow plane, which departed on the morning of Charlie Kirk's (Charlie Kirk's) assassination f..."
 
-**[00:23:24](/episodes/ep-tB5SXXmd9vU.md#ent-vehicle-su-btt-t-00-23-12)**
-> "... to track the Egyptian plane, SU-BTT, our yellow plane, which departed on the morning ..."
-
-**[00:23:24](/episodes/ep-tB5SXXmd9vU.md#ent-vehicle-su-btt-t-00-23-12)**
-> "... track the Egyptian plane, SU-BTT, our yellow plane, which departed on the morning ..."
-
 </details>
 
 <details>
-<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (8 mentions)</summary>
+<summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (4 mentions)</summary>
 
 **[00:05:48](/episodes/ep-mKXdKV-OBog.md#ent-vehicle-su-btt-t-00-05-45)**
 > "...l to this puzzle. Taking a more serious look into that one-hour layover stop when our yellow plane, SUBTT—the tail number—came into the United States on September 4th. You might recall it stopped for just ..."
@@ -48,31 +42,13 @@ _Type: Vehicles_
 **[00:17:57](/episodes/ep-mKXdKV-OBog.md#ent-vehicle-su-btt-t-00-17-38)**
 > "...ith shooting in Ukraine, of all places. It's getting shady. And of course, our now infamous planes, SUBTT and SUBNT, are Egyptian military planes. And every plane that seems to be flying over UVU that day ..."
 
-**[00:05:48](/episodes/ep-mKXdKV-OBog.md#ent-vehicle-su-btt-t-00-05-45)**
-> "...r stop when our yellow plane, SUBTT—the tail number—came into the United States on Se..."
-
-**[00:06:23](/episodes/ep-mKXdKV-OBog.md#ent-vehicle-su-btt-t-00-05-45)**
-> "... keys to not overlook here is SUBTT's stopover in Minot, North Dakota."
-
-**[00:11:04](/episodes/ep-mKXdKV-OBog.md#ent-vehicle-su-btt-t-00-10-47)**
-> "...t, July 20th, we talked about SUBTT, which came in for its longest trip—that's correc..."
-
-**[00:17:57](/episodes/ep-mKXdKV-OBog.md#ent-vehicle-su-btt-t-00-17-38)**
-> "...rse, our now infamous planes, SUBTT and SUBNT, are Egyptian military planes."
-
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (6 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (4 mentions)</summary>
 
 **[00:06:12](/episodes/ep-sImMM04XdWY.md#ent-vehicle-su-btt-t-00-05-36)**
 > "...ting. And don't forget that that same core, that same source claimed that after our Egyptian plane, tail number SUBTT, landed into this federally monitored hangar, a foreign dignitary was then discreetly moved to 920 ..."
-
-**[00:06:12](/episodes/ep-sImMM04XdWY.md#ent-vehicle-su-btt-t-00-05-36)**
-> "...r Egyptian plane, tail number SUBTT, landed into this federally monitored hangar, a f..."
-
-**[00:06:12](/episodes/ep-sImMM04XdWY.md#ent-vehicle-su-btt-t-00-05-36)**
-> "...hat after our Egyptian plane, tail number SUBTT, landed into this federally monitored hangar, a f..."
 
 **[00:16:53](/episodes/ep-sImMM04XdWY.md#ent-vehicle-su-btt-t-00-16-53)**
 > "...is really interesting because BTT then comes in from Cairo through Paris and lands ..."
@@ -86,13 +62,10 @@ _Type: Vehicles_
 </details>
 
 <details>
-<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (24 mentions)</summary>
+<summary>Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 (11 mentions)</summary>
 
 **[00:01:35](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-01-26)**
 > "...d these jets—ostensibly filled with government-level Egyptians, right?—particularly the yellow jet, tail number SUBTT— which kept overlaying, sometimes even for days, in Delaware—why would they do that? Why would that..."
-
-**[00:06:48](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-06-15)**
-> "...tion portion reads this. "As you know, on September 10th, an Egyptian government Dassault Falcon 7X tail number SUBTT came into Wilmington, Delaware." "I tried to pull non-public movement data, and it came up empty." ..."
 
 **[00:05:51](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-05-33)**
 > "...volved in the events leading up to and on September 10th." "I'm aware that you also tied the plane, SUBTT, yellow plane, to this and that you are receiving tips." "You might have been wondering why SUBTT m..."
@@ -102,6 +75,9 @@ _Type: Vehicles_
 
 **[00:06:15](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-06-15)**
 > "...o read that. I'm not going to read that. I'm not going to read that. "Some people may tell you that SUBTT stopped at Wilmington because it was quote-unquote just maintenance." "That is not true." "The info..."
+
+**[00:06:48](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-06-15)**
+> "...tion portion reads this. "As you know, on September 10th, an Egyptian government Dassault Falcon 7X tail number SUBTT came into Wilmington, Delaware." "I tried to pull non-public movement data, and it came up empty." ..."
 
 **[00:07:33](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-06-58)**
 > "...h often leave and enter that airport when they do covert handoffs." "Now I have no affiliation with SUBTT." "Nor am I an operator anywhere near Egypt or its planes, but I do know that only federal vehicles..."
@@ -121,63 +97,18 @@ _Type: Vehicles_
 **[00:19:26](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-19-26)**
 > ".... Once more, go through this logic and ask yourself how this makes any sense. On November 13, 2022, SUBTT flies from Cairo to Paris to Wichita, Kansas, to Wilmington, Delaware, back to Cairo. That is alrea..."
 
-**[00:01:35](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-01-26)**
-> "...y the yellow jet, tail number SUBTT—"
-
-**[00:01:35](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-01-26)**
-> "...—particularly the yellow jet, tail number SUBTT—"
-
-**[00:05:51](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-05-33)**
-> "...that you also tied the plane, SUBTT, yellow plane, to this and that you are receiving..."
-
-**[00:05:59](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-05-33)**
-> "...might have been wondering why SUBTT made so many visits to Wilmington, Delaware out o..."
-
-**[00:06:15](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-06-15)**
-> "...Some people may tell you that SUBTT stopped at Wilmington because it was quote-unquot..."
-
-**[00:06:48](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-06-15)**
-> "...assault Falcon 7X tail number SUBTT came into Wilmington, Delaware.""
-
-**[00:06:48](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-06-15)**
-> "...government Dassault Falcon 7X tail number SUBTT came into Wilmington, Delaware.""
-
-**[00:07:33](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-06-58)**
-> "...ow I have no affiliation with SUBTT.""
-
-**[00:07:52](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-07-37)**
-> "...eft inside the same window as SUBTT.""
-
-**[00:09:44](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-09-44)**
-> "... am telling you happened with SUBTT.""
-
-**[00:12:08](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-11-40)**
-> "...u saw people on X saying that SUBTT has an alibi because it, quote-unquote, aligns wi..."
-
-**[00:14:57](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-14-53)**
-> "If SUBTT"
-
-**[00:19:26](/episodes/ep-SKGUzGHymcI.md#ent-vehicle-su-btt-t-00-19-26)**
-> "On November 13, 2022, SUBTT flies from Cairo to Paris to Wichita, Kansas, to ..."
-
 </details>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (3 mentions)</summary>
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1 mentions)</summary>
 
 **[00:03:51](/episodes/ep-581dILVcEE4.md#ent-vehicle-su-btt-t-00-03-33)**
 > "... have confirmed that this was a full flight over to Utah. This Egyptian flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie Kirk)'s assassination. So we are looking at anywher..."
 
-**[00:03:51](/episodes/ep-581dILVcEE4.md#ent-vehicle-su-btt-t-00-03-33)**
-> "...n flight—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie K..."
-
-**[00:03:51](/episodes/ep-581dILVcEE4.md#ent-vehicle-su-btt-t-00-03-33)**
-> "...light—and I'm referring to SU-BTT—landed in Utah six days before Charlie (Charlie K..."
-
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (6 mentions)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (2 mentions)</summary>
 
 **[00:11:19](/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-su-btt-t-00-11-07)**
 > "...? We created this document, and we organized it to SU-BND being the blue plane and then tail number SU-BTT being the yellow plane. That seems to have struck even more fear into the nest of mockingbirds. In ..."
@@ -185,55 +116,25 @@ _Type: Vehicles_
 **[00:16:55](/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-su-btt-t-00-16-12)**
 > "...hat she was correct. She discovered that between 2022 and September of 2025, both of those aircraft—SU-BTT, the yellow plane, and SU-BND, the blue plane—showed 68 overlaps with Erika's documented locations,..."
 
-**[00:11:19](/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-su-btt-t-00-11-07)**
-> "...ue plane and then tail number SU-BTT being the yellow plane."
-
-**[00:16:55](/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-su-btt-t-00-16-12)**
-> "... 2025, both of those aircraft—SU-BTT, the yellow plane, and SU-BND, the blue plane—sho..."
-
-**[00:11:19](/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-su-btt-t-00-11-07)**
-> "...plane and then tail number SU-BTT being the yellow plane."
-
-**[00:16:55](/episodes/ep-JQjCAsfoXEE.md#ent-vehicle-su-btt-t-00-16-12)**
-> "...25, both of those aircraft—SU-BTT, the yellow plane, and SU-BND, the blue plane—sho..."
-
 </details>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (20 mentions)</summary>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (13 mentions)</summary>
 
 **[00:04:26](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-04-11)**
 > "...ter the show. I was looking at your comments, and he said, "Oh, Candace, that plane we covered, the tail number SUBTT—just so you know—like a year earlier, that plane was in Utah at the same time as Charlie (Charlie K..."
 
-**[00:06:40](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-06-10)**
-> "...y easy for you, okay? Tail number SUBND. That's a Gulfstream 4. It's about 12 to 16 passengers. And tail number SUBTT. That's gonna be our main one. That's our Falcon 7X. Again, holds about 12 to 16 passengers. Now, f..."
-
 **[00:06:10](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-06-10)**
 > "...y, I'll take a look at that. Maybe that's where the rest of the passengers went. Maybe that emptied SUBTT left in the morning, and three hours after Charlie (Charlie Kirk) was assassinated—or maybe it's th..."
 
-**[00:04:26](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-04-11)**
-> "...e we covered, the tail number SUBTT—just so you know—like a year earlier, that plane ..."
-
-**[00:04:26](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-04-11)**
-> "...e, that plane we covered, the tail number SUBTT—just so you know—like a year earlier, that plane ..."
-
-**[00:06:10](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-06-10)**
-> "Maybe that emptied SUBTT left in the morning, and three hours after Charli..."
-
 **[00:06:40](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-06-10)**
-> "And tail number SUBTT."
+> "...y easy for you, okay? Tail number SUBND. That's a Gulfstream 4. It's about 12 to 16 passengers. And tail number SUBTT. That's gonna be our main one. That's our Falcon 7X. Again, holds about 12 to 16 passengers. Now, f..."
 
 **[00:07:26](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-06-48)**
 > "...these are the four times that BTT—so they're both SU—that BTT was here in 2022."
 
-**[00:07:26](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-06-48)**
-> "...t BTT—so they're both SU—that BTT was here in 2022."
-
 **[00:10:07](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-09-40)**
 > "BTT will come behind it, okay?"
-
-**[00:10:09](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-09-40)**
-> "So on February 25th, BTT comes in. And BTT—again, they're both flying from..."
 
 **[00:10:09](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-09-40)**
 > "...ruary 25th, BTT comes in. And BTT—again, they're both flying from Cairo every time,..."
@@ -259,25 +160,16 @@ _Type: Vehicles_
 **[00:38:46](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-38-16)**
 > "Is that BTT stays for six days? Yet because I went back to Ca..."
 
-**[00:38:46](/episodes/ep-YFmRH8p5lt0.md#ent-vehicle-su-btt-t-00-38-16)**
-> "... because I went back to Cairo—BTT."
-
 </details>
 
 <details>
-<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (4 mentions)</summary>
+<summary>BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255 (2 mentions)</summary>
 
 **[00:12:46](/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-btt-t-00-12-29)**
 > "...arlie (Charlie Kirk)'s assassination. Okay, here is that plane. The tail number you can see here is SUBTT. And this is a screenshot again from FlightRadar. Now, of course, when I pointed out that this fore..."
 
 **[00:55:55](/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-btt-t-00-55-55)**
 > "...day. I can't remember if it was Carrie. Obsessed with sports rights: Egypt's tail numbers SUBND and SUBTT were at peace 2025. What is that? Mark, help me mansplain. After and Hades, the tail number N1098L ..."
-
-**[00:12:46](/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-btt-t-00-12-29)**
-> "...il number you can see here is SUBTT."
-
-**[00:55:55](/episodes/ep-iHav0PPzUz8.md#ent-vehicle-su-btt-t-00-55-55)**
-> "...gypt's tail numbers SUBND and SUBTT were at peace 2025."
 
 </details>
 

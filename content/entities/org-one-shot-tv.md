@@ -15,11 +15,11 @@ _Type: Organizations_
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
 
-**[00:30:30](/episodes/ep-Kmt6HgRjckU.md#ent-org-one-shot-tv-t-00-29-56)**
-> "One Shot TV YouTube channel about guns tests .30-06 bullet"
-
 **[00:30:19](/episodes/ep-Kmt6HgRjckU.md#ent-org-one-shot-tv-t-00-29-56)**
 > "...keg, who has a channel called one shot TV, it's all about guns, and he didn't have a horse ..."
+
+**[00:30:30](/episodes/ep-Kmt6HgRjckU.md#ent-org-one-shot-tv-t-00-29-56)**
+> "One Shot TV YouTube channel about guns tests .30-06 bullet"
 
 </details>
 

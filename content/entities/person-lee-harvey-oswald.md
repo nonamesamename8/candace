@@ -1,6 +1,6 @@
 ---
 title: "Lee Harvey Oswald"
-description: "Lee Harvey Oswald (People) - 3 mentions"
+description: "Lee Harvey Oswald (People) - 2 mentions"
 id: "person-lee-harvey-oswald"
 type: "PERSON"
 aliases:
@@ -17,16 +17,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3 mentions)</summary>
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
 
 **[00:02:30](/episodes/ep-Kmt6HgRjckU.md#ent-person-lee-harvey-oswald-t-00-02-30)**
 > "we are smarter to believe that it was simply Lee Harvey Oswald"
 
 **[00:02:30](/episodes/ep-Kmt6HgRjckU.md#ent-person-lee-harvey-oswald-t-00-02-30)**
 > "...to believe that it was simply Lee Harvey Oswald."
-
-**[00:02:30](/episodes/ep-Kmt6HgRjckU.md#ent-person-lee-harvey-oswald-t-00-02-30)**
-> "...that it was simply Lee Harvey Oswald."
 
 </details>
 

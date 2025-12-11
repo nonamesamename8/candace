@@ -15,11 +15,11 @@ _Type: People_
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (2 mentions)</summary>
 
-**[00:43:06](/episodes/ep-q7f8r-THr84.md#ent-person-aaron-wexler-t-00-41-03)**
-> "people that were at this weekend soiree in which Aaron Wexler sent out some of the invitations"
-
 **[00:41:31](/episodes/ep-q7f8r-THr84.md#ent-person-aaron-wexler-t-00-41-03)**
 > "... this weekend soiree in which Aaron Wexler sent out some of the invitations,"
+
+**[00:43:06](/episodes/ep-q7f8r-THr84.md#ent-person-aaron-wexler-t-00-41-03)**
+> "people that were at this weekend soiree in which Aaron Wexler sent out some of the invitations"
 
 </details>
 

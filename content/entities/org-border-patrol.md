@@ -1,6 +1,6 @@
 ---
 title: "Border Patrol"
-description: "Border Patrol (Organizations) - 10 mentions"
+description: "Border Patrol (Organizations) - 9 mentions"
 id: "org-border-patrol"
 type: "ORG"
 aliases:
@@ -17,16 +17,13 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (10 mentions)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (9 mentions)</summary>
 
 **[00:01:16](/episodes/ep-t4U7NjnUEgc.md#ent-org-border-patrol-t-00-08-14)**
 > "directly to lower border patrol agents, a border patrol agent was able to skip his command"
 
 **[00:08:35](/episodes/ep-t4U7NjnUEgc.md#ent-org-border-patrol-t-00-08-14)**
 > "...ing directly through to lower border patrol agents, a border patrol agent was able to skip hi..."
-
-**[00:08:35](/episodes/ep-t4U7NjnUEgc.md#ent-org-border-patrol-t-00-08-14)**
-> "...lower border patrol agents, a border patrol agent was able to skip his command and directly s..."
 
 **[00:09:08](/episodes/ep-t4U7NjnUEgc.md#ent-org-border-patrol-t-00-08-59)**
 > "...ander, who was a high-ranking Border Patrol, was actually in the photos in that house posing ..."

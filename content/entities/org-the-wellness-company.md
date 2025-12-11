@@ -119,11 +119,11 @@ _Type: Organizations_
 <details>
 <summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (3 mentions)</summary>
 
-**[00:59:43](/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29)**
-> "I want to remind you about the Wellness Company because you may have—or maybe you didn't—but if you didn't know, then you should—that methylene blue being sold online is the same grade that is used in fish tanks."
-
 **[00:59:29](/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29)**
 > "...s, I want to remind you about the Wellness Company because you may have—or maybe you didn't—but if y..."
+
+**[00:59:43](/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29)**
+> "I want to remind you about the Wellness Company because you may have—or maybe you didn't—but if you didn't know, then you should—that methylene blue being sold online is the same grade that is used in fish tanks."
 
 **[00:59:49](/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29)**
 > "You can, however, trust the Wellness Company's Recharge, which is a doctor-formulated supplement..."

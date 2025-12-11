@@ -1,6 +1,6 @@
 ---
 title: "Hodge Twins"
-description: "Hodge Twins (People) - 3 mentions"
+description: "Hodge Twins (People) - 2 mentions"
 id: "person-hodge-twins"
 type: "PERSON"
 aliases:
@@ -17,16 +17,13 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (3 mentions)</summary>
-
-**[00:29:56](/episodes/ep-Kmt6HgRjckU.md#ent-person-hodge-twins-t-00-29-14)**
-> "Hodge Twins: Republicans will lose midterms because no deep state criminals held accountable"
-
-**[00:29:34](/episodes/ep-Kmt6HgRjckU.md#ent-person-hodge-twins-t-00-29-14)**
-> "... do also want to say that the hodge twins reiterated that point in a tweet"
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (2 mentions)</summary>
 
 **[00:29:34](/episodes/ep-Kmt6HgRjckU.md#ent-person-hodge-twins-t-00-29-14)**
 > "...er i do also want to say that the hodge twins reiterated that point in a tweet"
+
+**[00:29:56](/episodes/ep-Kmt6HgRjckU.md#ent-person-hodge-twins-t-00-29-14)**
+> "Hodge Twins: Republicans will lose midterms because no deep state criminals held accountable"
 
 </details>
 

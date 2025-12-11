@@ -1,6 +1,6 @@
 ---
 title: "Youth With A Mission"
-description: "Youth With A Mission (Organizations) - 2 mentions"
+description: "Youth With A Mission (Organizations) - 1 mention"
 id: "org-youth-with-a-mission"
 type: "ORG"
 ---
@@ -13,13 +13,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (2 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (1 mentions)</summary>
 
 **[00:14:09](/episodes/ep-YaZfwLQ7vrI.md#ent-org-youth-with-a-mission-t-00-13-59)**
 > "...a conversation I had in the year 2000. I had been talking to Loren Cunningham, who's the founder of Youth With A Mission, and Loren was sharing with me about a conversation he had had with Bill Bright. The two of them we..."
-
-**[00:14:09](/episodes/ep-YaZfwLQ7vrI.md#ent-org-youth-with-a-mission-t-00-13-59)**
-> "...ningham, who's the founder of Youth With A Mission, and Loren was sharing with me about a conversati..."
 
 </details>
 

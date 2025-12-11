@@ -1,6 +1,6 @@
 ---
 title: "Immigration and Customs Enforcement"
-description: "Immigration and Customs Enforcement (Organizations) - 5 mentions"
+description: "Immigration and Customs Enforcement (Organizations) - 4 mentions"
 id: "org-immigration-and-customs-enforcement"
 type: "ORG"
 aliases:
@@ -29,16 +29,13 @@ _Type: Organizations_
 </details>
 
 <details>
-<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (3 mentions)</summary>
+<summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (2 mentions)</summary>
 
 **[00:44:45](/episodes/ep-QZWSsq8ZWzw.md#ent-org-immigration-and-customs-enforcement-t-00-44-45)**
 > "Is it not weird that within minutes the FBI posted pics of the ammo with 'anti-ICE' from today and showed us pics of the windows with the holes in them, referring to the shooting in the ICE facility in Dallas?"
 
 **[00:44:45](/episodes/ep-QZWSsq8ZWzw.md#ent-org-immigration-and-customs-enforcement-t-00-44-45)**
 > "...d pics of the ammo with 'anti-ICE' from today and showed us pics of the windows wit..."
-
-**[00:44:45](/episodes/ep-QZWSsq8ZWzw.md#ent-org-immigration-and-customs-enforcement-t-00-44-45)**
-> "...erring to the shooting in the ICE facility in Dallas?""
 
 </details>
 

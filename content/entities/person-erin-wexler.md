@@ -1,6 +1,6 @@
 ---
 title: "Erin Wexler"
-description: "Erin Wexler (People) - 5 mentions"
+description: "Erin Wexler (People) - 3 mentions"
 id: "person-erin-wexler"
 type: "PERSON"
 ---
@@ -13,27 +13,21 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (3 mentions)</summary>
-
-**[00:03:02](/episodes/ep-581dILVcEE4.md#ent-person-erin-wexler-t-00-02-51)**
-> "...e address and then somebody could go to your home and harm you, that's what they're accusing me of. Erin Wexler—now this is the girl that was at the now infamous Hamptons retreat— She wrote this: "Candace (Canda..."
+<summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (2 mentions)</summary>
 
 **[00:03:02](/episodes/ep-581dILVcEE4.md#ent-person-erin-wexler-t-00-02-51)**
 > "Erin Wexler from Hamptons retreat accuses Candace of doxing"
 
 **[00:03:02](/episodes/ep-581dILVcEE4.md#ent-person-erin-wexler-t-00-02-51)**
-> "Erin Wexler—now this is the girl that was at the now infamous..."
+> "...e address and then somebody could go to your home and harm you, that's what they're accusing me of. Erin Wexler—now this is the girl that was at the now infamous Hamptons retreat— She wrote this: "Candace (Canda..."
 
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (1 mentions)</summary>
 
 **[00:21:09](/episodes/ep-LATnak75Si0.md#ent-person-erin-wexler-t-00-20-53)**
 > "... you to meet this person," they're already calling her the white Candace (Candace Owens). If you're Erin Wexler—here's an actual tweet. Okay: "White Candace—what is a Nazi then?" Like, what? How does that make a..."
-
-**[00:21:09](/episodes/ep-LATnak75Si0.md#ent-person-erin-wexler-t-00-20-53)**
-> "If you're Erin Wexler—here's an actual tweet."
 
 </details>
 

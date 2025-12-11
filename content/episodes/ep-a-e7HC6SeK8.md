@@ -1,14 +1,14 @@
 ---
 id: "a-e7HC6SeK8"
 title: "Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272"
-description: "Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 - 144 entities, 5 events, 0 claims"
+description: "Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 - 145 entities, 5 events, 0 claims"
 published: "2025-12-02"
 youtube_url: "https://www.youtube.com/watch?v=a-e7HC6SeK8"
 ---
 
 **Published:** 2025-12-02 | [Watch on YouTube](https://www.youtube.com/watch?v=a-e7HC6SeK8)
 
-**Stats:** 144 entities | 5 events | 0 claims
+**Stats:** 145 entities | 5 events | 0 claims
 
 ---
 
@@ -229,7 +229,7 @@ youtube_url: "https://www.youtube.com/watch?v=a-e7HC6SeK8"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (144)</strong></summary>
+<summary><strong>Entities Mentioned (145)</strong></summary>
 
 **Concepts:** [Bolsheviks](/entities/concept-bolsheviks.md), [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [Jewish mystical tradition](/entities/concept-jewish-mystical-tradition.md), [Lawfare](/entities/concept-lawfare.md), [MAGA movement](/entities/concept-maga-movement.md), [White Walkers](/entities/concept-white-walkers.md), [devil](/entities/concept-devil.md)
 
@@ -245,7 +245,7 @@ youtube_url: "https://www.youtube.com/watch?v=a-e7HC6SeK8"
 
 **People:** [Allie Beth Stuckey](/entities/person-allie-beth-stuckey.md), [Amir](/entities/person-amir.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Anton Daniels](/entities/person-anton-daniels.md), [Bashar al-Assad](/entities/person-bashar-al-assad.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Bob Evnen](/entities/person-bob-evnen.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charles Joseph Bonaparte](/entities/person-charles-joseph-bonaparte.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Christopher Mosley](/entities/person-christopher-mosley.md), [David Schultz](/entities/person-david-schultz.md), [Dominick Dunne](/entities/person-dominick-dunne.md), [Donald Trump](/entities/person-donald-trump.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Eric Dupond-Moretti](/entities/person-eric-dupond-moretti.md), [Erika Kirk](/entities/person-erika-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Irénée du Pont](/entities/person-irenee-du-pont.md), [Jan Jordan](/entities/person-jan-jordan.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [John DuPont](/entities/person-john-dupont.md), [Justin Streiff](/entities/person-justin-strief.md), [Ken Burns](/entities/person-ken-burns.md), [Lila Rose](/entities/person-lila-rose.md), [Lisa Dean](/entities/person-lisa-dean.md), [Macy Crofts](/entities/person-macy-crofts.md), [Mikey McCoy](/entities/person-mikey-mccoy.md), [Napoleon Bonaparte](/entities/person-napoleon-bonaparte.md), [Pierre S. du Pont](/entities/person-pierre-s-du-pont.md), [Pierre Samuel du Pont de Nemours](/entities/person-pierre-samuel-du-pont-de-nemours.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Robert H. Richards](/entities/person-robert-h-richards.md), [Robert Richards the Fourth](/entities/person-robert-richards-the-fourth.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
-**Works & Media:** [Becoming Brigitte](/entities/work-becoming-brigitte.md), [Game of Thrones](/entities/work-game-of-thrones.md), [Make Him a Sandwich](/entities/work-make-him-a-sandwich.md), [The Revolution](/entities/work-the-revolution.md)
+**Works & Media:** [Becoming Brigitte](/entities/work-becoming-brigitte.md), [Game of Thrones](/entities/work-game-of-thrones.md), [Make Him a Sandwich](/entities/work-make-him-a-sandwich.md), [The Matrix](/entities/work-the-matrix.md), [The Revolution](/entities/work-the-revolution.md)
 
 </details>
 

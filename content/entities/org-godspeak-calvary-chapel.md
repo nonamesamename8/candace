@@ -1,6 +1,6 @@
 ---
 title: "Godspeak Calvary Chapel"
-description: "Godspeak Calvary Chapel (Organizations) - 2 mentions"
+description: "Godspeak Calvary Chapel (Organizations) - 1 mention"
 id: "org-godspeak-calvary-chapel"
 type: "ORG"
 ---
@@ -13,13 +13,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
 
 **[00:13:34](/episodes/ep-Qfwr08Ebczo.md#ent-org-godspeak-calvary-chapel-t-00-13-27)**
 > "...y had some rather impeccable timing. Rob McCoy, as you very well know, was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California. You should also know, by the way—let me introduce this to you right n..."
-
-**[00:13:34](/episodes/ep-Qfwr08Ebczo.md#ent-org-godspeak-calvary-chapel-t-00-13-27)**
-> "... was the senior pastor of the Godspeak Calvary Chapel in Thousand Oaks, California."
 
 </details>
 

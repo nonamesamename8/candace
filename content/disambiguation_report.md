@@ -1,6 +1,6 @@
 # Entity Disambiguation Report
 
-Generated: 2025-12-11 12:41:43
+Generated: 2025-12-11 13:23:23
 
 **6 ambiguous mentions** could not be automatically resolved.
 
@@ -10,7 +10,7 @@ These mentions matched multiple entities and the surrounding context was insuffi
 
 ## `Andrew` (3 occurrences)
 
-**Could be:** Andrew Kolvet, Andrew Klavan
+**Could be:** Andrew Klavan, Andrew Kolvet
 
 | Episode | Location | Context |
 |---------|----------|--------|
@@ -20,7 +20,7 @@ These mentions matched multiple entities and the surrounding context was insuffi
 
 ## `Macron` (3 occurrences)
 
-**Could be:** Brigitte Macron, Emmanuel Macron
+**Could be:** Emmanuel Macron, Brigitte Macron
 
 | Episode | Location | Context |
 |---------|----------|--------|

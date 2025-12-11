@@ -15,11 +15,11 @@ _Type: Organizations_
 <details>
 <summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (5 mentions)</summary>
 
-**[00:52:47](/episodes/ep-JQjCAsfoXEE.md#ent-org-flock-t-00-52-19)**
-> "There's a network run by a company called Flock of automated license plate readers that are dotted throughout pretty much every town in the United States."
-
 **[00:52:35](/episodes/ep-JQjCAsfoXEE.md#ent-org-flock-t-00-52-19)**
 > "...rned that anyone can FOIA all Flock license plate cameras, locations, and data points..."
+
+**[00:52:47](/episodes/ep-JQjCAsfoXEE.md#ent-org-flock-t-00-52-19)**
+> "There's a network run by a company called Flock of automated license plate readers that are dotted throughout pretty much every town in the United States."
 
 **[00:52:48](/episodes/ep-JQjCAsfoXEE.md#ent-org-flock-t-00-52-19)**
 > "Can you FOIA all Flock license plate cameras?"

@@ -1,6 +1,6 @@
 ---
 title: "Courtney Love"
-description: "Courtney Love (People) - 18 mentions"
+description: "Courtney Love (People) - 9 mentions"
 id: "person-courtney-love"
 type: "PERSON"
 ---
@@ -13,7 +13,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (18 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (9 mentions)</summary>
 
 **[00:12:30](/episodes/ep-7RLtGgkTh9o.md#ent-person-courtney-love-t-00-12-06)**
 > "...tney Spears world. Just a couple of years ago, the New Yorker reported that she also tried to place Courtney Love and Lindsay Lohan into conservatorships. Oh, we're going to get there because as I started followin..."
@@ -41,33 +41,6 @@ _Type: People_
 
 **[00:32:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-courtney-love-t-00-32-07)**
 > "...you're researching—whether it's Justin Bieber, as I just mentioned, whether you're looking into the Courtney Love thing, or whether you are focused on the Britney Spears thing. You need to look here. We need to un..."
-
-**[00:12:30](/episodes/ep-7RLtGgkTh9o.md#ent-person-courtney-love-t-00-12-06)**
-> "... that she also tried to place Courtney Love and Lindsay Lohan into conservatorships."
-
-**[00:14:40](/episodes/ep-7RLtGgkTh9o.md#ent-person-courtney-love-t-00-14-40)**
-> "...y—before I even get into what Courtney Love told me? Do we have the email somebody sent me?"
-
-**[00:17:01](/episodes/ep-7RLtGgkTh9o.md#ent-person-courtney-love-t-00-16-49)**
-> "...ear, someone notified me that Courtney Love wanted to reach out to me."
-
-**[00:17:11](/episodes/ep-7RLtGgkTh9o.md#ent-person-courtney-love-t-00-16-49)**
-> "...ett Cooper has mentioned that Courtney Love has also had allegations about Lou Taylor."
-
-**[00:17:15](/episodes/ep-7RLtGgkTh9o.md#ent-person-courtney-love-t-00-16-49)**
-> "We all know who Courtney Love is."
-
-**[00:19:02](/episodes/ep-7RLtGgkTh9o.md#ent-person-courtney-love-t-00-18-57)**
-> "Courtney—at that time—Courtney Love told me so much information in January of this ye..."
-
-**[00:21:15](/episodes/ep-7RLtGgkTh9o.md#ent-person-courtney-love-t-00-21-04)**
-> "Courtney Love—this is in January and in February of this year."
-
-**[00:26:51](/episodes/ep-7RLtGgkTh9o.md#ent-person-courtney-love-t-00-26-36)**
-> "Anyways, going back to what Courtney Love told me—and I'm looking back at these messages an..."
-
-**[00:32:07](/episodes/ep-7RLtGgkTh9o.md#ent-person-courtney-love-t-00-32-07)**
-> "...ether you're looking into the Courtney Love thing, or whether you are focused on the Britney ..."
 
 </details>
 

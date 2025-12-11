@@ -1,6 +1,6 @@
 ---
 title: "Shawna Rae Kirkhoff"
-description: "Shawna Rae Kirkhoff (People) - 5 mentions"
+description: "Shawna Rae Kirkhoff (People) - 3 mentions"
 id: "person-shawna-rae-kirkhoff"
 type: "PERSON"
 ---
@@ -13,22 +13,16 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (5 mentions)</summary>
+<summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (3 mentions)</summary>
 
 **[00:08:21](/episodes/ep-YaZfwLQ7vrI.md#ent-person-shawna-rae-kirkhoff-t-00-08-05)**
 > "...to be a fed—more specifically, a 31-year-old woman and a United States Capitol Police officer named Shawna Rae Kirkhoff, right? A man named—a reporter named Steve Baker—who just deserves all of the credit on this amazin..."
 
-**[00:10:34](/episodes/ep-YaZfwLQ7vrI.md#ent-person-shawna-rae-kirkhoff-t-00-10-09)**
-> "... a five-year investigation. It involved forensic analysis. A CIA spokeswoman, Liz Lyon, stated that Shawna Rae Kirkhoff, the alleged person who dropped off these pipe bombs, worked in Capitol Police Campus Security. She..."
-
 **[00:08:30](/episodes/ep-YaZfwLQ7vrI.md#ent-person-shawna-rae-kirkhoff-t-00-08-05)**
 > "Shawna Rae Kirkhoff identified as US Capitol Police officer responsible for January 6th pipe bombs"
 
-**[00:08:21](/episodes/ep-YaZfwLQ7vrI.md#ent-person-shawna-rae-kirkhoff-t-00-08-05)**
-> "... Capitol Police officer named Shawna Rae Kirkhoff, right?"
-
 **[00:10:34](/episodes/ep-YaZfwLQ7vrI.md#ent-person-shawna-rae-kirkhoff-t-00-10-09)**
-> "...swoman, Liz Lyon, stated that Shawna Rae Kirkhoff, the alleged person who dropped off these pipe bo..."
+> "... a five-year investigation. It involved forensic analysis. A CIA spokeswoman, Liz Lyon, stated that Shawna Rae Kirkhoff, the alleged person who dropped off these pipe bombs, worked in Capitol Police Campus Security. She..."
 
 </details>
 

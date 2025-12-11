@@ -1,6 +1,6 @@
 ---
 title: "Operation Mockingbird"
-description: "Operation Mockingbird (Concepts) - 19 mentions"
+description: "Operation Mockingbird (Concepts) - 13 mentions"
 id: "concept-operation-mockingbird"
 type: "CONCEPT"
 aliases:
@@ -17,13 +17,13 @@ _Type: Concepts_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (10 mentions)</summary>
-
-**[00:03:34](/episodes/ep-Kmt6HgRjckU.md#ent-concept-operation-mockingbird-t-00-03-34)**
-> "Operation Mockingbird 2.0 being deployed to convince people questions are crazy"
+<summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (6 mentions)</summary>
 
 **[00:03:26](/episodes/ep-Kmt6HgRjckU.md#ent-concept-operation-mockingbird-t-00-02-59)**
 > "...together, sorry, I should say Mockingbird 2.0."
+
+**[00:03:34](/episodes/ep-Kmt6HgRjckU.md#ent-concept-operation-mockingbird-t-00-03-34)**
+> "Operation Mockingbird 2.0 being deployed to convince people questions are crazy"
 
 **[00:03:34](/episodes/ep-Kmt6HgRjckU.md#ent-concept-operation-mockingbird-t-00-03-34)**
 > "...ollowing JFK's assassination, Mockingbird 1.0, to convince everybody through influence that..."
@@ -31,34 +31,19 @@ _Type: Concepts_
 **[00:03:44](/episodes/ep-Kmt6HgRjckU.md#ent-concept-operation-mockingbird-t-00-03-34)**
 > "... deployed again, Mockingbird, Operation Mockingbird 2.0, to convince people that questions about the ..."
 
-**[00:03:44](/episodes/ep-Kmt6HgRjckU.md#ent-concept-operation-mockingbird-t-00-03-34)**
-> "...ow it's being deployed again, Mockingbird, Operation Mockingbird 2.0, to convince people th..."
-
-**[00:03:44](/episodes/ep-Kmt6HgRjckU.md#ent-concept-operation-mockingbird-t-00-03-34)**
-> "...again, Mockingbird, Operation Mockingbird 2.0, to convince people that questions about the ..."
-
 **[00:09:42](/episodes/ep-Kmt6HgRjckU.md#ent-concept-operation-mockingbird-t-00-09-15)**
 > "...s that is being spent on this Operation Mockingbird 2.0 campaign."
-
-**[00:09:42](/episodes/ep-Kmt6HgRjckU.md#ent-concept-operation-mockingbird-t-00-09-15)**
-> "...being spent on this Operation Mockingbird 2.0 campaign."
 
 **[00:24:20](/episodes/ep-Kmt6HgRjckU.md#ent-concept-operation-mockingbird-t-00-23-48)**
 > "What's happening on the Operation Mockingbird 2.0 side is now they are all blaming me for the u..."
 
-**[00:24:20](/episodes/ep-Kmt6HgRjckU.md#ent-concept-operation-mockingbird-t-00-23-48)**
-> "...'s happening on the Operation Mockingbird 2.0 side is now they are all blaming me for the u..."
-
 </details>
 
 <details>
-<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (4 mentions)</summary>
+<summary>Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 (3 mentions)</summary>
 
 **[00:00:03](/episodes/ep-JQjCAsfoXEE.md#ent-concept-operation-mockingbird-t-00-00-00)**
 > "...1963 that the CIA established Operation Mockingbird."
-
-**[00:00:03](/episodes/ep-JQjCAsfoXEE.md#ent-concept-operation-mockingbird-t-00-00-00)**
-> "...the CIA established Operation Mockingbird."
 
 **[00:11:23](/episodes/ep-JQjCAsfoXEE.md#ent-concept-operation-mockingbird-t-00-11-07)**
 > "...en more fear into the nest of mockingbirds."
@@ -88,13 +73,10 @@ _Type: Concepts_
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (2 mentions)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1 mentions)</summary>
 
 **[00:12:20](/episodes/ep-sreYYcID-QY.md#ent-concept-operation-mockingbird-t-00-11-44)**
 > "...n controlled by the CIA since Operation Mockingbird."
-
-**[00:12:20](/episodes/ep-sreYYcID-QY.md#ent-concept-operation-mockingbird-t-00-11-44)**
-> "...ed by the CIA since Operation Mockingbird."
 
 </details>
 

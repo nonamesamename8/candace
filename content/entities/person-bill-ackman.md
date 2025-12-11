@@ -1,6 +1,6 @@
 ---
 title: "Bill Ackman"
-description: "Bill Ackman (People) - 116 mentions"
+description: "Bill Ackman (People) - 60 mentions"
 id: "person-bill-ackman"
 type: "PERSON"
 aliases:
@@ -17,7 +17,7 @@ _Type: People_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (4 mentions)</summary>
+<summary>Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 (2 mentions)</summary>
 
 **[00:17:26](/episodes/ep-a-e7HC6SeK8.md#ent-person-bill-ackman-t-00-16-56)**
 > "...ays that people who serve in foreign armies should be stripped of their citizenship. He muses about Bill Ackman's wealth and where it comes from. We are told—even though we have not been able to confirm this wit..."
@@ -25,16 +25,10 @@ _Type: People_
 **[00:21:56](/episodes/ep-a-e7HC6SeK8.md#ent-person-bill-ackman-t-00-21-56)**
 > "...ing pressed on his shifting viewpoints on Israel. And we know that the influencers were paid for by Bill Ackman. I don't think that that's particularly a big deal. Obviously he has interests and was potentially ..."
 
-**[00:17:26](/episodes/ep-a-e7HC6SeK8.md#ent-person-bill-ackman-t-00-16-56)**
-> "He muses about Bill Ackman's wealth and where it comes from."
-
-**[00:21:56](/episodes/ep-a-e7HC6SeK8.md#ent-person-bill-ackman-t-00-21-56)**
-> "... influencers were paid for by Bill Ackman."
-
 </details>
 
 <details>
-<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (10 mentions)</summary>
+<summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (5 mentions)</summary>
 
 **[00:14:43](/episodes/ep-sImMM04XdWY.md#ent-person-bill-ackman-t-00-14-43)**
 > "... a socialist. All right. Leaving aside my committed socialism, can you answer the question? How did Bill Ackman get $9 billion? Bill Ackman—a pretty impressive guy? I know Bill Ackman. No. Bill Ackman's like wel..."
@@ -51,36 +45,18 @@ _Type: People_
 **[00:20:13](/episodes/ep-sImMM04XdWY.md#ent-person-bill-ackman-t-00-19-39)**
 > "...mptons retreat that took place. Charlie (Charlie Kirk) himself described it as an intervention, and Bill Ackman disputes that narrative. Seth Dillon disputes that narrative. Bibi (Benjamin Netanyahu) offers to t..."
 
-**[00:14:43](/episodes/ep-sImMM04XdWY.md#ent-person-bill-ackman-t-00-14-43)**
-> "How did Bill Ackman get $9 billion?"
-
-**[00:14:48](/episodes/ep-sImMM04XdWY.md#ent-person-bill-ackman-t-00-14-43)**
-> "Bill Ackman—a pretty impressive guy?"
-
-**[00:14:50](/episodes/ep-sImMM04XdWY.md#ent-person-bill-ackman-t-00-14-43)**
-> "I know Bill Ackman. No."
-
-**[00:14:52](/episodes/ep-sImMM04XdWY.md#ent-person-bill-ackman-t-00-14-43)**
-> "Bill Ackman's like well-connected and super-aggressive. That's ..."
-
-**[00:20:13](/episodes/ep-sImMM04XdWY.md#ent-person-bill-ackman-t-00-19-39)**
-> "...ed it as an intervention, and Bill Ackman disputes that narrative."
-
 </details>
 
 <details>
-<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (2 mentions)</summary>
+<summary>From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 (1 mentions)</summary>
 
 **[00:35:43](/episodes/ep-7RLtGgkTh9o.md#ent-person-bill-ackman-t-00-35-35)**
 > "...e when people were telling me what happened in the Hamptons before Charlie (Charlie Kirk) died. But Bill Ackman gave a presentation—don't forget—and told these younger people that they shouldn't aspire to own ho..."
 
-**[00:35:43](/episodes/ep-7RLtGgkTh9o.md#ent-person-bill-ackman-t-00-35-35)**
-> "But Bill Ackman gave a presentation—don't forget—and told these y..."
-
 </details>
 
 <details>
-<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (4 mentions)</summary>
+<summary>Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259 (2 mentions)</summary>
 
 **[00:10:07](/episodes/ep-LATnak75Si0.md#ent-person-bill-ackman-t-00-09-44)**
 > "...all of a sudden it was our duty to get the word out, to get people to vote for Cuomo somehow again. Bill Ackman almost personally ran against Mamdani, right? At times, he even demanded to have a debate with Mamd..."
@@ -88,16 +64,10 @@ _Type: People_
 **[00:10:11](/episodes/ep-LATnak75Si0.md#ent-person-bill-ackman-t-00-09-44)**
 > "...to have a debate with Mamdani—which I don't understand the context of why Mamdani would be debating Bill Ackman if he's not running against him. Point is, Mamdani won, okay? Bill gave $1.75 million, and Mamdani ..."
 
-**[00:10:07](/episodes/ep-LATnak75Si0.md#ent-person-bill-ackman-t-00-09-44)**
-> "Bill Ackman almost personally ran against Mamdani, right?"
-
-**[00:10:11](/episodes/ep-LATnak75Si0.md#ent-person-bill-ackman-t-00-09-44)**
-> "...why Mamdani would be debating Bill Ackman if he's not running against him."
-
 </details>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (4 mentions)</summary>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (2 mentions)</summary>
 
 **[00:16:45](/episodes/ep-Qfwr08Ebczo.md#ent-person-bill-ackman-t-00-16-17)**
 > "...sort of a pinnacle. That's the infamous speech that Tucker (Tucker Carlson) gave where he calls out Bill Ackman. He starts talking about Israel, all this stuff, and things start moving, okay? Now you can see tha..."
@@ -105,27 +75,18 @@ _Type: People_
 **[00:17:04](/episodes/ep-Qfwr08Ebczo.md#ent-person-bill-ackman-t-00-16-56)**
 > "...at people who serve in foreign armies should be stripped of their citizenship. He muses about where Bill Ackman's wealth comes from. July 18th is our next date on our timeline. And this came from—this is a great..."
 
-**[00:16:45](/episodes/ep-Qfwr08Ebczo.md#ent-person-bill-ackman-t-00-16-17)**
-> "...rlson gave where he calls out Bill Ackman. He starts talking about Israel, all this stuff, ..."
-
-**[00:17:04](/episodes/ep-Qfwr08Ebczo.md#ent-person-bill-ackman-t-00-16-56)**
-> "He muses about where Bill Ackman's wealth comes from."
-
 </details>
 
 <details>
-<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>
+<summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (1 mentions)</summary>
 
 **[00:32:19](/episodes/ep-YFmRH8p5lt0.md#ent-person-bill-ackman-t-00-31-52)**
 > "...robably have their citizenship stripped"—something along those lines. And he also muses about where Bill Ackman's wealth comes from. And yeah, it's just a speech—which, by the way, Charlie (Charlie Kirk) was the..."
 
-**[00:32:19](/episodes/ep-YFmRH8p5lt0.md#ent-person-bill-ackman-t-00-31-52)**
-> "And he also muses about where Bill Ackman's wealth comes from."
-
 </details>
 
 <details>
-<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (4 mentions)</summary>
+<summary>Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243 (2 mentions)</summary>
 
 **[00:02:46](/episodes/ep-K5GjF53bfN4.md#ent-person-bill-ackman-t-00-02-40)**
 > "...mission, and I view them both to be liars, okay? And of course, who could forget the word length of Bill Ackman's reply. I tell you guys about this weekend in the Hamptons. I tell you about Benjamin Netanyahu (I..."
@@ -133,49 +94,37 @@ _Type: People_
 **[00:02:57](/episodes/ep-K5GjF53bfN4.md#ent-person-bill-ackman-t-00-02-40)**
 > "...bout Benjamin Netanyahu (Israeli PM) calling Charlie (Charlie Kirk) and inviting him to Israel. And Bill Ackman replies with an essay. A college essay, 959 words to be precise, was his response to me speaking ab..."
 
-**[00:02:46](/episodes/ep-K5GjF53bfN4.md#ent-person-bill-ackman-t-00-02-40)**
-> "...uld forget the word length of Bill Ackman's reply."
-
-**[00:02:57](/episodes/ep-K5GjF53bfN4.md#ent-person-bill-ackman-t-00-02-40)**
-> "And Bill Ackman replies with an essay."
-
 </details>
 
 <details>
-<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (2 mentions)</summary>
+<summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1 mentions)</summary>
 
 **[00:38:06](/episodes/ep-UBkFkg4UNY8.md#ent-person-bill-ackman-t-00-38-06)**
 > "...ng on behalf of Israel that gave money to Turning Point? Yes, they do. The question is whether it's Bill Ackman, whether it's Bob Schulman, whether it's a ton of the donors who write big checks and are pressurin..."
 
-**[00:38:06](/episodes/ep-UBkFkg4UNY8.md#ent-person-bill-ackman-t-00-38-06)**
-> "The question is whether it's Bill Ackman, whether it's Bob Schulman, whether it's a ton of..."
-
 </details>
 
 <details>
-<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (2 mentions)</summary>
+<summary>Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 (1 mentions)</summary>
 
 **[00:29:19](/episodes/ep-ja26iltROkM.md#ent-person-bill-ackman-t-00-29-05)**
 > "...Charlie Kirk (Charlie Kirk). And so this guy—Awesome Jew, who I heard was also in the Hamptons with Bill Ackman and that group of people who went out there—he then tries to cleverly release a text message betwee..."
 
-**[00:29:19](/episodes/ep-ja26iltROkM.md#ent-person-bill-ackman-t-00-29-05)**
-> "...was also in the Hamptons with Bill Ackman and that group of people who went out there—he th..."
-
 </details>
 
 <details>
-<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2 mentions)</summary>
+<summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (1 mentions)</summary>
 
 **[00:25:48](/episodes/ep-aDlhjfW6hz8.md#ent-person-bill-ackman-t-00-25-42)**
 > "...t some point her credibility—I mean—is gonna go down the tubes because she needs to bring receipts. Bill Ackman brought receipts. How long was that tweet? It's still going. I think he was there in the room. Andr..."
 
-**[00:25:48](/episodes/ep-aDlhjfW6hz8.md#ent-person-bill-ackman-t-00-25-42)**
-> "Bill Ackman brought receipts."
-
 </details>
 
 <details>
-<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (9 mentions)</summary>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (5 mentions)</summary>
+
+**[00:00:24](/episodes/ep-sreYYcID-QY.md#ent-person-bill-ackman-t-00-00-00)**
+> "Bill Ackman, who is sending his press hounds after me"
 
 **[00:00:24](/episodes/ep-sreYYcID-QY.md#ent-person-bill-ackman-t-00-00-00)**
 > "...a state leader of a foreign country to have to twice deny that on national television? We also have Bill Ackman, who is sending his press hounds after me. There's no other way to say it. He's also dropping text ..."
@@ -189,25 +138,10 @@ _Type: People_
 **[00:52:24](/episodes/ep-sreYYcID-QY.md#ent-person-bill-ackman-t-00-52-09)**
 > "...n, they created the system, and then they mock us for participating in the system. Like I told you, Bill Ackman at this Hamptons retreat—according to one of the attendees—told them that they shouldn't even aspir..."
 
-**[00:00:24](/episodes/ep-sreYYcID-QY.md#ent-person-bill-ackman-t-00-00-00)**
-> "Bill Ackman, who is sending his press hounds after me"
-
-**[00:00:24](/episodes/ep-sreYYcID-QY.md#ent-person-bill-ackman-t-00-00-00)**
-> "We also have Bill Ackman, who is sending his press hounds after me."
-
-**[00:37:29](/episodes/ep-sreYYcID-QY.md#ent-person-bill-ackman-t-00-37-04)**
-> "You have Bill Ackman. Extraordinarily, I said, "I will publish whateve..."
-
-**[00:39:05](/episodes/ep-sreYYcID-QY.md#ent-person-bill-ackman-t-00-38-58)**
-> "Bill Ackman brought receipts."
-
-**[00:52:24](/episodes/ep-sreYYcID-QY.md#ent-person-bill-ackman-t-00-52-09)**
-> "Like I told you, Bill Ackman at this Hamptons retreat—according to one of the ..."
-
 </details>
 
 <details>
-<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (3 mentions)</summary>
+<summary>Who Ordered The Hit On Charlie Kirk? | Candace Ep 237 (2 mentions)</summary>
 
 **[01:04:55](/episodes/ep-2WEHTk0Xewg.md#ent-person-bill-ackman-t-01-04-30)**
 > "...t I didn't say. You know, their new thing that went around is today I woke up, and like all of like Bill Ackman's cronies were like, "Would you like to comment?" The New York Post would like to—I said literally:..."
@@ -215,13 +149,13 @@ _Type: People_
 **[01:04:59](/episodes/ep-2WEHTk0Xewg.md#ent-person-bill-ackman-t-01-04-30)**
 > "Bill Ackman's cronies were like, Would you like to comment?"
 
-**[01:04:55](/episodes/ep-2WEHTk0Xewg.md#ent-person-bill-ackman-t-01-04-30)**
-> "...woke up, and like all of like Bill Ackman's cronies were like, "Would you like to comment?""
-
 </details>
 
 <details>
-<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (39 mentions)</summary>
+<summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (20 mentions)</summary>
+
+**[00:01:32](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-00-01-14)**
+> "Speaking of which, Bill Ackman, you may have caught that he responded to me about the Hamptons"
 
 **[00:01:32](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-00-01-14)**
 > "...ent, and what had been happening more broadly at the company over the last year. Speaking of which, Bill Ackman, you may have caught that he responded to me about the Hamptons. With a lot of words to really say ..."
@@ -280,70 +214,10 @@ _Type: People_
 **[01:06:03](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-01-05-24)**
 > "...n. First, I'm gonna remind you guys about Tax Network USA. I know, I shouldn't read these ads. It's Bill Ackman. It's like, "How could you put ads in here? I can hedge against COVID and make billions, but you, l..."
 
-**[00:01:32](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-00-01-14)**
-> "Speaking of which, Bill Ackman, you may have caught that he responded to me about the Hamptons"
-
-**[00:01:32](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-00-01-14)**
-> "Speaking of which, Bill Ackman, you may have caught that he responded to me abou..."
-
-**[00:36:29](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-00-36-12)**
-> "... ads and we're gonna get into Bill Ackman's, I don't even know how to describe it."
-
-**[00:44:11](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-00-43-40)**
-> "So we talked about Bill Ackman a lot yesterday."
-
-**[00:44:36](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-00-44-14)**
-> "Anyways, Bill Ackman responds to yesterday's episode, okay?"
-
-**[00:45:59](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-00-45-38)**
-> "I never said the sentence, "Bill Ackman blackmailed Charlie Kirk.""
-
-**[00:46:31](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-00-46-24)**
-> "I never said, "Bill Ackman blackmailed Charlie.""
-
-**[00:50:20](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-00-49-58)**
-> "She just reads Bill Ackman's diatribe and says, okay, she goes to the itinerar..."
-
-**[00:50:25](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-00-49-58)**
-> "Bill Ackman just confirmed that he hosted his meeting with Ch..."
-
-**[01:00:12](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-00-59-43)**
-> "...o you guys notice that, like, Bill Ackman says this thing and drops the itinerary, but I've..."
-
-**[01:01:02](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-01-00-24)**
-> "Because Bill Ackman's being very open about it, but they weren't open a..."
-
-**[01:01:17](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-01-01-06)**
-> "... in the comments being like, "Bill Ackman, sue her, take her money, just take her money. Th..."
-
-**[01:02:30](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-01-01-51)**
-> "And now she's arrived at this Bill Ackman thing, it's just "Sue her."
-
-**[01:03:38](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-01-03-19)**
-> "Oh, are you the same Bill Ackman that made an absurd amount of money while we were..."
-
-**[01:03:40](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-01-03-19)**
-> "Are you the same Bill Ackman who, like, turned that into, like, billions?"
-
-**[01:03:54](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-01-03-19)**
-> "...e all talking about this—said Bill Ackman got up and gave a presentation and told them that..."
-
-**[01:04:13](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-01-03-56)**
-> "Bill Ackman, you can reply."
-
-**[01:04:40](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-01-04-40)**
-> "Bill Ackman says he's offering a million dollars to whoever—a..."
-
-**[01:04:42](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-01-04-40)**
-> "...acks me, SJ, and she's like, "Bill Ackman gave a million dollars, Candace (Candace Owens)."
-
-**[01:06:03](/episodes/ep-q7f8r-THr84.md#ent-person-bill-ackman-t-01-05-24)**
-> "It's Bill Ackman."
-
 </details>
 
 <details>
-<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (29 mentions)</summary>
+<summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (15 mentions)</summary>
 
 **[00:14:07](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-13-40)**
 > "...aid on that stage. Tucker (Tucker Carlson), while he was on that stage at Turning Point, brought up Bill Ackman. Bill Ackman is a billionaire, obviously. He is also an extremely litigious billionaire. And Bill A..."
@@ -359,6 +233,9 @@ _Type: People_
 
 **[00:14:36](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-14-19)**
 > "...You know, who is this guy? Actually, who is this guy that has this much influence? And like I said, Bill Ackman was not happy about this. And so I would like to contextualize Benjamin. Again, these are things Be..."
+
+**[00:14:48](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-14-19)**
+> "Tucker, while he was on that stage at Turning Point, brought up Bill Ackman"
 
 **[00:15:31](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-15-01)**
 > "...e had more than one event, but he had essentially what was staged an intervention. It was staged by Bill Ackman because Charlie's (Charlie Kirk’s) thoughts, Charlie's (Charlie Kirk’s) rational thoughts, about Is..."
@@ -386,51 +263,6 @@ _Type: People_
 
 **[00:49:25](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-49-18)**
 > "... were told was that Tyler Robinson allegedly, after speaking with the pastor, his dad turned him in—Bill Ackman, probably a million dollars, right? Thanks, Bill. You really cared about Charlie (Charlie Kirk). An..."
-
-**[00:14:48](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-14-19)**
-> "Tucker, while he was on that stage at Turning Point, brought up Bill Ackman"
-
-**[00:14:07](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-13-40)**
-> "... at Turning Point, brought up Bill Ackman."
-
-**[00:14:12](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-13-40)**
-> "Bill Ackman"
-
-**[00:14:19](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-14-19)**
-> "And Bill Ackman was on Charlie about comments that Tucker had mad..."
-
-**[00:14:26](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-14-19)**
-> "...sked the question, where does Bill Ackman's money come from?"
-
-**[00:14:36](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-14-19)**
-> "And like I said, Bill Ackman was not happy about this."
-
-**[00:15:31](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-15-01)**
-> "It was staged by Bill Ackman because Charlie's thoughts, Charlie's rational th..."
-
-**[00:15:50](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-15-45)**
-> "Bill Ackman was very upset and threats were made."
-
-**[00:15:56](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-15-45)**
-> "... you that I am very happy for Bill Ackman to dispute this narrative."
-
-**[00:16:09](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-15-45)**
-> "...hal went out to him today and Bill Ackman came back and said, I have receipts, I can show y..."
-
-**[00:18:18](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-17-49)**
-> "Bill Ackman, if you would like to dispute that, I would love ..."
-
-**[00:19:14](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-19-14)**
-> "I sent him Bill Ackman's tweets because, you know, he tweeted, “I feel inc..."
-
-**[00:20:41](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-20-41)**
-> "...again put it out there, Seth, Bill Ackman, and to the other individuals who I have not yet ..."
-
-**[00:25:28](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-25-24)**
-> "My platform is yours, Bill Ackman."
-
-**[00:49:25](/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-49-18)**
-> "...pastor, his dad turned him in—Bill Ackman, probably a million dollars, right?"
 
 </details>
 

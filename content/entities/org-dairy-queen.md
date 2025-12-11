@@ -15,10 +15,10 @@ _Type: Organizations_
 <details>
 <summary>They Are Lying About Tyler Robinson. | Candace Ep 244 (5 mentions)</summary>
 
-**[00:01:40](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-dairy-queen-t-00-01-38)**
+**[00:01:38](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-dairy-queen-t-00-01-38)**
 > "Lastly, what was he doing at Dairy Queen?"
 
-**[00:01:38](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-dairy-queen-t-00-01-38)**
+**[00:01:40](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-dairy-queen-t-00-01-38)**
 > "Lastly, what was he doing at Dairy Queen?"
 
 **[00:01:51](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-dairy-queen-t-00-01-38)**
@@ -35,20 +35,11 @@ _Type: Organizations_
 <details>
 <summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (10 mentions)</summary>
 
-**[00:06:38](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-05-26)**
-> "allegedly taken at 6:38 p.m. at a nearby Dairy Queen"
-
-**[00:09:09](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-08-58)**
-> "Tyler Robinson buying food at Dairy Queen off campus"
-
-**[00:09:40](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-09-40)**
-> "near that Dairy Queen, that there's a cemetery"
-
-**[00:10:23](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-09-40)**
-> "unless that man is a cold-blooded killer. He just seems to be la-di-da, eating some Dairy Queen"
-
 **[00:05:44](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-05-26)**
 > "...aken at 6:38 p.m. at a nearby Dairy Queen."
+
+**[00:06:38](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-05-26)**
+> "allegedly taken at 6:38 p.m. at a nearby Dairy Queen"
 
 **[00:08:32](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-08-13)**
 > "...lot this change, this alleged Dairy Queen stop, onto our timeline."
@@ -56,14 +47,23 @@ _Type: Organizations_
 **[00:09:03](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-08-58)**
 > "...Tyler Robinson buying food at Dairy Queen off campus, on the other side of town."
 
+**[00:09:09](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-08-58)**
+> "Tyler Robinson buying food at Dairy Queen off campus"
+
 **[00:09:29](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-08-58)**
 > "...hop along this way, near that Dairy Queen, and you should check your footage to see if arou..."
+
+**[00:09:40](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-09-40)**
+> "near that Dairy Queen, that there's a cemetery"
 
 **[00:09:40](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-09-40)**
 > "... him dropping—well, near this Dairy Queen, that there's a cemetery—and he was dropping clot..."
 
 **[00:10:15](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-09-40)**
 > "...s to be la-di-da, eating some Dairy Queen, and it's not making sense."
+
+**[00:10:23](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-09-40)**
+> "unless that man is a cold-blooded killer. He just seems to be la-di-da, eating some Dairy Queen"
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Morocco"
-description: "Morocco (Places) - 2 mentions"
+description: "Morocco (Places) - 1 mention"
 id: "gpe-morocco"
 type: "GPE"
 ---
@@ -13,13 +13,10 @@ _Type: Places_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (2 mentions)</summary>
+<summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (1 mentions)</summary>
 
 **[00:13:32](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-morocco-t-00-13-15)**
 > "...kind of go overseas to handle business, and members in pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, and France. Israel's involved, Rhodesia, South Africa. I mean, it tells you there that the process..."
-
-**[00:13:32](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-morocco-t-00-13-15)**
-> "...ry Iran, Egypt, Saudi Arabia, Morocco, and France."
 
 </details>
 

@@ -33,11 +33,11 @@ _Type: People_
 <details>
 <summary>They Are Lying About Charlie Kirk. | Candace Ep 235 (2 mentions)</summary>
 
-**[01:02:38](/episodes/ep-czVBmqZP6Ss.md#ent-person-david-bakan-t-01-02-10)**
-> "I would recommend you read David Bakan, Sigmund Freud and the History of the Jewish Mystical Tradition"
-
 **[01:02:33](/episodes/ep-czVBmqZP6Ss.md#ent-person-david-bakan-t-01-02-10)**
 > "...en I would recommend you read David Bakan, “Sigmund Freud and the"
+
+**[01:02:38](/episodes/ep-czVBmqZP6Ss.md#ent-person-david-bakan-t-01-02-10)**
+> "I would recommend you read David Bakan, Sigmund Freud and the History of the Jewish Mystical Tradition"
 
 </details>
 

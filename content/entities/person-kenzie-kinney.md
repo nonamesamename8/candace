@@ -15,11 +15,11 @@ _Type: People_
 <details>
 <summary>What Did Charlie Kirk Discover Near The End? | Candace Ep 264 (2 mentions)</summary>
 
-**[00:25:43](/episodes/ep-yAIb-NuUh_U.md#ent-person-kenzie-kinney-t-00-25-16)**
-> "That student's—then student's—name was Kenzie Kinney, okay? She handled Potter's Fields finances."
-
 **[00:25:40](/episodes/ep-yAIb-NuUh_U.md#ent-person-kenzie-kinney-t-00-25-16)**
 > "...ent's—then student's—name was Kenzie Kinney, okay?"
+
+**[00:25:43](/episodes/ep-yAIb-NuUh_U.md#ent-person-kenzie-kinney-t-00-25-16)**
+> "That student's—then student's—name was Kenzie Kinney, okay? She handled Potter's Fields finances."
 
 </details>
 

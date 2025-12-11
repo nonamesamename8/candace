@@ -15,11 +15,11 @@ _Type: Works & Media_
 <details>
 <summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (2 mentions)</summary>
 
-**[00:05:36](/episodes/ep-6DhWawD4ZiM.md#ent-work-real-housewives-t-00-05-21)**
-> "Bethany Frankel is on Real Housewives, a reality show"
-
 **[00:05:21](/episodes/ep-6DhWawD4ZiM.md#ent-work-real-housewives-t-00-05-21)**
 > "Bethany Frankel is on Real Housewives, a reality show."
+
+**[00:05:36](/episodes/ep-6DhWawD4ZiM.md#ent-work-real-housewives-t-00-05-21)**
+> "Bethany Frankel is on Real Housewives, a reality show"
 
 </details>
 

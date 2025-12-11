@@ -1,6 +1,6 @@
 ---
 title: "DailyWire"
-description: "DailyWire (Organizations) - 3 mentions"
+description: "DailyWire (Organizations) - 1 mention"
 id: "org-dailywire"
 type: "ORG"
 ---
@@ -13,16 +13,10 @@ _Type: Organizations_
 <summary><strong class="section-title">Mentions</strong></summary>
 
 <details>
-<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (3 mentions)</summary>
+<summary>EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258 (1 mentions)</summary>
 
 **[00:13:54](/episodes/ep-Qfwr08Ebczo.md#ent-org-dailywire-t-00-13-27)**
 > "...is church was funded by the Wilks Brothers down in Texas. The Wilks Brothers are the ones that fund DailyWire, the initial seed money behind DailyWire—not the initial seed money behind PragerU, but they majorl..."
-
-**[00:13:54](/episodes/ep-Qfwr08Ebczo.md#ent-org-dailywire-t-00-13-27)**
-> "...others are the ones that fund DailyWire, the initial seed money behind DailyWire—not the ..."
-
-**[00:13:54](/episodes/ep-Qfwr08Ebczo.md#ent-org-dailywire-t-00-13-27)**
-> "...the initial seed money behind DailyWire—not the initial seed money behind PragerU, but th..."
 
 </details>
 

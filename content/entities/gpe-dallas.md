@@ -1,6 +1,6 @@
 ---
 title: "Dallas"
-description: "Dallas (Places) - 8 mentions"
+description: "Dallas (Places) - 7 mentions"
 id: "gpe-dallas"
 type: "GPE"
 ---
@@ -32,10 +32,7 @@ _Type: Places_
 </details>
 
 <details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (2 mentions)</summary>
-
-**[00:59:29](/episodes/ep-ozWJz2spBcI.md#ent-gpe-dallas-t-00-59-29)**
-> "I live in Dallas, and I noticed after the Ice shooting that Daniel..."
+<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (1 mentions)</summary>
 
 **[00:59:29](/episodes/ep-ozWJz2spBcI.md#ent-gpe-dallas-t-00-59-29)**
 > "...hooting that Daniel Cato, the Dallas police chief, is new to the role"
@@ -45,14 +42,14 @@ _Type: Places_
 <details>
 <summary>BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242 (3 mentions)</summary>
 
-**[00:44:58](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-dallas-t-00-44-45)**
-> "the shooting in the ICE facility in Dallas"
-
 **[00:25:31](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-dallas-t-00-25-18)**
 > "...Oklahoma bombing," "sniper in Dallas shooting.""
 
 **[00:44:45](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-dallas-t-00-44-45)**
 > "...ooting in the ICE facility in Dallas?""
+
+**[00:44:58](/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-dallas-t-00-44-45)**
+> "the shooting in the ICE facility in Dallas"
 
 </details>
 
